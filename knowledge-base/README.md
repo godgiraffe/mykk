@@ -7,6 +7,7 @@
 | 分類 | 說明 |
 |------|------|
 | [quant-trading](./quant-trading/) | 量化交易、市場微觀結構、高頻交易 |
+| [crypto-investing](./crypto-investing/) | 加密貨幣投資哲學、週期生存、心態管理 |
 
 ## 收錄來源
 
