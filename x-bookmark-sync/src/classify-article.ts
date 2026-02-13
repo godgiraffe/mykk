@@ -1,8 +1,8 @@
 /**
- * 使用 Claude API 自動分類文章並生成摘要
+ * 使用 Gemini API 自動分類文章並生成摘要
  */
 
-import Anthropic from "@anthropic-ai/sdk";
+import { GoogleGenAI } from "@google/genai";
 import type { ProcessedContent } from "./process-content";
 
 const EXISTING_CATEGORIES = [
@@ -24,20 +24,16 @@ export interface ClassifiedArticle {
 }
 
 export async function classifyAndSummarize(
-  anthropic: Anthropic,
+  ai: GoogleGenAI,
   content: ProcessedContent
 ): Promise<ClassifiedArticle> {
   const categoriesDesc = EXISTING_CATEGORIES.map(
     (c) => `- ${c.id}: ${c.description}`
   ).join("\n");
 
-  const response = await anthropic.messages.create({
-    model: "claude-sonnet-4-5-20250929",
-    max_tokens: 2000,
-    messages: [
-      {
-        role: "user",
-        content: `你是一個知識庫文章整理助手。請分析以下內容，並回傳 JSON 格式的分類結果。
+  const response = await ai.models.generateContent({
+    model: "gemini-2.0-flash",
+    contents: `你是一個知識庫文章整理助手。請分析以下內容，並回傳 JSON 格式的分類結果。
 
 ## 來源資訊
 - 作者：@${content.bookmark.authorUsername} (${content.bookmark.authorName})
@@ -60,19 +56,14 @@ ${categoriesDesc}
   "tags": ["標籤1", "標籤2", "標籤3"],
   "summary": "用繁體中文寫一段 2-3 句的摘要，概括核心觀點"
 }`,
-      },
-    ],
   });
 
-  const text =
-    response.content[0].type === "text" ? response.content[0].text : "";
+  const text = response.text || "";
 
   try {
-    // 嘗試解析 JSON（可能包含 code block）
     const jsonStr = text.replace(/```json?\n?/g, "").replace(/```/g, "").trim();
     return JSON.parse(jsonStr) as ClassifiedArticle;
   } catch {
-    // fallback：使用預設值
     console.warn("⚠️  AI 分類解析失敗，使用預設分類");
     return {
       category: "uncategorized",

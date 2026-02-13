@@ -3,7 +3,7 @@
  * 執行：bun run sync
  */
 
-import Anthropic from "@anthropic-ai/sdk";
+import { GoogleGenAI } from "@google/genai";
 import { refreshTokenIfNeeded, loadEnv } from "./auth";
 import { fetchAllBookmarks, deleteBookmark } from "./fetch-bookmarks";
 import { processBookmarkContent } from "./process-content";
@@ -23,12 +23,12 @@ async function sync() {
   const client = await refreshTokenIfNeeded();
   const env = loadEnv();
 
-  if (!env.ANTHROPIC_API_KEY) {
-    console.error("❌ 請在 .env 中填入 ANTHROPIC_API_KEY");
+  if (!env.GEMINI_API_KEY) {
+    console.error("❌ 請在 .env 中填入 GEMINI_API_KEY");
     process.exit(1);
   }
 
-  const anthropic = new Anthropic({ apiKey: env.ANTHROPIC_API_KEY });
+  const ai = new GoogleGenAI({ apiKey: env.GEMINI_API_KEY });
 
   // 2. 抓取書籤
   const bookmarks = await fetchAllBookmarks(client);
@@ -55,13 +55,13 @@ async function sync() {
 
       // 3b. AI 分類
       console.log("   🤖 AI 分類中...");
-      const classification = await classifyAndSummarize(anthropic, content);
+      const classification = await classifyAndSummarize(ai, content);
       console.log(`   📂 分類: ${classification.category}`);
       console.log(`   📌 標題: ${classification.title}`);
 
       // 3c. 生成文章
       console.log("   ✍️  生成文章中...");
-      const article = await generateArticle(anthropic, content, classification);
+      const article = await generateArticle(ai, content, classification);
       console.log(`   📄 已生成: ${article.category}/${article.filename}`);
 
       // 3d. 從 X 移除書籤

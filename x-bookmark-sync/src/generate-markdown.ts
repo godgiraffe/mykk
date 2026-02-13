@@ -2,7 +2,7 @@
  * 生成知識庫 markdown 文章
  */
 
-import Anthropic from "@anthropic-ai/sdk";
+import { GoogleGenAI } from "@google/genai";
 import { readdirSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import type { ProcessedContent } from "./process-content";
@@ -87,10 +87,10 @@ export interface GeneratedArticle {
 }
 
 /**
- * 使用 Claude API 生成完整的知識庫文章
+ * 使用 Gemini API 生成完整的知識庫文章
  */
 export async function generateArticle(
-  anthropic: Anthropic,
+  ai: GoogleGenAI,
   content: ProcessedContent,
   classification: ClassifiedArticle
 ): Promise<GeneratedArticle> {
@@ -100,9 +100,7 @@ export async function generateArticle(
   const filename = `${numStr}-${slug}.md`;
 
   // 下載圖片
-  const allImageUrls = [
-    ...content.bookmark.imageUrls,
-  ];
+  const allImageUrls = [...content.bookmark.imageUrls];
   const imagePaths = await downloadImages(allImageUrls, category, slug, number);
 
   const sourceUrl =
@@ -111,14 +109,10 @@ export async function generateArticle(
 
   const dateStr = content.bookmark.createdAt.split("T")[0];
 
-  // 用 Claude 生成文章正文
-  const response = await anthropic.messages.create({
-    model: "claude-sonnet-4-5-20250929",
-    max_tokens: 4000,
-    messages: [
-      {
-        role: "user",
-        content: `你是一個知識庫文章整理助手。請將以下內容整理成一篇知識庫文章。
+  // 用 Gemini 生成文章正文
+  const response = await ai.models.generateContent({
+    model: "gemini-2.0-flash",
+    contents: `你是一個知識庫文章整理助手。請將以下內容整理成一篇知識庫文章。
 
 ## 來源資訊
 - 標題：${title}
@@ -136,12 +130,9 @@ ${content.fullContent}
 5. 加總覽或重點表方便快速查閱
 6. 只輸出正文內容（不需要標題和 frontmatter，我會自己加）
 7. 如果內容太短（例如只是一句話的推文），直接整理成簡短筆記即可`,
-      },
-    ],
   });
 
-  const articleBody =
-    response.content[0].type === "text" ? response.content[0].text : "";
+  const articleBody = response.text || "";
 
   // 組合完整的 markdown
   const tagsStr = tags.map((t) => `\`${t}\``).join(" ");

@@ -30,8 +30,8 @@ export function saveEnv(env: Record<string, string>): void {
     `X_ACCESS_TOKEN=${env.X_ACCESS_TOKEN || ""}`,
     `X_REFRESH_TOKEN=${env.X_REFRESH_TOKEN || ""}`,
     "",
-    "# Claude API",
-    `ANTHROPIC_API_KEY=${env.ANTHROPIC_API_KEY || ""}`,
+    "# Gemini API",
+    `GEMINI_API_KEY=${env.GEMINI_API_KEY || ""}`,
   ];
   writeFileSync(ENV_PATH, lines.join("\n") + "\n");
 }
