@@ -3,6 +3,7 @@
  */
 
 import { GoogleGenAI } from "@google/genai";
+import { generateWithRetry } from "./gemini";
 import { readdirSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import type { ProcessedContent } from "./process-content";
@@ -110,9 +111,9 @@ export async function generateArticle(
   const dateStr = content.bookmark.createdAt.split("T")[0];
 
   // 用 Gemini 生成文章正文
-  const response = await ai.models.generateContent({
-    model: "gemini-2.0-flash",
-    contents: `你是一個知識庫文章整理助手。請將以下內容整理成一篇知識庫文章。
+  const articleBody = await generateWithRetry(
+    ai,
+    `你是一個知識庫文章整理助手。請將以下內容整理成一篇知識庫文章。
 
 ## 來源資訊
 - 標題：${title}
@@ -129,10 +130,8 @@ ${content.fullContent}
 4. 如有圖表數據，用表格或列表呈現
 5. 加總覽或重點表方便快速查閱
 6. 只輸出正文內容（不需要標題和 frontmatter，我會自己加）
-7. 如果內容太短（例如只是一句話的推文），直接整理成簡短筆記即可`,
-  });
-
-  const articleBody = response.text || "";
+7. 如果內容太短（例如只是一句話的推文），直接整理成簡短筆記即可`
+  );
 
   // 組合完整的 markdown
   const tagsStr = tags.map((t) => `\`${t}\``).join(" ");

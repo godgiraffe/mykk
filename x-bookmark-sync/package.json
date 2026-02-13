@@ -4,7 +4,6 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "setup": "bun run src/setup.ts",
     "sync": "bun run src/main.ts"
   },
   "devDependencies": {
@@ -14,7 +13,6 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@google/genai": "^1.41.0",
-    "twitter-api-v2": "^1.29.0"
+    "@google/genai": "^1.41.0"
   }
 }

@@ -3,6 +3,7 @@
  */
 
 import { GoogleGenAI } from "@google/genai";
+import { generateWithRetry } from "./gemini";
 import type { ProcessedContent } from "./process-content";
 
 const EXISTING_CATEGORIES = [
@@ -31,9 +32,9 @@ export async function classifyAndSummarize(
     (c) => `- ${c.id}: ${c.description}`
   ).join("\n");
 
-  const response = await ai.models.generateContent({
-    model: "gemini-2.0-flash",
-    contents: `你是一個知識庫文章整理助手。請分析以下內容，並回傳 JSON 格式的分類結果。
+  const text = await generateWithRetry(
+    ai,
+    `你是一個知識庫文章整理助手。請分析以下內容，並回傳 JSON 格式的分類結果。
 
 ## 來源資訊
 - 作者：@${content.bookmark.authorUsername} (${content.bookmark.authorName})
@@ -55,10 +56,8 @@ ${categoriesDesc}
   "title": "繁體中文標題",
   "tags": ["標籤1", "標籤2", "標籤3"],
   "summary": "用繁體中文寫一段 2-3 句的摘要，概括核心觀點"
-}`,
-  });
-
-  const text = response.text || "";
+}`
+  );
 
   try {
     const jsonStr = text.replace(/```json?\n?/g, "").replace(/```/g, "").trim();

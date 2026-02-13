@@ -1,14 +1,17 @@
 /**
  * X 書籤同步主入口
- * 執行：bun run sync
+ * 執行：bun run sync [數量]
+ * 範例：bun run sync 10
  */
 
 import { GoogleGenAI } from "@google/genai";
-import { refreshTokenIfNeeded, loadEnv } from "./auth";
+import { loadEnv } from "./auth";
 import { fetchAllBookmarks, deleteBookmark } from "./fetch-bookmarks";
 import { processBookmarkContent } from "./process-content";
 import { classifyAndSummarize } from "./classify-article";
 import { generateArticle } from "./generate-markdown";
+
+const MAX_ITEMS = parseInt(process.argv[2] || "0", 10);
 
 interface SyncResult {
   success: { tweetId: string; category: string; filename: string }[];
@@ -17,11 +20,17 @@ interface SyncResult {
 
 async function sync() {
   console.log("🔄 X 書籤同步開始\n");
+  if (MAX_ITEMS > 0) console.log(`⚙️  限制處理數量：${MAX_ITEMS} 筆\n`);
   console.log("━".repeat(50));
 
-  // 1. 認證
-  const client = await refreshTokenIfNeeded();
   const env = loadEnv();
+
+  // 檢查必要的環境變數
+  if (!env.X_AUTH_TOKEN || !env.X_CT0) {
+    console.error("❌ 請在 .env 中填入 X_AUTH_TOKEN 和 X_CT0");
+    console.error("   從 Chrome DevTools → Application → Cookies → x.com 取得");
+    process.exit(1);
+  }
 
   if (!env.GEMINI_API_KEY) {
     console.error("❌ 請在 .env 中填入 GEMINI_API_KEY");
@@ -30,8 +39,11 @@ async function sync() {
 
   const ai = new GoogleGenAI({ apiKey: env.GEMINI_API_KEY });
 
-  // 2. 抓取書籤
-  const bookmarks = await fetchAllBookmarks(client);
+  // 抓取書籤
+  const bookmarks = await fetchAllBookmarks(
+    env,
+    MAX_ITEMS > 0 ? MAX_ITEMS : undefined
+  );
 
   if (bookmarks.length === 0) {
     console.log("📭 沒有書籤需要處理");
@@ -40,7 +52,7 @@ async function sync() {
 
   const results: SyncResult = { success: [], failed: [] };
 
-  // 3. 逐一處理
+  // 逐一處理
   for (let i = 0; i < bookmarks.length; i++) {
     const bookmark = bookmarks[i];
     const progress = `[${i + 1}/${bookmarks.length}]`;
@@ -50,22 +62,22 @@ async function sync() {
     console.log(`   📝 ${bookmark.text.slice(0, 80)}...`);
 
     try {
-      // 3a. 抓取內容
+      // 抓取內容
       const content = await processBookmarkContent(bookmark);
 
-      // 3b. AI 分類
+      // AI 分類
       console.log("   🤖 AI 分類中...");
       const classification = await classifyAndSummarize(ai, content);
       console.log(`   📂 分類: ${classification.category}`);
       console.log(`   📌 標題: ${classification.title}`);
 
-      // 3c. 生成文章
+      // 生成文章
       console.log("   ✍️  生成文章中...");
       const article = await generateArticle(ai, content, classification);
       console.log(`   📄 已生成: ${article.category}/${article.filename}`);
 
-      // 3d. 從 X 移除書籤
-      const deleted = await deleteBookmark(client, bookmark.tweetId);
+      // 從 X 移除書籤
+      const deleted = await deleteBookmark(env, bookmark.tweetId);
       if (deleted) {
         console.log("   🗑️  已從 X 書籤移除");
       }
@@ -84,13 +96,14 @@ async function sync() {
       });
     }
 
-    // Rate limit 保護：每筆之間等待 1 秒
+    // Rate limit 保護：每筆之間等待 15 秒（Gemini 免費 tier 限制）
     if (i < bookmarks.length - 1) {
-      await new Promise((r) => setTimeout(r, 1000));
+      console.log("   ⏳ 等待 15 秒...");
+      await new Promise((r) => setTimeout(r, 15000));
     }
   }
 
-  // 4. 輸出報告
+  // 輸出報告
   printReport(results);
 }
 

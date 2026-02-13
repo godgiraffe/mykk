@@ -1,8 +1,6 @@
 /**
- * 從 X API v2 抓取所有書籤
+ * 使用 bird CLI 抓取 X 書籤
  */
-
-import type { TwitterApi, TweetV2, UserV2 } from "twitter-api-v2";
 
 export interface Bookmark {
   tweetId: string;
@@ -12,56 +10,98 @@ export interface Bookmark {
   createdAt: string;
   urls: string[];
   imageUrls: string[];
+  quotedTweet?: {
+    text: string;
+    authorUsername: string;
+  };
+}
+
+interface BirdTweet {
+  id: string;
+  text: string;
+  createdAt: string;
+  author: { username: string; name: string };
+  media?: { type: string; url: string }[];
+  quotedTweet?: {
+    text: string;
+    author: { username: string; name: string };
+    media?: { type: string; url: string }[];
+  };
+}
+
+function buildBirdArgs(env: Record<string, string>): string[] {
+  return [
+    "--auth-token",
+    env.X_AUTH_TOKEN,
+    "--ct0",
+    env.X_CT0,
+  ];
 }
 
 export async function fetchAllBookmarks(
-  client: TwitterApi
+  env: Record<string, string>,
+  limit?: number
 ): Promise<Bookmark[]> {
-  const me = await client.v2.me();
-  const userId = me.data.id;
+  const args = [
+    "bunx",
+    "@steipete/bird",
+    ...buildBirdArgs(env),
+    "bookmarks",
+    "--json",
+  ];
+  if (limit) args.push("--count", String(limit));
 
-  console.log(`📚 正在抓取 @${me.data.username} 的書籤...\n`);
+  console.log(`📚 正在抓取書籤...${limit ? ` (限制 ${limit} 筆)` : ""}\n`);
 
-  const bookmarks = await client.v2.bookmarks({
-    "tweet.fields": ["created_at", "entities", "attachments", "author_id"],
-    "user.fields": ["username", "name"],
-    "media.fields": ["url", "preview_image_url", "type"],
-    expansions: ["author_id", "attachments.media_keys"],
-    max_results: 100,
+  const proc = Bun.spawn(args, {
+    stdout: "pipe",
+    stderr: "pipe",
   });
 
+  const output = await new Response(proc.stdout).text();
+  const exitCode = await proc.exited;
+
+  if (exitCode !== 0) {
+    const stderr = await new Response(proc.stderr).text();
+    throw new Error(`bird bookmarks 失敗: ${stderr}`);
+  }
+
+  const tweets: BirdTweet[] = JSON.parse(output);
   const results: Bookmark[] = [];
 
-  for await (const tweet of bookmarks) {
-    const author = bookmarks.includes.author(tweet);
-
+  for (const tweet of tweets) {
     // 提取推文中的 URL
     const urls: string[] = [];
-    if (tweet.entities?.urls) {
-      for (const u of tweet.entities.urls) {
-        // 過濾掉 X 自己的圖片/影片 URL
-        if (
-          u.expanded_url &&
-          !u.expanded_url.includes("pic.twitter.com") &&
-          !u.expanded_url.includes("pic.x.com")
-        ) {
-          urls.push(u.expanded_url);
+    const urlRegex = /https?:\/\/t\.co\/\w+/g;
+    // 從原始文字中找外部連結（t.co 連結會被 bird 保留）
+    // 但我們更需要的是非 t.co 的連結，bird 沒有展開
+    // 所以我們用推文 URL 作為來源
+    const tweetUrl = `https://x.com/${tweet.author.username}/status/${tweet.id}`;
+
+    // 提取圖片
+    const imageUrls: string[] = [];
+    if (tweet.media) {
+      for (const m of tweet.media) {
+        if (m.type === "photo" && m.url) {
+          imageUrls.push(m.url);
         }
       }
     }
 
-    // 提取推文附帶的圖片
-    const imageUrls: string[] = [];
-    if (tweet.attachments?.media_keys) {
-      for (const mediaKey of tweet.attachments.media_keys) {
-        const media = bookmarks.includes.medias?.find(
-          (m: any) => m.media_key === mediaKey
-        );
-        if (media) {
-          if (media.type === "photo" && (media as any).url) {
-            imageUrls.push((media as any).url);
-          } else if ((media as any).preview_image_url) {
-            imageUrls.push((media as any).preview_image_url);
+    // 組合完整文字（包含引用推文）
+    let fullText = tweet.text;
+    let quotedTweet: Bookmark["quotedTweet"];
+    if (tweet.quotedTweet) {
+      fullText += `\n\n--- 引用 @${tweet.quotedTweet.author.username} ---\n${tweet.quotedTweet.text}`;
+      quotedTweet = {
+        text: tweet.quotedTweet.text,
+        authorUsername: tweet.quotedTweet.author.username,
+      };
+      // 引用推文的圖片也收集
+      if (tweet.quotedTweet.media) {
+        for (const m of tweet.quotedTweet.media) {
+          if (m.type === "photo" && m.url) {
+            imageUrls.push(m.url);
           }
         }
       }
@@ -69,12 +109,13 @@ export async function fetchAllBookmarks(
 
     results.push({
       tweetId: tweet.id,
-      text: tweet.text,
-      authorUsername: author?.username || "unknown",
-      authorName: author?.name || "Unknown",
-      createdAt: tweet.created_at || new Date().toISOString(),
+      text: fullText,
+      authorUsername: tweet.author.username,
+      authorName: tweet.author.name,
+      createdAt: tweet.createdAt,
       urls,
       imageUrls,
+      quotedTweet,
     });
   }
 
@@ -83,14 +124,24 @@ export async function fetchAllBookmarks(
 }
 
 export async function deleteBookmark(
-  client: TwitterApi,
+  env: Record<string, string>,
   tweetId: string
 ): Promise<boolean> {
   try {
-    await client.v2.deleteBookmark(tweetId);
+    const proc = Bun.spawn(
+      [
+        "bunx",
+        "@steipete/bird",
+        ...buildBirdArgs(env),
+        "unbookmark",
+        tweetId,
+      ],
+      { stdout: "pipe", stderr: "pipe" }
+    );
+    await proc.exited;
     return true;
-  } catch (error: any) {
-    console.error(`❌ 刪除書籤失敗 (${tweetId}):`, error.message);
+  } catch {
+    console.error(`❌ 刪除書籤失敗 (${tweetId})`);
     return false;
   }
 }
