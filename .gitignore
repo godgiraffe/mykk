@@ -8,3 +8,9 @@
 # Misc
 *.swp
 *~
+
+# Environment
+.env
+
+# Dependencies
+node_modules/
