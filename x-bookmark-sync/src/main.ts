@@ -36,9 +36,18 @@ process.on("SIGTERM", onInterrupt);
 
 // ── 類型 ──────────────────────────────────────────
 interface SyncResult {
-  success: { tweetId: string; category: string; filename: string }[];
+  success: { tweetId: string; category: string; filename: string; durationMs: number }[];
   failed: { tweetId: string; url: string; error: string }[];
   skipped: number;
+}
+
+function formatDuration(ms: number): string {
+  if (ms < 1000) return `${ms}ms`;
+  const secs = ms / 1000;
+  if (secs < 60) return `${secs.toFixed(1)}s`;
+  const mins = Math.floor(secs / 60);
+  const remainSecs = (secs % 60).toFixed(0);
+  return `${mins}m${remainSecs}s`;
 }
 
 // ── 主程式 ─────────────────────────────────────────
@@ -86,6 +95,7 @@ async function sync() {
   }
 
   const results: SyncResult = { success: [], failed: [], skipped: 0 };
+  const totalStart = Date.now();
 
   // 逐一處理
   for (let i = 0; i < bookmarks.length; i++) {
@@ -109,6 +119,7 @@ async function sync() {
     console.log(`\n${progress} 處理 @${bookmark.authorUsername} 的推文...`);
     console.log(`   📝 ${bookmark.text.slice(0, 80)}...`);
 
+    const itemStart = Date.now();
     try {
       // 抓取內容
       const content = await processBookmarkContent(bookmark);
@@ -146,10 +157,14 @@ async function sync() {
         console.log("   ⚠️  書籤移除失敗（文章已生成，不影響結果）");
       }
 
+      const durationMs = Date.now() - itemStart;
+      console.log(`   ⏱️  耗時: ${formatDuration(durationMs)}`);
+
       results.success.push({
         tweetId: bookmark.tweetId,
         category: article.category,
         filename: article.filename,
+        durationMs,
       });
     } catch (error: any) {
       console.error(`   ❌ 處理失敗: ${error.message}`);
@@ -167,22 +182,28 @@ async function sync() {
     }
   }
 
-  printReport(results, interrupted);
+  const totalDuration = Date.now() - totalStart;
+  printReport(results, interrupted, totalDuration);
 }
 
-function printReport(results: SyncResult, wasInterrupted: boolean) {
+function printReport(results: SyncResult, wasInterrupted: boolean, totalDurationMs: number) {
   console.log("\n" + "━".repeat(50));
   console.log(wasInterrupted ? "📊 同步報告（已中斷）" : "📊 同步報告");
   console.log("━".repeat(50));
   console.log(`✅ 成功：${results.success.length} 篇`);
   console.log(`❌ 失敗：${results.failed.length} 篇`);
   if (results.skipped > 0) console.log(`⏭️  跳過：${results.skipped} 篇（已處理過）`);
+  console.log(`⏱️  總耗時：${formatDuration(totalDurationMs)}`);
+  if (results.success.length > 1) {
+    const avgMs = results.success.reduce((sum, s) => sum + s.durationMs, 0) / results.success.length;
+    console.log(`⏱️  平均每篇：${formatDuration(avgMs)}`);
+  }
   console.log("━".repeat(50));
 
   if (results.success.length > 0) {
     console.log("\n成功歸檔：");
     for (const s of results.success) {
-      console.log(`  ✅ ${s.category}/${s.filename}`);
+      console.log(`  ✅ ${s.category}/${s.filename} (${formatDuration(s.durationMs)})`);
     }
   }
 
