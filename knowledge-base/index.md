@@ -12,41 +12,36 @@ hero:
       text: GitHub
       link: https://github.com/chenjunhan/mykk
 features:
-  - title: 量化交易
-    details: 市場微觀結構、高頻交易、套利策略
-    link: /quant-trading/001-orderbook-factors-hft
+  - title: AI 工具與應用
+    details: Claude Code、AI 開發、Prompt 工程、安全
+    link: /ai-tools/001-claude-code-iteration
   - title: 加密貨幣投資
     details: 投資哲學、週期生存、心態管理
     link: /crypto-investing/001-survive-crypto-cycles
-  - title: DeFi
-    details: LP 策略、流動性提供、協議操作
+  - title: DeFi 策略與安全
+    details: LP 策略、套利、智能合約安全
     link: /defi/001-uniswap-lp-strategy
-  - title: AI 工具
-    details: Claude Code、AI Skills 推薦
-    link: /ai-tools/001-claude-code-iteration
-  - title: 個人理財
-    details: 投資入門、理財觀念
-    link: /personal-finance/001-personal-investing-guide
-  - title: 軟體工程
-    details: 文檔寫作、開發流程
-    link: /software-engineering/001-software-engineering-documentation-ai
+  - title: 量化交易
+    details: 市場微觀結構、高頻交易、套利策略
+    link: /quant-trading/001-orderbook-factors-hft
+  - title: 軟體開發
+    details: 開發工具、程式語言、軟體工程
+    link: /dev/001-agent-browser-claude-code
+  - title: 生活與效率
+    details: 旅遊、理財、生產力、自我成長
+    link: /lifestyle/001-japan-hotel-booking
 ---
 
 ## 所有分類
 
 | 分類 | 說明 |
 |------|------|
-| [quant-trading](./quant-trading/) | 量化交易、市場微觀結構、高頻交易 |
-| [crypto-investing](./crypto-investing/) | 加密貨幣投資哲學、週期生存、心態管理 |
-| [defi](./defi/) | DeFi 策略、LP、流動性提供、協議操作 |
-| [lifestyle](./lifestyle/) | 旅遊攻略、生活技巧、實用資訊 |
-| [ai-tools](./ai-tools/) | AI 工具使用、Claude Code、Skills 推薦 |
-| [ai-code-review](./ai-code-review/) | AI 程式碼審查工具與實踐 |
-| [software-engineering](./software-engineering/) | 軟體工程、文檔寫作、開發流程 |
-| [entertainment](./entertainment/) | 趣味專案、娛樂分享 |
-| [personal-finance](./personal-finance/) | 個人理財、投資入門 |
-| [knowledge-management](./knowledge-management/) | 知識管理、筆記系統 |
-| [general-information](./general-information/) | 一般資訊 |
+| [AI 工具與應用](./ai-tools/) | AI 工具、Claude Code、Prompt 工程、AI 開發與安全 |
+| [加密貨幣投資](./crypto-investing/) | 加密貨幣投資哲學、週期生存、心態管理 |
+| [DeFi 策略與安全](./defi/) | DeFi 策略、LP、套利、智能合約安全 |
+| [量化交易](./quant-trading/) | 量化交易、市場微觀結構、高頻交易 |
+| [軟體開發](./dev/) | 開發工具、程式語言、軟體工程、知識管理 |
+| [生活與效率](./lifestyle/) | 旅遊、理財、生產力、娛樂、自我成長 |
 
 ## 收錄來源
 
