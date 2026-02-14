@@ -8,10 +8,10 @@
 
 ---
 
-![](../assets/personal-finance/001-personal-investing-guide-1.jpg)
-![](../assets/personal-finance/001-personal-investing-guide-2.jpg)
-![](../assets/personal-finance/001-personal-investing-guide-3.jpg)
-![](../assets/personal-finance/001-personal-investing-guide-4.jpg)
+![](../assets/lifestyle/009-personal-investing-guide-1.jpg)
+![](../assets/lifestyle/009-personal-investing-guide-2.jpg)
+![](../assets/lifestyle/009-personal-investing-guide-3.jpg)
+![](../assets/lifestyle/009-personal-investing-guide-4.jpg)
 
 ## 個人投資成長指南
 

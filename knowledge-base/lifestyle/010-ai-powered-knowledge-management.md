@@ -6,8 +6,8 @@
 
 ---
 
-![](../assets/productivity/001-ai-powered-knowledge-management-1.png)
-![](../assets/productivity/001-ai-powered-knowledge-management-2.jpg)
+![](../assets/lifestyle/010-ai-powered-knowledge-management-1.png)
+![](../assets/lifestyle/010-ai-powered-knowledge-management-2.jpg)
 
 ## 利用 AI 自動整理推特書籤與 Telegram 對話紀錄
 

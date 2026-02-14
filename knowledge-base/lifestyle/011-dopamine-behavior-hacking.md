@@ -6,7 +6,7 @@
 
 ---
 
-![](../assets/self-improvement/001-dopamine-behavior-hacking-1.jpg)
+![](../assets/lifestyle/011-dopamine-behavior-hacking-1.jpg)
 
 ## 多巴胺與行為控制：一場自我生化實驗
 
