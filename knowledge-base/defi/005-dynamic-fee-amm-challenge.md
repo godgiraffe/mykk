@@ -1,7 +1,9 @@
 # 動態費用 AMM 設計挑戰
 
 > **來源**: [@danrobinson](https://x.com/danrobinson/status/2019848425458807024)
+>
 > **日期**: Fri Feb 06 18:59:26 +0000 2026
+>
 > **標籤**: `AMM` `DeFi` `流動性提供` `挑戰賽`
 
 ---

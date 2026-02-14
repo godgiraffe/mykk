@@ -1,7 +1,9 @@
 # 無懼牛熊：加密生存法則
 
 > **來源**: [Pickle Cat (@0xPickleCati)](https://x.com/0xPickleCati/status/2016059049729458207)
+>
 > **日期**: 2026-01-27
+>
 > **標籤**: `Crypto` `Cycle Survival` `Mindset` `Consensus` `Investment Philosophy`
 
 ---

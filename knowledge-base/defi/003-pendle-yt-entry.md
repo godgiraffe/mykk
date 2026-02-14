@@ -1,7 +1,9 @@
 # Pendle YT 進場時機：Pool 到期即機會
 
 > **來源**: [林柏翰 BTC (@BTCLIN)](https://x.com/BTCLIN/status/2016801483988332609)
+>
 > **日期**: 2026-01-30
+>
 > **標籤**: `Pendle` `YT` `收益代幣` `DeFi` `進場時機`
 
 ---

@@ -1,7 +1,9 @@
 # LP 選標的四大核心指標
 
 > **來源**: [五點水 (@fivepointwater5)](https://x.com/fivepointwater5/status/2009592431583653919)
+>
 > **日期**: 2026-01-13
+>
 > **標籤**: `LP` `Uniswap` `選標` `手續費` `波動率`
 
 ---

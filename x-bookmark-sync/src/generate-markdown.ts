@@ -146,7 +146,9 @@ ${content.fullContent}
   const markdown = `# ${title}
 
 ${sourceLine}
+>
 > **日期**: ${dateStr}
+>
 > **標籤**: ${tagsStr}
 
 ---

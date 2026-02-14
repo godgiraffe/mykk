@@ -1,7 +1,9 @@
 # 高頻交易中的 6 個盤口因子
 
 > **來源**: [@0xYuCry](https://x.com/0xyucry/status/1995775488149860748)
+>
 > **日期**: 2025-12-02
+>
 > **標籤**: `HFT` `Order Book` `Market Microstructure` `盤口因子`
 
 ---

@@ -1,7 +1,9 @@
 # 利用 Claude Code 建立個人經驗知識庫
 
 > **來源**: [@LotusDecoder](https://x.com/LotusDecoder/status/2019696487987609731)
+>
 > **日期**: Fri Feb 06 08:55:41 +0000 2026
+>
 > **標籤**: `Claude Code` `知識庫` `經驗管理` `個人成長`
 
 ---
