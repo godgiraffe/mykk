@@ -16,6 +16,8 @@ export async function generateWithRetry(
         model: "gemini-2.0-flash",
         contents,
       });
+      // 每次成功呼叫後等待 30 秒，避免觸發 rate limit
+      await new Promise((r) => setTimeout(r, 30_000));
       return response.text || "";
     } catch (error: any) {
       const errorStr = typeof error === "string" ? error : JSON.stringify(error);
