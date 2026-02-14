@@ -12,6 +12,7 @@ import { processBookmarkContent } from "./process-content";
 import { classifyAndSummarize } from "./classify-article";
 import { generateArticle } from "./generate-markdown";
 import { isProcessed, markProcessed, clearProgress, getProcessedCount } from "./progress";
+import { join } from "path";
 
 // ── 參數解析 ──────────────────────────────────────
 const args = process.argv.slice(2);
@@ -184,6 +185,11 @@ async function sync() {
 
   const totalDuration = Date.now() - totalStart;
   printReport(results, interrupted, totalDuration);
+
+  // 自動 commit + push 新文章
+  if (results.success.length > 0) {
+    await gitCommitAndPush(results.success.length);
+  }
 }
 
 function printReport(results: SyncResult, wasInterrupted: boolean, totalDurationMs: number) {
@@ -220,6 +226,61 @@ function printReport(results: SyncResult, wasInterrupted: boolean, totalDuration
   }
 
   console.log("");
+}
+
+async function gitCommitAndPush(count: number) {
+  console.log("📤 自動提交並推送到 GitHub...\n");
+
+  const KB_ROOT = join(import.meta.dir, "..", "..", "knowledge-base");
+
+  const run = async (cmd: string[]) => {
+    const proc = Bun.spawn(cmd, {
+      cwd: join(import.meta.dir, "..", ".."),
+      stdout: "pipe",
+      stderr: "pipe",
+    });
+    const stdout = await new Response(proc.stdout).text();
+    const stderr = await new Response(proc.stderr).text();
+    const exitCode = await proc.exited;
+    return { exitCode, stdout, stderr };
+  };
+
+  try {
+    // Stage knowledge-base 目錄的變更
+    await run(["git", "add", "knowledge-base/"]);
+
+    // 檢查是否有變更
+    const { stdout: status } = await run(["git", "diff", "--cached", "--name-only"]);
+    if (!status.trim()) {
+      console.log("   沒有新的變更需要提交\n");
+      return;
+    }
+
+    // Commit
+    const msg = `docs: 自動同步新增 ${count} 篇書籤文章`;
+    const { exitCode: commitCode, stderr: commitErr } = await run([
+      "git", "commit", "-m", msg,
+    ]);
+    if (commitCode !== 0) {
+      console.error(`   ❌ Git commit 失敗: ${commitErr}`);
+      return;
+    }
+    console.log(`   ✅ 已提交: ${msg}`);
+
+    // Push
+    const { exitCode: pushCode, stderr: pushErr } = await run([
+      "git", "push",
+    ]);
+    if (pushCode !== 0) {
+      console.error(`   ❌ Git push 失敗: ${pushErr}`);
+      console.log("   💡 請手動執行 git push");
+      return;
+    }
+    console.log("   ✅ 已推送，GitHub Pages 將自動更新\n");
+  } catch (error: any) {
+    console.error(`   ❌ Git 操作失敗: ${error.message}`);
+    console.log("   💡 請手動 commit 並 push knowledge-base/ 目錄\n");
+  }
 }
 
 sync().catch((err) => {

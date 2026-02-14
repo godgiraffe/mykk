@@ -104,9 +104,8 @@ export async function generateArticle(
   const allImageUrls = [...content.bookmark.imageUrls];
   const imagePaths = await downloadImages(allImageUrls, category, slug, number);
 
-  const sourceUrl =
-    content.sourceUrl ||
-    `https://x.com/${content.bookmark.authorUsername}/status/${content.bookmark.tweetId}`;
+  const tweetUrl = `https://x.com/${content.bookmark.authorUsername}/status/${content.bookmark.tweetId}`;
+  const externalUrl = content.sourceUrl;
 
   const dateStr = content.bookmark.createdAt.split("T")[0];
 
@@ -140,9 +139,13 @@ ${content.fullContent}
       ? "\n" + imagePaths.map((p) => `![](${p})`).join("\n") + "\n"
       : "";
 
+  const sourceLine = externalUrl
+    ? `> **來源**: [@${content.bookmark.authorUsername}](${tweetUrl}) | [原文連結](${externalUrl})`
+    : `> **來源**: [@${content.bookmark.authorUsername}](${tweetUrl})`;
+
   const markdown = `# ${title}
 
-> **來源**: [@${content.bookmark.authorUsername}](${sourceUrl})
+${sourceLine}
 > **日期**: ${dateStr}
 > **標籤**: ${tagsStr}
 
