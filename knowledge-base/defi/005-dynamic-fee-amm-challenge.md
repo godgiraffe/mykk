@@ -6,7 +6,7 @@
 
 ---
 
-![](../assets/defi/005-dynamic-fee-amm-challenge-1.jpg)
+![](/assets/defi/005-dynamic-fee-amm-challenge-1.jpg)
 
 ## 動態費用 AMM 設計挑戰：證明你的 AMM 設計能力
 

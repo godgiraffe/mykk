@@ -6,7 +6,7 @@
 
 ---
 
-![](../assets/ai-tools/001-claude-code-iteration-1.jpg)
+![](/assets/ai-tools/001-claude-code-iteration-1.jpg)
 
 ## Claude Code 的迭代與成長：簡短筆記
 

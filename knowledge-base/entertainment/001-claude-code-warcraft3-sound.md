@@ -6,7 +6,7 @@
 
 ---
 
-![](../assets/entertainment/001-claude-code-warcraft3-sound-1.jpg)
+![](/assets/entertainment/001-claude-code-warcraft3-sound-1.jpg)
 
 ## ClaudeCode 加入魔獸爭霸3 音效：苦工聲音趣味提醒
 

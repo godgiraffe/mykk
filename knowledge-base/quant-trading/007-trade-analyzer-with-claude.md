@@ -6,7 +6,7 @@
 
 ---
 
-![](../assets/quant-trading/007-trade-analyzer-with-claude-1.jpg)
+![](/assets/quant-trading/007-trade-analyzer-with-claude-1.jpg)
 
 ## 使用 Claude Code 構建交易分析工具
 

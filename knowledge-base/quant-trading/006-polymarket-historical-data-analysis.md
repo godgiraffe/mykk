@@ -6,7 +6,7 @@
 
 ---
 
-![](../assets/quant-trading/006-polymarket-historical-data-analysis-1.jpg)
+![](/assets/quant-trading/006-polymarket-historical-data-analysis-1.jpg)
 
 ## Polymarket 全量歷史數據分析：數據中尋找 Alpha
 
