@@ -8,7 +8,7 @@
 
 ---
 
-![](../assets/prompt-engineering/002-claude-plan-mode-optimization-1.png)
+![](../assets/ai-tools/021-claude-plan-mode-optimization-1.png)
 
 ## Claude 計畫模式優化技巧
 

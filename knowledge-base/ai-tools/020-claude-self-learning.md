@@ -6,8 +6,8 @@
 
 ---
 
-![](../assets/prompt-engineering/001-claude-self-learning-1.jpg)
-![](../assets/prompt-engineering/001-claude-self-learning-2.jpg)
+![](../assets/ai-tools/020-claude-self-learning-1.jpg)
+![](../assets/ai-tools/020-claude-self-learning-2.jpg)
 
 ## Claude 自我學習進化技巧
 

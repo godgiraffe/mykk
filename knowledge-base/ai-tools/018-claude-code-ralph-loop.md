@@ -8,9 +8,9 @@
 
 ---
 
-![](../assets/ai-productivity/001-claude-code-ralph-loop-1.png)
-![](../assets/ai-productivity/001-claude-code-ralph-loop-2.jpg)
-![](../assets/ai-productivity/001-claude-code-ralph-loop-3.jpg)
+![](../assets/ai-tools/018-claude-code-ralph-loop-1.png)
+![](../assets/ai-tools/018-claude-code-ralph-loop-2.jpg)
+![](../assets/ai-tools/018-claude-code-ralph-loop-3.jpg)
 
 ## Claude Code 結合 Ralph Loop 插件提升程式效率
 
