@@ -8,9 +8,9 @@
 
 ---
 
-![](../assets/dev-tooling/001-agent-browser-claude-code-1.jpg)
-![](../assets/dev-tooling/001-agent-browser-claude-code-2.png)
-![](../assets/dev-tooling/001-agent-browser-claude-code-3.jpg)
+![](../assets/dev/001-agent-browser-claude-code-1.jpg)
+![](../assets/dev/001-agent-browser-claude-code-2.png)
+![](../assets/dev/001-agent-browser-claude-code-3.jpg)
 
 ## 使用 agent-browser 節省 Claude Code Token 成本
 
