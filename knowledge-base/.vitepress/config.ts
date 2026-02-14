@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Knowledge Base",
   description: "個人知識庫 — 收錄各領域學習筆記與資料整理",
   lang: "zh-TW",
+  base: "/mykk/",
 
   themeConfig: {
     sidebar: generateSidebar(),
@@ -28,7 +29,7 @@ export default defineConfig({
     outline: { label: "目錄" },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/chenjunhan/mykk" },
+      { icon: "github", link: "https://github.com/godgiraffe/mykk" },
     ],
   },
 
