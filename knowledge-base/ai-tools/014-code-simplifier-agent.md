@@ -1,22 +1,14 @@
-# We just open sourced the code-simplifier agent we 
+# code-simplifier：Claude Code 團隊開源的程式碼簡化工具
 
 > **來源**: [@bcherny](https://x.com/bcherny/status/2009450715081789767)
 >
-> **日期**: Fri Jan 09 02:22:38 +0000 2026
+> **日期**: 2026-01-09
 >
-> **標籤**: 
+> **標籤**: `Claude Code` `code-simplifier` `開源工具` `程式碼重構`
 
 ---
 
-![](../assets/uncategorized/003-tweet-2009450715081789767-1.png)
-
-# code-simplifier：Claude Code 團隊的程式碼簡化工具
-
-> **來源**: [Boris Cherny (@bcherny)](https://twitter.com/bcherny)  
-> **日期**: 2026-02-14  
-> **標籤**: `claude-code` `code-simplifier` `開源工具` `程式碼重構`
-
----
+![](../assets/ai-tools/014-code-simplifier-agent-1.png)
 
 ## 概述
 

@@ -47,7 +47,6 @@ features:
 | [personal-finance](./personal-finance/) | 個人理財、投資入門 |
 | [knowledge-management](./knowledge-management/) | 知識管理、筆記系統 |
 | [general-information](./general-information/) | 一般資訊 |
-| [uncategorized](./uncategorized/) | 未分類 |
 
 ## 收錄來源
 
