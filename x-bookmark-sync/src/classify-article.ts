@@ -1,9 +1,8 @@
 /**
- * 使用 Gemini API 自動分類文章並生成摘要
+ * 使用 Claude CLI 自動分類文章並生成摘要
  */
 
-import { GoogleGenAI } from "@google/genai";
-import { generateWithRetry } from "./gemini";
+import { claudeGenerate } from "./claude-ai";
 import type { ProcessedContent } from "./process-content";
 
 const EXISTING_CATEGORIES = [
@@ -25,15 +24,13 @@ export interface ClassifiedArticle {
 }
 
 export async function classifyAndSummarize(
-  ai: GoogleGenAI,
   content: ProcessedContent
 ): Promise<ClassifiedArticle> {
   const categoriesDesc = EXISTING_CATEGORIES.map(
     (c) => `- ${c.id}: ${c.description}`
   ).join("\n");
 
-  const text = await generateWithRetry(
-    ai,
+  const text = await claudeGenerate(
     `你是一個知識庫文章整理助手。請分析以下內容，並回傳 JSON 格式的分類結果。
 
 ## 來源資訊
@@ -56,7 +53,8 @@ ${categoriesDesc}
   "title": "繁體中文標題",
   "tags": ["標籤1", "標籤2", "標籤3"],
   "summary": "用繁體中文寫一段 2-3 句的摘要，概括核心觀點"
-}`
+}`,
+    "haiku"
   );
 
   try {

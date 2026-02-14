@@ -5,7 +5,6 @@
  * 清除進度：bun run sync --reset
  */
 
-import { GoogleGenAI } from "@google/genai";
 import { loadEnv } from "./auth";
 import { fetchAllBookmarks, deleteBookmark } from "./fetch-bookmarks";
 import { processBookmarkContent } from "./process-content";
@@ -77,12 +76,15 @@ async function sync() {
     process.exit(1);
   }
 
-  if (!env.GEMINI_API_KEY) {
-    console.error("❌ 請在 .env 中填入 GEMINI_API_KEY");
+  // 驗證 claude CLI 可用
+  try {
+    const proc = Bun.spawn(["claude", "--version"], { stdout: "pipe", stderr: "pipe" });
+    await proc.exited;
+  } catch {
+    console.error("❌ 找不到 claude CLI，請確認已安裝 Claude Code");
+    console.error("   安裝：npm install -g @anthropic-ai/claude-code");
     process.exit(1);
   }
-
-  const ai = new GoogleGenAI({ apiKey: env.GEMINI_API_KEY });
 
   // 抓取書籤
   const bookmarks = await fetchAllBookmarks(
@@ -133,7 +135,7 @@ async function sync() {
 
       // AI 分類
       console.log("   🤖 AI 分類中...");
-      const classification = await classifyAndSummarize(ai, content);
+      const classification = await classifyAndSummarize(content);
       console.log(`   📂 分類: ${classification.category}`);
       console.log(`   📌 標題: ${classification.title}`);
 
@@ -144,7 +146,7 @@ async function sync() {
 
       // 生成文章
       console.log("   ✍️  生成文章中...");
-      const article = await generateArticle(ai, content, classification);
+      const article = await generateArticle(content, classification);
       console.log(`   📄 已生成: ${article.category}/${article.filename}`);
 
       // 標記已處理（文章已生成，即使後面刪除書籤失敗也不會重複生成）
@@ -176,10 +178,10 @@ async function sync() {
       });
     }
 
-    // Rate limit 保護
+    // 短暫間隔避免過度頻繁
     if (!interrupted && i < bookmarks.length - 1) {
-      console.log("   ⏳ 等待 15 秒...");
-      await new Promise((r) => setTimeout(r, 15000));
+      console.log("   ⏳ 等待 3 秒...");
+      await new Promise((r) => setTimeout(r, 3000));
     }
   }
 

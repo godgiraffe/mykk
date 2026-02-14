@@ -2,8 +2,7 @@
  * 生成知識庫 markdown 文章
  */
 
-import { GoogleGenAI } from "@google/genai";
-import { generateWithRetry } from "./gemini";
+import { claudeGenerate } from "./claude-ai";
 import { readdirSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import type { ProcessedContent } from "./process-content";
@@ -91,7 +90,6 @@ export interface GeneratedArticle {
  * 使用 Gemini API 生成完整的知識庫文章
  */
 export async function generateArticle(
-  ai: GoogleGenAI,
   content: ProcessedContent,
   classification: ClassifiedArticle
 ): Promise<GeneratedArticle> {
@@ -109,9 +107,8 @@ export async function generateArticle(
 
   const dateStr = content.bookmark.createdAt.split("T")[0];
 
-  // 用 Gemini 生成文章正文
-  const articleBody = await generateWithRetry(
-    ai,
+  // 用 Claude 生成文章正文
+  const articleBody = await claudeGenerate(
     `你是一個知識庫文章整理助手。請將以下內容整理成一篇知識庫文章。
 
 ## 來源資訊
@@ -129,7 +126,8 @@ ${content.fullContent}
 4. 如有圖表數據，用表格或列表呈現
 5. 加總覽或重點表方便快速查閱
 6. 只輸出正文內容（不需要標題和 frontmatter，我會自己加）
-7. 如果內容太短（例如只是一句話的推文），直接整理成簡短筆記即可`
+7. 如果內容太短（例如只是一句話的推文），直接整理成簡短筆記即可`,
+    "sonnet"
   );
 
   // 組合完整的 markdown
