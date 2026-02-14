@@ -45,9 +45,20 @@ knowledge-base/
 
 ## 分類管理
 
-- 新主題 → 建立新資料夾 + 更新 `index.md` 索引表
-- 分類名用小寫英文 + 連字號（如 `quant-trading`）
+現有 6 個分類，優先歸入現有分類：
+
+| 分類 | 說明 |
+|------|------|
+| `ai-tools` | AI 工具、Claude Code、Prompt 工程、AI 開發 |
+| `crypto-investing` | 加密貨幣投資哲學、週期策略、心態管理 |
+| `defi` | DeFi 策略、LP、協議操作、智能合約安全 |
+| `quant-trading` | 量化交易、市場微觀結構、套利 |
+| `dev` | 軟體開發、程式語言、開發工具、知識管理 |
+| `lifestyle` | 生活技巧、個人理財、效率提升、娛樂 |
+
 - 現有分類能涵蓋就不另開新的
+- 真的需要新分類 → 建立新資料夾 + 更新 `index.md` 索引表
+- 分類名用小寫英文 + 連字號
 
 ## 整理原則
 
@@ -62,11 +73,11 @@ knowledge-base/
 
 | 主題 | 搜尋路徑 |
 |------|----------|
-| 量化交易、盤口分析、套利 | `knowledge-base/quant-trading/` |
+| AI 工具、Claude Code、Prompt | `knowledge-base/ai-tools/` |
 | 加密貨幣投資、週期策略 | `knowledge-base/crypto-investing/` |
-| DeFi、LP 策略、協議操作 | `knowledge-base/defi/` |
-| AI 工具、Claude Code | `knowledge-base/ai-tools/` |
-| 個人理財、投資入門 | `knowledge-base/personal-finance/` |
-| 軟體工程、開發流程 | `knowledge-base/software-engineering/` |
+| DeFi、LP 策略、智能合約 | `knowledge-base/defi/` |
+| 量化交易、盤口分析、套利 | `knowledge-base/quant-trading/` |
+| 軟體開發、程式語言、工具 | `knowledge-base/dev/` |
+| 生活、理財、效率、娛樂 | `knowledge-base/lifestyle/` |
 
 搜尋方式：使用 Grep 搜尋關鍵字，讀取相關文章後結合知識庫內容回答。

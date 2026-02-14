@@ -6,13 +6,12 @@ import { claudeGenerate } from "./claude-ai";
 import type { ProcessedContent } from "./process-content";
 
 const EXISTING_CATEGORIES = [
-  { id: "quant-trading", description: "量化交易、市場微觀結構、高頻交易" },
-  {
-    id: "crypto-investing",
-    description: "加密貨幣投資哲學、週期生存、心態管理",
-  },
-  { id: "defi", description: "DeFi 策略、LP、流動性提供、協議操作" },
-  { id: "lifestyle", description: "旅遊攻略、生活技巧、實用資訊" },
+  { id: "ai-tools", description: "AI 工具、Claude Code、Prompt 工程、AI 開發" },
+  { id: "crypto-investing", description: "加密貨幣投資哲學、週期策略、心態管理" },
+  { id: "defi", description: "DeFi 策略、LP、協議操作、智能合約安全" },
+  { id: "quant-trading", description: "量化交易、市場微觀結構、套利" },
+  { id: "dev", description: "軟體開發、程式語言、開發工具、知識管理" },
+  { id: "lifestyle", description: "生活技巧、個人理財、效率提升、娛樂" },
 ];
 
 export interface ClassifiedArticle {
