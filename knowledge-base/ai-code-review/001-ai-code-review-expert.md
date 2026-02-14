@@ -6,7 +6,7 @@
 
 ---
 
-![](/assets/ai-code-review/001-ai-code-review-expert-1.jpg)
+![](../assets/ai-code-review/001-ai-code-review-expert-1.jpg)
 
 ## AI 代码审查专家：code-review-expert 审查工具
 

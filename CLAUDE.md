@@ -8,8 +8,9 @@ knowledge-base/
 ├── .vitepress/
 │   ├── config.ts          # VitePress 設定
 │   ├── sidebar.ts         # 自動生成側邊欄
-│   └── public/assets/     # 圖片等附件，子資料夾對應分類
-│       └── {category}/
+│   └── public/            # 靜態資源（如需要）
+├── assets/                # 圖片等附件，子資料夾對應分類
+│   └── {category}/
 └── {category}/            # 主題分類資料夾
     └── {NNN}-{slug}.md    # 文章（流水號-英文簡稱）
 ```
@@ -40,7 +41,7 @@ knowledge-base/
 |----------|----------|
 | URL 連結 | 用 agent-browser 抓取內容，整理後歸檔 |
 | 文字內容 | 直接格式化整理歸檔 |
-| 圖片 | 存入 `.vitepress/public/assets/{category}/`，文章內用 `/assets/category/file` 絕對路徑引用 |
+| 圖片 | 存入 `assets/{category}/`，文章內用 `../assets/category/file` 相對路徑引用 |
 
 ## 分類管理
 

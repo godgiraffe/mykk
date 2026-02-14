@@ -10,7 +10,6 @@ import type { ProcessedContent } from "./process-content";
 import type { ClassifiedArticle } from "./classify-article";
 
 const KB_ROOT = join(import.meta.dir, "..", "..", "knowledge-base");
-const ASSETS_ROOT = join(KB_ROOT, ".vitepress", "public", "assets");
 
 /**
  * 計算該分類下一個流水號
@@ -44,7 +43,7 @@ async function downloadImages(
 ): Promise<string[]> {
   if (imageUrls.length === 0) return [];
 
-  const assetsDir = join(ASSETS_ROOT, category);
+  const assetsDir = join(KB_ROOT, "assets", category);
   if (!existsSync(assetsDir)) {
     mkdirSync(assetsDir, { recursive: true });
   }
@@ -72,7 +71,7 @@ async function downloadImages(
       const buffer = await response.arrayBuffer();
       await Bun.write(filepath, buffer);
 
-      savedPaths.push(`/assets/${category}/${filename}`);
+      savedPaths.push(`../assets/${category}/${filename}`);
       console.log(`   📷 已下載圖片: ${filename}`);
     } catch {
       console.warn(`   ⚠️  圖片下載失敗: ${imageUrls[i]}`);

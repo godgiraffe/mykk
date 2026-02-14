@@ -6,10 +6,10 @@
 
 ---
 
-![](/assets/crypto-investing/009-crypto-security-risk-management-1.png)
-![](/assets/crypto-investing/009-crypto-security-risk-management-2.jpg)
-![](/assets/crypto-investing/009-crypto-security-risk-management-3.jpg)
-![](/assets/crypto-investing/009-crypto-security-risk-management-4.jpg)
+![](../assets/crypto-investing/009-crypto-security-risk-management-1.png)
+![](../assets/crypto-investing/009-crypto-security-risk-management-2.jpg)
+![](../assets/crypto-investing/009-crypto-security-risk-management-3.jpg)
+![](../assets/crypto-investing/009-crypto-security-risk-management-4.jpg)
 
 ## 加密貨幣投資安全與風險管理：實戰經驗分享
 

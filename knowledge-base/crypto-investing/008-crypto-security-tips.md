@@ -6,10 +6,10 @@
 
 ---
 
-![](/assets/crypto-investing/008-crypto-security-tips-1.png)
-![](/assets/crypto-investing/008-crypto-security-tips-2.jpg)
-![](/assets/crypto-investing/008-crypto-security-tips-3.jpg)
-![](/assets/crypto-investing/008-crypto-security-tips-4.jpg)
+![](../assets/crypto-investing/008-crypto-security-tips-1.png)
+![](../assets/crypto-investing/008-crypto-security-tips-2.jpg)
+![](../assets/crypto-investing/008-crypto-security-tips-3.jpg)
+![](../assets/crypto-investing/008-crypto-security-tips-4.jpg)
 
 ## 加密貨幣安全與風險防範經驗分享
 
