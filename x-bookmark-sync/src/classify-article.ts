@@ -45,23 +45,27 @@ ${content.fullContent}
 ${categoriesDesc}
 
 ## 要求
-請回傳以下 JSON 格式（不要包含 markdown code block）：
+只回傳一個 JSON 物件，不要包含任何其他文字、解釋或 markdown code block。直接輸出 JSON：
 
-{
-  "category": "最適合的分類 ID（從現有分類中選擇，如果都不適合則建議新的分類 ID，用小寫英文+連字號）",
-  "slug": "英文簡稱（小寫+連字號，例如 btc-halving-cycle）",
-  "title": "繁體中文標題",
-  "tags": ["標籤1", "標籤2", "標籤3"],
-  "summary": "用繁體中文寫一段 2-3 句的摘要，概括核心觀點"
-}`,
+{"category":"分類ID","slug":"英文簡稱","title":"繁體中文標題","tags":["標籤1","標籤2"],"summary":"摘要"}
+
+欄位說明：
+- category: 從現有分類中選擇最適合的 ID，如果都不適合則用小寫英文+連字號建議新 ID
+- slug: 小寫英文+連字號（例如 btc-halving-cycle）
+- title: 繁體中文標題
+- tags: 3 個繁體中文標籤
+- summary: 2-3 句繁體中文摘要`,
     "haiku"
   );
 
   try {
-    const jsonStr = text.replace(/```json?\n?/g, "").replace(/```/g, "").trim();
-    return JSON.parse(jsonStr) as ClassifiedArticle;
-  } catch {
-    console.warn("⚠️  AI 分類解析失敗，使用預設分類");
+    // 從回應中提取第一個 JSON 物件（Claude 可能在前後加解說文字）
+    const match = text.match(/\{[\s\S]*\}/);
+    if (!match) throw new Error("找不到 JSON");
+    return JSON.parse(match[0]) as ClassifiedArticle;
+  } catch (e) {
+    console.warn(`⚠️  AI 分類解析失敗，使用預設分類（原因: ${e}）`);
+    console.warn(`   原始回應: ${text.slice(0, 200)}`);
     return {
       category: "uncategorized",
       slug: `tweet-${content.bookmark.tweetId}`,
