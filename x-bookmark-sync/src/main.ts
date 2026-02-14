@@ -123,7 +123,7 @@ async function sync() {
     const itemStart = Date.now();
     try {
       // 抓取內容
-      const content = await processBookmarkContent(bookmark);
+      const content = await processBookmarkContent(bookmark, env);
 
       // 再次檢查中斷（抓取後、AI 前）
       if (interrupted) {

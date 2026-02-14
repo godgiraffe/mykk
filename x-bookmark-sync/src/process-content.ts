@@ -1,9 +1,11 @@
 /**
  * 抓取推文中連結的完整內容
- * 使用 fetch 抓取網頁內容，再由 AI 處理
+ * - 一般外部連結：用 fetch 抓取
+ * - X Article / 短推文含 t.co 連結：用 bird read 抓取完整內容
  */
 
 import type { Bookmark } from "./fetch-bookmarks";
+import { buildBirdArgs } from "./fetch-bookmarks";
 
 export interface ProcessedContent {
   bookmark: Bookmark;
@@ -12,8 +14,58 @@ export interface ProcessedContent {
 }
 
 /**
- * 嘗試用 fetch 抓取連結的文字內容
- * 用於取得推文外部連結的完整文章
+ * 用 bird read 抓取推文/文章的完整內容
+ */
+async function fetchViaBird(
+  env: Record<string, string>,
+  tweetId: string
+): Promise<{ text: string; articleTitle?: string } | null> {
+  try {
+    const proc = Bun.spawn(
+      [
+        "bunx",
+        "@steipete/bird",
+        ...buildBirdArgs(env),
+        "read",
+        "--json",
+        tweetId,
+      ],
+      { stdout: "pipe", stderr: "pipe" }
+    );
+
+    const output = await new Response(proc.stdout).text();
+    const exitCode = await proc.exited;
+
+    if (exitCode !== 0) return null;
+
+    const data = JSON.parse(output);
+    return {
+      text: data.text || "",
+      articleTitle: data.article?.title,
+    };
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * 解析 t.co 短連結，取得實際 URL
+ */
+async function resolveShortUrl(url: string): Promise<string | null> {
+  try {
+    const response = await fetch(url, {
+      method: "HEAD",
+      redirect: "follow",
+      signal: AbortSignal.timeout(10_000),
+    });
+    return response.url;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * 嘗試用 fetch 抓取一般網頁的文字內容
  */
 async function fetchUrlContent(url: string): Promise<string | null> {
   try {
@@ -31,7 +83,6 @@ async function fetchUrlContent(url: string): Promise<string | null> {
 
     const html = await response.text();
 
-    // 簡單提取文字內容：移除 HTML 標籤
     const text = html
       .replace(/<script[\s\S]*?<\/script>/gi, "")
       .replace(/<style[\s\S]*?<\/style>/gi, "")
@@ -39,7 +90,6 @@ async function fetchUrlContent(url: string): Promise<string | null> {
       .replace(/\s+/g, " ")
       .trim();
 
-    // 限制長度避免 token 過多
     return text.slice(0, 15_000);
   } catch {
     return null;
@@ -47,23 +97,63 @@ async function fetchUrlContent(url: string): Promise<string | null> {
 }
 
 /**
+ * 判斷是否為 X 平台內部連結
+ */
+function isXUrl(url: string): boolean {
+  return /^https?:\/\/(x\.com|twitter\.com)\//i.test(url);
+}
+
+/**
  * 處理單一書籤：提取完整內容
+ * - 有 article 欄位 → 用 bird read 取得完整文章
+ * - 推文文字很短且含 t.co 連結 → 解析連結判斷是否為 X Article
+ * - 含外部連結 → 用 fetch 抓取網頁內容
  */
 export async function processBookmarkContent(
-  bookmark: Bookmark
+  bookmark: Bookmark,
+  env: Record<string, string>
 ): Promise<ProcessedContent> {
-  // 如果推文包含外部連結，嘗試抓取
   let fullContent = bookmark.text;
   let sourceUrl: string | null = null;
 
-  if (bookmark.urls.length > 0) {
-    // 取第一個非 X 連結作為主要來源
-    sourceUrl = bookmark.urls[0];
-    console.log(`   🔗 抓取連結內容: ${sourceUrl}`);
+  // Case 1: bookmark 本身就標記了 article → 用 bird read 取完整內容
+  if (bookmark.article) {
+    console.log(`   📖 偵測到 X Article: ${bookmark.article.title}`);
+    const result = await fetchViaBird(env, bookmark.tweetId);
+    if (result?.text) {
+      fullContent = result.text;
+      sourceUrl = `https://x.com/${bookmark.authorUsername}/status/${bookmark.tweetId}`;
+      return { bookmark: { ...bookmark, text: fullContent }, fullContent, sourceUrl };
+    }
+  }
 
-    const urlContent = await fetchUrlContent(sourceUrl);
-    if (urlContent) {
-      fullContent = `推文內容：\n${bookmark.text}\n\n連結內容：\n${urlContent}`;
+  // Case 2: 推文含 t.co 連結 → 解析看是否指向 X Article
+  if (bookmark.urls.length > 0) {
+    const tcoUrl = bookmark.urls[0]!;
+    console.log(`   🔗 解析連結: ${tcoUrl}`);
+
+    const resolved = await resolveShortUrl(tcoUrl);
+    if (resolved) {
+      console.log(`   🔗 → ${resolved}`);
+
+      if (isXUrl(resolved)) {
+        // X 內部連結（Article / 其他推文）→ 用 bird read
+        console.log(`   📖 X 內部連結，使用 bird read 抓取...`);
+        const result = await fetchViaBird(env, bookmark.tweetId);
+        if (result?.text) {
+          fullContent = result.text;
+          sourceUrl = resolved;
+          return { bookmark: { ...bookmark, text: fullContent }, fullContent, sourceUrl };
+        }
+      } else {
+        // 外部連結 → 用 fetch 抓取
+        sourceUrl = resolved;
+        console.log(`   🌐 抓取外部連結內容...`);
+        const urlContent = await fetchUrlContent(resolved);
+        if (urlContent) {
+          fullContent = `推文內容：\n${bookmark.text}\n\n連結內容：\n${urlContent}`;
+        }
+      }
     }
   }
 

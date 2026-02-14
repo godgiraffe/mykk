@@ -14,6 +14,10 @@ export interface Bookmark {
     text: string;
     authorUsername: string;
   };
+  article?: {
+    title: string;
+    previewText: string;
+  };
 }
 
 interface BirdTweet {
@@ -27,14 +31,18 @@ interface BirdTweet {
     author: { username: string; name: string };
     media?: { type: string; url: string }[];
   };
+  article?: {
+    title: string;
+    previewText: string;
+  };
 }
 
-function buildBirdArgs(env: Record<string, string>): string[] {
+export function buildBirdArgs(env: Record<string, string>): string[] {
   return [
     "--auth-token",
-    env.X_AUTH_TOKEN,
+    env.X_AUTH_TOKEN ?? "",
     "--ct0",
-    env.X_CT0,
+    env.X_CT0 ?? "",
   ];
 }
 
@@ -70,13 +78,12 @@ export async function fetchAllBookmarks(
   const results: Bookmark[] = [];
 
   for (const tweet of tweets) {
-    // 提取推文中的 URL
+    // 提取推文中的 t.co 連結
     const urls: string[] = [];
-    const urlRegex = /https?:\/\/t\.co\/\w+/g;
-    // 從原始文字中找外部連結（t.co 連結會被 bird 保留）
-    // 但我們更需要的是非 t.co 的連結，bird 沒有展開
-    // 所以我們用推文 URL 作為來源
-    const tweetUrl = `https://x.com/${tweet.author.username}/status/${tweet.id}`;
+    const urlMatches = tweet.text.match(/https?:\/\/t\.co\/\w+/g);
+    if (urlMatches) {
+      urls.push(...urlMatches);
+    }
 
     // 提取圖片
     const imageUrls: string[] = [];
@@ -116,6 +123,7 @@ export async function fetchAllBookmarks(
       urls,
       imageUrls,
       quotedTweet,
+      article: tweet.article,
     });
   }
 
