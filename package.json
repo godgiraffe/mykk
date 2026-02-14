@@ -1,0 +1,13 @@
+{
+  "name": "mykk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev knowledge-base",
+    "docs:build": "vitepress build knowledge-base",
+    "docs:preview": "vitepress preview knowledge-base"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
