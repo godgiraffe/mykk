@@ -27,6 +27,7 @@ export async function claudeGenerate(
           stdin: new Response(prompt),
           stdout: "pipe",
           stderr: "pipe",
+          env: { ...process.env, CLAUDECODE: "" },
         }
       );
 
