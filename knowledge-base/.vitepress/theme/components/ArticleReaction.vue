@@ -1,23 +1,13 @@
 <script setup lang="ts">
 import { ref, watch, onMounted, computed } from "vue";
 import { useData } from "vitepress";
+import { STORAGE_KEY, getReactions, type Reaction } from "../composables/useReactions";
 
-const STORAGE_KEY = "article-reactions";
 const { page } = useData();
-
-type Reaction = "like" | "dislike";
 
 const currentReaction = ref<Reaction | null>(null);
 
 const articleUrl = computed(() => page.value.relativePath.replace(/\.md$/, ".html").replace(/^/, "/"));
-
-function getReactions(): Record<string, Reaction> {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
-  } catch {
-    return {};
-  }
-}
 
 function saveReaction(reaction: Reaction | null) {
   const reactions = getReactions();

@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from "vue";
+import { withBase } from "vitepress";
 import { data as articles } from "../../data/articles.data";
-
-const STORAGE_KEY = "article-reactions";
+import { STORAGE_KEY, getReactions } from "../composables/useReactions";
 
 interface LikedArticle {
   title: string;
@@ -12,14 +12,6 @@ interface LikedArticle {
 }
 
 const likedUrls = ref<string[]>([]);
-
-function getReactions(): Record<string, string> {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
-  } catch {
-    return {};
-  }
-}
 
 function loadLiked() {
   const reactions = getReactions();
@@ -51,6 +43,7 @@ const groupedByCategory = computed(() => {
 });
 
 function clearAll() {
+  if (!confirm("確定要清除所有按讚紀錄嗎？")) return;
   const reactions = getReactions();
   for (const key of Object.keys(reactions)) {
     if (reactions[key] === "like") {
@@ -82,7 +75,7 @@ onMounted(() => {
         <h3>{{ category }}</h3>
         <ul>
           <li v-for="article in items" :key="article.url">
-            <a :href="article.url">{{ article.title }}</a>
+            <a :href="withBase(article.url)">{{ article.title }}</a>
           </li>
         </ul>
       </div>
