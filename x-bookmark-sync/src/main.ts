@@ -10,7 +10,8 @@ import { fetchAllBookmarks, deleteBookmark } from "./fetch-bookmarks";
 import { processBookmarkContent } from "./process-content";
 import { classifyAndSummarize } from "./classify-article";
 import { generateArticle } from "./generate-markdown";
-import { isProcessed, markProcessed, clearProgress, getProcessedCount } from "./progress";
+import { isProcessed, getProcessedInfo, markProcessed, clearProgress, getProcessedCount } from "./progress";
+import { existsSync, unlinkSync } from "fs";
 import { join } from "path";
 
 // ── 參數解析 ──────────────────────────────────────
@@ -38,7 +39,6 @@ process.on("SIGTERM", onInterrupt);
 interface SyncResult {
   success: { tweetId: string; category: string; filename: string; durationMs: number }[];
   failed: { tweetId: string; url: string; error: string }[];
-  skipped: number;
 }
 
 function formatDuration(ms: number): string {
@@ -97,7 +97,7 @@ async function sync() {
     return;
   }
 
-  const results: SyncResult = { success: [], failed: [], skipped: 0 };
+  const results: SyncResult = { success: [], failed: [] };
   const totalStart = Date.now();
 
   // 逐一處理
@@ -112,14 +112,15 @@ async function sync() {
     const progress = `[${i + 1}/${bookmarks.length}]`;
     const tweetUrl = `https://x.com/${bookmark.authorUsername}/status/${bookmark.tweetId}`;
 
-    // 冪等性：跳過已處理的
-    if (isProcessed(bookmark.tweetId)) {
-      console.log(`\n${progress} ⏭️  跳過 @${bookmark.authorUsername}（已處理過）`);
-      results.skipped++;
-      continue;
-    }
+    // 檢查是否已處理過 → 重新處理並取代
+    const previousInfo = isProcessed(bookmark.tweetId) ? getProcessedInfo(bookmark.tweetId) : null;
+    const isReprocess = !!previousInfo;
 
-    console.log(`\n${progress} 處理 @${bookmark.authorUsername} 的推文...`);
+    if (isReprocess) {
+      console.log(`\n${progress} 🔄 重新處理 @${bookmark.authorUsername} 的推文（取代舊文章）...`);
+    } else {
+      console.log(`\n${progress} 處理 @${bookmark.authorUsername} 的推文...`);
+    }
     console.log(`   📝 ${bookmark.text.slice(0, 80)}...`);
 
     const itemStart = Date.now();
@@ -144,13 +145,26 @@ async function sync() {
         break;
       }
 
-      // 生成文章
+      // 生成文章（如果是重新處理，使用舊編號覆寫）
       console.log("   ✍️  生成文章中...");
-      const article = await generateArticle(content, classification);
+      let replaceNumber: number | undefined;
+      if (isReprocess && previousInfo) {
+        const oldNumMatch = previousInfo.filename.match(/^(\d+)-/);
+        if (oldNumMatch) {
+          replaceNumber = parseInt(oldNumMatch[1], 10);
+          // 刪除舊檔案（分類可能改變）
+          const oldPath = join(import.meta.dir, "..", "..", "knowledge-base", previousInfo.category, previousInfo.filename);
+          if (existsSync(oldPath)) {
+            unlinkSync(oldPath);
+            console.log(`   🗑️  已刪除舊文章: ${previousInfo.category}/${previousInfo.filename}`);
+          }
+        }
+      }
+      const article = await generateArticle(content, classification, { replaceNumber });
       console.log(`   📄 已生成: ${article.category}/${article.filename}`);
 
-      // 標記已處理（文章已生成，即使後面刪除書籤失敗也不會重複生成）
-      markProcessed(bookmark.tweetId);
+      // 標記已處理（含 category/filename 以便日後重新處理時找到舊檔案）
+      markProcessed(bookmark.tweetId, article.category, article.filename);
 
       // 從 X 移除書籤
       const deleted = await deleteBookmark(env, bookmark.tweetId);
@@ -200,7 +214,6 @@ function printReport(results: SyncResult, wasInterrupted: boolean, totalDuration
   console.log("━".repeat(50));
   console.log(`✅ 成功：${results.success.length} 篇`);
   console.log(`❌ 失敗：${results.failed.length} 篇`);
-  if (results.skipped > 0) console.log(`⏭️  跳過：${results.skipped} 篇（已處理過）`);
   console.log(`⏱️  總耗時：${formatDuration(totalDurationMs)}`);
   if (results.success.length > 1) {
     const avgMs = results.success.reduce((sum, s) => sum + s.durationMs, 0) / results.success.length;

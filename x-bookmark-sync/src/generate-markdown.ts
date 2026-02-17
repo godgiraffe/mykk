@@ -91,10 +91,11 @@ export interface GeneratedArticle {
  */
 export async function generateArticle(
   content: ProcessedContent,
-  classification: ClassifiedArticle
+  classification: ClassifiedArticle,
+  options?: { replaceNumber?: number }
 ): Promise<GeneratedArticle> {
   const { category, slug, title, tags, summary } = classification;
-  const number = getNextNumber(category);
+  const number = options?.replaceNumber ?? getNextNumber(category);
   const numStr = String(number).padStart(3, "0");
   const filename = `${numStr}-${slug}.md`;
 

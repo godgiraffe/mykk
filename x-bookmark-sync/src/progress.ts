@@ -8,9 +8,15 @@ import { join } from "path";
 
 const PROGRESS_PATH = join(import.meta.dir, "..", ".sync-progress.json");
 
+interface ProcessedRecord {
+  tweetId: string;
+  category: string;
+  filename: string;
+}
+
 interface ProgressData {
-  /** 已成功處理的 tweetId 集合 */
-  processed: string[];
+  /** 已成功處理的記錄 */
+  processed: (string | ProcessedRecord)[];
   /** 最後更新時間 */
   lastUpdated: string;
 }
@@ -31,18 +37,33 @@ function save(data: ProgressData) {
   writeFileSync(PROGRESS_PATH, JSON.stringify(data, null, 2));
 }
 
+function getTweetId(entry: string | ProcessedRecord): string {
+  return typeof entry === "string" ? entry : entry.tweetId;
+}
+
 /** 檢查 tweetId 是否已處理過 */
 export function isProcessed(tweetId: string): boolean {
-  return load().processed.includes(tweetId);
+  return load().processed.some((e) => getTweetId(e) === tweetId);
+}
+
+/** 取得已處理記錄的詳細資訊（category, filename） */
+export function getProcessedInfo(tweetId: string): { category: string; filename: string } | null {
+  const entry = load().processed.find((e) => getTweetId(e) === tweetId);
+  if (!entry || typeof entry === "string") return null;
+  return { category: entry.category, filename: entry.filename };
 }
 
 /** 標記 tweetId 為已處理（立即寫入磁碟） */
-export function markProcessed(tweetId: string) {
+export function markProcessed(tweetId: string, category?: string, filename?: string) {
   const data = load();
-  if (!data.processed.includes(tweetId)) {
+  // 移除舊記錄（如重新處理）
+  data.processed = data.processed.filter((e) => getTweetId(e) !== tweetId);
+  if (category && filename) {
+    data.processed.push({ tweetId, category, filename });
+  } else {
     data.processed.push(tweetId);
-    save(data);
   }
+  save(data);
 }
 
 /** 取得已處理數量 */
