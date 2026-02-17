@@ -108,7 +108,7 @@ async function sync() {
       break;
     }
 
-    const bookmark = bookmarks[i];
+    const bookmark = bookmarks[i]!;
     const progress = `[${i + 1}/${bookmarks.length}]`;
     const tweetUrl = `https://x.com/${bookmark.authorUsername}/status/${bookmark.tweetId}`;
 
@@ -151,7 +151,7 @@ async function sync() {
       if (isReprocess && previousInfo) {
         const oldNumMatch = previousInfo.filename.match(/^(\d+)-/);
         if (oldNumMatch) {
-          replaceNumber = parseInt(oldNumMatch[1], 10);
+          replaceNumber = parseInt(oldNumMatch[1]!, 10);
           // 刪除舊檔案（分類可能改變）
           const oldPath = join(import.meta.dir, "..", "..", "knowledge-base", previousInfo.category, previousInfo.filename);
           if (existsSync(oldPath)) {

@@ -25,7 +25,7 @@ function getNextNumber(category: string): number {
   if (files.length === 0) return 1;
 
   const numbers = files
-    .map((f) => parseInt(f.split("-")[0], 10))
+    .map((f) => parseInt(f.split("-")[0]!, 10))
     .filter((n) => !isNaN(n));
 
   return Math.max(...numbers, 0) + 1;
@@ -52,7 +52,7 @@ async function downloadImages(
 
   for (let i = 0; i < imageUrls.length; i++) {
     try {
-      const response = await fetch(imageUrls[i], {
+      const response = await fetch(imageUrls[i]!, {
         signal: AbortSignal.timeout(15_000),
       });
       if (!response.ok) continue;
