@@ -48,7 +48,7 @@ export function generateSidebar() {
     const dirPath = path.join(KB_ROOT, dir);
     const files = fs
       .readdirSync(dirPath)
-      .filter((f) => f.endsWith(".md"))
+      .filter((f) => f.endsWith(".md") && f !== "index.md")
       .sort();
 
     if (files.length === 0) continue;

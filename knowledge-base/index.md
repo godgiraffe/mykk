@@ -32,6 +32,8 @@ features:
     link: /lifestyle/001-japan-hotel-booking
 ---
 
+<LatestArticles />
+
 ## 所有分類
 
 | 分類 | 說明 |
