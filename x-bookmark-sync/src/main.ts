@@ -10,7 +10,7 @@ import { fetchAllBookmarks, deleteBookmark } from "./fetch-bookmarks";
 import { processBookmarkContent } from "./process-content";
 import { classifyAndSummarize } from "./classify-article";
 import { generateArticle } from "./generate-markdown";
-import { isProcessed, getProcessedInfo, markProcessed, clearProgress, getProcessedCount } from "./progress";
+import { isProcessed, getProcessedInfo, markProcessed, clearProgress, getProcessedCount, migrateOldProgress } from "./progress";
 import { existsSync, unlinkSync } from "fs";
 import { join } from "path";
 
@@ -62,9 +62,15 @@ async function sync() {
   console.log("🔄 X 書籤同步開始\n");
   if (MAX_ITEMS > 0) console.log(`⚙️  限制處理數量：${MAX_ITEMS} 筆`);
 
+  // 自動遷移舊格式進度紀錄
+  const migrated = migrateOldProgress();
+  if (migrated > 0) {
+    console.log(`🔄 已遷移 ${migrated} 筆舊進度紀錄（補充分類與檔名資訊）`);
+  }
+
   const prevCount = getProcessedCount();
   if (prevCount > 0) {
-    console.log(`📋 已有 ${prevCount} 筆歷史處理紀錄（將自動跳過）`);
+    console.log(`📋 已有 ${prevCount} 筆歷史處理紀錄`);
   }
   console.log("━".repeat(50));
 
@@ -154,9 +160,15 @@ async function sync() {
           replaceNumber = parseInt(oldNumMatch[1]!, 10);
           // 刪除舊檔案（分類可能改變）
           const oldPath = join(import.meta.dir, "..", "..", "knowledge-base", previousInfo.category, previousInfo.filename);
-          if (existsSync(oldPath)) {
-            unlinkSync(oldPath);
-            console.log(`   🗑️  已刪除舊文章: ${previousInfo.category}/${previousInfo.filename}`);
+          try {
+            if (existsSync(oldPath)) {
+              unlinkSync(oldPath);
+              console.log(`   🗑️  已刪除舊文章: ${previousInfo.category}/${previousInfo.filename}`);
+            } else {
+              console.log(`   ⚠️  舊文章不存在（可能已手動刪除）: ${previousInfo.category}/${previousInfo.filename}`);
+            }
+          } catch (err: any) {
+            console.warn(`   ⚠️  無法刪除舊文章: ${err.message}`);
           }
         }
       }

@@ -3,8 +3,8 @@
  * 進度檔位於 x-bookmark-sync/.sync-progress.json
  */
 
-import { existsSync, readFileSync, writeFileSync } from "fs";
-import { join } from "path";
+import { existsSync, readFileSync, writeFileSync, readdirSync } from "fs";
+import { join, basename } from "path";
 
 const PROGRESS_PATH = join(import.meta.dir, "..", ".sync-progress.json");
 
@@ -74,4 +74,57 @@ export function getProcessedCount(): number {
 /** 清除進度檔（全部重跑時使用） */
 export function clearProgress() {
   save({ processed: [], lastUpdated: new Date().toISOString() });
+}
+
+/**
+ * 遷移舊格式進度紀錄：掃描 knowledge-base 文章中的 tweet URL，
+ * 將純字串 tweetId 升級為包含 category/filename 的完整紀錄
+ */
+export function migrateOldProgress(): number {
+  const data = load();
+  const oldEntries = data.processed.filter((e) => typeof e === "string") as string[];
+  if (oldEntries.length === 0) return 0;
+
+  // 建立 tweetId → { category, filename } 的索引
+  const KB_ROOT = join(import.meta.dir, "..", "..", "knowledge-base");
+  const tweetMap = new Map<string, { category: string; filename: string }>();
+
+  const categories = readdirSync(KB_ROOT, { withFileTypes: true })
+    .filter((d) => d.isDirectory() && !d.name.startsWith(".") && d.name !== "assets" && d.name !== "node_modules")
+    .map((d) => d.name);
+
+  for (const category of categories) {
+    const categoryDir = join(KB_ROOT, category);
+    const files = readdirSync(categoryDir).filter((f) => f.endsWith(".md") && f !== "index.md");
+
+    for (const file of files) {
+      try {
+        const content = readFileSync(join(categoryDir, file), "utf-8");
+        // 從來源連結中提取 tweetId：x.com/username/status/{tweetId}
+        const match = content.match(/x\.com\/[^/]+\/status\/(\d+)/);
+        if (match) {
+          tweetMap.set(match[1]!, { category, filename: file });
+        }
+      } catch {
+        // 讀取失敗就跳過
+      }
+    }
+  }
+
+  // 將找到的舊紀錄升級為完整格式
+  let migrated = 0;
+  data.processed = data.processed.map((entry) => {
+    if (typeof entry !== "string") return entry;
+    const info = tweetMap.get(entry);
+    if (info) {
+      migrated++;
+      return { tweetId: entry, category: info.category, filename: info.filename };
+    }
+    return entry; // 找不到對應文章的保持原樣
+  });
+
+  if (migrated > 0) {
+    save(data);
+  }
+  return migrated;
 }
