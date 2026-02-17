@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, computed } from "vue";
+import { ref, watch, onMounted, computed } from "vue";
 import { useData } from "vitepress";
 
 const STORAGE_KEY = "article-reactions";
@@ -39,9 +39,13 @@ function toggle(reaction: Reaction) {
   }
 }
 
-onMounted(() => {
+function syncReaction() {
   currentReaction.value = getReactions()[articleUrl.value] || null;
-});
+}
+
+onMounted(syncReaction);
+
+watch(articleUrl, syncReaction);
 </script>
 
 <template>
