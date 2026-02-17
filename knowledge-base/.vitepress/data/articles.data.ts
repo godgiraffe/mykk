@@ -4,6 +4,7 @@ interface ArticleData {
   title: string;
   url: string;
   category: string;
+  categoryName: string;
   number: number;
 }
 
@@ -18,11 +19,10 @@ const categoryNames: Record<string, string> = {
 };
 
 export default createContentLoader("**/*.md", {
-  includeSrc: false,
+  includeSrc: true,
   transform(rawData): ArticleData[] {
     return rawData
       .filter((page) => {
-        // 排除首頁和分類 index 頁面
         const url = page.url;
         return (
           url !== "/" &&
@@ -33,15 +33,15 @@ export default createContentLoader("**/*.md", {
       })
       .map((page) => {
         const url = page.url;
-        // 從 URL 解析分類和編號，如 /ai-tools/001-xxx.html
         const match = url.match(/^\/([^/]+)\/(\d+)-/);
         const category = match ? match[1] : "unknown";
         const number = match ? parseInt(match[2], 10) : 0;
 
-        // 從 frontmatter 或第一行 # 標題取標題
+        // 從 markdown 原始碼第一行 # 標題取得標題
+        const titleMatch = page.src?.match(/^#\s+(.+)/m);
         const title =
           page.frontmatter?.title ||
-          (page as any).title ||
+          titleMatch?.[1]?.trim() ||
           url.split("/").pop()?.replace(/\.html$/, "") ||
           "";
 
@@ -54,9 +54,7 @@ export default createContentLoader("**/*.md", {
         };
       })
       .sort((a, b) => {
-        // 先按編號倒序
         if (b.number !== a.number) return b.number - a.number;
-        // 同編號按分類排序
         return a.category.localeCompare(b.category);
       });
   },

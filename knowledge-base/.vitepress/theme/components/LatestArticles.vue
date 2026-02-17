@@ -1,17 +1,9 @@
 <script setup lang="ts">
 import { computed } from "vue";
+import { withBase } from "vitepress";
 import { data as allArticles } from "../../data/articles.data";
 
-const categoryNames: Record<string, string> = {
-  "ai-tools": "AI 工具與應用",
-  "crypto-investing": "加密貨幣投資",
-  defi: "DeFi 策略與安全",
-  "quant-trading": "量化交易",
-  dev: "軟體開發",
-  lifestyle: "生活與效率",
-};
-
-const latestArticles = computed(() => allArticles.slice(0, 10));
+const latestArticles = computed(() => (allArticles || []).slice(0, 10));
 </script>
 
 <template>
@@ -21,11 +13,11 @@ const latestArticles = computed(() => allArticles.slice(0, 10));
       <a
         v-for="article in latestArticles"
         :key="article.url"
-        :href="article.url"
+        :href="withBase(article.url)"
         class="article-card"
       >
         <span class="article-category">{{
-          categoryNames[article.category] || article.category
+          article.categoryName || article.category
         }}</span>
         <span class="article-title">{{ article.title }}</span>
       </a>
