@@ -22,7 +22,10 @@ const latestArticles = computed(() => {
 
 <template>
   <div class="latest-articles">
-    <h2>最新文章</h2>
+    <div class="latest-header">
+      <h2>最新文章</h2>
+      <span class="total-count">共 {{ allArticles.length }} 篇</span>
+    </div>
     <div class="article-cards">
       <a
         v-for="article in latestArticles"
@@ -44,11 +47,23 @@ const latestArticles = computed(() => {
   margin: 24px 0 40px;
 }
 
+.latest-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
 .latest-articles h2 {
   font-size: 20px;
   font-weight: 600;
-  margin-bottom: 16px;
+  margin-bottom: 0;
   border-bottom: none;
+}
+
+.total-count {
+  font-size: 13px;
+  color: var(--vp-c-text-3);
 }
 
 .article-cards {
