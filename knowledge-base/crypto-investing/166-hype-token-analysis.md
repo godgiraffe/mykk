@@ -26,8 +26,6 @@ $HYPE YYDS（永遠的神）
 
 作者分享了一張 Hyperliquid DEX 的交易介面截圖，顯示了 $HYPE 代幣的交易數據：
 
-![HYPE 交易截圖](../assets/crypto-investing/hype-token-analysis-1.jpg)
-
 **主要資訊**：
 - 交易對：HYPE/USDC
 - 介面顯示：訂單簿（Order Book）、K 線圖、交易深度
