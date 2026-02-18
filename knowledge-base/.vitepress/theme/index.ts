@@ -7,6 +7,7 @@ import ArticleReaction from "./components/ArticleReaction.vue";
 import LikedArticles from "./components/LikedArticles.vue";
 import DislikedArticles from "./components/DislikedArticles.vue";
 import ReactionArticles from "./components/ReactionArticles.vue";
+import CategoryList from "./components/CategoryList.vue";
 
 export default {
   extends: DefaultTheme,
@@ -21,5 +22,6 @@ export default {
     app.component("LikedArticles", LikedArticles);
     app.component("DislikedArticles", DislikedArticles);
     app.component("ReactionArticles", ReactionArticles);
+    app.component("CategoryList", CategoryList);
   },
 } satisfies Theme;
