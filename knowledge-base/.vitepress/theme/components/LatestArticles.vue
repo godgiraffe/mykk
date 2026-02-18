@@ -3,7 +3,19 @@ import { computed } from "vue";
 import { withBase } from "vitepress";
 import { data as allArticles } from "../../data/articles.data";
 
-const latestArticles = computed(() => (allArticles || []).slice(0, 10));
+const latestArticles = computed(() => {
+  const seen: Record<string, number> = {};
+  const result = [];
+  for (const article of allArticles || []) {
+    const count = seen[article.category] || 0;
+    if (count < 2) {
+      result.push(article);
+      seen[article.category] = count + 1;
+    }
+    if (result.length >= 12) break;
+  }
+  return result;
+});
 </script>
 
 <template>
