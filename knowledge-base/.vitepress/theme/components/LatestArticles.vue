@@ -5,16 +5,18 @@ import { data as allArticles } from "../../data/articles.data";
 
 const latestArticles = computed(() => {
   const seen: Record<string, number> = {};
-  const result = [];
+  const first = [];
+  const overflow = [];
   for (const article of allArticles || []) {
     const count = seen[article.category] || 0;
     if (count < 2) {
-      result.push(article);
+      first.push(article);
       seen[article.category] = count + 1;
+    } else {
+      overflow.push(article);
     }
-    if (result.length >= 12) break;
   }
-  return result;
+  return [...first, ...overflow].slice(0, 12);
 });
 </script>
 
