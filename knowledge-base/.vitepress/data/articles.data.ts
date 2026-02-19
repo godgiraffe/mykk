@@ -27,6 +27,8 @@ export default createContentLoader("**/*.md", {
         return (
           url !== "/" &&
           url !== "/index.html" &&
+          url !== "/liked.html" &&
+          url !== "/disliked.html" &&
           !url.endsWith("/") &&
           !/\/index\.html$/.test(url)
         );

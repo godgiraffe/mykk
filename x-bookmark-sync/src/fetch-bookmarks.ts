@@ -146,7 +146,12 @@ export async function deleteBookmark(
       ],
       { stdout: "pipe", stderr: "pipe" }
     );
-    await proc.exited;
+    const exitCode = await proc.exited;
+    if (exitCode !== 0) {
+      const stderr = await new Response(proc.stderr).text();
+      console.error(`❌ bird unbookmark 回傳非零退出碼 (${exitCode}): ${stderr.trim()}`);
+      return false;
+    }
     return true;
   } catch {
     console.error(`❌ 刪除書籤失敗 (${tweetId})`);

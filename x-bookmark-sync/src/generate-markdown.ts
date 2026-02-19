@@ -11,6 +11,16 @@ import type { ClassifiedArticle } from "./classify-article";
 const KB_ROOT = join(import.meta.dir, "..", "..", "knowledge-base");
 
 /**
+ * 驗證並清理路徑片段，只允許小寫英文、數字、連字號
+ * 防止 AI 輸出含 / 或 ../ 造成路徑穿越
+ */
+function sanitizePathSegment(value: string): string {
+  const sanitized = value.replace(/[^a-z0-9-]/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
+  if (!sanitized) throw new Error(`無效的路徑片段（原始值: "${value}"）`);
+  return sanitized;
+}
+
+/**
  * 計算該分類下一個流水號
  */
 function getNextNumber(category: string): number {
@@ -94,7 +104,9 @@ export async function generateArticle(
   classification: ClassifiedArticle,
   options?: { replaceNumber?: number }
 ): Promise<GeneratedArticle> {
-  const { category, slug, title, tags, summary } = classification;
+  const category = sanitizePathSegment(classification.category);
+  const slug = sanitizePathSegment(classification.slug);
+  const { title, tags, summary } = classification;
   const number = options?.replaceNumber ?? getNextNumber(category);
   const numStr = String(number).padStart(3, "0");
   const filename = `${numStr}-${slug}.md`;
