@@ -26,22 +26,70 @@ bun run sync --reset                # 清除進度重新開始
 本專案是**個人知識管理系統**，包含兩個主要部分：
 
 ### knowledge-base/ — VitePress 靜態文件網站
+
 - **VitePress** 驅動，部署至 GitHub Pages（`https://godgiraffe.github.io/mykk/`）
-- `.vitepress/config.ts`：站台設定（base path `/mykk/`、zh-TW 語系、本地搜尋）
-- `.vitepress/sidebar.ts`：從目錄結構自動生成側邊欄（掃描 markdown 標題，排除 index.md）
-- `.vitepress/theme/`：自定義主題，全域註冊 `ArticleList`、`LatestArticles` 元件
-- `.vitepress/data/articles.data.ts`：用 `createContentLoader` 掃描所有文章供首頁使用
-- 6 個分類目錄（各含 `index.md` 分類首頁）+ `assets/` 圖片目錄
+- `base: "/mykk/"`，`ignoreDeadLinks: true`，本地搜尋（中文化介面）
+- 導覽列：首頁 / 按讚文章（`/liked`）/ 按倒讚文章（`/disliked`）
+
+**資料層**：`.vitepress/data/articles.data.ts`
+- 用 `createContentLoader("**/*.md")` 掃描所有文章，Build time 執行
+- 資料結構：`{ title, url, category, categoryName, number }`，`number` 從檔名流水號提取
+- 排序：`number 降序 → category 字母序`（各分類獨立編號，不跨分類比較）
+
+**側邊欄**：`.vitepress/sidebar.ts`
+- 掃描分類目錄，從各 MD 第一行 `#` 標題提取文章名稱，`collapsed: true`
+
+**主題元件**（全域註冊於 `theme/index.ts`，`doc-after` 插槽自動插入 `ArticleReaction`）：
+
+| 元件 | 職責 |
+|------|------|
+| `LatestArticles` | 首頁最新文章，每分類取 2 篇（兩段式遍歷，確保共 12 篇） |
+| `CategoryList` | 首頁分類總覽表，動態計算各分類篇數，右上角顯示全站總篇數 |
+| `ArticleList` | 分類首頁文章列表 |
+| `ArticleReaction` | 每篇文章底部 👍👎，寫入 localStorage，監聽 URL 變化 |
+| `ReactionArticles` | 共用，接受 `reaction: "like" | "dislike"` prop，按分類分組顯示 |
+| `LikedArticles` | 薄殼：`<ReactionArticles reaction="like" />` |
+| `DislikedArticles` | 薄殼：`<ReactionArticles reaction="dislike" />` |
+
+**反應系統**（`theme/composables/useReactions.ts`）：
+- `STORAGE_KEY = "article-reactions"`
+- `getReactions()` → `Record<string, "like" | "dislike">`（含 SSR guard 與 runtime 型別驗證）
+- Key 格式：`/category/NNN-slug.html`（與 `createContentLoader` 回傳的 URL 一致）
 
 ### x-bookmark-sync/ — X 書籤自動歸檔工具
-TypeScript 工具，透過 `bird` CLI 抓取 X 書籤 → Gemini AI 分類摘要 → 生成 markdown 存入 knowledge-base。
 
-核心流程：`main.ts` → `fetch-bookmarks.ts` → `process-content.ts` → `classify-article.ts`（Claude AI）→ `generate-markdown.ts`
+核心流程（`src/main.ts` 主程序）：
 
-需要 `.env` 設定 `X_AUTH_TOKEN`、`X_CT0`（X cookies 每 1-2 週過期需更新）。使用 Claude CLI (`claude -p`) 進行 AI 分類與文章生成。
+```
+fetchAllBookmarks()          # bird CLI 抓取 X 書籤
+  → processBookmarkContent() # 解析 t.co 短連結，取完整內容（bird read / fetch）
+  → classifyAndSummarize()   # Claude Haiku 分類 → { category, slug, title, tags, summary }
+  → generateArticle()        # 下載圖片 → Claude Sonnet 生成正文 → 寫入 MD
+  → markProcessed()          # 記錄進度到 .sync-progress.json
+  → deleteBookmark()         # 從 X 移除書籤
+  → gitCommitAndPush()       # 自動 commit + push
+```
+
+各模組職責：
+
+| 模組 | 職責 |
+|------|------|
+| `fetch-bookmarks.ts` | `bunx @steipete/bird` CLI 抓書籤；轉換 Bookmark 結構；支援刪除 |
+| `process-content.ts` | t.co 短連結解析；X 內部用 bird read，外部用 fetch |
+| `classify-article.ts` | Claude Haiku 分類，六個固定分類，回傳 slug/title/tags |
+| `generate-markdown.ts` | 計算流水號、下載圖片、Claude Sonnet 生成文章、寫 MD |
+| `claude-ai.ts` | `claude -p --model` CLI wrapper，支援 haiku/sonnet，3 次重試 |
+| `progress.ts` | `.sync-progress.json` 進度追蹤，支援斷點續傳 |
+
+`.env` 需要的環境變數：
+```
+X_AUTH_TOKEN=   # Chrome DevTools → Application → Cookies → x.com
+X_CT0=          # 同上（每 1-2 週過期需更新）
+```
 
 ### CI/CD
-- `.github/workflows/deploy.yml`：push 到 main 時自動部署（僅 knowledge-base 相關檔案變更時觸發）
+- `.github/workflows/deploy.yml`：push 到 main 且 `knowledge-base/**` 有變更時自動部署
+- 也支援 `workflow_dispatch` 手動觸發
 
 ---
 
@@ -51,22 +99,22 @@ TypeScript 工具，透過 `bird` CLI 抓取 X 書籤 → Gemini AI 分類摘要
 
 ```
 knowledge-base/
-├── index.md               # 首頁（VitePress hero layout + 分類索引）
+├── index.md               # 首頁（VitePress hero layout + CategoryList）
+├── liked.md               # 按讚文章頁（<LikedArticles />）
+├── disliked.md            # 按倒讚文章頁（<DislikedArticles />）
 ├── .vitepress/
-│   ├── config.ts          # VitePress 設定
-│   ├── sidebar.ts         # 自動生成側邊欄
-│   └── public/            # 靜態資源（如需要）
-├── assets/                # 圖片等附件，子資料夾對應分類
-│   └── {category}/
-└── {category}/            # 主題分類資料夾
-    └── {NNN}-{slug}.md    # 文章（流水號-英文簡稱）
+│   ├── config.ts
+│   ├── sidebar.ts
+│   ├── data/articles.data.ts
+│   └── theme/
+│       ├── index.ts
+│       ├── composables/useReactions.ts
+│       └── components/
+├── assets/{category}/     # 圖片，用相對路徑 ../assets/category/file 引用
+└── {category}/
+    ├── index.md           # 分類首頁（<ArticleList />）
+    └── {NNN}-{slug}.md    # 文章（三位數流水號，各分類獨立計數）
 ```
-
-### 檔名規則
-
-- 流水號三位數遞增：`001-`, `002-`, ...
-- slug 用小寫英文 + 連字號：`orderbook-factors-hft`
-- 完整範例：`001-orderbook-factors-hft.md`
 
 ### 文章模板
 
@@ -79,16 +127,8 @@ knowledge-base/
 
 ---
 
-（正文內容，依主題自由組織章節）
+（正文）
 ```
-
-### 輸入處理
-
-| 輸入類型 | 處理方式 |
-|----------|----------|
-| URL 連結 | 用 agent-browser 抓取內容，整理後歸檔 |
-| 文字內容 | 直接格式化整理歸檔 |
-| 圖片 | 存入 `assets/{category}/`，文章內用 `../assets/category/file` 相對路徑引用 |
 
 ### 分類管理
 
@@ -103,16 +143,7 @@ knowledge-base/
 | `dev` | 軟體開發、程式語言、開發工具、知識管理 |
 | `lifestyle` | 生活技巧、個人理財、效率提升、娛樂 |
 
-- 現有分類能涵蓋就不另開新的
-- 真的需要新分類 → 建立新資料夾 + 更新 `index.md` 索引表
-- 分類名用小寫英文 + 連字號
-
-### 整理原則
-
-- 保留原始來源與作者資訊
-- 內容用繁體中文整理（專有名詞/公式保留原文）
-- 加總覽表方便快速查閱
-- 不過度改寫，忠於原意
+新增分類時：建立目錄 + `index.md`（含 `<ArticleList />`）+ 更新 `CategoryList.vue` 的 `categories` 陣列 + `articles.data.ts` 的 `categoryNames`。
 
 ### 知識庫查詢
 
