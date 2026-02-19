@@ -12,6 +12,8 @@ const categories = [
   { slug: "lifestyle",       name: "生活與效率",     desc: "旅遊、理財、生產力、娛樂、自我成長" },
 ];
 
+const totalCount = computed(() => (allArticles || []).length);
+
 const rows = computed(() =>
   categories.map((c) => ({
     ...c,
@@ -22,6 +24,9 @@ const rows = computed(() =>
 </script>
 
 <template>
+  <div class="category-header">
+    <span class="total-count">共 {{ totalCount }} 篇</span>
+  </div>
   <table class="category-table">
     <thead>
       <tr>
@@ -41,6 +46,17 @@ const rows = computed(() =>
 </template>
 
 <style scoped>
+.category-header {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 8px;
+}
+
+.total-count {
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+}
+
 .category-table {
   width: 100%;
   border-collapse: collapse;
