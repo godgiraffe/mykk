@@ -1,117 +1,134 @@
 # mykk
 
-個人知識庫系統 — 自動從 X 書籤同步文章，透過 VitePress 瀏覽。
+個人知識庫系統。從 X 書籤抓內容、用 Claude 整理成 Markdown，再透過 VitePress 以可檢索、可策展的方式瀏覽。
 
-**線上閱讀**: https://godgiraffe.github.io/mykk/
+線上閱讀：https://godgiraffe.github.io/mykk/
 
 ## 架構
 
-```
+```text
 mykk/
-├── knowledge-base/          # 知識庫內容（VitePress 網站）
-│   ├── index.md             # 首頁
-│   ├── .vitepress/          # VitePress 設定
+├── knowledge-base/          # VitePress 知識庫網站
+│   ├── review.md            # 待審工作台
+│   ├── curated.md           # 精選內容
+│   ├── archive.md           # 封存內容
+│   ├── .vitepress/          # config / sidebar / data / theme
 │   ├── assets/              # 圖片附件
 │   └── {category}/          # 各分類文章
+├── scripts/                 # curation apply / backfill CLI
 ├── x-bookmark-sync/         # X 書籤同步工具
 └── .github/workflows/       # GitHub Pages 自動部署
 ```
 
 ## 快速開始
 
-### 1. 瀏覽知識庫（本機）
+### 1. 本機瀏覽知識庫
 
 ```bash
 bun install
 bun run docs:dev
-# 開啟 http://localhost:5173/mykk/
+# http://localhost:5173/mykk/
 ```
 
-### 2. 同步 X 書籤到知識庫
+### 2. 從 X 同步文章
 
-#### 前置準備
+前置準備：
 
-1. 取得 **Gemini API Key**（免費）: https://aistudio.google.com/apikey
-
-2. 取得 **X Cookie**:
-   - 登入 [x.com](https://x.com)
-   - 開啟 Chrome DevTools（F12）→ Application → Cookies → `https://x.com`
-   - 複製以下兩個值：
-     - `auth_token` → 填入 `X_AUTH_TOKEN`
-     - `ct0` → 填入 `X_CT0`
-
-3. 建立 `.env`:
+1. 確認 `claude --version` 可執行，且 Claude CLI 已登入
+2. 從 Chrome DevTools 取得 X cookies：
+   - `auth_token` → `X_AUTH_TOKEN`
+   - `ct0` → `X_CT0`
+3. 建立設定檔：
 
 ```bash
 cp x-bookmark-sync/.env.example x-bookmark-sync/.env
-# 編輯 .env 填入上述三個值
 ```
 
-#### 執行同步
+執行同步：
 
 ```bash
 cd x-bookmark-sync
 bun install
-bun run sync          # 同步所有書籤
-bun run sync 5        # 只處理 5 筆
-bun run sync --reset  # 清除進度（重新處理所有書籤）
+bun run sync
+bun run sync 5
+bun run sync --reset
 ```
 
-同步流程：抓取 X 書籤 → Claude AI 分類與整理 → 生成 markdown 文章 → 從 X 移除已處理書籤
+同步流程：
+
+```text
+X 書籤
+  -> bird CLI 抓書籤
+  -> 展開 t.co / X Article / 外部連結
+  -> Claude Haiku 分類、摘要、打分
+  -> Claude Sonnet 整理正文
+  -> 寫入 knowledge-base/{category}/{NNN}-{slug}.md
+  -> 記錄 progress / unbookmark / git commit + push
+```
 
 ## Curation Workflow
 
-網站現在採用三層內容流：
+前台現在採三層內容流：
 
-- `review`：待審文章（預設 inbox）
-- `curated`：真正想留下來回頭重看的文章
-- `archive`：低信號或暫時不想再花力氣的內容
+- `review`：待審文章，預設 `inbox`
+- `curated`：真正想回頭重看的精選內容
+- `archive`：低信號、重複、或暫時不再投入注意力的內容
 
-如果你在前台 review 頁做了一批 `待審 / 精選 / 封存` 決策，可以先匯出 JSON，再用下面指令回寫到 repo：
+文章 frontmatter 會包含：
+
+- `summary`
+- `curationStatus`
+- `usefulnessScore`
+- `noveltyScore`
+- `evergreenScore`
+- `priorityScore`
+- `curationNote`
+
+前台的 triage 操作先寫在瀏覽器 localStorage。若要把決策正式回寫到 repo：
 
 ```bash
 bun run curation:apply ./path/to/curation-export.json
 ```
 
-若要幫既有文章批次補 frontmatter、summary 與 curation scores：
+若要幫既有文章批次補 frontmatter 與 curation metadata：
 
 ```bash
 bun run curation:backfill
 ```
 
-#### Cookie 過期處理
-
-> **X Cookie 大約每 1-2 週會過期。** 過期時同步會出現 `bird bookmarks 失敗` 的錯誤。
-
-重新取得 Cookie 的步驟：
-
-1. 到 [x.com](https://x.com) 確認已登入
-2. F12 → Application → Cookies → `https://x.com`
-3. 複製新的 `auth_token` 和 `ct0` 值
-4. 更新 `x-bookmark-sync/.env`
-
-**提示**: 如果看到 `403` 或 `Unauthorized` 錯誤，通常就是 Cookie 過期了。
-
 ## 知識庫分類
+
+主要 6 類：
 
 | 分類 | 說明 |
 |------|------|
-| quant-trading | 量化交易、市場微觀結構 |
-| crypto-investing | 加密貨幣投資、週期策略 |
-| defi | DeFi 策略、LP、協議操作 |
-| ai-tools | AI 工具、Claude Code |
-| personal-finance | 個人理財、投資入門 |
-| software-engineering | 軟體工程、開發流程 |
-| lifestyle | 旅遊攻略、生活技巧 |
-| entertainment | 趣味專案 |
+| `ai-tools` | AI 工具、Claude Code、Prompt 工程、AI 開發與安全 |
+| `crypto-investing` | 加密貨幣投資哲學、週期生存、心態管理 |
+| `defi` | DeFi 策略、LP、套利、智能合約安全 |
+| `quant-trading` | 量化交易、市場微觀結構、高頻交易 |
+| `dev` | 開發工具、程式語言、軟體工程、知識管理 |
+| `lifestyle` | 旅遊、理財、生產力、娛樂、自我成長 |
+
+fallback buckets：
+
+- `uncategorized`
+- `unknown`
+
+這兩類不是主要 taxonomy，通常代表舊資料、低信號內容，或解析失敗時的回退結果。
+
+## 常見維運
+
+X Cookie 過期時，通常會出現 `bird bookmarks 失敗`、`403`、`Unauthorized`。更新 `x-bookmark-sync/.env` 內的 `X_AUTH_TOKEN` 與 `X_CT0` 即可。
+
+建站檢查：
+
+```bash
+bun run docs:build
+bun run docs:preview
+```
+
+最常見的 build 失敗原因是圖片引用錯誤，特別是文章中引用了不存在的 `../assets/...` 檔案。
 
 ## 部署
 
-推送到 `main` 分支後，GitHub Actions 會自動部署到 GitHub Pages。
-
-手動構建：
-
-```bash
-bun run docs:build    # 產出在 knowledge-base/.vitepress/dist/
-bun run docs:preview  # 預覽構建結果
-```
+推送到 `main` 分支後，GitHub Actions 會在 `knowledge-base/**` 或 `package.json` 變更時自動重建 GitHub Pages。

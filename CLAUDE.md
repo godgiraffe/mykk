@@ -7,156 +7,189 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 **Package manager: Bun（永遠使用 bun，不用 npm）**
 
 ```bash
-bun install                  # 安裝依賴
-bun run docs:dev             # 開發伺服器 http://localhost:5173/mykk/
-bun run docs:build           # 建置靜態網站 → knowledge-base/.vitepress/dist/
-bun run docs:preview         # 預覽建置結果
+bun install
+bun run docs:dev
+bun run docs:build
+bun run docs:preview
 bun run curation:apply ./path/to/curation-export.json
 bun run curation:backfill
 ```
 
-**x-bookmark-sync（X 書籤同步工具）**：
+**x-bookmark-sync（X 書籤同步工具）**
+
 ```bash
-cd x-bookmark-sync && bun install   # 安裝依賴
-bun run sync                        # 同步所有書籤
-bun run sync 5                      # 只處理 5 筆
-bun run sync --reset                # 清除進度重新開始
+cd x-bookmark-sync && bun install
+bun run sync
+bun run sync 5
+bun run sync --reset
 ```
 
 ## Architecture
 
-本專案是**個人知識管理系統**，包含兩個主要部分：
+本專案是個人知識管理系統，分成兩個主體：
 
-### knowledge-base/ — VitePress 靜態文件網站
+### knowledge-base/ — VitePress 靜態知識庫
 
-- **VitePress** 驅動，部署至 GitHub Pages（`https://godgiraffe.github.io/mykk/`）
-- `base: "/mykk/"`，`ignoreDeadLinks: true`，本地搜尋（中文化介面）
-- 導覽列：首頁 / 按讚文章（`/liked`）/ 按倒讚文章（`/disliked`）
+- 部署到 GitHub Pages：`https://godgiraffe.github.io/mykk/`
+- `base: "/mykk/"`，本地搜尋開啟，中文化介面
+- 導覽列：首頁 `/`、待審 `/review`、精選 `/curated`、封存 `/archive`
 
-**資料層**：`.vitepress/data/articles.data.ts`
-- 用 `createContentLoader("**/*.md")` 掃描所有文章，Build time 執行
-- 資料結構已擴充為 curation-aware article record，含 `summary`、`curationStatus`、`priorityScore`
-- 舊文章沒有 frontmatter 時，會做 fallback parsing 與 heuristic scoring
+**資料層**
 
-**側邊欄**：`.vitepress/sidebar.ts`
-- 掃描分類目錄，從各 MD 第一行 `#` 標題提取文章名稱，`collapsed: true`
+- `.vitepress/data/category-meta.ts`
+  - 6 個主要分類的單一來源（slug / 中文名 / 描述）
+- `.vitepress/data/article-record.ts`
+  - frontmatter 與舊文章 fallback parsing 的核心
+  - 輸出 `ArticleRecord`，含 `summary`、`curationStatus`、`priorityScore`、`curationNote`
+- `.vitepress/data/articles.data.ts`
+  - `createContentLoader("**/*.md")`
+  - 排除首頁、分類首頁、review/curated/archive 與 legacy liked/disliked 頁
+  - 排序：`date DESC -> priorityScore DESC -> number DESC -> category`
 
-**主題元件**（全域註冊於 `theme/index.ts`，`doc-after` 插槽自動插入 `ArticleCuration`）：
+**主題元件**（`theme/index.ts` 會在 `doc-after` 插入 `ArticleCuration`）
 
 | 元件 | 職責 |
 |------|------|
-| `LatestArticles` | 首頁精選優先，若尚未精選則顯示高 priority 待審文章 |
-| `CategoryList` | 首頁分類總覽表，顯示精選 / 待審 / 封存分布 |
-| `ArticleList` | 分類首頁文章列表，顯示 curation 狀態與 priority |
-| `ArticleCuration` | 每篇文章底部 triage 控制：待審 / 精選 / 封存 |
-| `CurationWorkspace` | review / curated / archive 共用工作區，支援本地覆寫與匯出 JSON |
+| `LatestArticles` | 首頁先顯示 `curated`，若尚未精選則退回高 priority `inbox` |
+| `CategoryList` | 顯示各主分類的精選 / 待審 / 封存分布 |
+| `ArticleList` | 分類首頁文章列表，附帶 curation 狀態與 priority |
+| `ArticleCuration` | 文章頁底部 triage 控制：待審 / 精選 / 封存 |
+| `CurationWorkspace` | `review` / `curated` / `archive` 共用工作台 |
 
-**Curation 系統**（`theme/composables/useCuration.ts`）：
-- `CURATION_STORAGE_KEY = "article-curation"`
-- localStorage 儲存的是瀏覽器本地 override，正式狀態仍以文章 frontmatter 為準
-- 匯出 JSON 後可用 `bun run curation:apply` 回寫 repo metadata
+**Curation 系統**
 
-### x-bookmark-sync/ — X 書籤自動歸檔工具
+- `theme/composables/useCuration.ts`
+  - localStorage key：`article-curation`
+  - 格式：`{ "/category/NNN-slug.html": { status, updatedAt } }`
+  - 這是瀏覽器本地 override，不是 repo 的正式狀態
+- `scripts/apply-curation-export.ts`
+  - 吃前台匯出的 JSON，把 `curationStatus` 回寫到文章 frontmatter
+- `scripts/backfill-curation-frontmatter.ts`
+  - 幫既有文章批次補 frontmatter、摘要、分數與 curation note
+- `scripts/curation-utils.ts`
+  - curation scripts 共用的讀寫邏輯
 
-核心流程（`src/main.ts` 主程序）：
+### x-bookmark-sync/ — X 書籤同步器
 
+主流程（`src/main.ts`）：
+
+```text
+fetchAllBookmarks()
+  -> processBookmarkContent()
+  -> classifyAndSummarize()
+  -> generateArticle()
+  -> markProcessed()
+  -> deleteBookmark()
+  -> gitCommitAndPush()
 ```
-fetchAllBookmarks()          # bird CLI 抓取 X 書籤
-  → processBookmarkContent() # 解析 t.co 短連結，取完整內容（bird read / fetch）
-  → classifyAndSummarize()   # Claude Haiku 分類 → { category, slug, title, tags, summary, scores... }
-  → generateArticle()        # 下載圖片 → Claude Sonnet 生成正文 → 寫入 MD + frontmatter
-  → markProcessed()          # 記錄進度到 .sync-progress.json
-  → deleteBookmark()         # 從 X 移除書籤
-  → gitCommitAndPush()       # 自動 commit + push
-```
 
-各模組職責：
+各模組：
 
 | 模組 | 職責 |
 |------|------|
-| `fetch-bookmarks.ts` | `bunx @steipete/bird` CLI 抓書籤；轉換 Bookmark 結構；支援刪除 |
-| `process-content.ts` | t.co 短連結解析；X 內部用 bird read，外部用 fetch |
-| `classify-article.ts` | Claude Haiku 分類，回傳 slug/title/tags/summary/curation scores |
-| `generate-markdown.ts` | 計算流水號、下載圖片、Claude Sonnet 生成文章、寫入含 frontmatter 的 MD |
-| `curation-frontmatter.ts` | frontmatter builder / parser，供同步器與 curation scripts 共用 |
-| `claude-ai.ts` | `claude -p --model` CLI wrapper，支援 haiku/sonnet，3 次重試 |
-| `progress.ts` | `.sync-progress.json` 進度追蹤，支援斷點續傳 |
+| `fetch-bookmarks.ts` | 用 `bunx @steipete/bird` 抓書籤與 unbookmark |
+| `process-content.ts` | 展開 t.co、抓 X Article、抓外部連結文字 |
+| `classify-article.ts` | Claude Haiku 分類、摘要、產生 curation scores |
+| `generate-markdown.ts` | Claude Sonnet 整理正文，寫入 Markdown + frontmatter |
+| `curation-frontmatter.ts` | frontmatter builder / parser，供同步器與 scripts 共用 |
+| `claude-ai.ts` | `claude -p --model` wrapper，含 retry |
+| `progress.ts` | `.sync-progress.json` 斷點續跑 |
 
-`.env` 需要的環境變數：
+`.env` 只需要：
+
+```bash
+X_AUTH_TOKEN=
+X_CT0=
 ```
-X_AUTH_TOKEN=   # Chrome DevTools → Application → Cookies → x.com
-X_CT0=          # 同上（每 1-2 週過期需更新）
-```
 
-### CI/CD
-- `.github/workflows/deploy.yml`：push 到 main 且 `knowledge-base/**` 有變更時自動部署
-- 也支援 `workflow_dispatch` 手動觸發
-
----
-
-## Knowledge Base 知識庫
+## Knowledge Base
 
 ### 路徑結構
 
-```
+```text
 knowledge-base/
-├── index.md               # 首頁（VitePress hero layout + CategoryList）
-├── liked.md               # 按讚文章頁（<LikedArticles />）
-├── disliked.md            # 按倒讚文章頁（<DislikedArticles />）
+├── index.md
+├── review.md
+├── curated.md
+├── archive.md
+├── liked.md              # legacy 說明頁
+├── disliked.md           # legacy 說明頁
 ├── .vitepress/
 │   ├── config.ts
 │   ├── sidebar.ts
-│   ├── data/articles.data.ts
+│   ├── data/
 │   └── theme/
-│       ├── index.ts
-│       ├── composables/useReactions.ts
-│       └── components/
-├── assets/{category}/     # 圖片，用相對路徑 ../assets/category/file 引用
+├── assets/{category}/
 └── {category}/
-    ├── index.md           # 分類首頁（<ArticleList />）
-    └── {NNN}-{slug}.md    # 文章（三位數流水號，各分類獨立計數）
+    ├── index.md
+    └── {NNN}-{slug}.md
 ```
 
-### 文章模板
+### 文章格式
+
+新文章與 backfill 後文章都應有 frontmatter：
 
 ```markdown
-# 標題（繁體中文）
-
-> **來源**: [作者/出處](URL)
-> **日期**: YYYY-MM-DD
-> **標籤**: `tag1` `tag2` `tag3`
-
+---
+title: "標題"
+date: "YYYY-MM-DD"
+tags:
+  - "tag1"
+summary: "摘要"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 61
+curationNote: "審閱提示"
+source:
+  tweetUrl: "https://x.com/..."
+  externalUrl: null
+  authorUsername: "foo"
 ---
 
-（正文）
+# 標題
 ```
 
 ### 分類管理
 
-現有 6 個分類，優先歸入現有分類：
+主要分類以 `.vitepress/data/category-meta.ts` 為準：
 
-| 分類 | 說明 |
-|------|------|
-| `ai-tools` | AI 工具、Claude Code、Prompt 工程、AI 開發 |
-| `crypto-investing` | 加密貨幣投資哲學、週期策略、心態管理 |
-| `defi` | DeFi 策略、LP、協議操作、智能合約安全 |
-| `quant-trading` | 量化交易、市場微觀結構、套利 |
-| `dev` | 軟體開發、程式語言、開發工具、知識管理 |
-| `lifestyle` | 生活技巧、個人理財、效率提升、娛樂 |
+- `ai-tools`
+- `crypto-investing`
+- `defi`
+- `quant-trading`
+- `dev`
+- `lifestyle`
 
-新增分類時：建立目錄 + `index.md`（含 `<ArticleList />`）+ 更新 `CategoryList.vue` 的 `categories` 陣列 + `articles.data.ts` 的 `categoryNames`。
+`uncategorized` 與 `unknown` 是 fallback bucket，不是主要 taxonomy。
+
+新增主要分類時需要同步更新：
+
+1. `.vitepress/data/category-meta.ts`
+2. `x-bookmark-sync/src/classify-article.ts` 的分類 prompt
+3. `knowledge-base/{category}/index.md`
 
 ### 知識庫查詢
 
-當使用者提問涉及以下主題時，先搜尋 knowledge-base/ 目錄的相關文章作為參考：
+回答使用者問題時，先依主題搜尋對應分類文章，再組合答案：
 
 | 主題 | 搜尋路徑 |
 |------|----------|
 | AI 工具、Claude Code、Prompt | `knowledge-base/ai-tools/` |
 | 加密貨幣投資、週期策略 | `knowledge-base/crypto-investing/` |
-| DeFi、LP 策略、智能合約 | `knowledge-base/defi/` |
-| 量化交易、盤口分析、套利 | `knowledge-base/quant-trading/` |
+| DeFi、LP、協議、安全 | `knowledge-base/defi/` |
+| 量化交易、套利、盤口 | `knowledge-base/quant-trading/` |
 | 軟體開發、程式語言、工具 | `knowledge-base/dev/` |
 | 生活、理財、效率、娛樂 | `knowledge-base/lifestyle/` |
 
-搜尋方式：使用 Grep 搜尋關鍵字，讀取相關文章後結合知識庫內容回答。
+搜尋方式：用 `rg` 搜關鍵字，讀相關文章後整合回答。
+
+## CI/CD
+
+- `.github/workflows/deploy.yml` 只有在以下路徑變更時才會觸發 Pages 重建：
+  - `knowledge-base/**`
+  - `package.json`
+  - `.github/workflows/deploy.yml`
+- 純改 `x-bookmark-sync/**` 或 `CLAUDE.md` 不會自動部署
+- 需要手動觸發時可用：`gh workflow run deploy.yml --repo godgiraffe/mykk`
