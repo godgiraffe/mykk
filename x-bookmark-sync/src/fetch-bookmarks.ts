@@ -57,7 +57,7 @@ export async function fetchAllBookmarks(
     "bookmarks",
     "--json",
   ];
-  if (limit) args.push("--count", String(limit));
+  args.push("--count", String(limit ?? 1000));
 
   console.log(`📚 正在抓取書籤...${limit ? ` (限制 ${limit} 筆)` : ""}\n`);
 
