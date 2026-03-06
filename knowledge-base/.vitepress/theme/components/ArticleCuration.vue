@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref } from "vue";
-import { useData } from "vitepress";
+import { useData, withBase } from "vitepress";
 import { data as allArticles, type ArticleData } from "../../data/articles.data";
 import {
   clearCuration,
@@ -18,6 +18,18 @@ const statusLabels: Record<CurationStatus, string> = {
   inbox: "待審",
   curated: "精選",
   archive: "封存",
+};
+
+const statusToneClass: Record<CurationStatus, string> = {
+  inbox: "tone-blue",
+  curated: "tone-green",
+  archive: "tone-amber",
+};
+
+const statusDeck: Record<CurationStatus, string> = {
+  inbox: "留在 review pipeline，等你蒐集更多訊號後再決定是否精選或封存。",
+  curated: "這篇會優先出現在首頁與分類列表前段，代表它值得被反覆看到。",
+  archive: "這篇會保留資料，但不再占據主要閱讀入口，適合低信號或時效已過的內容。",
 };
 
 const curationMap = ref<CurationMap>({});
@@ -38,6 +50,33 @@ const effectiveStatus = computed<CurationStatus | null>(() => {
 
 const hasLocalOverride = computed(() => Boolean(article.value && curationMap.value[article.value.url]));
 
+const workspaceUrl = computed(() => {
+  if (effectiveStatus.value === "curated") return withBase("/curated.html");
+  if (effectiveStatus.value === "archive") return withBase("/archive.html");
+  return withBase("/review.html");
+});
+
+const stateTitle = computed(() => {
+  if (!article.value) return "";
+  if (hasLocalOverride.value) return "目前是本地覆寫";
+  if (article.value.hasCommittedCuration) return "目前狀態已寫入 repo";
+  return "目前沿用文章預設值";
+});
+
+const stateCopy = computed(() => {
+  if (!article.value || !effectiveStatus.value) return "";
+
+  if (hasLocalOverride.value) {
+    return `現在顯示為 ${statusLabels[effectiveStatus.value]}。這個判斷只存在目前瀏覽器，之後可透過匯出 JSON 再回寫 repo。`;
+  }
+
+  if (article.value.hasCommittedCuration) {
+    return `frontmatter 已寫成 ${statusLabels[article.value.curationStatus]}，瀏覽器沒有額外覆寫。`;
+  }
+
+  return `目前沿用預設判斷 ${statusLabels[article.value.curationStatus]}，你可以直接在這裡調整。`;
+});
+
 function syncCuration() {
   curationMap.value = getCurationMap();
 }
@@ -52,6 +91,12 @@ function restoreDefault() {
   clearCuration(article.value.url);
 }
 
+function priorityBand(score: number) {
+  if (score >= 82) return "High Signal";
+  if (score >= 68) return "Worth Reviewing";
+  return "Lower Signal";
+}
+
 onMounted(() => {
   syncCuration();
   unsubscribe = subscribeCuration(syncCuration);
@@ -64,15 +109,32 @@ onBeforeUnmount(() => {
 
 <template>
   <div v-if="article && effectiveStatus" class="article-curation">
-    <div class="heading">
-      <div>
+    <div class="panel-top">
+      <div class="heading">
         <p class="eyebrow">Curation Desk</p>
         <h3>這篇文章要放去哪一層？</h3>
+        <p class="deck">{{ statusDeck[effectiveStatus] }}</p>
       </div>
+
       <div class="priority-chip">
         <span>AI Priority</span>
         <strong>{{ article.priorityScore }}</strong>
+        <em>{{ priorityBand(article.priorityScore) }}</em>
       </div>
+    </div>
+
+    <div class="meta-row">
+      <span :class="['pill', statusToneClass[effectiveStatus]]">
+        {{ statusLabels[effectiveStatus] }}
+      </span>
+      <span class="pill muted">{{ article.categoryName }}</span>
+      <span v-if="article.date" class="pill muted">{{ article.date }}</span>
+      <span class="pill muted">{{ article.sourceLabel }}</span>
+    </div>
+
+    <div :class="['state-banner', { override: hasLocalOverride }]">
+      <p class="state-title">{{ stateTitle }}</p>
+      <p class="state-copy">{{ stateCopy }}</p>
     </div>
 
     <div class="controls">
@@ -80,102 +142,257 @@ onBeforeUnmount(() => {
         v-for="status in ['inbox', 'curated', 'archive']"
         :key="status"
         :class="['status-button', status, { active: effectiveStatus === status }]"
+        :aria-pressed="effectiveStatus === status"
         @click="updateStatus(status as CurationStatus)"
       >
         {{ statusLabels[status as CurationStatus] }}
       </button>
     </div>
 
-    <div class="meta">
-      <span class="pill">{{ statusLabels[effectiveStatus] }}</span>
-      <span class="meta-text">
-        預設狀態：{{ statusLabels[article.curationStatus] }}
-        <template v-if="article.hasCommittedCuration"> · 已寫入文章 metadata</template>
-      </span>
-      <button v-if="hasLocalOverride" class="reset-button" @click="restoreDefault">
-        還原預設
-      </button>
+    <div class="detail-grid">
+      <section class="detail-card">
+        <p class="section-label">Summary</p>
+        <p class="summary">{{ article.summary || article.excerpt }}</p>
+        <p class="note-label">Curation Note</p>
+        <p class="note">{{ article.curationNote }}</p>
+      </section>
+
+      <section class="detail-card signal-card">
+        <p class="section-label">Signals</p>
+
+        <div class="signal-row">
+          <div class="signal-label">
+            <span>實用</span>
+            <strong>{{ article.usefulnessScore }}</strong>
+          </div>
+          <div class="signal-bar">
+            <span :style="{ width: `${article.usefulnessScore}%` }" />
+          </div>
+        </div>
+
+        <div class="signal-row">
+          <div class="signal-label">
+            <span>新穎</span>
+            <strong>{{ article.noveltyScore }}</strong>
+          </div>
+          <div class="signal-bar">
+            <span :style="{ width: `${article.noveltyScore}%` }" />
+          </div>
+        </div>
+
+        <div class="signal-row">
+          <div class="signal-label">
+            <span>常青</span>
+            <strong>{{ article.evergreenScore }}</strong>
+          </div>
+          <div class="signal-bar">
+            <span :style="{ width: `${article.evergreenScore}%` }" />
+          </div>
+        </div>
+      </section>
     </div>
 
-    <p class="summary">{{ article.summary || article.excerpt }}</p>
-    <p class="note">{{ article.curationNote }}</p>
+    <div class="action-row">
+      <button v-if="hasLocalOverride" class="action-button reset" @click="restoreDefault">
+        還原預設
+      </button>
+      <a :href="workspaceUrl" class="action-button">回工作台</a>
+      <a
+        v-if="article.sourceTweetUrl"
+        :href="article.sourceTweetUrl"
+        class="action-button"
+        target="_blank"
+        rel="noreferrer"
+      >
+        原推文
+      </a>
+      <a
+        v-if="article.sourceExternalUrl"
+        :href="article.sourceExternalUrl"
+        class="action-button"
+        target="_blank"
+        rel="noreferrer"
+      >
+        延伸來源
+      </a>
+    </div>
   </div>
 </template>
 
 <style scoped>
 .article-curation {
   margin-top: 36px;
-  padding: 20px;
-  border: 1px solid color-mix(in srgb, var(--vp-c-divider) 68%, transparent);
-  border-radius: 18px;
+  padding: 22px;
+  border: 1px solid color-mix(in srgb, var(--vp-c-divider) 72%, transparent);
+  border-radius: 24px;
   background:
-    radial-gradient(circle at top left, rgba(62, 155, 255, 0.14), transparent 34%),
-    linear-gradient(135deg, rgba(255, 255, 255, 0.04), transparent 55%),
+    radial-gradient(circle at top left, rgba(62, 155, 255, 0.16), transparent 32%),
+    linear-gradient(140deg, rgba(255, 255, 255, 0.06), transparent 52%),
     var(--vp-c-bg-soft);
+  box-shadow: 0 24px 60px -46px rgba(15, 23, 42, 0.42);
+}
+
+.panel-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
 }
 
 .heading {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  margin-bottom: 14px;
+  max-width: 640px;
 }
 
-.eyebrow {
-  margin: 0 0 4px;
+.eyebrow,
+.section-label,
+.note-label {
+  margin: 0;
   color: var(--vp-c-text-3);
-  font-size: 12px;
-  letter-spacing: 0.12em;
+  font-size: 11px;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
 }
 
 .heading h3 {
-  margin: 0;
-  font-size: 18px;
+  margin: 4px 0 0;
+  font-size: 24px;
+  line-height: 1.15;
+}
+
+.deck {
+  margin: 10px 0 0;
+  color: var(--vp-c-text-2);
+  line-height: 1.7;
 }
 
 .priority-chip {
-  display: inline-flex;
-  flex-direction: column;
-  justify-content: center;
-  min-width: 92px;
-  padding: 10px 12px;
-  border-radius: 14px;
-  background: rgba(12, 20, 31, 0.06);
+  flex: none;
+  min-width: 124px;
+  padding: 12px 14px;
+  border-radius: 18px;
+  background: rgba(15, 23, 42, 0.06);
   text-align: right;
 }
 
 .priority-chip span {
-  font-size: 11px;
+  display: block;
   color: var(--vp-c-text-3);
-  text-transform: uppercase;
+  font-size: 11px;
   letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .priority-chip strong {
-  font-size: 28px;
+  display: block;
+  margin-top: 6px;
+  font-size: 34px;
   line-height: 1;
+}
+
+.priority-chip em {
+  display: block;
+  margin-top: 6px;
+  color: var(--vp-c-text-3);
+  font-size: 11px;
+  font-style: normal;
+}
+
+.meta-row,
+.action-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.meta-row {
+  margin-top: 16px;
+}
+
+.pill {
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.pill.muted {
+  background: rgba(15, 23, 42, 0.06);
+  color: var(--vp-c-text-2);
+}
+
+.tone-blue {
+  background: rgba(62, 123, 255, 0.12);
+  color: #244ec7;
+}
+
+.tone-green {
+  background: rgba(15, 157, 116, 0.13);
+  color: #0d7758;
+}
+
+.tone-amber {
+  background: rgba(185, 99, 47, 0.14);
+  color: #9f4f1d;
+}
+
+.state-banner {
+  margin-top: 14px;
+  padding: 14px 16px;
+  border: 1px solid color-mix(in srgb, var(--vp-c-divider) 72%, transparent);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.state-banner.override {
+  border-color: rgba(15, 157, 116, 0.24);
+  background: rgba(15, 157, 116, 0.08);
+}
+
+.state-title {
+  margin: 0;
+  color: var(--vp-c-text-1);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.state-copy {
+  margin: 6px 0 0;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+  line-height: 1.65;
 }
 
 .controls {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
+  margin-top: 16px;
 }
 
-.status-button {
-  padding: 12px 14px;
+.status-button,
+.action-button {
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-2);
-  font-weight: 600;
   cursor: pointer;
-  transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+  transition:
+    transform 0.16s ease,
+    border-color 0.16s ease,
+    background 0.16s ease,
+    color 0.16s ease;
 }
 
-.status-button:hover {
+.status-button {
+  padding: 12px 14px;
+  font-weight: 700;
+}
+
+.status-button:hover,
+.action-button:hover {
   transform: translateY(-1px);
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
 }
 
 .status-button.active.inbox {
@@ -196,59 +413,113 @@ onBeforeUnmount(() => {
   color: #9f4f1d;
 }
 
-.meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 10px;
-  margin-top: 14px;
+.detail-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+  gap: 12px;
+  margin-top: 16px;
 }
 
-.pill {
-  padding: 4px 10px;
-  border-radius: 999px;
-  background: rgba(62, 123, 255, 0.12);
-  color: #244ec7;
-  font-size: 12px;
-  font-weight: 700;
+.detail-card {
+  padding: 16px;
+  border-radius: 18px;
+  background: rgba(15, 23, 42, 0.04);
 }
 
-.meta-text {
-  color: var(--vp-c-text-3);
-  font-size: 13px;
-}
-
-.reset-button {
-  padding: 0;
-  border: none;
-  background: transparent;
-  color: var(--vp-c-brand-1);
-  font-size: 13px;
-  cursor: pointer;
+.summary,
+.note {
+  margin: 0;
+  color: var(--vp-c-text-2);
+  line-height: 1.75;
 }
 
 .summary {
-  margin: 14px 0 0;
-  color: var(--vp-c-text-2);
-  line-height: 1.7;
+  margin-top: 10px;
 }
 
 .note {
-  margin: 8px 0 0;
-  color: var(--vp-c-text-3);
-  font-size: 13px;
-  line-height: 1.6;
+  margin-top: 8px;
+  font-size: 14px;
 }
 
-@media (max-width: 640px) {
-  .heading {
-    flex-direction: column;
+.note-label {
+  margin-top: 16px;
+}
+
+.signal-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.signal-row {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.signal-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  color: var(--vp-c-text-3);
+  font-size: 13px;
+}
+
+.signal-label strong {
+  color: var(--vp-c-text-1);
+}
+
+.signal-bar {
+  height: 7px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.08);
+  overflow: hidden;
+}
+
+.signal-bar span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #0f9d74, #3e7bff);
+}
+
+.action-row {
+  margin-top: 16px;
+}
+
+.action-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 13px;
+  text-decoration: none;
+}
+
+.action-button.reset {
+  color: var(--vp-c-danger-1);
+}
+
+.action-button.reset:hover {
+  border-color: var(--vp-c-danger-1);
+  color: var(--vp-c-danger-1);
+}
+
+@media (max-width: 860px) {
+  .panel-top,
+  .detail-grid {
+    grid-template-columns: 1fr;
+    display: grid;
   }
 
   .priority-chip {
-    align-self: flex-start;
-    min-width: auto;
     text-align: left;
+  }
+}
+
+@media (max-width: 640px) {
+  .article-curation {
+    padding: 18px;
   }
 
   .controls {
