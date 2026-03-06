@@ -1,3 +1,23 @@
+---
+title: "牛市機構進場：從 BTCFi 到真實資產的投資思路"
+date: "2024-11-30"
+tags: 
+  - "牛市策略"
+  - "機構進場"
+  - "BTCFi"
+summary: "深夜與朋友通話討論加密貨幣和美國市場。如果牛市有這麼多機構進場，比特幣之外最大的概念，一定不是只有 Sol 和 meme（短視頻）。meme 誰也幹不過 Doge。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wangfeng_0128/status/1862895104752820375"
+  externalUrl: null
+  authorUsername: "wangfeng_0128"
+---
+
 # 牛市機構進場：從 BTCFi 到真實資產的投資思路
 
 > **來源**: [@wangfeng_0128](https://x.com/wangfeng_0128/status/1862895104752820375)

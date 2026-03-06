@@ -1,3 +1,24 @@
+---
+title: "動態費用 AMM 設計挑戰"
+date: "2026-02-06"
+tags: 
+  - "AMM"
+  - "DeFi"
+  - "流動性提供"
+  - "挑戰賽"
+summary: "@danrobinson 與 @bqbrady 共同發起了一項挑戰，邀請各位使用者參與，創建自己的動態費用 AMM (Automated Market Maker)，並提交作品以參與排名。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/danrobinson/status/2019848425458807024"
+  externalUrl: null
+  authorUsername: "danrobinson"
+---
+
 # 動態費用 AMM 設計挑戰
 
 > **來源**: [@danrobinson](https://x.com/danrobinson/status/2019848425458807024)

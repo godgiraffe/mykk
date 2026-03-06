@@ -1,3 +1,23 @@
+---
+title: "AMM 路由算法：從圖論到凸優化問題"
+date: "2025-05-03"
+tags: 
+  - "AMM路由"
+  - "凸優化"
+  - "Bancor"
+summary: "花了一點點時間閱讀關於 AMM 路由算法的論文。之前一直以為技術上路由算法應該是圖算法的天下，但我讀的論文內認為這是一個凸優化問題，並使用 Julia 開發了一套路由求解工具。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1918627817790881936"
+  externalUrl: "https://twitter.com/wong_ssh/status/1918627817790881936/photo/1"
+  authorUsername: "wong_ssh"
+---
+
 # AMM 路由算法：從圖論到凸優化問題
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1918627817790881936) | [原文連結](https://twitter.com/wong_ssh/status/1918627817790881936/photo/1)

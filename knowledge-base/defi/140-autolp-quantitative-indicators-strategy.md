@@ -1,3 +1,23 @@
+---
+title: "AutoLP 學習筆記：量化指標在流動性管理中的應用"
+date: "2025-07-11"
+tags: 
+  - "LP策略"
+  - "量化交易"
+  - "風險管理"
+summary: "上一次考慮到單純頻繁的鑄造、撤出 LP 存在價格暴跌的無償風險,那麼結合之前我玩過二級量化的經驗 (只是小白玩家級別),加入了 MA、RSI、MACD 等指標作為量化因子,來測試一下能否減少價格下跌帶來的損失。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1943591470562419065"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # AutoLP 學習筆記：量化指標在流動性管理中的應用
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1943591470562419065)

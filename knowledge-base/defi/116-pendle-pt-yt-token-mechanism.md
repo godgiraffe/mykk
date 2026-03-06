@@ -1,3 +1,23 @@
+---
+title: "Pendle 本金代幣與收益代幣機制：PT 與 YT 的本質"
+date: "2025-08-16"
+tags: 
+  - "Pendle"
+  - "本金代幣"
+  - "收益代幣"
+summary: "本金代幣 (Principal Token - PT) 代表了資產的「確定性」。它是一張到期可兌回「標的本金」的憑證。你用今天的折價，買入一個確定的未來。PT 剝離了所有浮動的收益，只留下一個承諾：在未來，物歸原主。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1956746928546521264"
+  externalUrl: null
+  authorUsername: "agintender"
+---
+
 # Pendle 本金代幣與收益代幣機制：PT 與 YT 的本質
 
 > **來源**: [@agintender](https://x.com/agintender/status/1956746928546521264)

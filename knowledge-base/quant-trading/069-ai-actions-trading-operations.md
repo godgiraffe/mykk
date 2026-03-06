@@ -1,3 +1,23 @@
+---
+title: "交易員現在可以採取的 15 項 AI 行動"
+date: "2026-02-16"
+tags: 
+  - "AI工具"
+  - "量化交易"
+  - "運營效率"
+summary: "大多數交易員都隱約知道 AI 正在變得更強大。他們看過 ChatGPT 的炒作，也許還用它寫過一兩個 Pine Script。但很少人真正思考過這對他們日常操作的意義。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/GoshawkTrades/status/2023416757864788013"
+  externalUrl: "https://x.com/i/article/2023377654607716352"
+  authorUsername: "GoshawkTrades"
+---
+
 # 交易員現在可以採取的 15 項 AI 行動
 
 > **來源**: [@GoshawkTrades](https://x.com/GoshawkTrades/status/2023416757864788013) | [原文連結](https://x.com/i/article/2023377654607716352)

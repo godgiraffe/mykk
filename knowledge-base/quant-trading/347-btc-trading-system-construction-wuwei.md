@@ -1,3 +1,23 @@
+---
+title: "BTC 交易系統構建：華爾街頂級交易員教你抄底逃頂"
+date: "2024-12-02"
+tags: 
+  - "BTC交易"
+  - "交易系統"
+  - "技術分析"
+summary: "★ Insight ───────────────────────────────────── 1. 此文來源是 Twitter 推文，內容較為簡短，需要先用 agent-browser 抓取完整的 Twitter thread 內容才能整理 2. 從推文格式看，這是一個系列對話的第 23 期 Recap，可能包含多條推文連結 3. 應歸類到 quant-trading 分類，因為涉及交易系統構建、抄底逃頂等量化交易主題 ───────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/FC_0X0/status/1863576293373305302"
+  externalUrl: "https://twitter.com/FC_0X0/status/1863576293373305302/photo/1"
+  authorUsername: "FC_0X0"
+---
+
 # BTC 交易系統構建：華爾街頂級交易員教你抄底逃頂
 
 > **來源**: [@FC_0X0](https://x.com/FC_0X0/status/1863576293373305302) | [原文連結](https://twitter.com/FC_0X0/status/1863576293373305302/photo/1)

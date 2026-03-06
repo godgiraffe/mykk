@@ -1,3 +1,23 @@
+---
+title: "使用 Dune Analytics 免費找尋交易優勢指南"
+date: ">"
+tags: 
+  - "Dune Analytics"
+  - "資料分析"
+  - "交易工具"
+summary: "以下是關於如何使用 Dune Dashboards 提升你的交易優勢的所有必備知識。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 52
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/DeFiMinty/status/1648357029302398985"
+  externalUrl: "https://twitter.com/DeFiMinty/status/1648357029302398985/photo/1"
+  authorUsername: "DeFiMinty"
+---
+
 # 使用 Dune Analytics 免費找尋交易優勢指南
 
 > **來源**: [@DeFiMinty](https://x.com/DeFiMinty/status/1648357029302398985) | [原文連結](https://twitter.com/DeFiMinty/status/1648357029302398985/photo/1)

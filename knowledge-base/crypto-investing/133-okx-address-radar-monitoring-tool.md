@@ -1,3 +1,23 @@
+---
+title: "OKX 地址雷達監控工具評測"
+date: "2025-06-14"
+tags: 
+  - "鏈上工具"
+  - "地址監控"
+  - "項目追蹤"
+summary: "1. **完全免費** - 這是最重要的特點 2. **速度極快** - 實測基本上是即時通知 3. **多平台支援** - APP 和網頁版同步支援"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Johnze268/status/1933777350082339232"
+  externalUrl: "https://web3.okx.com/zh-hans/address-radar"
+  authorUsername: "Johnze268"
+---
+
 # OKX 地址雷達監控工具評測
 
 > **來源**: [@Johnze268](https://x.com/Johnze268/status/1933777350082339232) | [原文連結](https://web3.okx.com/zh-hans/address-radar)

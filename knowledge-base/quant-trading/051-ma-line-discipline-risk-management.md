@@ -1,3 +1,23 @@
+---
+title: "經理人的 MA 線加減碼紀律：尊重市場、控制風險的實用策略"
+date: "2025-11-28"
+tags: 
+  - "移動平均線"
+  - "加減碼策略"
+  - "風險控制"
+summary: "★ Insight ───────────────────────────────────── 成功抓取到完整的推文內容！這是一篇關於基金經理人使用移動平均線（MA）進行倉位管理的實戰策略。內容包含完整的 Q&A 對話，展示了如何透過技術指標建立交易紀律，重點是「尊重市場」而非試圖完美擇時。 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Daniel_Chang411/status/1994330350202355981"
+  externalUrl: "https://twitter.com/Daniel_Chang411/status/1994330350202355981/photo/1"
+  authorUsername: "Daniel_Chang411"
+---
+
 # 經理人的 MA 線加減碼紀律：尊重市場、控制風險的實用策略
 
 > **來源**: [@Daniel_Chang411](https://x.com/Daniel_Chang411/status/1994330350202355981) | [原文連結](https://twitter.com/Daniel_Chang411/status/1994330350202355981/photo/1)

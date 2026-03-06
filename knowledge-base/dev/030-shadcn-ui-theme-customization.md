@@ -1,3 +1,23 @@
+---
+title: "shadcn/ui 主題合集資源與定制化指南"
+date: "2025-10-27"
+tags: 
+  - "shadcn/ui"
+  - "UI 元件庫"
+  - "主題定制"
+summary: "ShadCN Themes (https://shadcnthemer.com) 是一個新的 shadcn/ui 主題合集資源平台，提供以下功能："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/vikingmute/status/1982621951630975386"
+  externalUrl: "https://shadcnthemer.com/"
+  authorUsername: "vikingmute"
+---
+
 # shadcn/ui 主題合集資源與定制化指南
 
 > **來源**: [@vikingmute](https://x.com/vikingmute/status/1982621951630975386) | [原文連結](https://shadcnthemer.com/)

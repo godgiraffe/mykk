@@ -1,3 +1,23 @@
+---
+title: "Meteora DLMM LP 區間選擇策略：資本效率與風險平衡"
+date: "2025-08-13"
+tags: 
+  - "DLMM"
+  - "流動性提供"
+  - "資本效率"
+summary: "本文是《Playing Meme with Meteora LP Strategy》系列的第二部分，主題為「選擇資本高效且相對安全的 DLMM 區間」。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xPoseidon_sol/status/1955701578280927239"
+  externalUrl: "https://twitter.com/safety/unsafe_link_warning?unsafe_link=http://again.In"
+  authorUsername: "0xPoseidon_sol"
+---
+
 # Meteora DLMM LP 區間選擇策略：資本效率與風險平衡
 
 > **來源**: [@0xPoseidon_sol](https://x.com/0xPoseidon_sol/status/1955701578280927239) | [原文連結](https://twitter.com/safety/unsafe_link_warning?unsafe_link=http://again.In)

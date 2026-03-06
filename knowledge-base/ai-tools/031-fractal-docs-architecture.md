@@ -1,3 +1,23 @@
+---
+title: "分形文檔架構：Claude Code 開發的核心知識管理方法"
+date: ">"
+tags: 
+  - "知識管理"
+  - "架構設計"
+  - "文檔組織"
+summary: "分形文檔架構是一套基於「自指」(self-reference) 和「自蔓延」(self-propagation) 原則的文檔管理方法，特別適合用於 Claude Code 等 AI 輔助的大規模開發。其核心思想是：**在每個層級維護極簡說明，標記依賴關係與對外提供，實現局部改動自動反映到整體**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Jiaxi_Cui/status/2003571839533252801"
+  externalUrl: "https://github.com/JessyTsui/ai-coding-kit/blob/master/protocols/fractal-docs.md"
+  authorUsername: "Jiaxi_Cui"
+---
+
 # 分形文檔架構：Claude Code 開發的核心知識管理方法
 
 > **來源**: [@Jiaxi_Cui](https://x.com/Jiaxi_Cui/status/2003571839533252801) | [原文連結](https://github.com/JessyTsui/ai-coding-kit/blob/master/protocols/fractal-docs.md)

@@ -1,3 +1,25 @@
+---
+title: "Anthropic Claude 配置與使用指南"
+date: "2026-01-23"
+tags: 
+  - "Anthropic"
+  - "Claude"
+  - "AI開發"
+  - "黑客松"
+  - "插件"
+summary: "本文介紹在 Anthropic 黑客松中使用 Claude 的配置方法，重點在於如何利用插件簡化設置流程，並介紹開發、測試與程式碼審查的常用指令。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bozhou_ai/status/2014618745332003183"
+  externalUrl: null
+  authorUsername: "bozhou_ai"
+---
+
 # Anthropic Claude 配置與使用指南
 
 > **來源**: [@bozhou_ai](https://x.com/bozhou_ai/status/2014618745332003183)

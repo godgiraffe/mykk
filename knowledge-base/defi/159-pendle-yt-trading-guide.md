@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 交易指南完整教學"
+date: "2025-05-19"
+tags: 
+  - "Pendle"
+  - "YT 交易"
+  - "DeFi 策略"
+summary: "這是一篇關於如何在 Pendle 上交易 YT (Yield Token) 的完整教學總結。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BTCLIN/status/1924336012635033969"
+  externalUrl: null
+  authorUsername: "BTCLIN"
+---
+
 # Pendle YT 交易指南完整教學
 
 > **來源**: [@BTCLIN](https://x.com/BTCLIN/status/1924336012635033969)

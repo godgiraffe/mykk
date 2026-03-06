@@ -1,3 +1,23 @@
+---
+title: "Pump.fun 公售配對 SOL 迷因幣放空對沖策略"
+date: ">"
+tags: 
+  - "套利策略"
+  - "Pump.fun"
+  - "SOL 生態"
+summary: "**資金配置**： 一半資金：參與公售，賭 $PUMP 會有類似 Hyper 的表現 另一半資金：視情況放空 SOL 系列迷因幣"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shawnchen_eth/status/1942604025108779390"
+  externalUrl: null
+  authorUsername: "shawnchen_eth"
+---
+
 # Pump.fun 公售配對 SOL 迷因幣放空對沖策略
 
 > **來源**: [@shawnchen_eth](https://x.com/shawnchen_eth/status/1942604025108779390)

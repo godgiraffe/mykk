@@ -1,3 +1,23 @@
+---
+title: "USUAL USD0++ Pendle 槓桿收益策略分析"
+date: ">"
+tags: 
+  - "DeFi"
+  - "Pendle"
+  - "USUAL"
+summary: "繼上篇文章推薦後，USUAL V1 正式上線。白皮書出來後立即進行程式試算驗證。今天是 USUAL 上線的第 134 天，TVL 突破了 400M 關卡，據傳又有了新一輪的融資，VC 圈搶瘋了融資超購 1 倍多。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jimcurrywang/status/1862118993043005909"
+  externalUrl: null
+  authorUsername: "jimcurrywang"
+---
+
 # USUAL USD0++ Pendle 槓桿收益策略分析
 
 > **來源**: [@jimcurrywang](https://x.com/jimcurrywang/status/1862118993043005909)

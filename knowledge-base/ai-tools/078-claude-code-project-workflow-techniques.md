@@ -1,3 +1,23 @@
+---
+title: "Claude Code 專案工作流程技巧與自動化文件生成"
+date: "2025-08-18"
+tags: 
+  - "Claude Code"
+  - "工作流程自動化"
+  - "文件生成"
+summary: "1. **生成 PRD 文檔** - 根據專案的既有程式碼，自動生成產品需求文檔（PRD）並保存"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/etanphu/status/1957592657221619919"
+  externalUrl: "https://twitter.com/etanphu/status/1957592657221619919/photo/1"
+  authorUsername: "etanphu"
+---
+
 # Claude Code 專案工作流程技巧與自動化文件生成
 
 > **來源**: [@etanphu](https://x.com/etanphu/status/1957592657221619919) | [原文連結](https://twitter.com/etanphu/status/1957592657221619919/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "Pendle Boros 策略分析"
+date: "2025-09-29"
+tags: 
+  - "Pendle"
+  - "DeFi策略"
+  - "收益農場"
+summary: "1. **技術限制**：Notion 頁面需要 JavaScript 才能載入，簡單的 HTTP 請求無法獲取完整內容 2. **工具限制**：agent-browser 工具在當前環境不可用"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/YoungBobo226/status/1972566469415444825"
+  externalUrl: "https://www.notion.so/Pendle-Boros-26ff572cdaf780a58e2cd126060d3708?source=copy_link"
+  authorUsername: "YoungBobo226"
+---
+
 # Pendle Boros 策略分析
 
 > **來源**: [@YoungBobo226](https://x.com/YoungBobo226/status/1972566469415444825) | [原文連結](https://www.notion.so/Pendle-Boros-26ff572cdaf780a58e2cd126060d3708?source=copy_link)

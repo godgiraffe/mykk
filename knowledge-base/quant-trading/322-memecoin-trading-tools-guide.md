@@ -1,3 +1,23 @@
+---
+title: "新手打狗必備三大工具指南：VBOT、XXYY、GMGN"
+date: ">"
+tags: 
+  - "迷因幣交易"
+  - "鏈上工具"
+  - "風險管理"
+summary: "**核心功能**： AI 自動解讀項目敘事 內盤階段快速判斷並買入 顯示項目籌碼結構"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhupi_eth/status/1879192385462350329"
+  externalUrl: "https://vbot.fun/#/register?ref=jGVIPsSl"
+  authorUsername: "zhupi_eth"
+---
+
 # 新手打狗必備三大工具指南：VBOT、XXYY、GMGN
 
 > **來源**: [@zhupi_eth](https://x.com/zhupi_eth/status/1879192385462350329) | [原文連結](https://vbot.fun/#/register?ref=jGVIPsSl)

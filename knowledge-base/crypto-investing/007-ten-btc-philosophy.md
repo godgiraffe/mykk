@@ -1,3 +1,25 @@
+---
+title: "十幣稱侯 — BTC 囤幣哲學"
+date: "原文 2023-11-04（BTC $34,522），2026-02-01 重發"
+tags: 
+  - "BTC"
+  - "囤幣"
+  - "Stock-to-Flow"
+  - "減半"
+  - "投資哲學"
+summary: "資產 SF 值 含義 ------ ------- ------ 黃金 62 需 62 年才能生產等量庫存 白銀 22 需 22 年 鉑金 0.4 不到半年 **BTC（減半前）** ~54 與黃金相當 **BTC（減半後）** ~108 人類歷史上最稀缺的財物"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ohyishi/status/2017829613200945157"
+  externalUrl: null
+  authorUsername: "ohyishi"
+---
+
 # 十幣稱侯 — BTC 囤幣哲學
 
 > **來源**: [Yishi (@ohyishi)](https://x.com/ohyishi/status/2017829613200945157)

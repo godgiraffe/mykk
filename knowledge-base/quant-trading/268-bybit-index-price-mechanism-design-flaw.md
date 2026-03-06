@@ -1,3 +1,23 @@
+---
+title: "Bybit 指數價格機制的設計漏洞與改進方案"
+date: ">"
+tags: 
+  - "指數計算"
+  - "市場操縱風險"
+  - "風控機制"
+summary: "2025年4月8日至4月14日期間，Bybit ZEC/USDT 合約的指數價格出現異常波動，涉及幣安(Binance)交易所價格源的多次自動剔除與重入，以及平台的人工參數調整。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sunlc_crypto/status/1911934814309269988"
+  externalUrl: null
+  authorUsername: "sunlc_crypto"
+---
+
 # Bybit 指數價格機制的設計漏洞與改進方案
 
 > **來源**: [@sunlc_crypto](https://x.com/sunlc_crypto/status/1911934814309269988)

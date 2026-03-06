@@ -1,3 +1,23 @@
+---
+title: "Claude Code 1.0.80 輸出風格控制技巧"
+date: "2025-08-13"
+tags: 
+  - "Claude Code"
+  - "輸出風格"
+  - "開發工具"
+summary: "Claude Code 1.0.80 版本包含一個未公開的指令 @agent-output-style-setup，可以啟動輸出風格設定工具，讓使用者自訂 AI 的回應風格。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/iannuttall/status/1955750903623114757"
+  externalUrl: "https://twitter.com/iannuttall/status/1955750903623114757/photo/1"
+  authorUsername: "iannuttall"
+---
+
 # Claude Code 1.0.80 輸出風格控制技巧
 
 > **來源**: [@iannuttall](https://x.com/iannuttall/status/1955750903623114757) | [原文連結](https://twitter.com/iannuttall/status/1955750903623114757/photo/1)

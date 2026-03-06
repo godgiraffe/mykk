@@ -1,3 +1,23 @@
+---
+title: "JUP 中性套利策略：現貨做多 + 期貨做空"
+date: "2025-04-26"
+tags: 
+  - "中性套利"
+  - "資金費套利"
+  - "治理代幣"
+summary: "JUP 新一輪投票又開始了,在做 JUP 套利的策略同學,千萬不要忘記了。投票地址: https://vote.jup.ag/"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Cody_DeFi/status/1916205807970226430"
+  externalUrl: "https://vote.jup.ag/"
+  authorUsername: "Cody_DeFi"
+---
+
 # JUP 中性套利策略：現貨做多 + 期貨做空
 
 > **來源**: [@Cody_DeFi](https://x.com/Cody_DeFi/status/1916205807970226430) | [原文連結](https://vote.jup.ag/)

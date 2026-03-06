@@ -1,3 +1,23 @@
+---
+title: "Pendle YT-gUSDC 牛市印鈔機：635% APR 利差交易策略"
+date: "2024-11-15"
+tags: 
+  - "Pendle"
+  - "Yield Trading"
+  - "gUSDC"
+summary: "YT-gUSDC 是 Pendle 上適合牛市的利差交易策略，目前 APR 達 635%（為期 41 天）。相比大部分人專注於 point-fi，這個策略聚焦於 Underlying Asset Yield 的收益，具有上漲潛力巨大、虧損有限的特性。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/trader_alvin/status/1857275056210215100"
+  externalUrl: null
+  authorUsername: "trader_alvin"
+---
+
 # Pendle YT-gUSDC 牛市印鈔機：635% APR 利差交易策略
 
 > **來源**: [@trader_alvin](https://x.com/trader_alvin/status/1857275056210215100)

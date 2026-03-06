@@ -1,3 +1,23 @@
+---
+title: "本週交易套利機會總覽（2025年10月）"
+date: "2025-10-06"
+tags: 
+  - "交易機會"
+  - "敘事分析"
+  - "空投機會"
+summary: "1. **x402 敘事相關代幣**：$dreams、$Payai、$Gloria"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 42
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0x0Kippon/status/1975218416601764076"
+  externalUrl: null
+  authorUsername: "0x0Kippon"
+---
+
 # 本週交易套利機會總覽（2025年10月）
 
 > **來源**: [@0x0Kippon](https://x.com/0x0Kippon/status/1975218416601764076)

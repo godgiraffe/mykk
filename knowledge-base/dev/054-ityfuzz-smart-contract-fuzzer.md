@@ -1,3 +1,23 @@
+---
+title: "ItyFuzz - 智能合約混合模糊測試工具"
+date: "2025-04-12"
+tags: 
+  - "智能合約安全"
+  - "漏洞檢測"
+  - "模糊測試"
+summary: "ItyFuzz 是一個超高速的 EVM 和 MoveVM 智能合約混合模糊測試工具（Hybrid Fuzzer），結合符號執行（Symbolic Execution）和模糊測試（Fuzzing）技術，用於鏈下和鏈上尋找智能合約漏洞。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/quant_sheep/status/1911193028498497851"
+  externalUrl: "https://github.com/fuzzland/ityfuzz"
+  authorUsername: "quant_sheep"
+---
+
 # ItyFuzz - 智能合約混合模糊測試工具
 
 > **來源**: [@quant_sheep](https://x.com/quant_sheep/status/1911193028498497851) | [原文連結](https://github.com/fuzzland/ityfuzz)

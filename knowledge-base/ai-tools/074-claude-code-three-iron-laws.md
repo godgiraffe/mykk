@@ -1,3 +1,23 @@
+---
+title: "Claude Code 入門：3 條鐵律告別代碼屎山"
+date: "2025-08-24"
+tags: 
+  - "Claude Code"
+  - "需求溝通"
+  - "代碼質量"
+summary: "涉及界面時，讓 Claude Code 用 ASCII 畫出多個方案，討論完再寫代碼。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/bourneliu66/status/1959616518771351608"
+  externalUrl: "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HKkKlWmj3M5ipTGKJr48_-JH1nNIx_wMYOuze-0L&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjQRB9B9Nt0-_5QPgq4_6TA"
+  authorUsername: "bourneliu66"
+---
+
 # Claude Code 入門：3 條鐵律告別代碼屎山
 
 > **來源**: [@bourneliu66](https://x.com/bourneliu66/status/1959616518771351608) | [原文連結](https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HKkKlWmj3M5ipTGKJr48_-JH1nNIx_wMYOuze-0L&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjQRB9B9Nt0-_5QPgq4_6TA)

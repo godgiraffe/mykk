@@ -1,3 +1,23 @@
+---
+title: "個人大腦作業系統：為 AI 代理設計檔案型上下文架構"
+date: "2026-02-21"
+tags: 
+  - "AI代理系統"
+  - "上下文工程"
+  - "知識管理"
+summary: "每次 AI 對話都以同樣方式開始。你解釋你是誰、你在做什麼、貼上你的風格指南、重新描述你的目標。你給出昨天、前天、大前天都給過的相同脈絡。然後，對話進行到 40 分鐘時，模型忘記了你的聲音，開始像新聞稿一樣寫作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/koylanai/status/2025286163641118915"
+  externalUrl: "https://x.com/i/article/2025249985722224640"
+  authorUsername: "koylanai"
+---
+
 # 個人大腦作業系統：為 AI 代理設計檔案型上下文架構
 
 > **來源**: [@koylanai](https://x.com/koylanai/status/2025286163641118915) | [原文連結](https://x.com/i/article/2025249985722224640)

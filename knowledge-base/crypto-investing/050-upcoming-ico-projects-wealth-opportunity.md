@@ -1,3 +1,23 @@
+---
+title: "掌握幣圈融資大項目 ICO 理財機會"
+date: ">"
+tags: 
+  - "ICO項目"
+  - "融資機會"
+  - "幣圈時機"
+summary: "項目 Twitter Handle ------ ---------------- Infinex @infinex Aztec Network @aztecnetwork Arc @arc Monad @monad Sentient AGI @SentientAGI Base @base"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1988927181012234508"
+  externalUrl: null
+  authorUsername: "0xleng1"
+---
+
 # 掌握幣圈融資大項目 ICO 理財機會
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1988927181012234508)

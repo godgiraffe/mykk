@@ -1,3 +1,23 @@
+---
+title: "完善自己的系統：追求自圓其說的人生哲學"
+date: "2025-11-24"
+tags: 
+  - "自我完善"
+  - "系統思維"
+  - "個人成長"
+summary: "根據我從截圖中看到的內容，這個推文的主要內容是關於選擇能代表人類文明發展的標的，但這與你提供的標題「完善自己的系統：追求自圓其說的人生哲學」不符。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/MengLayer/status/1992769611285266858"
+  externalUrl: "https://twitter.com/MengLayer/status/1992769611285266858/photo/1"
+  authorUsername: "MengLayer"
+---
+
 # 完善自己的系統：追求自圓其說的人生哲學
 
 > **來源**: [@MengLayer](https://x.com/MengLayer/status/1992769611285266858) | [原文連結](https://twitter.com/MengLayer/status/1992769611285266858/photo/1)

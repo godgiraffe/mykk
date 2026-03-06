@@ -1,3 +1,23 @@
+---
+title: "INJ 生態空投農場策略 - 低競爭高收益"
+date: "2023-12-11"
+tags: 
+  - "空投農場"
+  - "INJ 生態"
+  - "策略篩選"
+summary: "1. **價格表現強勁**：$INJ 年內漲幅達 1670%，顯示生態系統正在快速成長 2. **低競爭環境**：相較於 Solana 等熱門生態，INJ 項目的空投農場參與者較少 3. **潛在空投機會**：成長中的生態系統通常會有更多新項目發放空投"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xPepesso/status/1734214501850026114"
+  externalUrl: "https://twitter.com/0xPepesso/status/1734214501850026114/photo/1"
+  authorUsername: "0xPepesso"
+---
+
 # INJ 生態空投農場策略 - 低競爭高收益
 
 > **來源**: [@0xPepesso](https://x.com/0xPepesso/status/1734214501850026114) | [原文連結](https://twitter.com/0xPepesso/status/1734214501850026114/photo/1)

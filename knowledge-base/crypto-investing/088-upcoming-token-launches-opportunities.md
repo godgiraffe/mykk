@@ -1,3 +1,23 @@
+---
+title: "即將發幣的機會點評：OpenMind、GAIB、Brevis 等潛力項目"
+date: "2025-10-18"
+tags: 
+  - "發幣機會"
+  - "項目評析"
+  - "AI 機器人"
+summary: "Monad Megaeth Limitness Opinion Sentient GAIB OpenMind Brevis ZAMA Allora Irys Momentem Billions"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 42
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dov_wo/status/1979559922343051333"
+  externalUrl: null
+  authorUsername: "dov_wo"
+---
+
 # 即將發幣的機會點評：OpenMind、GAIB、Brevis 等潛力項目
 
 > **來源**: [@dov_wo](https://x.com/dov_wo/status/1979559922343051333)

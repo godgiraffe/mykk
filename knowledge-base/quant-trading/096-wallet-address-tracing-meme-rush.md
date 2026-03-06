@@ -1,3 +1,23 @@
+---
+title: "實戰：如何根據晒單找出交易者的錢包地址"
+date: "2025-10-17"
+tags: 
+  - "鏈上分析"
+  - "錢包追蹤"
+  - "交易工具"
+summary: "昨天李平 @liping007 發推解釋為什麼支持 Meme Rush 版重生被罵的事，在文章裡貼出了錢包的歷史記錄（如下圖），我們如何根據此歷史記錄找出他的錢包地址呢?"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x_zibu/status/1979186197055574045"
+  externalUrl: "https://x.com/i/article/1979182697449914368"
+  authorUsername: "0x_zibu"
+---
+
 # 實戰：如何根據晒單找出交易者的錢包地址
 
 > **來源**: [@0x_zibu](https://x.com/0x_zibu/status/1979186197055574045) | [原文連結](https://x.com/i/article/1979182697449914368)

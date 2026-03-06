@@ -1,3 +1,23 @@
+---
+title: "快速入門：使用代碼調用智能合約"
+date: "2025-07-06"
+tags: 
+  - "智能合約"
+  - "程式開發"
+  - "區塊鏈互動"
+summary: "1. **讀取帳號池** → 取得要使用的錢包地址和私鑰 2. **構造交易數據** → 準備要發送的交易內容（包含 data 字段） 3. **私鑰簽名** → 用私鑰對交易進行簽名 4. **通過 RPC 廣播** → 將簽名後的交易發送到區塊鏈節點 5. **等待打包確認** → 等待交易被礦工打包進區塊"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/CMhOeNnExY/status/1941821198708486361"
+  externalUrl: null
+  authorUsername: "CMhOeNnExY"
+---
+
 # 快速入門：使用代碼調用智能合約
 
 > **來源**: [@CMhOeNnExY](https://x.com/CMhOeNnExY/status/1941821198708486361)

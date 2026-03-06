@@ -1,3 +1,23 @@
+---
+title: "三個 MCP 組合提示詞：極速程式開發工作流"
+date: "2025-06-02"
+tags: 
+  - "MCP"
+  - "Prompt 工程"
+  - "Claude Code"
+summary: "分享現在使用的 prompt。這個 prompt 的來源：https://t.co/koMcfg39tY"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/kiwiflysky/status/1929561176976834742"
+  externalUrl: "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HHk6lWmjB-bfi9b_lYK4U3xEPXwkH4p1jHGEBuJi&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw7Uxu9qnm8K0LxsRfWLzMA"
+  authorUsername: "kiwiflysky"
+---
+
 # 三個 MCP 組合提示詞：極速程式開發工作流
 
 > **來源**: [@kiwiflysky](https://x.com/kiwiflysky/status/1929561176976834742) | [原文連結](https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HHk6lWmjB-bfi9b_lYK4U3xEPXwkH4p1jHGEBuJi&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw7Uxu9qnm8K0LxsRfWLzMA)

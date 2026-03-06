@@ -1,3 +1,23 @@
+---
+title: "Lighter 代幣估價與買賣策略分析"
+date: "2025-12-14"
+tags: 
+  - "代幣估價"
+  - "投資策略"
+  - "空投規劃"
+summary: "項目 數值 說明 ------ ------ ------ 代幣總量 10 億枚 已公布代幣合約確認 空投比例 25% 保守估計（原 30%，融資稀釋後調整） 空投總量 2.5 億枚 10 億 × 25% 總積分量 1,200 萬 預估聖誕節空投時數據 **積分兌換率** **20.83 枚/積分** 2.5 億 ÷ 1,200 萬 場外報價 80-83 USDT/積分 1M 資金量級的市場價格 **推算單幣價** **≈4 USDT*"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/c_dylanber/status/2000068985769873474"
+  externalUrl: null
+  authorUsername: "c_dylanber"
+---
+
 # Lighter 代幣估價與買賣策略分析
 
 > **來源**: [@c_dylanber](https://x.com/c_dylanber/status/2000068985769873474)

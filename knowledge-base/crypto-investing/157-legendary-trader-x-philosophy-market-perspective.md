@@ -1,3 +1,23 @@
+---
+title: "幣圈傳奇交易員 X 老對市場的看法"
+date: "2025-03-28"
+tags: 
+  - "交易哲學"
+  - "心態管理"
+  - "市場洞察"
+summary: "幣圈傳奇二級交易員 X 老（也就是 @qklpjeth）刪號前的最後一篇文章。以下是正文："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 63
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xFxF/status/1905710494281044078"
+  externalUrl: "https://twitter.com/MrApeV/status/1905710494281044078/photo/1"
+  authorUsername: "0xFxF"
+---
+
 # 幣圈傳奇交易員 X 老對市場的看法
 
 > **來源**: [@0xFxF](https://x.com/0xFxF/status/1905710494281044078) | [原文連結](https://twitter.com/MrApeV/status/1905710494281044078/photo/1)

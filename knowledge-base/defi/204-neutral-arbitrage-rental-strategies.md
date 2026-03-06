@@ -1,3 +1,23 @@
+---
+title: "DeFi與CeFi中性套利「收租」策略指南"
+date: "2024-12-23"
+tags: 
+  - "套利策略"
+  - "收益農耕"
+  - "對沖交易"
+summary: "才發現一年前在即刻上發過卻忘記抄送到 x，當時覺得 summer 還在，但沒想到持續了那麼久⋯所以現在來更新一版："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/re333na/status/1871037023534117149"
+  externalUrl: null
+  authorUsername: "re333na"
+---
+
 # DeFi與CeFi中性套利「收租」策略指南
 
 > **來源**: [@re333na](https://x.com/re333na/status/1871037023534117149)

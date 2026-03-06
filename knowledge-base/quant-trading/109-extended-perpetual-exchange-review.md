@@ -1,3 +1,23 @@
+---
+title: "Extended 永續合約交易所評析——Starknet 鏈的新興 Perp 王者"
+date: ">"
+tags: 
+  - "永續合約"
+  - "Starknet 生態"
+  - "交易所體驗"
+summary: "我在押注完 hype、edgex 後，一直在尋找我心中最理想的 perp 競爭者，作為我下一個重點押注的項目，感謝老天爺，我找到了 Extended。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/kiki520_eth/status/1975468591962333532"
+  externalUrl: "https://app.extended.exchange/join/PANG"
+  authorUsername: "kiki520_eth"
+---
+
 # Extended 永續合約交易所評析——Starknet 鏈的新興 Perp 王者
 
 > **來源**: [@kiki520_eth](https://x.com/kiki520_eth/status/1975468591962333532) | [原文連結](https://app.extended.exchange/join/PANG)

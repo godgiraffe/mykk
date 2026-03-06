@@ -1,3 +1,23 @@
+---
+title: "Pendle 固定收益理財局 Week 44 策略梳理"
+date: ">"
+tags: 
+  - "固定收益"
+  - "Pendle"
+  - "到期策略"
+summary: "選擇標的的三大原則： 到期時間：約 2 個月左右 收益率：符合當前市場合理水平 資質背景：協議可靠，風險可控"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/quant_sheep/status/1988913483660845319"
+  externalUrl: null
+  authorUsername: "quant_sheep"
+---
+
 # Pendle 固定收益理財局 Week 44 策略梳理
 
 > **來源**: [@quant_sheep](https://x.com/quant_sheep/status/1988913483660845319)

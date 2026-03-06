@@ -1,3 +1,23 @@
+---
+title: "Lighter 高頻交易策略原理解析：75U 本金日交易量 100 萬 U"
+date: "2025-06-18"
+tags: 
+  - "高頻交易"
+  - "延遲套利"
+  - "訂單簿微觀結構"
+summary: "在上週 Lighter 給了我 42 積分，全服 973 名，交易記錄導出只能看到前 21000 條，算不出總交易量，用戶體驗的確不怎麼樣，6 天預估就是在 600 萬 U。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1935179072642134324"
+  externalUrl: null
+  authorUsername: "Boywus"
+---
+
 # Lighter 高頻交易策略原理解析：75U 本金日交易量 100 萬 U
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1935179072642134324)

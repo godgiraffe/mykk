@@ -1,3 +1,23 @@
+---
+title: "用 GPT-4 零基礎製作 Dune 數據看板"
+date: "2023-03-26"
+tags: 
+  - "Dune分析"
+  - "GPT-4助手"
+  - "數據可視化"
+summary: "好消息是，時代變了。現在有 GPT-4 加持，新手通過自然語言對話方式，也能飛速完成自己的第一個數據看板。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1639846835404812288"
+  externalUrl: "https://dune.com/gm365/era"
+  authorUsername: "gm365"
+---
+
 # 用 GPT-4 零基礎製作 Dune 數據看板
 
 > **來源**: [@gm365](https://x.com/gm365/status/1639846835404812288) | [原文連結](https://dune.com/gm365/era)

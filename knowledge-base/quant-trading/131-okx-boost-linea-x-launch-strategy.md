@@ -1,3 +1,23 @@
+---
+title: "OKX Boost LINEA X Launch 交易策略實測指南"
+date: "2025-09-12"
+tags: 
+  - "OKX Boost"
+  - "量化交易"
+  - "空投農耕"
+summary: "OKX Boost LINEA X Launch 第一期收益：1 積分 64U，收益非常高。本文分享實測的兩種低成本、高效率刷積分策略，最大優勢是**成本更低且不用防女巫**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Ron521520/status/1966459080584970285"
+  externalUrl: "https://web3.okx.com/zh-hans/boost/trading-competition/linea"
+  authorUsername: "Ron521520"
+---
+
 # OKX Boost LINEA X Launch 交易策略實測指南
 
 > **來源**: [@Ron521520](https://x.com/Ron521520/status/1966459080584970285) | [原文連結](https://web3.okx.com/zh-hans/boost/trading-competition/linea)

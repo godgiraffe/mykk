@@ -1,3 +1,23 @@
+---
+title: "Buidlpad x Falcon Finance 打新 HODL 最佳參與路徑"
+date: "2025-09-12"
+tags: 
+  - "IDO打新"
+  - "流動性挖礦"
+  - "風險管理"
+summary: "Buidlpad 上線 @falconfinance $FF 打新，需要通過 Buidlpad 官網 HODL 處存入 3000U。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Nazarick_eth/status/1966428309493071890"
+  externalUrl: "https://www.curve.finance/dex/ethereum/pools/factory-stable-ng-391/swap"
+  authorUsername: "Nazarick_eth"
+---
+
 # Buidlpad x Falcon Finance 打新 HODL 最佳參與路徑
 
 > **來源**: [@Nazarick_eth](https://x.com/Nazarick_eth/status/1966428309493071890) | [原文連結](https://www.curve.finance/dex/ethereum/pools/factory-stable-ng-391/swap)

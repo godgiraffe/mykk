@@ -1,3 +1,23 @@
+---
+title: "Claude Code 會話分析工具（測試版）"
+date: "2025-11-01"
+tags: 
+  - "Claude Code"
+  - "效能分析"
+  - "開發工具"
+summary: "claude-code-templates 推出新功能：Claude Code 會話分析工具（Beta），可查看 Claude Code 會話的詳細執行數據。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dani_avila7/status/1984669230994747769"
+  externalUrl: null
+  authorUsername: "dani_avila7"
+---
+
 # Claude Code 會話分析工具（測試版）
 
 > **來源**: [@dani_avila7](https://x.com/dani_avila7/status/1984669230994747769)

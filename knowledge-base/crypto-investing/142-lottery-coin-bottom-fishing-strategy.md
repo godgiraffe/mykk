@@ -1,3 +1,23 @@
+---
+title: "樂透幣抄底法｜小資金翻倍策略完整指南"
+date: "2025-05-12"
+tags: 
+  - "抄底策略"
+  - "小資金"
+  - "風險管理"
+summary: "這不是亂打土狗、幾分鐘幾小時就歸零的賭博打法，而是實測有效的獲利策略——**虧有限、賺多倍，適用於所有金融資產**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/PoPi66002146/status/1921817139625001165"
+  externalUrl: null
+  authorUsername: "PoPi66002146"
+---
+
 # 樂透幣抄底法｜小資金翻倍策略完整指南
 
 > **來源**: [@PoPi66002146](https://x.com/PoPi66002146/status/1921817139625001165)

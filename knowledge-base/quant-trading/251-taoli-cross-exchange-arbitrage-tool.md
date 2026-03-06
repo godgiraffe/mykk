@@ -1,3 +1,23 @@
+---
+title: "Taoli 跨所套利面板 — 資費套利全網對比工具"
+date: "2025-04-23"
+tags: 
+  - "套利工具"
+  - "跨所對比"
+  - "資費套利"
+summary: "Taoli Tools 推出新版本的資費套利全網面板，提供跨交易所套利機會的全面監控與對比功能。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1914979678399721864"
+  externalUrl: "https://taoli.tools/"
+  authorUsername: "Boywus"
+---
+
 # Taoli 跨所套利面板 — 資費套利全網對比工具
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1914979678399721864) | [原文連結](https://taoli.tools/)

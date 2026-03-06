@@ -1,3 +1,23 @@
+---
+title: "2024～2025 年投資組合復盤：1000 萬資金配置與交易教訓"
+date: "2025-02-07"
+tags: 
+  - "投資組合管理"
+  - "風險控制"
+  - "量化套利"
+summary: "💰 為什麼說套利才是最穩的收益（月化 10%） 🚀 最沒有想到的回報居然是 JLP（收益 50%） ⚡ 山寨錢來的挺快去的也快（爆賺爆虧） 🎭 Meme 是贈給幣圈的禮物（拉新吸血）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/punk2898/status/1887779296674259308"
+  externalUrl: "https://x.com/i/article/1887764626525593604"
+  authorUsername: "punk2898"
+---
+
 # 2024～2025 年投資組合復盤：1000 萬資金配置與交易教訓
 
 > **來源**: [@punk2898](https://x.com/punk2898/status/1887779296674259308) | [原文連結](https://x.com/i/article/1887764626525593604)

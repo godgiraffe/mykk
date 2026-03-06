@@ -1,3 +1,24 @@
+---
+title: "Claude 自我學習進化技巧"
+date: "> **標籤**: `Claude` `Prompt工程` `AI技巧` `自我學習`"
+tags: 
+  - "Claude"
+  - "Prompt工程"
+  - "AI技巧"
+  - "自我學習"
+summary: "本文介紹一個讓 Claude 自我學習進化的技巧，核心概念是透過提示 Claude 將修正 bug 的經驗寫入全局記憶，避免重複犯錯。同時，也探討了如何有效管理和組織這些經驗，以優化 Claude 的性能和效率。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/vista8/status/2014401267553235123"
+  externalUrl: null
+  authorUsername: "vista8"
+---
+
 # Claude 自我學習進化技巧
 
 > **來源**: [@vista8](https://x.com/vista8/status/2014401267553235123)

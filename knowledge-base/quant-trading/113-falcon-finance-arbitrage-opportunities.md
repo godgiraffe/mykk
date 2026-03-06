@@ -1,3 +1,23 @@
+---
+title: "Falcon Finance 空投套利機會復盤"
+date: "2025-10-04"
+tags: 
+  - "空投反撸"
+  - "Pendle YT 做空"
+  - "代幣解鎖拋壓"
+summary: "空投數量普遍反映只有預期的30%左右，社區很憤怒。事後證明項目方出爾反爾，原定的7%空投實際上只有2%。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1974445281153536404"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # Falcon Finance 空投套利機會復盤
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1974445281153536404)

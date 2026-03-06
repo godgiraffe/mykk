@@ -1,3 +1,23 @@
+---
+title: "一級市場 KOL 指南與思維導圖整理"
+date: "2024-11-10"
+tags: 
+  - "一級市場"
+  - "KOL推薦"
+  - "知識管理"
+summary: "@Wilsonchen1101 @Stoiiic @thecryptoskanda @Michael_Liu93 @timotimoqi"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/leo_0s1/status/1855479320942104772"
+  externalUrl: null
+  authorUsername: "leo_0s1"
+---
+
 # 一級市場 KOL 指南與思維導圖整理
 
 > **來源**: [@leo_0s1](https://x.com/leo_0s1/status/1855479320942104772)

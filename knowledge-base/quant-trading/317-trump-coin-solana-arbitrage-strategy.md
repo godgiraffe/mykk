@@ -1,3 +1,23 @@
+---
+title: "川普幣暴跌套利實戰——Solana 搬磚機會分析"
+date: "2025-01-20"
+tags: 
+  - "套利"
+  - "搬磚"
+  - "Solana"
+summary: "昨天凌晨 5 點準備睡覺，結果川普幣二次探頂以後，鏈上發生大規模拋售，我壓根不知道發生了什麼。直到群裡有人開始喊川普老婆發幣了，我當時還沒弄明白這裡面的邏輯，但是我看見 DEX 和 CEX 的價格差距非常誇張。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1881185437383008495"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 川普幣暴跌套利實戰——Solana 搬磚機會分析
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1881185437383008495)

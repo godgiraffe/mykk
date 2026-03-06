@@ -1,3 +1,23 @@
+---
+title: "Particle $PARTI 代幣估值分析：VC 成本、基本面與套利機會"
+date: ">"
+tags: 
+  - "代幣估值"
+  - "新幣分析"
+  - "套利機會"
+summary: "每天至少做一個新幣估值，今晚的 Particle PARTI 大概是我最近一個月最 bullish 的新幣項目，目標價在哪？套利機會在哪？alpha 在哪？我們一起來看吧 ✨"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptogator1121/status/1904480490473812336"
+  externalUrl: null
+  authorUsername: "cryptogator1121"
+---
+
 # Particle $PARTI 代幣估值分析：VC 成本、基本面與套利機會
 
 > **來源**: [@cryptogator1121](https://x.com/cryptogator1121/status/1904480490473812336)

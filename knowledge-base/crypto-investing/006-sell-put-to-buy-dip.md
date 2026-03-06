@@ -1,3 +1,25 @@
+---
+title: "賣出看跌期權抄底策略（Cash Secured Put）"
+date: "2026-02-05"
+tags: 
+  - "期權"
+  - "Cash Secured Put"
+  - "抄底"
+  - "BTC"
+  - "ETH"
+summary: "心理價位是 $65,000 要建 BTC 長期倉位時： 1. **賣出** BTC $65,000 的看跌期權 2. **同時**現價掛單 $65,000 的 BTC 買單"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/2019215003057045604"
+  externalUrl: null
+  authorUsername: "Michael_Liu93"
+---
+
 # 賣出看跌期權抄底策略（Cash Secured Put）
 
 > **來源**: [憨厚的麦总 (@Michael_Liu93)](https://x.com/Michael_Liu93/status/2019215003057045604)

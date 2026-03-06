@@ -1,3 +1,23 @@
+---
+title: "HTX 資金費率套利交易實戰分享"
+date: "2025-11-16"
+tags: 
+  - "資金費率套利"
+  - "高頻交易"
+  - "現貨期貨對沖"
+summary: "**HTX**：LA 費率拉滿到 -2%，週期 4 小時 **其他交易所**：-0.3% 到 -0.9% 不等，週期 1 小時"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xZhouXiaoQi/status/1989923620530114952"
+  externalUrl: "https://twitter.com/0xZhouXiaoQi/status/1989923620530114952/photo/1"
+  authorUsername: "0xZhouXiaoQi"
+---
+
 # HTX 資金費率套利交易實戰分享
 
 > **來源**: [@0xZhouXiaoQi](https://x.com/0xZhouXiaoQi/status/1989923620530114952) | [原文連結](https://twitter.com/0xZhouXiaoQi/status/1989923620530114952/photo/1)

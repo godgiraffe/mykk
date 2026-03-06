@@ -1,3 +1,23 @@
+---
+title: "跨鏈橋接工具比較：Stargate、Relay、MemeBridge、Owl Bridge"
+date: "2024-11-09"
+tags: 
+  - "跨鏈橋接"
+  - "交易成本"
+  - "流動性"
+summary: "**特色**：基於 LayerZero 協議的跨鏈橋 **空投經驗**：使用 Stargate L0 獲得第二次空投 **連結**：https://stargate.finance"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/EvaCmore/status/1855320976038445486"
+  externalUrl: "https://stargate.finance/"
+  authorUsername: "EvaCmore"
+---
+
 # 跨鏈橋接工具比較：Stargate、Relay、MemeBridge、Owl Bridge
 
 > **來源**: [@EvaCmore](https://x.com/EvaCmore/status/1855320976038445486) | [原文連結](https://stargate.finance/)

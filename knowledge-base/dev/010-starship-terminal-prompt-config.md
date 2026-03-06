@@ -1,3 +1,23 @@
+---
+title: "Starship 終端提示符配置指南"
+date: "2025-12-05"
+tags: 
+  - "終端配置"
+  - "開發工具"
+  - "Shell提示符"
+summary: "Starship 是一個用 Rust 編寫的跨平台終端提示符（prompt）工具，具備以下特點："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hemashushu/status/1996885531058389360"
+  externalUrl: "https://starship.rs/"
+  authorUsername: "hemashushu"
+---
+
 # Starship 終端提示符配置指南
 
 > **來源**: [@hemashushu](https://x.com/hemashushu/status/1996885531058389360) | [原文連結](https://starship.rs/)

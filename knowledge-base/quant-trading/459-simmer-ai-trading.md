@@ -1,3 +1,23 @@
+---
+title: "不寫一行K線代碼，讓AI跑贏預測市場"
+date: "2026-02-22"
+tags: 
+  - "量化交易"
+  - "預測市場"
+  - "AI自動化"
+summary: "朋友圈裡那種「AI昨天幫我賺了3000刀」的截圖，只要你如果不小心點進去，最後通常只有兩條路：要麼他在賣某種神奇的私教課，要麼他在兜售一款包裝得很簡陋的GPT套殼工具。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dashen_wang/status/2025603003093577827"
+  externalUrl: "https://x.com/i/article/2025602795920093184"
+  authorUsername: "dashen_wang"
+---
+
 # 不寫一行K線代碼，讓AI跑贏預測市場
 
 > **來源**: [@dashen_wang](https://x.com/dashen_wang/status/2025603003093577827) | [原文連結](https://x.com/i/article/2025602795920093184)

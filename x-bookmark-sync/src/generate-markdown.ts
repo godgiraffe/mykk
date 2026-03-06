@@ -7,6 +7,7 @@ import { readdirSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import type { ProcessedContent } from "./process-content";
 import type { ClassifiedArticle } from "./classify-article";
+import { buildCurationFrontmatter, normalizeDate } from "./curation-frontmatter";
 
 const KB_ROOT = join(import.meta.dir, "..", "..", "knowledge-base");
 
@@ -97,7 +98,7 @@ export interface GeneratedArticle {
 }
 
 /**
- * 使用 Gemini API 生成完整的知識庫文章
+ * 使用 Claude CLI 生成完整的知識庫文章
  */
 export async function generateArticle(
   content: ProcessedContent,
@@ -118,7 +119,7 @@ export async function generateArticle(
   const tweetUrl = `https://x.com/${content.bookmark.authorUsername}/status/${content.bookmark.tweetId}`;
   const externalUrl = content.sourceUrl;
 
-  const dateStr = content.bookmark.createdAt.split("T")[0];
+  const dateStr = normalizeDate(content.bookmark.createdAt);
 
   // 用 Claude 生成文章正文
   const articleBody = await claudeGenerate(
@@ -153,7 +154,26 @@ ${content.fullContent}
     ? `> **來源**: [@${content.bookmark.authorUsername}](${tweetUrl}) | [原文連結](${externalUrl})`
     : `> **來源**: [@${content.bookmark.authorUsername}](${tweetUrl})`;
 
-  const markdown = `# ${title}
+  const frontmatter = buildCurationFrontmatter({
+    title: classification.title,
+    date: dateStr,
+    tags: classification.tags,
+    summary: classification.summary,
+    curationStatus: classification.curationStatus,
+    usefulnessScore: classification.usefulnessScore,
+    noveltyScore: classification.noveltyScore,
+    evergreenScore: classification.evergreenScore,
+    priorityScore: classification.priorityScore,
+    curationNote: classification.curationNote,
+    source: {
+      tweetUrl,
+      externalUrl,
+      authorUsername: content.bookmark.authorUsername,
+    },
+  });
+
+  const markdown = `${frontmatter}
+# ${title}
 
 ${sourceLine}
 >

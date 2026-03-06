@@ -1,3 +1,23 @@
+---
+title: "Polymarket 市場造市的數學與機器人競爭"
+date: "2026-02-21"
+tags: 
+  - "市場造市"
+  - "預測市場"
+  - "量化交易"
+summary: "2024 年初，一位匿名開發者 @defiance_cr 在 Polymarket 上建立了一個造市機器人。起始資金：$10,000。巔峰時期，每天賺 $700-800，年化報酬率約 2,700%。當時他是整個平台上僅有的「3-4 個認真的流動性提供者」之一。他對競爭環境的描述：「與傳統加密市場相比極度不發達——主要是個人交易者在點擊按鈕。」"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gemchange_ltd/status/2025313265551651240"
+  externalUrl: "https://x.com/i/article/2025291550276902912"
+  authorUsername: "gemchange_ltd"
+---
+
 # Polymarket 市場造市的數學與機器人競爭
 
 > **來源**: [@gemchange_ltd](https://x.com/gemchange_ltd/status/2025313265551651240) | [原文連結](https://x.com/i/article/2025291550276902912)

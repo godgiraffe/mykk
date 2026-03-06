@@ -1,3 +1,23 @@
+---
+title: "MegaETH 代幣銷售常見問答整理"
+date: "2025-10-26"
+tags: 
+  - "代幣銷售"
+  - "MegaETH"
+  - "投資機制"
+summary: "逛了一圈 @megaeth 的團隊成員 @0xMutopia、@hotpot_dao、@0xHeisenbruh 對這次代幣銷售的解答，總結了一些問題和答案："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xfreshguy/status/1982335738986520865"
+  externalUrl: null
+  authorUsername: "0xfreshguy"
+---
+
 # MegaETH 代幣銷售常見問答整理
 
 > **來源**: [@0xfreshguy](https://x.com/0xfreshguy/status/1982335738986520865)

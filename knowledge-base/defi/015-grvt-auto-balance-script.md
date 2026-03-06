@@ -1,3 +1,25 @@
+---
+title: "GRVT 自動平衡腳本：高槓桿策略與風險控制"
+date: "2026-01-16"
+tags: 
+  - "GRVT"
+  - "DeFi"
+  - "自動交易"
+  - "槓桿"
+  - "風險管理"
+summary: "功能 描述 -------------- -------------------------------------------------------------------------------------------------- 自動平衡 根據設定的閾值，自動在 GRVT 的 A/B 交易子帳戶間劃轉資金，維持帳戶餘額平衡。 緊急減倉 在保證金使用率過高時，自動下市價單分批進行雙邊減倉，降低風險。 Telegram 告警 提供"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 71
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/2012136028702986418"
+  externalUrl: "https://x.com/LumaoDoggie/status/1997224101715587481"
+  authorUsername: "LumaoDoggie"
+---
+
 # GRVT 自動平衡腳本：高槓桿策略與風險控制
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/2012136028702986418) | [原文連結](https://x.com/LumaoDoggie/status/1997224101715587481)

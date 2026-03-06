@@ -1,3 +1,23 @@
+---
+title: "低谷期的自我突破：孵化第三視角"
+date: ">"
+tags: 
+  - "心態管理"
+  - "自我認知"
+  - "逆境成長"
+summary: "📝 **文章結構**： 1. **核心概念總覽** - 用表格快速呈現關鍵要素 2. **為什麼需要第三視角** - 解釋認知盲區問題 3. **低谷期的獨特環境優勢** - 說明孵化條件 4. **實踐方法** - 三步驟具體行動指南 5. **突破的核心策略** - 順勢而為的方法論 6. **特殊情況** - 麻木型低谷的區別"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xPickleCati/status/2000889828179640605"
+  externalUrl: null
+  authorUsername: "0xPickleCati"
+---
+
 # 低谷期的自我突破：孵化第三視角
 
 > **來源**: [@0xPickleCati](https://x.com/0xPickleCati/status/2000889828179640605)

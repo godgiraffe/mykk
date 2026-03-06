@@ -1,3 +1,23 @@
+---
+title: "用 Claude Code 自動化週報閱讀總結工作流"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "知識管理"
+  - "工作流自動化"
+summary: "我有個習慣，平時看到好文章就隨手扔到 Obsidian Clipping 文件夾裡，也不分類，反正到週末再說。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Lessnoise365/status/1960247657374589414"
+  externalUrl: null
+  authorUsername: "Lessnoise365"
+---
+
 # 用 Claude Code 自動化週報閱讀總結工作流
 
 > **來源**: [@Lessnoise365](https://x.com/Lessnoise365/status/1960247657374589414)

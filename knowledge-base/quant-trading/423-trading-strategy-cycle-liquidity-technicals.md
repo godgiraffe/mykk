@@ -1,3 +1,23 @@
+---
+title: "交易策略完整指南：週期、流動性與技術分析的綜合運用"
+date: "2024-09-14"
+tags: 
+  - "交易策略"
+  - "流動性分析"
+  - "技術分析"
+summary: "說一下用 1 萬賺到 5000 萬退網的「半木夏」，現在用的交易策略。這是一種對週期、流動性、技術分析綜合考慮的完整策略，各位可以做個參考。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LabSpeculation/status/1834754662735790249"
+  externalUrl: null
+  authorUsername: "LabSpeculation"
+---
+
 # 交易策略完整指南：週期、流動性與技術分析的綜合運用
 
 > **來源**: [@LabSpeculation](https://x.com/LabSpeculation/status/1834754662735790249)

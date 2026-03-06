@@ -1,3 +1,23 @@
+---
+title: "買房思辨：財務自由路上的數學與夢想"
+date: "2025-06-08"
+tags: 
+  - "資產配置"
+  - "買房決策"
+  - "理財規劃"
+summary: "主要是跟女友的關係穩定,也想思考下一階段的生活規劃,畢竟擁有一個自己的家,一直是我的夢想之一。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Sean_Hsu_8194/status/1931533075990897073"
+  externalUrl: null
+  authorUsername: "Sean_Hsu_8194"
+---
+
 # 買房思辨：財務自由路上的數學與夢想
 
 > **來源**: [@Sean_Hsu_8194](https://x.com/Sean_Hsu_8194/status/1931533075990897073)

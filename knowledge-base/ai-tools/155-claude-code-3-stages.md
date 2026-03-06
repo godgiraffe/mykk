@@ -1,3 +1,23 @@
+---
+title: "Claude Code 三階段開發方法論：研究、規劃、執行"
+date: "2026-02-22"
+tags: 
+  - "Claude Code"
+  - "工作流程"
+  - "AI 協作"
+summary: "今天在 HN 看到一篇分享自己使用 Claude Code 方法的文章，很有意思。在 agent 時代，對專業工程師背景的使用者可能更有幫助，因為這種思維方式主要集中在和 Claude Code 結對編程的長會話中（目前仍然是我最喜歡的 vibe 方式）。我讓 Claude Code 總結了一下，感興趣的朋友可以看看，文章連結在總結的最末尾。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/turingou/status/2025514697861320853"
+  externalUrl: "https://research.md/"
+  authorUsername: "turingou"
+---
+
 # Claude Code 三階段開發方法論：研究、規劃、執行
 
 > **來源**: [@turingou](https://x.com/turingou/status/2025514697861320853) | [原文連結](https://research.md/)

@@ -1,3 +1,25 @@
+---
+title: "LP選標指南：如何平衡收益與風險？"
+date: "2026-01-09"
+tags: 
+  - "LP"
+  - "流動性提供"
+  - "DeFi"
+  - "風險管理"
+  - "收益"
+summary: "指標 重點 ---------- --------------------------------------------------------------------------------------------------- 合理定價 自行評估項目價值，或採取保守策略，如對沖風險。 成交量 LP收益來自交易手續費，觀察幣種的成交量，選擇活躍時段參與。 手續費率 高手續費率可能帶來高收益，但也伴隨高風險。關注平台的手續費設置，並考"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 71
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/fivepointwater5/status/2009592431583653919"
+  externalUrl: null
+  authorUsername: "fivepointwater5"
+---
+
 # LP選標指南：如何平衡收益與風險？
 
 > **來源**: [@fivepointwater5](https://x.com/fivepointwater5/status/2009592431583653919)

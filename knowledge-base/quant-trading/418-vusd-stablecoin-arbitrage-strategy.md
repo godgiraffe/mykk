@@ -1,3 +1,23 @@
+---
+title: "VUSD 穩定幣套利機會：從黑客事件到機構贖回的無風險收益"
+date: "2024-09-28"
+tags: 
+  - "穩定幣套利"
+  - "DeFi 風險事件"
+  - "機構贖回套利"
+summary: "$VUSD 穩定幣因黑客攻擊事件導致脫錨，創造了多個無風險套利機會。本文作者分享了從鏈上異動監控、抄底、LP 組池到機構贖回通道的完整套利路徑，其中有地址透過單封郵件獲得 50 萬美元以上的無風險收益。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Mirro7777/status/1840148322818109458"
+  externalUrl: null
+  authorUsername: "Mirro7777"
+---
+
 # VUSD 穩定幣套利機會：從黑客事件到機構贖回的無風險收益
 
 > **來源**: [@Mirro7777](https://x.com/Mirro7777/status/1840148322818109458)

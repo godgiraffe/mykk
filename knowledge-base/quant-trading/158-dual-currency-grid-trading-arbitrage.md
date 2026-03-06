@@ -1,3 +1,23 @@
+---
+title: "雙幣種匯率網格套利策略"
+date: ">"
+tags: 
+  - "網格交易"
+  - "套利"
+  - "BTC山寨幣"
+summary: "根據長期觀察，BTC 對山寨幣的匯率，拉開時間線來看一路上漲。基於這個觀點，我們是可以持續進行套利的。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 64
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/haogege999/status/1950928050776080390"
+  externalUrl: "https://twitter.com/haogege999/status/1950928050776080390/video/1"
+  authorUsername: "haogege999"
+---
+
 # 雙幣種匯率網格套利策略
 
 > **來源**: [@haogege999](https://x.com/haogege999/status/1950928050776080390) | [原文連結](https://twitter.com/haogege999/status/1950928050776080390/video/1)

@@ -1,3 +1,23 @@
+---
+title: "2025年存錢項目組合部署總結"
+date: ">"
+tags: 
+  - "存錢項目"
+  - "投資組合"
+  - "空投策略"
+summary: "存入：10 萬 U 購買：4 萬 U 的 YT 目前每日積分產出：約 15M 策略：YT 不打算拿到到期"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/beiyue66/status/1981210297080959172"
+  externalUrl: null
+  authorUsername: "beiyue66"
+---
+
 # 2025年存錢項目組合部署總結
 
 > **來源**: [@beiyue66](https://x.com/beiyue66/status/1981210297080959172)

@@ -1,3 +1,23 @@
+---
+title: "幣安 US 合約上市套利機會分析"
+date: "2025-12-12"
+tags: 
+  - "跨交易所套利"
+  - "現貨合約價差"
+  - "資金費率"
+summary: "項目 說明 ------ ------ **套利邏輯** 利用現貨 Launchpool 高年化 + 合約負資金費率套保 **執行平台** Bitget 現貨 + 幣安（或其他）合約 **盈利來源** Launchpool 利息收益 + 負資金費率收益 **風險點** Bitget 提現風險、跨鏈橋流動性、價格偏差"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/fivepointwater5/status/1999465556798591055"
+  externalUrl: null
+  authorUsername: "fivepointwater5"
+---
+
 # 幣安 US 合約上市套利機會分析
 
 > **來源**: [@fivepointwater5](https://x.com/fivepointwater5/status/1999465556798591055)

@@ -1,3 +1,23 @@
+---
+title: "ZEN MCP：多模型協作的 AI 編程流水線"
+date: "2025-07-09"
+tags: 
+  - "AI編程"
+  - "模型協作"
+  - "MCP"
+summary: "### 上下文天花板 再大的上下文窗口也擋不住持續膨脹的代碼庫、會議紀要、PRD。頻繁裁切與拼接讓開發者苦不堪言,錯誤和遺漏層出不窮。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xScottBTC/status/1942969350719483921"
+  externalUrl: "https://www.docker.com/products/docker-desktop/"
+  authorUsername: "0xScottBTC"
+---
+
 # ZEN MCP：多模型協作的 AI 編程流水線
 
 > **來源**: [@0xScottBTC](https://x.com/0xScottBTC/status/1942969350719483921) | [原文連結](https://www.docker.com/products/docker-desktop/)

@@ -1,3 +1,23 @@
+---
+title: "幣安合約上新時間博弈策略分析"
+date: "2024-10-25"
+tags: 
+  - "合約上新"
+  - "時間預測"
+  - "交易策略"
+summary: "下午我就猜到幣安應該還會上一個合約。因為幣安如果當天只有一個合約上新公告的話，一般都是 6-8 點發。下午 4 點上河馬（HIPPO），晚上大概率還有一個。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1849767172689756279"
+  externalUrl: "https://twitter.com/richrichardoz/status/1849767172689756279/photo/1"
+  authorUsername: "richrichardoz"
+---
+
 # 幣安合約上新時間博弈策略分析
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1849767172689756279) | [原文連結](https://twitter.com/richrichardoz/status/1849767172689756279/photo/1)

@@ -1,3 +1,24 @@
+---
+title: "code-simplifier：Claude Code 團隊開源的程式碼簡化工具"
+date: "2026-01-09"
+tags: 
+  - "Claude Code"
+  - "code-simplifier"
+  - "開源工具"
+  - "程式碼重構"
+summary: "Claude Code 團隊開源了內部使用的 **code-simplifier agent**，這是一個專門用於簡化和清理程式碼的工具，特別適合在長時間編碼後或處理複雜 PR 時使用。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bcherny/status/2009450715081789767"
+  externalUrl: null
+  authorUsername: "bcherny"
+---
+
 # code-simplifier：Claude Code 團隊開源的程式碼簡化工具
 
 > **來源**: [@bcherny](https://x.com/bcherny/status/2009450715081789767)

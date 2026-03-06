@@ -1,3 +1,23 @@
+---
+title: "底部 PVP 出本策略：翻倍時減倉 30% 的心態管理"
+date: "2024-10-05"
+tags: 
+  - "風險管理"
+  - "減倉策略"
+  - "心態管理"
+summary: "在鏈上掃幣時，底部 PVP 是無法避免的。當你在底部買入後價格翻倍時，通常會面臨兩難："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/angel_0x13/status/1842465282738278741"
+  externalUrl: null
+  authorUsername: "angel_0x13"
+---
+
 # 底部 PVP 出本策略：翻倍時減倉 30% 的心態管理
 
 > **來源**: [@angel_0x13](https://x.com/angel_0x13/status/1842465282738278741)

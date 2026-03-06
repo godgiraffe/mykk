@@ -1,3 +1,23 @@
+---
+title: "幣安投票上幣策略分析──從關聯度、營收、籌碼結構、市值四維度解讀"
+date: "2025-04-04"
+tags: 
+  - "幣安投票上幣"
+  - "交易所籌碼"
+  - "市值均衡策略"
+summary: "上周內部開會，討論到幣安過會制改註冊制，會大幅補資產，到年中前可能要放開上百個，對於未 TGE 或者 TGE 狀況不佳項目方是個絕好的機會。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/thecryptoskanda/status/1908153949724795121"
+  externalUrl: null
+  authorUsername: "thecryptoskanda"
+---
+
 # 幣安投票上幣策略分析──從關聯度、營收、籌碼結構、市值四維度解讀
 
 > **來源**: [@thecryptoskanda](https://x.com/thecryptoskanda/status/1908153949724795121)

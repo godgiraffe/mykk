@@ -1,22 +1,7 @@
 import { createContentLoader } from "vitepress";
+import { getDateWeight, parseArticleRecord, type ArticleRecord } from "./article-record";
 
-interface ArticleData {
-  title: string;
-  url: string;
-  category: string;
-  categoryName: string;
-  number: number;
-}
-
-// 分類中文名稱對照
-const categoryNames: Record<string, string> = {
-  "ai-tools": "AI 工具與應用",
-  "crypto-investing": "加密貨幣投資",
-  defi: "DeFi 策略與安全",
-  "quant-trading": "量化交易",
-  dev: "軟體開發",
-  lifestyle: "生活與效率",
-};
+export type ArticleData = ArticleRecord;
 
 export default createContentLoader("**/*.md", {
   includeSrc: true,
@@ -29,33 +14,25 @@ export default createContentLoader("**/*.md", {
           url !== "/index.html" &&
           url !== "/liked.html" &&
           url !== "/disliked.html" &&
+          url !== "/review.html" &&
+          url !== "/curated.html" &&
+          url !== "/archive.html" &&
           !url.endsWith("/") &&
           !/\/index\.html$/.test(url)
         );
       })
-      .map((page) => {
-        const url = page.url;
-        const match = url.match(/^\/([^/]+)\/(\d+)-/);
-        const category = match ? match[1] : "unknown";
-        const number = match ? parseInt(match[2], 10) : 0;
-
-        // 從 markdown 原始碼第一行 # 標題取得標題
-        const titleMatch = page.src?.match(/^#\s+(.+)/m);
-        const title =
-          page.frontmatter?.title ||
-          titleMatch?.[1]?.trim() ||
-          url.split("/").pop()?.replace(/\.html$/, "") ||
-          "";
-
-        return {
-          title,
-          url,
-          category,
-          categoryName: categoryNames[category] || category,
-          number,
-        };
-      })
+      .map((page) =>
+        parseArticleRecord({
+          url: page.url,
+          src: page.src ?? "",
+          frontmatter: (page.frontmatter ?? {}) as Record<string, unknown>,
+        }),
+      )
       .sort((a, b) => {
+        const timeA = getDateWeight(a.date);
+        const timeB = getDateWeight(b.date);
+        if (timeB !== timeA) return timeB - timeA;
+        if (b.priorityScore !== a.priorityScore) return b.priorityScore - a.priorityScore;
         if (b.number !== a.number) return b.number - a.number;
         return a.category.localeCompare(b.category);
       });

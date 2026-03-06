@@ -1,3 +1,23 @@
+---
+title: "Claude Agent Skills：第一性原理深度解析"
+date: "2025-11-24"
+tags: 
+  - "Claude Skills"
+  - "提示詞工程"
+  - "Agent 架構"
+summary: "作者使用 Claude Code 的 Skills 功能，僅用一句話「發布 xxxx(URL)」就完成了文章的自動發布流程，包含三種語言翻譯、圖片處理、自動製作封面等完整工作。以下是該系統的深度解析。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Stephen4171127/status/1992968594502668497"
+  externalUrl: "https://skills.deeptoai.com/zh/docs/ai-ml/claude-agent-skills-first-principles-deep-dive"
+  authorUsername: "Stephen4171127"
+---
+
 # Claude Agent Skills：第一性原理深度解析
 
 > **來源**: [@Stephen4171127](https://x.com/Stephen4171127/status/1992968594502668497) | [原文連結](https://skills.deeptoai.com/zh/docs/ai-ml/claude-agent-skills-first-principles-deep-dive)

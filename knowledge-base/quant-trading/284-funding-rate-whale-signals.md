@@ -1,3 +1,23 @@
+---
+title: "資金費率看莊家信號：川沐交易策略解析"
+date: "2025-03-29"
+tags: 
+  - "資金費率"
+  - "莊家信號"
+  - "合約交易"
+summary: "資金費率（Funding Rate）是永續合約市場中，多空雙方定期支付的費用。當費率為正時，多方向空方支付；當費率為負時，空方向多方支付。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xKevin00/status/1905876328278311034"
+  externalUrl: null
+  authorUsername: "0xKevin00"
+---
+
 # 資金費率看莊家信號：川沐交易策略解析
 
 > **來源**: [@0xKevin00](https://x.com/0xKevin00/status/1905876328278311034)

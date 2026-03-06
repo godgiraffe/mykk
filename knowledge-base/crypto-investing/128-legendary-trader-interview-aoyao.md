@@ -1,3 +1,23 @@
+---
+title: "傳奇交易員熬鹰：從 3000U 到 4000 萬的實盤交易之路"
+date: ">"
+tags: 
+  - "交易心態"
+  - "資金管理"
+  - "事件交易"
+summary: "看了這篇內容，這是一篇非常詳細的交易員訪談，包含了熬鷹從 3000U 到 4000 萬的完整實盤交易經歷。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/mia_okx/status/1937440133642613066"
+  externalUrl: "https://x.com/i/article/1937430859923255296"
+  authorUsername: "mia_okx"
+---
+
 # 傳奇交易員熬鹰：從 3000U 到 4000 萬的實盤交易之路
 
 > **來源**: [@mia_okx](https://x.com/mia_okx/status/1937440133642613066) | [原文連結](https://x.com/i/article/1937430859923255296)

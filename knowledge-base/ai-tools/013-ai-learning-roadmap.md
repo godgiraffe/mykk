@@ -1,3 +1,25 @@
+---
+title: "AI 學習路線圖：6-9 個月系統化學習計畫"
+date: "2026-01-09"
+tags: 
+  - "AI學習"
+  - "學習資源"
+  - "線性代數"
+  - "機器學習"
+  - "Agent"
+summary: "一位開發者分享了自己學習 AI 知識的經驗，並整理成完整的學習計劃博客文章。從數學基礎開始，逐步深入到 Agent 開發。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/vista8/status/2009298339678797919"
+  externalUrl: null
+  authorUsername: "vista8"
+---
+
 # AI 學習路線圖：6-9 個月系統化學習計畫
 
 > **來源**: [@vista8](https://x.com/vista8/status/2009298339678797919)

@@ -1,3 +1,23 @@
+---
+title: "Hyperliquid JELLY 代幣軋空事件與量化交易反思"
+date: "2025-05-07"
+tags: 
+  - "黑天鵝事件"
+  - "風險管理"
+  - "量化交易"
+summary: "作者第一次嘗試錄製 podcast,隨意閒聊分享觀點。本次討論主題為金融系統中的黑天鵝事件,特別是中國原油寶事件和 Hyperliquid 的 $JELLY 代幣軋空穿倉壞賬事件帶來的啟發。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ospopen/status/1920133046705230310"
+  externalUrl: null
+  authorUsername: "ospopen"
+---
+
 # Hyperliquid JELLY 代幣軋空事件與量化交易反思
 
 > **來源**: [@ospopen](https://x.com/ospopen/status/1920133046705230310)

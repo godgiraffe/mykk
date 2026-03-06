@@ -1,3 +1,23 @@
+---
+title: "Claude Code 開發的分形文檔架構"
+date: "2025-12-21"
+tags: 
+  - "知識管理"
+  - "文檔組織"
+  - "Claude Code"
+summary: "在 Claude Code 開發中實現**分形文檔結構**，通過多層級的自指設計，讓局部與整體相互影響，形成自我維護的文檔系統。這種架構靈感來自《哥德爾、埃舍爾、巴赫》中提到的「複調」與「自指」概念。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/chunxiangai/status/2002798091813171478"
+  externalUrl: "https://laper.ai/"
+  authorUsername: "chunxiangai"
+---
+
 # Claude Code 開發的分形文檔架構
 
 > **來源**: [@chunxiangai](https://x.com/chunxiangai/status/2002798091813171478) | [原文連結](https://laper.ai/)

@@ -1,3 +1,23 @@
+---
+title: "SKYAI IDO 預售反思：機會與心態"
+date: "2025-04-20"
+tags: 
+  - "IDO打新"
+  - "投資心態"
+  - "風險評估"
+summary: "這次 four meme @SKYAIpro 的打新，復盤下一次我們怎麼能做得更好。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yuyue_chris/status/1913883081586688331"
+  externalUrl: null
+  authorUsername: "yuyue_chris"
+---
+
 # SKYAI IDO 預售反思：機會與心態
 
 > **來源**: [@yuyue_chris](https://x.com/yuyue_chris/status/1913883081586688331)

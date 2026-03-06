@@ -1,3 +1,23 @@
+---
+title: "自底向上學習以太坊（二）：Nonce、Gas 與 RLP 編碼"
+date: "2025-10-27"
+tags: 
+  - "以太坊"
+  - "EVM"
+  - "區塊鏈開發"
+summary: "在上一篇《自底向上學習以太坊(一):從助記詞到 Calldata》中,我們介紹了助記詞、私鑰、公鑰、地址和交易的 ABI 編碼部分。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/4seasDeSoc/status/1982702762866643265"
+  externalUrl: "https://hackmd.io/@4seasstack/learneth02"
+  authorUsername: "4seasDeSoc"
+---
+
 # 自底向上學習以太坊（二）：Nonce、Gas 與 RLP 編碼
 
 > **來源**: [@4seasDeSoc](https://x.com/4seasDeSoc/status/1982702762866643265) | [原文連結](https://hackmd.io/@4seasstack/learneth02)

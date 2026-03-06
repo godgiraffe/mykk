@@ -1,3 +1,23 @@
+---
+title: "Design Prompts：30+ 網頁設計風格 Agent Prompt 集合"
+date: "2025-12-14"
+tags: 
+  - "Claude Code"
+  - "網頁設計"
+  - "Prompt 工程"
+summary: "Design Prompts：30+ 網頁設計風格 Agent Prompt 集合"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/miantiao/status/2000166814379106687"
+  externalUrl: "https://twitter.com/miantiao_me/status/2000166814379106687/photo/1"
+  authorUsername: "miantiao"
+---
+
 # Design Prompts：30+ 網頁設計風格 Agent Prompt 集合
 
 > **來源**: [@miantiao](https://x.com/miantiao/status/2000166814379106687) | [原文連結](https://twitter.com/miantiao_me/status/2000166814379106687/photo/1)

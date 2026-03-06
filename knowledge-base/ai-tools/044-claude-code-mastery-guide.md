@@ -1,3 +1,25 @@
+---
+title: "如何精通 Claude Code：從聊天機器人到真正的 AI 助手"
+date: "2026-02-14"
+tags: 
+  - "Claude Code"
+  - "AI workflow"
+  - "Memory"
+  - "Skills"
+  - "效率"
+summary: "每個 Claude Code 對話都從空白開始。你需要解釋你的專案、你的偏好設定、你的資料夾結構,然後對話結束,所有這些資訊都消失了。隔天你又要再解釋一次。這非常累人。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/DeFiMinty/status/2022470560505090071"
+  externalUrl: "https://x.com/i/article/2022397182696132617"
+  authorUsername: "DeFiMinty"
+---
+
 # 如何精通 Claude Code：從聊天機器人到真正的 AI 助手
 
 > **來源**: [@DeFiMinty](https://x.com/DeFiMinty/status/2022470560505090071) | [原文連結](https://x.com/i/article/2022397182696132617)

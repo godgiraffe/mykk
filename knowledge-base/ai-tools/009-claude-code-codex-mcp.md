@@ -1,3 +1,24 @@
+---
+title: "在 Claude Code 中透過 MCP 優雅呼叫 Codex"
+date: "2026-02-12"
+tags: 
+  - "Claude Code"
+  - "Codex"
+  - "MCP"
+  - "工具整合"
+summary: "項目 說明 ------ ------ 目標 在 Claude Code 內直接呼叫 Codex CLI 方法 透過 MCP（Model Context Protocol）整合 設定 一行指令完成 優勢 結合兩者優點，無需在工具間切換"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/discountifu/status/2021887568875598183"
+  externalUrl: "https://x.com/i/article/2021886118573273088"
+  authorUsername: "discountifu"
+---
+
 # 在 Claude Code 中透過 MCP 優雅呼叫 Codex
 
 > **來源**: [@discountifu (大夢想家迪士尼)](https://x.com/discountifu/status/2021887568875598183) | [原文連結](https://x.com/i/article/2021886118573273088)

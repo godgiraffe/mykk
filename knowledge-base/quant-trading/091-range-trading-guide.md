@@ -1,3 +1,23 @@
+---
+title: "區間交易完全指南：從辨識到執行"
+date: ">"
+tags: 
+  - "區間交易"
+  - "流動性獵殺"
+  - "技術分析"
+summary: "★ Insight ───────────────────────────────────── 這是一篇深度的區間交易教學，作者從市場結構理論到實戰執行都有完整說明 文章包含大量圖表引用（picture 1-17），需要保留這些索引以維持內容完整性 重點在於「流動性獵殺」(Liquidity Hunt) 和「偏差」(Deviation) 的執行策略 ────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CryptoPoseidonn/status/2023700879174475777"
+  externalUrl: "https://x.com/i/article/2023685988866826240"
+  authorUsername: "CryptoPoseidonn"
+---
+
 # 區間交易完全指南：從辨識到執行
 
 > **來源**: [@CryptoPoseidonn](https://x.com/CryptoPoseidonn/status/2023700879174475777) | [原文連結](https://x.com/i/article/2023685988866826240)

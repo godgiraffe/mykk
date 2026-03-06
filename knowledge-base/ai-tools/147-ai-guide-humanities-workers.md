@@ -1,3 +1,23 @@
+---
+title: "給人文工作者的 AI 使用指南"
+date: ">"
+tags: 
+  - "Prompt 工程"
+  - "AI 工作流"
+  - "內容創作"
+summary: "有的時候我感覺，那些賣人工智慧教程的號總是把 AI 當成一種魔法：給你一個神奇的 prompt，你就能做任何事兒。現實當然不是這樣。過去的一段時間裡，因為創立了 FUNES，我們必須每天大量的透過 AI 進行生產。加之還有《蜉蝣天地》、我自己的寫作等內容生產，光靠人力已經不夠了。所以我們大量的嘗試如何使用 AI 輔助我們的內容市場與人文學科研究工作。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/HanyangWang/status/2029362155607474359"
+  externalUrl: "https://x.com/i/article/2029198305767374848"
+  authorUsername: "HanyangWang"
+---
+
 # 給人文工作者的 AI 使用指南
 
 > **來源**: [@HanyangWang](https://x.com/HanyangWang/status/2029362155607474359) | [原文連結](https://x.com/i/article/2029198305767374848)

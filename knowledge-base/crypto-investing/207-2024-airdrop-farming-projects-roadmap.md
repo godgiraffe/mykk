@@ -1,3 +1,23 @@
+---
+title: "2024 年空投耕作項目藍圖"
+date: "2024-01-22"
+tags: 
+  - "空投農耕"
+  - "Layer2 生態"
+  - "跨鏈橋接"
+summary: "### Layer2 與測試網項目 **Linea** - Layer2 測試網 **Starknet** - Layer2 生態 **Zksync** - Layer2 刷量 **Layerzero** - 跨鏈協議 **Fuel** - Layer2 基礎設施"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hank06171/status/1749400811233513588"
+  externalUrl: null
+  authorUsername: "hank06171"
+---
+
 # 2024 年空投耕作項目藍圖
 
 > **來源**: [@hank06171](https://x.com/hank06171/status/1749400811233513588)

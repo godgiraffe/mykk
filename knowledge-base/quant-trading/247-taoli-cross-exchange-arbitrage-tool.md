@@ -1,3 +1,23 @@
+---
+title: "Taoli 跨所套利工具 - 開源價差發現面板"
+date: "2025-04-27"
+tags: 
+  - "套利工具"
+  - "跨所套利"
+  - "開源軟體"
+summary: "1. **跨所價差套利機會發現** - 現在支援跨交易所之間的價差套利機會發現功能"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1916526082280599799"
+  externalUrl: "https://taoli.tools/"
+  authorUsername: "Boywus"
+---
+
 # Taoli 跨所套利工具 - 開源價差發現面板
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1916526082280599799) | [原文連結](https://taoli.tools/)

@@ -1,3 +1,23 @@
+---
+title: "永續 DEX 項目分析：10 大平台積分賽季與部署進度"
+date: "2025-12-15"
+tags: 
+  - "永續 DEX"
+  - "積分賽季"
+  - "資金效率"
+summary: "本文對標主流永續 DEX 平台，根據 TVL 排名分析 10 大項目的積分賽季進度與 TGE 時程。作者重點關注「代幣化金庫」模式與自動返佣機制，並分享個人參與策略。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Dex_Jiufeite/status/2000462939934089315"
+  externalUrl: "https://x.com/Dex_Jiufeite/status/1999018305563083020"
+  authorUsername: "Dex_Jiufeite"
+---
+
 # 永續 DEX 項目分析：10 大平台積分賽季與部署進度
 
 > **來源**: [@Dex_Jiufeite](https://x.com/Dex_Jiufeite/status/2000462939934089315) | [原文連結](https://x.com/Dex_Jiufeite/status/1999018305563083020)

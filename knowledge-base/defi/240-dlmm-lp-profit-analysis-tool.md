@@ -1,3 +1,23 @@
+---
+title: "DLMM LP 獲利能力實測分析"
+date: ">"
+tags: 
+  - "DLMM"
+  - "LP策略"
+  - "手續費收益"
+summary: "按照昨晚發的帖子，在 JUP 上線前，分別選擇了兩個不同的 DLMM 的 JUP 池子："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1752913102793019796"
+  externalUrl: "https://x.com/gm365/status/1752643549601079736?s=20"
+  authorUsername: "gm365"
+---
+
 # DLMM LP 獲利能力實測分析
 
 > **來源**: [@gm365](https://x.com/gm365/status/1752913102793019796) | [原文連結](https://x.com/gm365/status/1752643549601079736?s=20)

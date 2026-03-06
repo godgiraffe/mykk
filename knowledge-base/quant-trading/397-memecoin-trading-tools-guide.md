@@ -1,3 +1,23 @@
+---
+title: "Meme幣交易工具大全：發現百倍機會"
+date: "2024-10-16"
+tags: 
+  - "Meme幣"
+  - "交易工具"
+  - "鏈上監控"
+summary: "$GOAT 市值已經突破3億美元，AI發幣都起飛了，Meme賽道熱度不能忽視！「Memecoin Super Cycle」或許不再是口嗨..."
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BiteyeCN/status/1846514717109690504"
+  externalUrl: null
+  authorUsername: "BiteyeCN"
+---
+
 # Meme幣交易工具大全：發現百倍機會
 
 > **來源**: [@BiteyeCN](https://x.com/BiteyeCN/status/1846514717109690504)

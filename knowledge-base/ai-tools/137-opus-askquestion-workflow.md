@@ -1,3 +1,23 @@
+---
+title: "Opus 4.6 開發工作流技巧：使用 askQuestionTools 提升代碼品質"
+date: "2026-02-27"
+tags: 
+  - "Claude Code"
+  - "Opus 4.6"
+  - "提示工程"
+summary: "我有個操作經驗分享給大家，你可能頭腦風暴想到一個功能，先不要急著告訴 Opus 4.6 如何做、如何完成，就算你是一個資深程式設計師😆"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ljhspurs/status/2027325155773694355"
+  externalUrl: null
+  authorUsername: "ljhspurs"
+---
+
 # Opus 4.6 開發工作流技巧：使用 askQuestionTools 提升代碼品質
 
 > **來源**: [@ljhspurs](https://x.com/ljhspurs/status/2027325155773694355)

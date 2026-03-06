@@ -1,3 +1,23 @@
+---
+title: "VC 基金評級分析：Hack VC、Paradigm、Polychain 等主流機構排名"
+date: "2024-12-29"
+tags: 
+  - "VC評級"
+  - "投資機構"
+  - "項目分析"
+summary: "### Hack VC 版本之子，已經開獎的有 Grass、Movement 表現炸裂 待開獎的有 Nillion、Eclipse、initia"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xWasFree/status/1873389008589554159"
+  externalUrl: null
+  authorUsername: "0xWasFree"
+---
+
 # VC 基金評級分析：Hack VC、Paradigm、Polychain 等主流機構排名
 
 > **來源**: [@0xWasFree](https://x.com/0xWasFree/status/1873389008589554159)

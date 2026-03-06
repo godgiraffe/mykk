@@ -1,3 +1,23 @@
+---
+title: "Hyperliquid 複製交易跟單：91% 勝率聰明錢地址分享"
+date: "2025-03-23"
+tags: 
+  - "複製交易"
+  - "合約跟單"
+  - "地址篩選"
+summary: "在 Hyperliquid 進行複製交易跟單第 11 天，分享一個勝率 91% 的聰明錢地址。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/timtung_eth/status/1903828614212399552"
+  externalUrl: "https://hyperdash.com/zh-CN/trader/0x913333c5d982290d58b6ce025d84e3b268c177d6"
+  authorUsername: "timtung_eth"
+---
+
 # Hyperliquid 複製交易跟單：91% 勝率聰明錢地址分享
 
 > **來源**: [@timtung_eth](https://x.com/timtung_eth/status/1903828614212399552) | [原文連結](https://hyperdash.com/zh-CN/trader/0x913333c5d982290d58b6ce025d84e3b268c177d6)

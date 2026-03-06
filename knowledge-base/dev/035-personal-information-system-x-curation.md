@@ -1,3 +1,23 @@
+---
+title: "打造個人資訊系統：X 推文篩選與學習策略"
+date: "2025-08-24"
+tags: 
+  - "資訊管理"
+  - "知識篩選"
+  - "推文工具"
+summary: "準備把我覺得認知超過我的人的 post，都來學習一下。找到真大佬，學習他們看事情的角度。排除干擾，找到寶藏。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1959498640919294269"
+  externalUrl: "https://twitter.com/jiahao_luo9/status/1959498640919294269/photo/1"
+  authorUsername: "0xLogicLog"
+---
+
 # 打造個人資訊系統：X 推文篩選與學習策略
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1959498640919294269) | [原文連結](https://twitter.com/jiahao_luo9/status/1959498640919294269/photo/1)

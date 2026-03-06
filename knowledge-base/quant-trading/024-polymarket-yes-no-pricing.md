@@ -1,3 +1,23 @@
+---
+title: "一文講透 Polymarket：為什麼 YES + NO 必須等於 1？"
+date: ">"
+tags: 
+  - "預測市場"
+  - "訂單簿"
+  - "套利策略"
+summary: "★ Insight ───────────────────────────────────── 這是一篇關於 Polymarket 共享訂單簿機制的深度解析文章，核心在於解釋為什麼 YES + NO 必須等於 1，以及這個設計如何影響套利策略。這類知識需要結構化整理，建議用總覽表 + 分段解說的方式呈現，讓讀者快速掌握要點。 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/DFarm_club/status/2005957218869424384"
+  externalUrl: "https://dfarm.vip/docs/yiwenjiangtou-polymarketweishenme-yes-no-bixudengyu-1/"
+  authorUsername: "DFarm_club"
+---
+
 # 一文講透 Polymarket：為什麼 YES + NO 必須等於 1？
 
 > **來源**: [@DFarm_club](https://x.com/DFarm_club/status/2005957218869424384) | [原文連結](https://dfarm.vip/docs/yiwenjiangtou-polymarketweishenme-yes-no-bixudengyu-1/)

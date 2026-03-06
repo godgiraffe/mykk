@@ -1,3 +1,23 @@
+---
+title: "個人業務Agent化指南：用AI將6小時工作壓縮至2小時"
+date: "2026-02-21"
+tags: 
+  - "AI Agent系統"
+  - "工作流自動化"
+  - "生產力優化"
+summary: "一週後的今天，這套系統已經跑通了接近 1/3，儘管這套系統還在完善，我每天的常規工作任務已經可以從 6 小時降到 2 小時，但業務產出反而提升了 300%。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xingpt/status/2025219080421277813"
+  externalUrl: "https://x.com/i/article/2025204864293412864"
+  authorUsername: "xingpt"
+---
+
 # 個人業務Agent化指南：用AI將6小時工作壓縮至2小時
 
 > **來源**: [@xingpt](https://x.com/xingpt/status/2025219080421277813) | [原文連結](https://x.com/i/article/2025204864293412864)

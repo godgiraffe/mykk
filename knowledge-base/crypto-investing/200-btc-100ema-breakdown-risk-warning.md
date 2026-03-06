@@ -1,3 +1,23 @@
+---
+title: "BTC 跌破 100 天 EMA — 風險提示與減倉策略"
+date: "2024-06-24"
+tags: 
+  - "技術分析"
+  - "風險管理"
+  - "資產配置"
+summary: "100 天 EMA 是我的減倉指標之一。從上年 10 月加密貨幣升浪開始，就只有 1 月 23 日和 4 月尾的回調跌破過。1 月是當天就立刻站回，4 月 30 日那次是用了 3 天。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xSiuwawa/status/1805061559934443811"
+  externalUrl: null
+  authorUsername: "0xSiuwawa"
+---
+
 # BTC 跌破 100 天 EMA — 風險提示與減倉策略
 
 > **來源**: [@0xSiuwawa](https://x.com/0xSiuwawa/status/1805061559934443811)

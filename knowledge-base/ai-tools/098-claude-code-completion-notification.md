@@ -1,3 +1,23 @@
+---
+title: "Claude Code 任務完成通知提示設定"
+date: "2025-07-12"
+tags: 
+  - "Claude Code"
+  - "工作效率"
+  - "系統提示"
+summary: "如果你使用 Claude Code 時經常忘記回來按 Yes 或不知道任務是否完成，可以透過 Hooks 功能添加提示音🔔"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/_kaichen/status/1944010478671606231"
+  externalUrl: "https://twitter.com/_kaichen/status/1944010478671606231/photo/1"
+  authorUsername: "_kaichen"
+---
+
 # Claude Code 任務完成通知提示設定
 
 > **來源**: [@_kaichen](https://x.com/_kaichen/status/1944010478671606231) | [原文連結](https://twitter.com/_kaichen/status/1944010478671606231/photo/1)

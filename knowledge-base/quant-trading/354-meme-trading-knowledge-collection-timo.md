@@ -1,3 +1,23 @@
+---
+title: "Meme 交易知識集合 — Timo 乾貨整理"
+date: "2024-11-27"
+tags: 
+  - "Meme 交易"
+  - "策略復盤"
+  - "市場週期"
+summary: "各位好，我整理了一下最近輸出的乾貨，因為最近多了不少新的關注者，所以希望你們有時間都能看看（乾貨也都會放在亮點裡）。如果你認為我的內容對你有所幫助，也請麻煩你幫我轉發，你的支持是我持續輸出的動力。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/timotimo007/status/1861657632047776220"
+  externalUrl: "https://x.com/timotimoqi/status/1847147614963486730"
+  authorUsername: "timotimo007"
+---
+
 # Meme 交易知識集合 — Timo 乾貨整理
 
 > **來源**: [@timotimo007](https://x.com/timotimo007/status/1861657632047776220) | [原文連結](https://x.com/timotimoqi/status/1847147614963486730)

@@ -1,3 +1,23 @@
+---
+title: "Backpack 狂暴撸分攻略：Delta 中性仓位与资金效率最大化"
+date: "2025-04-18"
+tags: 
+  - "CEX 套利"
+  - "Delta 中性策略"
+  - "資金效率"
+summary: "CEX 一直是好生意,CEX 的代幣一直是金鏟子,而今天還有機會在原有市場格局裡,殺出一條血路的標的,少之又少。把合規放在第一位,繼承了 FTX 衣缽的 Backpack 肯定算一個。"
+curationStatus: "archive"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Metabape/status/1913145309913559358"
+  externalUrl: "https://x.com/i/article/1913136536809578496"
+  authorUsername: "Metabape"
+---
+
 # Backpack 狂暴撸分攻略：Delta 中性仓位与资金效率最大化
 
 > **來源**: [@Metabape](https://x.com/Metabape/status/1913145309913559358) | [原文連結](https://x.com/i/article/1913136536809578496)

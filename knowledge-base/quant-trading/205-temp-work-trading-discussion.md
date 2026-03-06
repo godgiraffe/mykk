@@ -1,3 +1,23 @@
+---
+title: "臨時上班 - 量化交易討論"
+date: "2025-06-15"
+tags: 
+  - "Twitter Space"
+  - "量化交易"
+  - "交易心態"
+summary: "根據我抓取到的資訊，這是一個 X Spaces 語音空間，屬於錄音內容，無法直接獲取文字稿。以下是我整理的基本資訊："
+curationStatus: "archive"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1934260525220982850"
+  externalUrl: "https://twitter.com/i/spaces/1BRJjmvRXyaGw"
+  authorUsername: "zhamomo666"
+---
+
 # 臨時上班 - 量化交易討論
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1934260525220982850) | [原文連結](https://twitter.com/i/spaces/1BRJjmvRXyaGw)

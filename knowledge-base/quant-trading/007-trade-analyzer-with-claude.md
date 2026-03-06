@@ -1,3 +1,24 @@
+---
+title: "使用 Claude Code 構建交易分析工具"
+date: "2026-02-07"
+tags: 
+  - "量化交易"
+  - "交易分析"
+  - "Claude"
+  - "AI"
+summary: "本篇文章將引導您使用 Claude Code 構建屬於您自己的交易分析工具。這將賦予交易者們更深入地理解市場數據的能力，從而制定更有效的交易策略，並最終提升交易績效。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/DeFiMinty/status/2020222062279672231"
+  externalUrl: null
+  authorUsername: "DeFiMinty"
+---
+
 # 使用 Claude Code 構建交易分析工具
 
 > **來源**: [@DeFiMinty](https://x.com/DeFiMinty/status/2020222062279672231)

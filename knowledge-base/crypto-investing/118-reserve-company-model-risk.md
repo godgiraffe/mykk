@@ -1,3 +1,23 @@
+---
+title: "儲備公司模式的風險分析：傳統財技進入幣圈"
+date: "2025-07-27"
+tags: 
+  - "儲備公司"
+  - "代幣解套"
+  - "市場泡沫"
+summary: "早前 @stablecoin_x 正式成為第一家 $ENA 版的微策略,後續將以代碼 \"USDE\" 上市。消息一出,$ENA 幣價隨即大漲。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/degentalk_hk/status/1949353808355606967"
+  externalUrl: null
+  authorUsername: "degentalk_hk"
+---
+
 # 儲備公司模式的風險分析：傳統財技進入幣圈
 
 > **來源**: [@degentalk_hk](https://x.com/degentalk_hk/status/1949353808355606967)

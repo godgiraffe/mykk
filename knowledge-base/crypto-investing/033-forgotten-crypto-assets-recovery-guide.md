@@ -1,3 +1,23 @@
+---
+title: "遺忘資產追回指南：檢查閒置錢包和協議的隱藏資金"
+date: "2025-12-10"
+tags: 
+  - "資產管理"
+  - "空投領取"
+  - "DeFi機會"
+summary: "類別 檢查項目 工具/連結 ------ ---------- ----------- 關閉的 L2 網路 zkSync Lite、Polygon zkEVM 等 zkSync Lite Wallet, OKX Wallet, DeBank 未領空投 線性解鎖空投（如 Sapien） 空投查詢工具 過期 LP 流動性挖礦獎勵 LP 查詢工具 Solana 鏈資產 未領取的空投和獎勵 Jupiter 開發的查詢器 TG Bot 錢包 GM"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/tyw1984/status/1998584313470927071"
+  externalUrl: "https://lite.zksync.io/account/"
+  authorUsername: "tyw1984"
+---
+
 # 遺忘資產追回指南：檢查閒置錢包和協議的隱藏資金
 
 > **來源**: [@tyw1984](https://x.com/tyw1984/status/1998584313470927071) | [原文連結](https://lite.zksync.io/account/)

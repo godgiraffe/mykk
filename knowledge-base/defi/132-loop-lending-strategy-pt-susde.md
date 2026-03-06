@@ -1,3 +1,23 @@
+---
+title: "迴圈貸正確玩法：低風險提升資金利用效率"
+date: ">"
+tags: 
+  - "迴圈貸"
+  - "資金效率"
+  - "風險管理"
+summary: "1. 用 1M 資金買入 pt-susde 2. 借出 0.9M 的 USDT 3. 實際資金佔用只有 0.1M"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/WinForKakei/status/1950848587388043269"
+  externalUrl: null
+  authorUsername: "WinForKakei"
+---
+
 # 迴圈貸正確玩法：低風險提升資金利用效率
 
 > **來源**: [@WinForKakei](https://x.com/WinForKakei/status/1950848587388043269)

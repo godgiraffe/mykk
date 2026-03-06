@@ -1,3 +1,25 @@
+---
+title: "多巴胺與行為控制：一場自我生化實驗"
+date: "2026-01-21"
+tags: 
+  - "多巴胺"
+  - "行為科學"
+  - "自我提升"
+  - "神經科學"
+  - "心理學"
+summary: "本文作者 @chunxiangai (赵纯想) 分享了獨居創業期間對多巴胺與行為之間關係的深入探索。核心觀點認為多巴胺並非直接帶來快樂，而是影響「相信」與「失望」，進而驅動行動。作者提供透過生活習慣干預多巴胺系統，實現自我提升的實用技巧，例如利用陽光、冷水、慶祝等方式來優化多巴胺分泌，進而影響行為模式。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/chunxiangai/status/2013854869128675368"
+  externalUrl: null
+  authorUsername: "chunxiangai"
+---
+
 # 多巴胺與行為控制：一場自我生化實驗
 
 > **來源**: [@chunxiangai](https://x.com/chunxiangai/status/2013854869128675368)

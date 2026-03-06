@@ -1,3 +1,23 @@
+---
+title: "第五次資產復盤：交易風格轉變反思"
+date: "2025-04-04"
+tags: 
+  - "資產復盤"
+  - "交易心態"
+  - "風格演進"
+summary: "這次復盤的核心重點在於交易風格的轉變。雖然大盤環境對投資結果有顯著影響，但更關鍵的因素是個人交易策略和風格的調整。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CyptoForest/status/1908023227559063956"
+  externalUrl: "https://x.com/CyptoForest/status/1903997560974606692"
+  authorUsername: "CyptoForest"
+---
+
 # 第五次資產復盤：交易風格轉變反思
 
 > **來源**: [@CyptoForest](https://x.com/CyptoForest/status/1908023227559063956) | [原文連結](https://x.com/CyptoForest/status/1903997560974606692)

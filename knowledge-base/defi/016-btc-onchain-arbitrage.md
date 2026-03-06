@@ -1,3 +1,27 @@
+---
+title: "BTC 鏈上搬磚套利手冊"
+date: "2026-01-16"
+tags: 
+  - "BTC"
+  - "DeFi"
+  - "搬磚"
+  - "套利"
+  - "Coinbase"
+  - "WBTC"
+  - "CBTC"
+summary: "主題 說明 ------------------ ------------------------------------------------------------------------- 套利機會 利用 Coinbase CBTC 的紅利，在不同鏈和交易所之間搬磚套利，目標年化收益 50%+。 準備工作 Coinbase 帳號、硬體錢包、交易所及鏈上錢包白名單設定。 主要搬磚對象 WBTC，尤其關注 Arb 鏈的 WBTC/C"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/somBTC/status/2012085918421631374"
+  externalUrl: "https://x.com/i/article/2012075686857752579"
+  authorUsername: "somBTC"
+---
+
 # BTC 鏈上搬磚套利手冊
 
 > **來源**: [@somBTC](https://x.com/somBTC/status/2012085918421631374) | [原文連結](https://x.com/i/article/2012075686857752579)

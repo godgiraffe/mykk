@@ -1,3 +1,23 @@
+---
+title: "這一輪行情的財富分化——本金、信息、行動力"
+date: "2024-12-27"
+tags: 
+  - "財富分化"
+  - "投資能力"
+  - "信息差"
+summary: "這輪行情，不同人群的賺錢能力也像不同類型的山寨拉盤效應一樣分化嚴重。大多數普通韭菜可能不怎麼賺錢甚至在虧錢，而身邊的一些大佬還是永賺的，甚至賺錢速度超過了之前。我認為主要是以下幾點拉開了差距："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1872562678667096466"
+  externalUrl: null
+  authorUsername: "richrichardoz"
+---
+
 # 這一輪行情的財富分化——本金、信息、行動力
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1872562678667096466)

@@ -1,3 +1,23 @@
+---
+title: "2025 年 7-8 月交易覆盤：Alpha 新幣、野庄盤、風控心得"
+date: "2025-08-24"
+tags: 
+  - "交易覆盤"
+  - "風控管理"
+  - "Alpha 新幣"
+summary: "最近這一個月二級行情確實很好，各種東西都在漲，七月初到現在 $ETH 漲幅已經接近 100% 了，再加上 @worldlibertyfi 準備開始交易了,第一輪打的朋友高點收穫 30 多倍，所以推特上開始出現大量曬單、秀肌肉的文章，感覺很像沒有賺個 1m 就是爛咖一樣，所以應該有不少人產生價值觀的偏差、生理不適，那我這篇回顧或許可以讓很多其實已經足夠厲害的朋友不那麼焦慮 😂"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/CryptoCharming/status/1959623138997915741"
+  externalUrl: null
+  authorUsername: "CryptoCharming"
+---
+
 # 2025 年 7-8 月交易覆盤：Alpha 新幣、野庄盤、風控心得
 
 > **來源**: [@CryptoCharming](https://x.com/CryptoCharming/status/1959623138997915741)

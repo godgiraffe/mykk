@@ -1,3 +1,23 @@
+---
+title: "牛市頂點判斷與減倉策略"
+date: "2025-08-24"
+tags: 
+  - "牛市週期"
+  - "減倉管理"
+  - "風險控制"
+summary: "傳奇交易員鴿子 Eugene，以及本波傳奇 00 後方程式新聞的老闆 Vida，均發表了認為這波行情已經到了牛尾的觀點。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 50
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/_FORAB/status/1959545312982560813"
+  externalUrl: "https://twitter.com/_FORAB/status/1959545312982560813/photo/1"
+  authorUsername: "_FORAB"
+---
+
 # 牛市頂點判斷與減倉策略
 
 > **來源**: [@_FORAB](https://x.com/_FORAB/status/1959545312982560813) | [原文連結](https://twitter.com/_FORAB/status/1959545312982560813/photo/1)

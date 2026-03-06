@@ -1,3 +1,23 @@
+---
+title: "資訊套利與模因機會挖掘：多想一層的交易方法論"
+date: "2024-10-09"
+tags: 
+  - "資訊優勢"
+  - "模因交易"
+  - "機會發掘"
+summary: "剛發完這個帖子有朋友私信問我枯坐盯鏈到底該幹嘛?感覺很沒用,也不知道自己該看什麼東西。這裡多補充一句,推薦大家去養成一個習慣,看每天的市場和推上的資訊都習慣性的去多想一層,不要光看到資訊看完了就看完了,然後意識到:唉,又錯過了一個機會。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1843970085322682634"
+  externalUrl: null
+  authorUsername: "Michael_Liu93"
+---
+
 # 資訊套利與模因機會挖掘：多想一層的交易方法論
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1843970085322682634)

@@ -1,3 +1,23 @@
+---
+title: "區塊鏈主流項目發展前景與穩定幣市場分析"
+date: ">"
+tags: 
+  - "項目發展"
+  - "技術進展"
+  - "穩定幣"
+summary: "### 1. Kaspa 在 POW 架構上，一直進步的 BPS 跟 Smart contract 的開始。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Koven_the_boy/status/1749821582820991403"
+  externalUrl: null
+  authorUsername: "Koven_the_boy"
+---
+
 # 區塊鏈主流項目發展前景與穩定幣市場分析
 
 > **來源**: [@Koven_the_boy](https://x.com/Koven_the_boy/status/1749821582820991403)

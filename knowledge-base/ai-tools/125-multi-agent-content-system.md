@@ -1,3 +1,23 @@
+---
+title: "四代理內容寫作系統：用 Claude Code 自動化 X 貼文"
+date: "2026-03-02"
+tags: 
+  - "Claude Code"
+  - "代理工程"
+  - "內容自動化"
+summary: "作者建立了一個 4-agent 系統來撰寫 X 內容。只需給定主題，系統就會搜尋 X 上的相關推文、儲存研究資料、從不同的 hook 角度生成想法、以作者的語調撰寫草稿，並將其推送到 Typefully。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shannholmberg/status/2028417727661318425"
+  externalUrl: null
+  authorUsername: "shannholmberg"
+---
+
 # 四代理內容寫作系統：用 Claude Code 自動化 X 貼文
 
 > **來源**: [@shannholmberg](https://x.com/shannholmberg/status/2028417727661318425)

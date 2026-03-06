@@ -1,3 +1,23 @@
+---
+title: "Oh My OpenCode：高性能多代理開發框架"
+date: ">"
+tags: 
+  - "AI代理"
+  - "開發工具"
+  - "生產力提升"
+summary: "Oh My OpenCode 是一套專為 OpenCode（開源的 Claude Code 替代品）設計的高性能插件系統。作者投入超過 24,000 美元的 Token 費用開發，旨在提供「打了雞血的編程體驗」，被描述為「生產力核彈」。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/geekbb/status/2001541372256620796"
+  externalUrl: "https://github.com/code-yeongyu/oh-my-opencode"
+  authorUsername: "geekbb"
+---
+
 # Oh My OpenCode：高性能多代理開發框架
 
 > **來源**: [@geekbb](https://x.com/geekbb/status/2001541372256620796) | [原文連結](https://github.com/code-yeongyu/oh-my-opencode)

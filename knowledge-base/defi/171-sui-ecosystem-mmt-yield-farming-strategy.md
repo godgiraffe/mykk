@@ -1,3 +1,23 @@
+---
+title: "Sui 生態策略與 MMT 高年化挖礦實戰"
+date: "2025-04-25"
+tags: 
+  - "Sui 生態"
+  - "流動性挖礦"
+  - "收益策略"
+summary: "直接買 Sui 本幣，EMA 200 週線價格 1.6 左右，$2 以下長期倉位猛幹，梭哈,拿住。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xingpt/status/1915687265256473029"
+  externalUrl: "https://app.mmt.finance/leaderboard?refer=0O5WYC"
+  authorUsername: "xingpt"
+---
+
 # Sui 生態策略與 MMT 高年化挖礦實戰
 
 > **來源**: [@xingpt](https://x.com/xingpt/status/1915687265256473029) | [原文連結](https://app.mmt.finance/leaderboard?refer=0O5WYC)

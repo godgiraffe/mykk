@@ -1,3 +1,23 @@
+---
+title: "Pumpfun 掃鏈工具完全指南及 Memecoin 交易方法論"
+date: "2025-01-10"
+tags: 
+  - "掃鏈工具"
+  - "Memecoin 交易"
+  - "鏈上監控"
+summary: "Sol Pump 內盤創造了很多百倍千倍神話，但如何利用工具和鏈上分析抓住 Alpha，這是很多人不會去思考的。一味的 Follow 跟單只會讓你虧麻，所以不要相信任何喊單包括我，都是為了各自的 bag，可能區別就是有些人喊完不好意思出最後甚至還虧錢（我是這種），有些人喊了就砸，沒有思想包袱。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xixikawaii/status/1877547577996095905"
+  externalUrl: "https://t.me/GMGN_sol_bot?start=i_QXw2uGWZ"
+  authorUsername: "xixikawaii"
+---
+
 # Pumpfun 掃鏈工具完全指南及 Memecoin 交易方法論
 
 > **來源**: [@xixikawaii](https://x.com/xixikawaii/status/1877547577996095905) | [原文連結](https://t.me/GMGN_sol_bot?start=i_QXw2uGWZ)

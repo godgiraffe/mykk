@@ -1,3 +1,23 @@
+---
+title: "Variational.io 虧損返還機制深度解析與套利策略"
+date: "2025-11-12"
+tags: 
+  - "虧損返還"
+  - "套利策略"
+  - "風險管理"
+summary: "池子资金来源： - 用户每笔交易点差利润的一部分自动转入 - 官方每天手动补充 池子合约地址：0xc4775613...e021c4544（Arbitrum One） 交易记录透明：可查看每笔 OLP 点差利润流入和用户亏损返还"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 60
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Metabape/status/1988648519776047414"
+  externalUrl: "https://arbiscan.io/address/0xc47756133753280c37b227c24782984e021c4544#tokentxns"
+  authorUsername: "Metabape"
+---
+
 # Variational.io 虧損返還機制深度解析與套利策略
 
 > **來源**: [@Metabape](https://x.com/Metabape/status/1988648519776047414) | [原文連結](https://arbiscan.io/address/0xc47756133753280c37b227c24782984e021c4544#tokentxns)

@@ -1,3 +1,23 @@
+---
+title: "Meme 作為加密市場殺手級應用：從普及到滲透的周期分析"
+date: "2024-11-30"
+tags: 
+  - "Meme 代幣"
+  - "市場周期"
+  - "流量經濟"
+summary: "1. 加密行業是否已經迎來了大規模普及（Mass Adoption）？ 2. Meme會不會成為打開加密市場大規模滲透（Mass Penetration）的殺手級應用？Meme賽道的底層邏輯到底是什麼？ 3. 今天的Meme市場大致處於週期的哪個階段？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1862765029457895882"
+  externalUrl: "https://pump.fun/"
+  authorUsername: "Michael_Liu93"
+---
+
 # Meme 作為加密市場殺手級應用：從普及到滲透的周期分析
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1862765029457895882) | [原文連結](https://pump.fun/)

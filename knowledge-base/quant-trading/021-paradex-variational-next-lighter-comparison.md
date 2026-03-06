@@ -1,3 +1,23 @@
+---
+title: "Paradex 和 Variational：下一個 Lighter 的領跑者"
+date: ">"
+tags: 
+  - "永續期貨"
+  - "套利機會"
+  - "生態分析"
+summary: "項目 Paradex Variational ------ --------- ------------- **定位** Lighter 模式的即時複刻 Lighter 早期階段的翻版 **成長階段** 快速擴張，OI 已達 Lighter 的 50% 健康成長曲線，靜默吸引大資金 **核心優勢** 零手續費、隱私、創新、精英代幣經濟學 巨量交易增長、清晰激勵設計、點數機制完美對齊 **一月預期** 指標翻倍或三倍不意外 在主流發現前持"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Akriixx/status/2006676272676495589"
+  externalUrl: null
+  authorUsername: "Akriixx"
+---
+
 # Paradex 和 Variational：下一個 Lighter 的領跑者
 
 > **來源**: [@Akriixx](https://x.com/Akriixx/status/2006676272676495589)

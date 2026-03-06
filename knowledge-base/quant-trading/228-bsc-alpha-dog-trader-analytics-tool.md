@@ -1,3 +1,23 @@
+---
+title: "BSC Alpha.DOG 交易分析工具 — 多帳戶管理與績效追蹤"
+date: ">"
+tags: 
+  - "交易分析"
+  - "BSC鏈上交易"
+  - "多帳戶管理"
+summary: "Alpha.DOG 是專為幣安 Alpha 交易員設計的 BSC 交易分析工具，提供每日積分查看和交易損耗追蹤功能。新版本支援批量地址管理和備註功能。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhengqiangli/status/1924904723964166660"
+  externalUrl: "https://a.getall.io/"
+  authorUsername: "zhengqiangli"
+---
+
 # BSC Alpha.DOG 交易分析工具 — 多帳戶管理與績效追蹤
 
 > **來源**: [@zhengqiangli](https://x.com/zhengqiangli/status/1924904723964166660) | [原文連結](https://a.getall.io/)

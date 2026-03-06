@@ -1,3 +1,23 @@
+---
+title: "訂單流與資訊優勢：預測市場中的交易策略"
+date: ">"
+tags: 
+  - "訂單流"
+  - "盤口微觀結構"
+  - "資訊優勢"
+summary: "在預測市場中，主動吃單交易者更可能擁有資訊優勢，以至於願意付出買賣價差快速進入持倉。相反的，掛單方通常不知道市場流動方向而把限價單放在訂單簿上。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 63
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/buckyandlucky/status/1935725464448123299"
+  externalUrl: "https://twitter.com/buckyandlucky/status/1935725464448123299/photo/1"
+  authorUsername: "buckyandlucky"
+---
+
 # 訂單流與資訊優勢：預測市場中的交易策略
 
 > **來源**: [@buckyandlucky](https://x.com/buckyandlucky/status/1935725464448123299) | [原文連結](https://twitter.com/buckyandlucky/status/1935725464448123299/photo/1)

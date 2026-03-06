@@ -1,3 +1,23 @@
+---
+title: "流動性挖礦的莊家操縱與套利陷阱"
+date: "2025-06-06"
+tags: 
+  - "流動性挖礦"
+  - "DEX套利"
+  - "莊家割韭菜"
+summary: "**添加方法的選擇** **莊家吸籌手法** **單邊流動性控籌** **故意設置高 LP 回報率來割韭菜套利者** **利用 DEX 搬磚吃掉套利潤**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 54
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1930989736577106267"
+  externalUrl: "https://twitter.com/safety/unsafe_link_warning?unsafe_link=https://blog-blockchain.xyz/career/crypto-beyond-alpha-and-manipulation/"
+  authorUsername: "0xLogicLog"
+---
+
 # 流動性挖礦的莊家操縱與套利陷阱
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1930989736577106267) | [原文連結](https://twitter.com/safety/unsafe_link_warning?unsafe_link=https://blog-blockchain.xyz/career/crypto-beyond-alpha-and-manipulation/)

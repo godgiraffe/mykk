@@ -1,3 +1,23 @@
+---
+title: "跨鏈搬磚套利策略——多鏈流動性差異機會"
+date: "2024-12-01"
+tags: 
+  - "跨鏈套利"
+  - "搬磚"
+  - "流動性"
+summary: "目前市場跨鏈搬磚還是有點空間的。因為很多幣交易所沒有上線，但是各個鏈之間有很大池子。手動自動均可以搬磚。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1863049663496258007"
+  externalUrl: null
+  authorUsername: "zhamomo666"
+---
+
 # 跨鏈搬磚套利策略——多鏈流動性差異機會
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1863049663496258007)

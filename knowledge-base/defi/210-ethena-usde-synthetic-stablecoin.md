@@ -1,3 +1,23 @@
+---
+title: "Ethena USDe：合成美元協議與 29% 年化收益解析"
+date: "2024-12-04"
+tags: 
+  - "合成穩定幣"
+  - "Delta 對沖"
+  - "收益策略"
+summary: "最近 USDe 29% 的年化收益引起關注，背後的協議是 Ethena。Ethena 已經發行了 48 億美元的 USDe，這是一個建立在以太坊上的合成美元協議，提供加密原生的貨幣解決方案。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/33357xyz/status/1864180927523651707"
+  externalUrl: "https://docs.ethena.fi/"
+  authorUsername: "33357xyz"
+---
+
 # Ethena USDe：合成美元協議與 29% 年化收益解析
 
 > **來源**: [@33357xyz](https://x.com/33357xyz/status/1864180927523651707) | [原文連結](https://docs.ethena.fi/)

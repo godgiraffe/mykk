@@ -1,3 +1,23 @@
+---
+title: "Loan + Call Option：項目方與做市商合作模式分析"
+date: "2025-07-19"
+tags: 
+  - "做市商策略"
+  - "代幣經濟"
+  - "交易風險"
+summary: "推薦閱讀，loan + call option 是當前 Web3 最常見的項目方與做市商合作模式，也是我認為項目方做市商們不合理的特權。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/OwenJin12/status/1946516257723105476"
+  externalUrl: null
+  authorUsername: "OwenJin12"
+---
+
 # Loan + Call Option：項目方與做市商合作模式分析
 
 > **來源**: [@OwenJin12](https://x.com/OwenJin12/status/1946516257723105476)

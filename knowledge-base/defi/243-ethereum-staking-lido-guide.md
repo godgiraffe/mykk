@@ -1,3 +1,23 @@
+---
+title: "以太坊質押完全指南：Lido 聯合質押模式詳解"
+date: "2023-03-20"
+tags: 
+  - "以太坊質押"
+  - "Lido"
+  - "LSD"
+summary: "今晚系統學習了 @shield_dao 公開課內容，徹底搞懂了「以太坊質押」。本文涵蓋大師課的所有內容，包含兩大核心主題："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x_claudia/status/1637871193780002816"
+  externalUrl: "https://twitter.com/0x_claudia/status/1637871193780002816/photo/1"
+  authorUsername: "0x_claudia"
+---
+
 # 以太坊質押完全指南：Lido 聯合質押模式詳解
 
 > **來源**: [@0x_claudia](https://x.com/0x_claudia/status/1637871193780002816) | [原文連結](https://twitter.com/0x_claudia/status/1637871193780002816/photo/1)

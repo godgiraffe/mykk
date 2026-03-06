@@ -1,3 +1,23 @@
+---
+title: "《反脆弱》與槓鈴策略：不追求穩定，而是活得最久"
+date: "2025-11-05"
+tags: 
+  - "反脆弱"
+  - "槓鈴策略"
+  - "風險管理"
+summary: "但歷史的真相是反過來的——工匠在瞎搞的過程中發現了有用的東西，然後科學家寫論文解釋它為什麼有用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hazenlee/status/1985882779058651358"
+  externalUrl: null
+  authorUsername: "hazenlee"
+---
+
 # 《反脆弱》與槓鈴策略：不追求穩定，而是活得最久
 
 > **來源**: [@hazenlee](https://x.com/hazenlee/status/1985882779058651358)

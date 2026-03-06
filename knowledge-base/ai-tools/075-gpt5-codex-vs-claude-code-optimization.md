@@ -1,3 +1,23 @@
+---
+title: "GPT-5 與 Codex CLI 對比：代碼優化與開發流程經驗"
+date: "2025-08-23"
+tags: 
+  - "代碼優化"
+  - "AI 開發工具"
+  - "開發工作流"
+summary: "最近一直在使用 GPT-5 和 Codex CLI 對之前 Claude Code 寫的代碼做優化，有幾點小經驗分享："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hylarucoder/status/1959153616964788384"
+  externalUrl: null
+  authorUsername: "hylarucoder"
+---
+
 # GPT-5 與 Codex CLI 對比：代碼優化與開發流程經驗
 
 > **來源**: [@hylarucoder](https://x.com/hylarucoder/status/1959153616964788384)

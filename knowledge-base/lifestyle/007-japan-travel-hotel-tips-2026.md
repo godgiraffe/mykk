@@ -1,3 +1,25 @@
+---
+title: "2026 日本旅遊訂房攻略：小資族高 CP 值飯店選擇"
+date: "> **標籤**: `日本旅遊` `訂房攻略` `飯店` `優惠` `小資族`"
+tags: 
+  - "日本旅遊"
+  - "訂房攻略"
+  - "飯店"
+  - "優惠"
+  - "小資族"
+summary: "這篇文章分享四種在日本預訂高 CP 值飯店的方法，特別適合預算有限的小資族，讓你用更划算的價格享受美好的日本之旅。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptowilson_/status/2016814315605537135"
+  externalUrl: null
+  authorUsername: "cryptowilson_"
+---
+
 # 2026 日本旅遊訂房攻略：小資族高 CP 值飯店選擇
 
 > **來源**: [@cryptowilson_](https://x.com/cryptowilson_/status/2016814315605537135)

@@ -1,3 +1,23 @@
+---
+title: "EdgeX 跨交易所價差套利策略詳解"
+date: "2025-11-12"
+tags: 
+  - "價差套利"
+  - "量化交易"
+  - "交易所比較"
+summary: "如果你現在還覺得這是一篇沒營養的廣告，看完下一篇詳細的技術分享，你就能理解，為什麼這個又吃又拿的策略只能在 @edgeX_exchange 上做，而無法在其他絕大多數的 perp dex 上複刻，包括 b、g、p、另一個 e。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1988574934398816358"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # EdgeX 跨交易所價差套利策略詳解
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1988574934398816358)

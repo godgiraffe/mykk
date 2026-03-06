@@ -1,3 +1,23 @@
+---
+title: "幣安 Alpha 刷分磨損優化測試 — 錢包端 vs 交易所端"
+date: "2025-05-31"
+tags: 
+  - "Alpha 刷分"
+  - "滑點優化"
+  - "交易對分析"
+summary: "今晚花了小 20 刀把錢包端的 Alpha Pair 都測了一遍，參數參考了傑尼的策略。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BroLeon/status/1928791868684513447"
+  externalUrl: "https://www.bn-alpha.site/"
+  authorUsername: "BroLeon"
+---
+
 # 幣安 Alpha 刷分磨損優化測試 — 錢包端 vs 交易所端
 
 > **來源**: [@BroLeon](https://x.com/BroLeon/status/1928791868684513447) | [原文連結](https://www.bn-alpha.site/)

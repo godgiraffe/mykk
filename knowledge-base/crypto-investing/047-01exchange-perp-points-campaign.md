@@ -1,3 +1,23 @@
+---
+title: "01Exchange Perpetual 積分活動分析 - N1Chain 生態機會"
+date: "2025-11-16"
+tags: 
+  - "積分活動"
+  - "項目評估"
+  - "成本效益"
+summary: "這個 Perp 項目感覺積分性價比蠻高的，感興趣的可以去申請 waitlist，等主網開放。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1990185046221693131"
+  externalUrl: null
+  authorUsername: "0xleng1"
+---
+
 # 01Exchange Perpetual 積分活動分析 - N1Chain 生態機會
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1990185046221693131)

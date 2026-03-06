@@ -1,3 +1,23 @@
+---
+title: "Claude Sonnet 4.6 設定技巧：解鎖 1M Token 上下文窗口"
+date: "2026-02-18"
+tags: 
+  - "Claude Code"
+  - "模型配置"
+  - "開發工具"
+summary: "如果你想在 Claude Code 中使用最新的 Claude Sonnet 4.6 模型並解鎖 1M token 上下文窗口，可以按照以下步驟操作："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/melvynxdev/status/2023917549134757914"
+  externalUrl: null
+  authorUsername: "melvynxdev"
+---
+
 # Claude Sonnet 4.6 設定技巧：解鎖 1M Token 上下文窗口
 
 > **來源**: [@melvynxdev](https://x.com/melvynxdev/status/2023917549134757914)

@@ -1,3 +1,23 @@
+---
+title: "區塊鏈暴跌指南：檢查清單、套利與布局策略"
+date: ">"
+tags: 
+  - "暴跌機制"
+  - "套利機會"
+  - "投資心態"
+summary: "區塊鏈暴跌時的檢查清單與應對策略。作者使用 AI 工具撰寫深度研究報告並生成思維導圖，流程僅需幾分鐘即可完成。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/bitfish/status/1886630761199194290"
+  externalUrl: "https://twitter.com/bitfish1/status/1886630761199194290/photo/1"
+  authorUsername: "bitfish"
+---
+
 # 區塊鏈暴跌指南：檢查清單、套利與布局策略
 
 > **來源**: [@bitfish](https://x.com/bitfish/status/1886630761199194290) | [原文連結](https://twitter.com/bitfish1/status/1886630761199194290/photo/1)

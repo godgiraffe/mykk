@@ -1,3 +1,23 @@
+---
+title: "Hourglass Stable 第二階段預存活動指南"
+date: "2025-11-05"
+tags: 
+  - "DeFi"
+  - "預存活動"
+  - "智能合約"
+summary: "### 存款規則 1. **存款幣種**：USDC 2. **最低存款額**：$1,000 3. **存款上限**： - 第一個小時：最多 $100,000 - 第一個小時之後：$20,000,000 4. **實際符合資格額度**：僅前 $500,000,000 的符合資格存款才計入"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/harry830622/status/1986080310573122027"
+  externalUrl: null
+  authorUsername: "harry830622"
+---
+
 # Hourglass Stable 第二階段預存活動指南
 
 > **來源**: [@harry830622](https://x.com/harry830622/status/1986080310573122027)

@@ -1,3 +1,23 @@
+---
+title: "Extended Perpdex 市價單積分策略與估值分析"
+date: "2026-01-07"
+tags: 
+  - "Perpdex交易"
+  - "積分farming"
+  - "市場微觀結構"
+summary: "★ Insight ───────────────────────────────────── 1. **空投策略文章處理** - 這類內容需要同時保留時效性資訊（TGE 日期、當前數據）和長期有效的策略邏輯（積分機制、對沖方法） 2. **繁體中文 DeFi 術語** - Perpdex、TVL、FDV 等術語需保留原文，但策略說明要用繁體中文清楚表達 3. **數據驗證提醒** - 空投估值文章應標註數據時效性，避免未來讀者誤用過期"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/degentalk_hk/status/2008813968752623887"
+  externalUrl: "https://app.extended.exchange/join/DEGENTALK"
+  authorUsername: "degentalk_hk"
+---
+
 # Extended Perpdex 市價單積分策略與估值分析
 
 > **來源**: [@degentalk_hk](https://x.com/degentalk_hk/status/2008813968752623887) | [原文連結](https://app.extended.exchange/join/DEGENTALK)

@@ -1,3 +1,23 @@
+---
+title: "魏神金字塔五層防御體系：實盤風控解析"
+date: "2025-11-23"
+tags: 
+  - "金字塔接單"
+  - "風險管理"
+  - "倉位結構"
+summary: "看了下面那段魏神的引用文，再結合對他兩個實盤的學習，我被魏神的風控體系之牛逼震撼到了。今天就簡單談談我的理解。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wendy_2026/status/1992635279358984557"
+  externalUrl: null
+  authorUsername: "wendy_2026"
+---
+
 # 魏神金字塔五層防御體系：實盤風控解析
 
 > **來源**: [@wendy_2026](https://x.com/wendy_2026/status/1992635279358984557)

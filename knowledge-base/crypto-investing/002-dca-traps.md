@@ -1,3 +1,25 @@
+---
+title: "為什麼就算定投也會虧錢 — 定投的三個人性陷阱"
+date: "2026-02-10"
+tags: 
+  - "DCA"
+  - "定投"
+  - "投資心理"
+  - "Bitcoin"
+  - "NASDAQ"
+summary: "人人都知道的財富密碼：定投納斯達克或比特幣。但即使在納斯達克這樣的長牛市場中，**仍有一半散戶是虧損的**。為什麼？"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/web3a99/status/2021018187228381337"
+  externalUrl: null
+  authorUsername: "web3a99"
+---
+
 # 為什麼就算定投也會虧錢 — 定投的三個人性陷阱
 
 > **來源**: [笑苍生.btc (@web3a99)](https://x.com/web3a99/status/2021018187228381337)

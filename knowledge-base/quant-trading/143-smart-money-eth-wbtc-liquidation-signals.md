@@ -1,3 +1,23 @@
+---
+title: "聰明錢 ETH 和 WBTC 大幅減倉──牛市進度條告急信號"
+date: "2025-08-24"
+tags: 
+  - "聰明錢追蹤"
+  - "鏈上數據分析"
+  - "市場頂部信號"
+summary: "繼交易員 Eugene 和方程式新聞創始人 Vida 之後，又一個「牛市進度條告急」的信號出現了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ai_9684xtpa/status/1959627248715399184"
+  externalUrl: "https://intel.arkm.com/explorer/address/0xdfcaf20a17521a761036af8a3a758fcdd91dfc07"
+  authorUsername: "ai_9684xtpa"
+---
+
 # 聰明錢 ETH 和 WBTC 大幅減倉──牛市進度條告急信號
 
 > **來源**: [@ai_9684xtpa](https://x.com/ai_9684xtpa/status/1959627248715399184) | [原文連結](https://intel.arkm.com/explorer/address/0xdfcaf20a17521a761036af8a3a758fcdd91dfc07)

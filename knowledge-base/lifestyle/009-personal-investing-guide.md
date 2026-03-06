@@ -1,3 +1,25 @@
+---
+title: "個人投資成長指南"
+date: "2026-02-07"
+tags: 
+  - "個人投資"
+  - "資產配置"
+  - "風險控管"
+  - "技術分析"
+  - "投資心理"
+summary: "**摘要：** 本系列文章由 Daniel 撰寫，系統性地探討個人投資者成長的各個階段，從建立正確心態到實戰策略。內容涵蓋 ETF 選擇、總經分析、移動平均線應用等，旨在為投資者提供一套完整的理財架構。"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Daniel_Chang411/status/2020171852778516722"
+  externalUrl: null
+  authorUsername: "Daniel_Chang411"
+---
+
 # 個人投資成長指南
 
 > **來源**: [@Daniel_Chang411](https://x.com/Daniel_Chang411/status/2020171852778516722)

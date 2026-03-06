@@ -1,3 +1,23 @@
+---
+title: "Meteora DLMM 流動性管理機器人開源工具"
+date: "2025-05-02"
+tags: 
+  - "DLMM自動化"
+  - "LP管理"
+  - "Solana"
+summary: "我發現權限問題。讓我直接根據您提供的原始內容，為這篇文章生成完整的 markdown 格式內容。根據 git status，這應該是 136-meteora-dlmm-lp-management-bot.md："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1918177589174431804"
+  externalUrl: "https://github.com/cryptocj520/meteora"
+  authorUsername: "gch_enbsbxbs"
+---
+
 # Meteora DLMM 流動性管理機器人開源工具
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1918177589174431804) | [原文連結](https://github.com/cryptocj520/meteora)

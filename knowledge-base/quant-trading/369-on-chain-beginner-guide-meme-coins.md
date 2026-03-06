@@ -1,3 +1,23 @@
+---
+title: "從二級到鏈上入門指南 — Meme 幣交易策略"
+date: ">"
+tags: 
+  - "鏈上交易"
+  - "Meme 幣"
+  - "入門指南"
+summary: "鏈上很熱鬧，今天百倍，明天某幣 rug；推上也很熱鬧，有人 pvp，有人建設，有人求金狗。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xcryptowizard/status/1854423667842953534"
+  externalUrl: null
+  authorUsername: "0xcryptowizard"
+---
+
 # 從二級到鏈上入門指南 — Meme 幣交易策略
 
 > **來源**: [@0xcryptowizard](https://x.com/0xcryptowizard/status/1854423667842953534)

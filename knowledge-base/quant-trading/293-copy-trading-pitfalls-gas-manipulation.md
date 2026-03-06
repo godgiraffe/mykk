@@ -1,3 +1,23 @@
+---
+title: "跟單流陷阱：大熱地址與 Gas 操縱策略分析"
+date: "2025-03-19"
+tags: 
+  - "跟單交易"
+  - "gas 費用"
+  - "市場微觀結構"
+summary: "因為一個大熱地址後面往往跟著幾十個地址在跟。例如這個錢包在 100k 的位置買入，隨著跟單 bot 的陸續進入，你會發現你買入的位置和你跟單的地址買入的位置差價非常大。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/beiyue66/status/1902440498188710040"
+  externalUrl: null
+  authorUsername: "beiyue66"
+---
+
 # 跟單流陷阱：大熱地址與 Gas 操縱策略分析
 
 > **來源**: [@beiyue66](https://x.com/beiyue66/status/1902440498188710040)

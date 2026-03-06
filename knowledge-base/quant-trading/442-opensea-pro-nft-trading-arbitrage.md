@@ -1,3 +1,23 @@
+---
+title: "OpenSea Pro NFT 交易獲利策略：每日賺取 0.15 ETH"
+date: ">"
+tags: 
+  - "NFT 交易"
+  - "OpenSea Pro"
+  - "套利策略"
+summary: "由於我無法直接抓取推特內容，而您只提供了第一條推文，我需要完整的推特串內容才能進行整理。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/nics_off/status/1643968099010347008"
+  externalUrl: "https://twitter.com/NFTNics/status/1643968099010347008/photo/1"
+  authorUsername: "nics_off"
+---
+
 # OpenSea Pro NFT 交易獲利策略：每日賺取 0.15 ETH
 
 > **來源**: [@nics_off](https://x.com/nics_off/status/1643968099010347008) | [原文連結](https://twitter.com/NFTNics/status/1643968099010347008/photo/1)

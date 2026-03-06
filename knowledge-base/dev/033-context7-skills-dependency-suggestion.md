@@ -1,3 +1,23 @@
+---
+title: "Context7 Skills 工具：自動掃描專案依賴推薦 AI 編輯器擴展"
+date: ">"
+tags: 
+  - "開發工具"
+  - "AI助手"
+  - "工作流自動化"
+summary: "Context7 新推出的自動依賴掃描工具，可以根據專案的依賴自動推薦適合的 AI 編輯器 Skills。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/vikingmute/status/2023757650715177246"
+  externalUrl: "https://context7.com/docs/skills#suggest-skills"
+  authorUsername: "vikingmute"
+---
+
 # Context7 Skills 工具：自動掃描專案依賴推薦 AI 編輯器擴展
 
 > **來源**: [@vikingmute](https://x.com/vikingmute/status/2023757650715177246) | [原文連結](https://context7.com/docs/skills#suggest-skills)

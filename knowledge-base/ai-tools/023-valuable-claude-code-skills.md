@@ -1,3 +1,23 @@
+---
+title: "最有價值的 Claude Code Skills"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "效率工具"
+  - "開發技巧"
+summary: "我需要先獲取這篇文章的完整內容才能進行整理。讓我使用 agent-browser 抓取原始資料。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Yangyixxxx/status/2009166922513043490"
+  externalUrl: null
+  authorUsername: "Yangyixxxx"
+---
+
 # 最有價值的 Claude Code Skills
 
 > **來源**: [@Yangyixxxx](https://x.com/Yangyixxxx/status/2009166922513043490)

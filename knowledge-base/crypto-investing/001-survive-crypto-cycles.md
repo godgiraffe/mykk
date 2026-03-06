@@ -1,3 +1,25 @@
+---
+title: "無懼牛熊：加密生存法則"
+date: "2026-01-27"
+tags: 
+  - "Crypto"
+  - "Cycle Survival"
+  - "Mindset"
+  - "Consensus"
+  - "Investment Philosophy"
+summary: "作者自 2013 年入場，經歷 13 年牛熊後的核心觀察：大部分人最終都會被清零，只有極少數人能跨越多個週期持續累積財富。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xPickleCati/status/2016059049729458207"
+  externalUrl: null
+  authorUsername: "0xPickleCati"
+---
+
 # 無懼牛熊：加密生存法則
 
 > **來源**: [Pickle Cat (@0xPickleCati)](https://x.com/0xPickleCati/status/2016059049729458207)

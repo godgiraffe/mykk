@@ -1,3 +1,23 @@
+---
+title: "Claude Code 全局提示詞：架構師附身的代碼質量指南"
+date: "2025-08-03"
+tags: 
+  - "Claude Code"
+  - "代碼架構"
+  - "提示詞工程"
+summary: "這是一個適用於 Claude Code、Augment、Cursor 等 AI 編碼工具的全局提示詞配置，用於提升代碼質量和架構設計。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1951936322538447198"
+  externalUrl: null
+  authorUsername: "wquguru"
+---
+
 # Claude Code 全局提示詞：架構師附身的代碼質量指南
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1951936322538447198)

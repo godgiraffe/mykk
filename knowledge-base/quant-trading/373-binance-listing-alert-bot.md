@@ -1,3 +1,23 @@
+---
+title: "幣安上架快速買入機器人 - Binance Alert 工具"
+date: "2024-11-11"
+tags: 
+  - "自動化交易"
+  - "幣安上架"
+  - "套利機器人"
+summary: "透過監聽幣安公告 API，在新幣上架公告發布時立即觸發買入操作，實現快速搶購。代碼簡單，但實際延遲需要測試。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/fabius810/status/1855900193763541028"
+  externalUrl: "https://github.com/fabius8/binanceAlert"
+  authorUsername: "fabius810"
+---
+
 # 幣安上架快速買入機器人 - Binance Alert 工具
 
 > **來源**: [@fabius810](https://x.com/fabius810/status/1855900193763541028) | [原文連結](https://github.com/fabius8/binanceAlert)

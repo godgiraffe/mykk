@@ -1,3 +1,23 @@
+---
+title: "Anthropic 提示工程系列：14 篇文章掌握 AI 提示技巧"
+date: "2025-08-18"
+tags: 
+  - "提示工程"
+  - "Anthropic"
+  - "AI 工程"
+summary: "2025 年下半年應該學點什麼呢，首推全網最具實用價值的提示工程文檔——Anthropic 的提示工程系列，短短 14 篇文章，每篇讀下來只需要 3 分鐘就可以擁有巨大的槓桿收益。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1957578183487942989"
+  externalUrl: "https://twitter.com/wquguru/status/1957578183487942989/photo/1"
+  authorUsername: "wquguru"
+---
+
 # Anthropic 提示工程系列：14 篇文章掌握 AI 提示技巧
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1957578183487942989) | [原文連結](https://twitter.com/wquguru/status/1957578183487942989/photo/1)

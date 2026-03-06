@@ -1,3 +1,23 @@
+---
+title: "熊市學習路線圖：交易、KOL、編程三大方向"
+date: "2025-11-14"
+tags: 
+  - "熊市學習"
+  - "交易系統"
+  - "鏈上套利"
+summary: "熊市是提升自己的黃金時期。本文整理了幣圈三條核心學習路線，幫助你在下個週期來臨前積蓄力量："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1989319307478884429"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # 熊市學習路線圖：交易、KOL、編程三大方向
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1989319307478884429)

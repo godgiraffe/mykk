@@ -1,3 +1,23 @@
+---
+title: "小市值合約交易陷阱：庄家出貨與散戶流動性分析"
+date: "2025-03-28"
+tags: 
+  - "小市值交易"
+  - "合約風險"
+  - "莊家博弈"
+summary: "做多小市值最大的確定性邏輯有幾個：一個是便宜，一個是稀缺性，這兩個足夠在散戶那邊搭建一定的買入共識。但還有個最重要的是莊家。以前的小市值會進莊，你可以蹭車。莊家有一套成熟的買入和撤退打法：買現貨 → 開持倉 → 做 OI → 拉盤 → 積累對手盤 → 負費率 → 負溢價 → 出貨。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/daidaibtc/status/1905761013489897553"
+  externalUrl: null
+  authorUsername: "daidaibtc"
+---
+
 # 小市值合約交易陷阱：庄家出貨與散戶流動性分析
 
 > **來源**: [@daidaibtc](https://x.com/daidaibtc/status/1905761013489897553)

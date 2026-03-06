@@ -1,3 +1,23 @@
+---
+title: "USUAL 真的會脫鉤嗎？穩定幣設計機制深度分析"
+date: ">"
+tags: 
+  - "穩定幣"
+  - "脫鉤風險"
+  - "RWA 抵押"
+summary: "抵押資產目前以 Hashnote 短期美債產品為主 基於美債、短期美債（T-bills）、隔夜逆回購（ON RRPs） 粗暴理解：USUAL 比美國銀行還安全 **USD0 的真實價格永遠 >1 美元**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/joejoedefi/status/1874085372663112058"
+  externalUrl: "https://etherscan.io/address/0xdd82875f0840aad58a455a70b88eed9f59cec7c7"
+  authorUsername: "joejoedefi"
+---
+
 # USUAL 真的會脫鉤嗎？穩定幣設計機制深度分析
 
 > **來源**: [@joejoedefi](https://x.com/joejoedefi/status/1874085372663112058) | [原文連結](https://etherscan.io/address/0xdd82875f0840aad58a455a70b88eed9f59cec7c7)

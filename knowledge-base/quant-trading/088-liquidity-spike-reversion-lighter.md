@@ -1,3 +1,23 @@
+---
+title: "Lighter 交易所流動性插針回歸策略"
+date: "2025-10-27"
+tags: 
+  - "插針交易"
+  - "市場微觀結構"
+  - "做市商對抗"
+summary: "★ Insight ───────────────────────────────────── 1. **流動性插針回歸策略**：這是一種專門利用小型交易所深度不足、價格容易劇烈波動的特性，透過捕捉極端價格插針後的回歸來獲利的策略 2. **市價平倉的代價**：散戶使用市價單平倉會產生滑價損失，而做市商則透過提供流動性賺取價差、手續費返還和回歸利潤 3. **市場微觀結構**：這種策略的核心在於理解 order book 的動態變化，以"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Wayne145591/status/1982610899912523933"
+  externalUrl: null
+  authorUsername: "Wayne145591"
+---
+
 # Lighter 交易所流動性插針回歸策略
 
 > **來源**: [@Wayne145591](https://x.com/Wayne145591/status/1982610899912523933)

@@ -1,3 +1,23 @@
+---
+title: "幣安小市值合約的套路：流通市值陷阱"
+date: "2025-06-21"
+tags: 
+  - "小市值合約"
+  - "流通市值"
+  - "道德鎖倉"
+summary: "前幾天提了一嘴 $MYX 是幣安市值最小的合約殼子，可能有野莊看到了我的推文於是把 $MYX 買起來了。結果有聰明的朋友就發現了，不對啊老師，$BDXN 這個合約幣的市值比 $MYX 還小，只有 5m，為什麼沒有野莊來炒呢。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1936396044918722642"
+  externalUrl: null
+  authorUsername: "richrichardoz"
+---
+
 # 幣安小市值合約的套路：流通市值陷阱
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1936396044918722642)

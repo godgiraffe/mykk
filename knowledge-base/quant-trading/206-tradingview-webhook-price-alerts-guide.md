@@ -1,3 +1,23 @@
+---
+title: "TradingView Webhook 與 Echobell 整合價格預警教學"
+date: "2025-06-11"
+tags: 
+  - "價格預警"
+  - "交易工具"
+  - "Webhook 通知"
+summary: "這兩張圖片都是 X Spaces 的截圖，不是教學步驟的圖片。看來原推文中應該還有其他圖片包含詳細的操作步驟，但目前只能從推文文字內容來整理。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/OKxiaohai/status/1932824857919828177"
+  externalUrl: "https://www.tradingview.com/pricing/?share_your_love=haicongliao"
+  authorUsername: "OKxiaohai"
+---
+
 # TradingView Webhook 與 Echobell 整合價格預警教學
 
 > **來源**: [@OKxiaohai](https://x.com/OKxiaohai/status/1932824857919828177) | [原文連結](https://www.tradingview.com/pricing/?share_your_love=haicongliao)

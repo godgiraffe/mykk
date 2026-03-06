@@ -1,3 +1,23 @@
+---
+title: "Vibe Coding 工作流指南 - Stanford 教學逐幀學習"
+date: "2025-12-13"
+tags: 
+  - "Vibe Coding"
+  - "開發工作流"
+  - "效率提升"
+summary: "## Vibe Coding 工作流指南：Stanford CS146S 課程內容總覽"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/SteinAmour/status/1999701091538338337"
+  externalUrl: null
+  authorUsername: "SteinAmour"
+---
+
 # Vibe Coding 工作流指南 - Stanford 教學逐幀學習
 
 > **來源**: [@SteinAmour](https://x.com/SteinAmour/status/1999701091538338337)

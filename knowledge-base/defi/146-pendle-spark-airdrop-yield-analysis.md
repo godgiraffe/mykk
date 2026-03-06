@@ -1,3 +1,23 @@
+---
+title: "Pendle YT/LP 賺取 Spark 積分年化收益精算"
+date: "2025-06-11"
+tags: 
+  - "Pendle"
+  - "Spark 積分"
+  - "DeFi 收益"
+summary: "本文針對 Pendle 平台上透過持有 USDS 的 YT（Yield Token）和 LP（流動性池代幣）賺取 Spark 積分的年化收益進行精算分析。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/portal_kay/status/1932651002030678504"
+  externalUrl: "https://x.com/ViNc2453/status/1923705383392248235"
+  authorUsername: "portal_kay"
+---
+
 # Pendle YT/LP 賺取 Spark 積分年化收益精算
 
 > **來源**: [@portal_kay](https://x.com/portal_kay/status/1932651002030678504) | [原文連結](https://x.com/ViNc2453/status/1923705383392248235)

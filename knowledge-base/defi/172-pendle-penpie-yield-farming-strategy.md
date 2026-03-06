@@ -1,3 +1,23 @@
+---
+title: "Pendle 與 Penpie：解構固定收益 DeFi 的設計創新"
+date: "2025-04-25"
+tags: 
+  - "Pendle策略"
+  - "veToken流動性"
+  - "固定收益"
+summary: "最近 @DWFLabs 的穩定幣 USDf 上了 Pendle，給了 LP 很高的激勵，要比買 PT 高很多。但我因為沒 vePENDLE 給收益加成，直接做 LP 的帳面收益有點虧。於是我開始找有沒有第三方的收益平台，試了下 @Penpiexyz_io，終於吃到近 40% 的 APY，基本接近 50% 的 max APY 上限。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bonnazhu/status/1915762759993811287"
+  externalUrl: null
+  authorUsername: "bonnazhu"
+---
+
 # Pendle 與 Penpie：解構固定收益 DeFi 的設計創新
 
 > **來源**: [@bonnazhu](https://x.com/bonnazhu/status/1915762759993811287)

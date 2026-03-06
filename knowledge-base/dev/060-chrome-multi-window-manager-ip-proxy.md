@@ -1,3 +1,23 @@
+---
+title: "Chrome 多窗口管理工具與 IP 代理助手開源工具套件"
+date: "2025-02-15"
+tags: 
+  - "瀏覽器工具"
+  - "開源軟體"
+  - "隱私安全"
+summary: "本文介紹兩款開源工具：Chrome 多窗口管理工具與 IP 代理助手插件，專為需要批量管理 Chrome 瀏覽器窗口的使用者設計。作者因 ADS 安全事故而開發此工具，強調不修改原生 Chrome、完全開源、配合硬件錢包使用可提升安全性。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/DevilflasherX/status/1890787124871606318"
+  externalUrl: "https://x.com/i/article/1890394876501708800"
+  authorUsername: "DevilflasherX"
+---
+
 # Chrome 多窗口管理工具與 IP 代理助手開源工具套件
 
 > **來源**: [@DevilflasherX](https://x.com/DevilflasherX/status/1890787124871606318) | [原文連結](https://x.com/i/article/1890394876501708800)

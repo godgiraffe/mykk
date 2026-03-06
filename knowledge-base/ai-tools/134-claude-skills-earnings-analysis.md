@@ -1,3 +1,23 @@
+---
+title: "Claude Skills 美股財報深度分析工具"
+date: "2026-02-28"
+tags: 
+  - "Claude Skills"
+  - "美股財報"
+  - "開源工具"
+summary: "1. 訪問 GitHub 倉庫：github.com/star23/Day1Global-Skills 2. 下載 tech-earnings-deepdive.skill 檔案 3. 將檔案提供給 Claude 或 OpenClaw 使用"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/starzq/status/2027610223310209325"
+  externalUrl: "https://twitter.com/starzq/status/2027610223310209325/photo/1"
+  authorUsername: "starzq"
+---
+
 # Claude Skills 美股財報深度分析工具
 
 > **來源**: [@starzq](https://x.com/starzq/status/2027610223310209325) | [原文連結](https://twitter.com/starzq/status/2027610223310209325/photo/1)

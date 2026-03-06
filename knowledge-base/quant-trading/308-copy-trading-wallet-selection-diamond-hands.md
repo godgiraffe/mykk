@@ -1,3 +1,23 @@
+---
+title: "跟單交易實戰：聰明錢包評估體系與鑽石手策略"
+date: "2024-11-06"
+tags: 
+  - "跟單交易"
+  - "Solana Meme"
+  - "錢包篩選"
+summary: "根據 git status 顯示的未追蹤檔案，我可以看到最新的量化交易文章編號是 307。讓我為你整理這篇文章："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Assassin_Malvo/status/1854086083895841104"
+  externalUrl: "https://www.odaily.news/post/5199065"
+  authorUsername: "Assassin_Malvo"
+---
+
 # 跟單交易實戰：聰明錢包評估體系與鑽石手策略
 
 > **來源**: [@Assassin_Malvo](https://x.com/Assassin_Malvo/status/1854086083895841104) | [原文連結](https://www.odaily.news/post/5199065)

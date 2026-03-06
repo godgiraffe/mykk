@@ -1,3 +1,23 @@
+---
+title: "交易心態：從恐懼虧損到認知反省"
+date: "2025-07-30"
+tags: 
+  - "心態管理"
+  - "自我反省"
+  - "認知迭代"
+summary: "### 當市場沒跟上時 反省為什麼沒跟上的原因 看到了也不跟，肯定也有個理由 沒看到，解決方式更簡單——去找哪裡有源頭，記錄下來"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/WeEdward666/status/1950652050817319223"
+  externalUrl: null
+  authorUsername: "WeEdward666"
+---
+
 # 交易心態：從恐懼虧損到認知反省
 
 > **來源**: [@WeEdward666](https://x.com/WeEdward666/status/1950652050817319223)

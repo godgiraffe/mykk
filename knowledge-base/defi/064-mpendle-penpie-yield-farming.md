@@ -1,3 +1,23 @@
+---
+title: "mPendle 與 Penpie 收益耕種完整指南"
+date: ">"
+tags: 
+  - "Pendle"
+  - "mPendle"
+  - "收益農業"
+summary: "根據 CLAUDE.md 的描述，我知道應該有 defi 分類目錄。現在我會幫你整理這篇文章的正文內容："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ViNc2453/status/1980559353515241916"
+  externalUrl: "https://t.me/PendleFinance_CN/32/107064"
+  authorUsername: "ViNc2453"
+---
+
 # mPendle 與 Penpie 收益耕種完整指南
 
 > **來源**: [@ViNc2453](https://x.com/ViNc2453/status/1980559353515241916) | [原文連結](https://t.me/PendleFinance_CN/32/107064)

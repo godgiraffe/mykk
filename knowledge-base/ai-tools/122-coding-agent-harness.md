@@ -1,3 +1,23 @@
+---
+title: "編程代理架構：上下文工程與規模化最佳實踐"
+date: "2026-02-28"
+tags: 
+  - "AI 編程助手"
+  - "上下文工程"
+  - "代理架構"
+summary: "## Coding Agent Harness：如何讓 AI 編程代理在規模化下真正發揮作用"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/juliandeangeIis/status/2027888587975569534"
+  externalUrl: "https://x.com/i/article/2027631100986548224"
+  authorUsername: "juliandeangeIis"
+---
+
 # 編程代理架構：上下文工程與規模化最佳實踐
 
 > **來源**: [@juliandeangeIis](https://x.com/juliandeangeIis/status/2027888587975569534) | [原文連結](https://x.com/i/article/2027631100986548224)

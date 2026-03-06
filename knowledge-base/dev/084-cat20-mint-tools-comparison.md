@@ -1,3 +1,23 @@
+---
+title: "CAT20 鑄造工具完整比較"
+date: "2024-09-18"
+tags: 
+  - "Bitcoin"
+  - "CAT20"
+  - "工具評測"
+summary: "平台 服務費 批量鑄造 特色 ------ -------- --------- ------ DotSwap Tools 0.01 FB/張 支援（最多25張） 速度快、失敗可退款 CAT20 瀏覽器 (Zen913) 0.01 FB/張 不支援 優秀的瀏覽器功能 IDClub 按比例收費（>0.05 FB/張） 支援（最多3張） 老牌 BRC20 工具 CoinTool 0.005 FB/張 支援（可設定張數） 需上傳助記詞、需排隊"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Web3_Loon/status/1836310008516247644"
+  externalUrl: "https://tools.mempool.com/mint"
+  authorUsername: "Web3_Loon"
+---
+
 # CAT20 鑄造工具完整比較
 
 > **來源**: [@Web3_Loon](https://x.com/Web3_Loon/status/1836310008516247644) | [原文連結](https://tools.mempool.com/mint)

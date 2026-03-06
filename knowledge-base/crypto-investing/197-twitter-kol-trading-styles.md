@@ -1,3 +1,23 @@
+---
+title: "推特加密高手風格介紹與交易特點分析"
+date: ">"
+tags: 
+  - "交易風格"
+  - "KOL推薦"
+  - "鏈上套利"
+summary: "鏈上皇，擅長 BAYC 套利、RAZ 搬磚等等。擁有恐怖的早期 alpha 機會檢測能力以及動手能力，十分擅長分析項目。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/seaify1/status/1834053175080616425"
+  externalUrl: null
+  authorUsername: "seaify1"
+---
+
 # 推特加密高手風格介紹與交易特點分析
 
 > **來源**: [@seaify1](https://x.com/seaify1/status/1834053175080616425)

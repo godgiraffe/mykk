@@ -1,3 +1,23 @@
+---
+title: "自動化套利程序的風險管理與系統架構"
+date: "2025-05-17"
+tags: 
+  - "套利機器人"
+  - "風險控制"
+  - "鏈上驗證"
+summary: "關於「自動化虧錢」，舉個血腥的例子。我幾年前編寫的套利程序，從 OKX DEX 聚合市場買入，從某些小交易所賣出，因為當時是全新的資產發行市場，幾乎沒有競爭，每天暴利收菜美滋滋。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lnkybtc/status/1923667361254736328"
+  externalUrl: null
+  authorUsername: "lnkybtc"
+---
+
 # 自動化套利程序的風險管理與系統架構
 
 > **來源**: [@lnkybtc](https://x.com/lnkybtc/status/1923667361254736328)

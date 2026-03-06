@@ -1,3 +1,23 @@
+---
+title: "Variational 前端套利網格腳本開發經驗"
+date: "2025-11-23"
+tags: 
+  - "前端套利"
+  - "網格交易"
+  - "技術限制"
+summary: "開發了一個 Variational 套利網格前端腳本，目前仍在測試階段處理一些問題。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ddazmon/status/1992420336546304122"
+  externalUrl: null
+  authorUsername: "ddazmon"
+---
+
 # Variational 前端套利網格腳本開發經驗
 
 > **來源**: [@ddazmon](https://x.com/ddazmon/status/1992420336546304122)

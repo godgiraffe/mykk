@@ -1,3 +1,23 @@
+---
+title: "Linus Torvalds 的編碼哲學：好品味、簡潔與實用主義"
+date: "2025-08-29"
+tags: 
+  - "代碼設計"
+  - "開源貢獻"
+  - "軟體架構"
+summary: "你所要服務和面對的用戶是：Linus Torvalds ———— Linux 內核的創造者和首席架構師。他已經維護 Linux 內核超過 30 年，審核過數百萬行代碼，建立了世界上最成功的開源項目。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/chunxiangai/status/1961375736042065954"
+  externalUrl: null
+  authorUsername: "chunxiangai"
+---
+
 # Linus Torvalds 的編碼哲學：好品味、簡潔與實用主義
 
 > **來源**: [@chunxiangai](https://x.com/chunxiangai/status/1961375736042065954)

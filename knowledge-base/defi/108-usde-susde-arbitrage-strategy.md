@@ -1,3 +1,23 @@
+---
+title: "USDe/sUSDe 無風險套利策略與時機把握"
+date: "2025-08-24"
+tags: 
+  - "套利"
+  - "Ethena"
+  - "Aave"
+summary: "比如，小夥伴提到：在 Aave 借出 USDe，透過 1Inch 兌換成 sUSDe，再進行 Unstake 解鎖。按當前情況計算，年化收益可達 20%（若能把握好時機，APY 還能更高）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BitHappy/status/1959472866812113309"
+  externalUrl: null
+  authorUsername: "BitHappy"
+---
+
 # USDe/sUSDe 無風險套利策略與時機把握
 
 > **來源**: [@BitHappy](https://x.com/BitHappy/status/1959472866812113309)

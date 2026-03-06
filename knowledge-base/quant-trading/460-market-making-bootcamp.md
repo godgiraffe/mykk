@@ -1,3 +1,23 @@
+---
+title: "量化做市商 15 天完整學習計劃：訂單簿微觀結構到實盤交易"
+date: "2026-02-18"
+tags: 
+  - "做市商"
+  - "訂單簿微觀結構"
+  - "量化交易"
+summary: "這份高強度學習計劃將帶你從剛進入金融市場、有基礎訂單簿了解和 DeFi 經驗，到能夠接近專家的水平。包含多因子、機器學習、訂單簿博弈等內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0Xweaksheep/status/2023999208827855316"
+  externalUrl: null
+  authorUsername: "0Xweaksheep"
+---
+
 # 量化做市商 15 天完整學習計劃：訂單簿微觀結構到實盤交易
 
 > **來源**: [@0Xweaksheep](https://x.com/0Xweaksheep/status/2023999208827855316)

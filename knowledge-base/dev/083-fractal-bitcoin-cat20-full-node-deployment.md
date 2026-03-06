@@ -1,3 +1,23 @@
+---
+title: "Fractal Bitcoin & CAT20 全節點索引 10分鐘部署指南"
+date: "2024-09-20"
+tags: 
+  - "比特幣全節點"
+  - "CAT20協議"
+  - "區塊鏈部署"
+summary: "**作業系統**: Ubuntu 22.04 **硬體配置**: 2vCPU 8GB RAM（建議更高配置）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/practice_y11/status/1837052489839038545"
+  externalUrl: "https://www.youtube.com/watch?v=wAKriVSKShw"
+  authorUsername: "practice_y11"
+---
+
 # Fractal Bitcoin & CAT20 全節點索引 10分鐘部署指南
 
 > **來源**: [@practice_y11](https://x.com/practice_y11/status/1837052489839038545) | [原文連結](https://www.youtube.com/watch?v=wAKriVSKShw)

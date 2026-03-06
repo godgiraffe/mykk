@@ -1,3 +1,23 @@
+---
+title: "解密交易所永續合約算法：資金費率、軋空與幌騙手法"
+date: "2024-08-19"
+tags: 
+  - "合約交易"
+  - "資金費率"
+  - "市場操縱"
+summary: "時隔 1 年的合約系列第 2 期：以 $RARE 為例拆解 Binance、OKX 合約計算方案——資金費率≠借貸利率，現貨成交價、指數價格、標記價格又是什麼關係？如何識別轋空 Short Squeeze 和幌騙 Spoofing？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/OwenJin12/status/1825464963777064994"
+  externalUrl: "https://rsci.app.link/QIqyoDzxbMb?_p=c31229c09a047af1e61d90f9ef"
+  authorUsername: "OwenJin12"
+---
+
 # 解密交易所永續合約算法：資金費率、軋空與幌騙手法
 
 > **來源**: [@OwenJin12](https://x.com/OwenJin12/status/1825464963777064994) | [原文連結](https://rsci.app.link/QIqyoDzxbMb?_p=c31229c09a047af1e61d90f9ef)

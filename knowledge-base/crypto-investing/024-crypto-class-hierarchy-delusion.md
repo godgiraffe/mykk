@@ -1,3 +1,23 @@
+---
+title: "幣圈階級跳躍幻覺：從隧道到黑暗大陸"
+date: "2025-12-31"
+tags: 
+  - "階級固化"
+  - "心態管理"
+  - "資金心理"
+summary: "階級層級 資產規模 世界比喻 主要特徵 成功率 --------- --------- --------- --------- ------- **第一層** A5-A6 ($1K-$100K) 獵人考試隧道 零基礎、靠運氣、容易歸零 極低 **第二層** A7-A8 ($100K-$10M) 天空競技塔 有技巧、理解週期、易產生幻覺 低 **斷層帶** A8→A9 90% 的墓地 不甘心、貪心、全部吐回 <10% **第三層** A9"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 60
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/mrblock/status/2006278369764335831"
+  externalUrl: null
+  authorUsername: "mrblock"
+---
+
 # 幣圈階級跳躍幻覺：從隧道到黑暗大陸
 
 > **來源**: [@mrblock](https://x.com/mrblock/status/2006278369764335831)

@@ -1,3 +1,23 @@
+---
+title: "小資金週轉策略與資產增值思考"
+date: ">"
+tags: 
+  - "資金管理"
+  - "週轉率"
+  - "套利機會"
+summary: "**小資金策略**（不超過 100 萬 U）： 應該尋找資金週轉率非常快的地方 重點在於提高資金使用效率"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 64
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1945781057015734381"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 小資金週轉策略與資產增值思考
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1945781057015734381)

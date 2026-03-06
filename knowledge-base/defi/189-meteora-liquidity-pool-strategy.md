@@ -1,3 +1,23 @@
+---
+title: "Meteora 流動池策略指南與實用工具"
+date: "2025-03-03"
+tags: 
+  - "流動池"
+  - "DLMM"
+  - "收益策略"
+summary: "關於 Meteora 流動池策略的解析，bolin寶寫的很好。以下補充一些實用的小工具與學習渠道。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xJingleMingle/status/1896425833956507670"
+  externalUrl: "https://drive.google.com/file/d/15Gmn-WSBINBTXyPE0cCipZF59rm1cloi/view?pli=1"
+  authorUsername: "0xJingleMingle"
+---
+
 # Meteora 流動池策略指南與實用工具
 
 > **來源**: [@0xJingleMingle](https://x.com/0xJingleMingle/status/1896425833956507670) | [原文連結](https://drive.google.com/file/d/15Gmn-WSBINBTXyPE0cCipZF59rm1cloi/view?pli=1)

@@ -1,3 +1,23 @@
+---
+title: "LogoCreator：開源 AI Logo 生成器"
+date: "2025-03-24"
+tags: 
+  - "AI工具"
+  - "Logo設計"
+  - "開源專案"
+summary: "LogoCreator 是一款開源的 AI Logo 生成器，使用 Flux Pro 1.1 模型能夠快速生成 Logo 圖標，並且支援編輯樣式。代碼完全開源，同時提供免費線上體驗。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/GitHub_Daily/status/1904141156189098141"
+  externalUrl: "https://github.com/Nutlope/logocreator"
+  authorUsername: "GitHub_Daily"
+---
+
 # LogoCreator：開源 AI Logo 生成器
 
 > **來源**: [@GitHub_Daily](https://x.com/GitHub_Daily/status/1904141156189098141) | [原文連結](https://github.com/Nutlope/logocreator)

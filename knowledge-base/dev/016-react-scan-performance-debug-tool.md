@@ -1,3 +1,23 @@
+---
+title: "React Scan：實時性能監測神器，發現無意義重繪"
+date: ">"
+tags: 
+  - "React 性能"
+  - "開發工具"
+  - "性能優化"
+summary: "React Scan 是一個強大的前端性能監測工具，被譽為「神器中的神器」，能幫助開發者寫出世界級的前端代碼。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/chunxiangai/status/1995728717457322251"
+  externalUrl: "https://twitter.com/chunxiangai/status/1995728717457322251/video/1"
+  authorUsername: "chunxiangai"
+---
+
 # React Scan：實時性能監測神器，發現無意義重繪
 
 > **來源**: [@chunxiangai](https://x.com/chunxiangai/status/1995728717457322251) | [原文連結](https://twitter.com/chunxiangai/status/1995728717457322251/video/1)

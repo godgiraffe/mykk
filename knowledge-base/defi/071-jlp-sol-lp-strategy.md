@@ -1,3 +1,23 @@
+---
+title: "JLP/SOL 單邊 LP 波段操作策略"
+date: "2025-10-18"
+tags: 
+  - "JLP"
+  - "流動性挖礦"
+  - "Solana"
+summary: "說到 JLP 大家應該不陌生，分享一個乾貨玩法。我以前玩了很長一段時間這個策略，當時收益非常猛，APR 能做到 200 以上，關鍵是在我看來風險很低。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1979431899660718246"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # JLP/SOL 單邊 LP 波段操作策略
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1979431899660718246)

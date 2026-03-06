@@ -1,3 +1,23 @@
+---
+title: "三盤理論——龐氏構建的終極指南"
+date: ">"
+tags: 
+  - "龐氏機制"
+  - "加密經濟學"
+  - "項目設計"
+summary: "無論你是否願意承認,人類文明的很大一部分進步都源於毫無依據但充滿樂觀的假設,而貨幣就是這種假設的最佳典範——一種對其他實體「等價回報」能力的盲目樂觀假設。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/thecryptoskanda/status/1872193691479351519"
+  externalUrl: "https://x.com/i/article/1872041209868480512"
+  authorUsername: "thecryptoskanda"
+---
+
 # 三盤理論——龐氏構建的終極指南
 
 > **來源**: [@thecryptoskanda](https://x.com/thecryptoskanda/status/1872193691479351519) | [原文連結](https://x.com/i/article/1872041209868480512)

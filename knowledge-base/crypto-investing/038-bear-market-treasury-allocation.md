@@ -1,3 +1,23 @@
+---
+title: "熊市期間的資金配置策略"
+date: ">"
+tags: 
+  - "熊市配置"
+  - "穩定幣理財"
+  - "收益策略"
+summary: "### 1. 少量倉位 **OKX pay (USDG)**：10% 活期 **Bitget 錢包 USDC-Aave**：10% 活期"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1995757685657202790"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # 熊市期間的資金配置策略
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1995757685657202790)

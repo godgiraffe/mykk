@@ -1,3 +1,25 @@
+---
+title: "加密貨幣投資安全與風險管理"
+date: "2026-02-13"
+tags: 
+  - "安全"
+  - "風險管理"
+  - "交易所"
+  - "錢包"
+  - "防詐騙"
+summary: "重點領域 具體建議 風險警示 -------- ----------------------------------------------------------------------------- -------------------------------------------------------------------- 交易前 保持清醒理智，狀態不佳時避免操作。 情緒化或不清醒的狀態易導致錯誤決策。 交易所轉帳 定期"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/2022289019137376649"
+  externalUrl: null
+  authorUsername: "zhamomo666"
+---
+
 # 加密貨幣投資安全與風險管理
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/2022289019137376649)

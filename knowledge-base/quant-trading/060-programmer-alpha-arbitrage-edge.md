@@ -1,3 +1,23 @@
+---
+title: "程式員 Alpha：寫程式作為加密貨幣交易的核心優勢"
+date: "2025-11-21"
+tags: 
+  - "程式員優勢"
+  - "Alpha 識別"
+  - "套利機會"
+summary: "趁現在心裡難受，趁現在心裡有發奮圖強想要賺錢的決心和動力，還沒有看我這兩篇關於 @edgeX_exchange 分享的程式員趕緊去學習，然後行動起來吧。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1991816781397147757"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # 程式員 Alpha：寫程式作為加密貨幣交易的核心優勢
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1991816781397147757)

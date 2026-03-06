@@ -1,3 +1,23 @@
+---
+title: "YouTube 交易教育者推薦指南"
+date: "2024-10-05"
+tags: 
+  - "交易學習"
+  - "YouTube頻道"
+  - "量化交易"
+summary: "這個假期都在全身心學習交易,YouTube 是學交易的天堂。給大家推薦一波交易帳號,大家可以 mark 再看。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lin_yiliu/status/1842545279859593503"
+  externalUrl: null
+  authorUsername: "lin_yiliu"
+---
+
 # YouTube 交易教育者推薦指南
 
 > **來源**: [@lin_yiliu](https://x.com/lin_yiliu/status/1842545279859593503)

@@ -1,3 +1,23 @@
+---
+title: "結合 Claude 與 Codex 的多模型協作編程工作流"
+date: "2026-02-27"
+tags: 
+  - "Claude Code"
+  - "Codex"
+  - "多模型協作"
+summary: "比如說這篇論文： \"Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity\" (arXiv:2602.03794) 提到同源的模型，更容易遇到瓶頸。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/2027356094813667416"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "LumaoDoggie"
+---
+
 # 結合 Claude 與 Codex 的多模型協作編程工作流
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/2027356094813667416) | [原文連結](https://code.claude.com/docs)

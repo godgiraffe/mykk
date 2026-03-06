@@ -1,3 +1,23 @@
+---
+title: "永續合約交易所積分農耕策略指南"
+date: "2025-12-31"
+tags: 
+  - "永續合約"
+  - "積分農耕"
+  - "風險管理"
+summary: "根據過往經驗，成功的永續合約去中心化交易所（PerpDex）通常具備以下三個關鍵特點："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0Xlynn03/status/2006229363738697832"
+  externalUrl: null
+  authorUsername: "0Xlynn03"
+---
+
 # 永續合約交易所積分農耕策略指南
 
 > **來源**: [@0Xlynn03](https://x.com/0Xlynn03/status/2006229363738697832)

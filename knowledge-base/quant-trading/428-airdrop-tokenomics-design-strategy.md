@@ -1,3 +1,23 @@
+---
+title: "空投機制設計實戰：以終為始的項目方套現邏輯"
+date: "2024-06-28"
+tags: 
+  - "空投策略"
+  - "項目融資"
+  - "風險管理"
+summary: "項目方進行空投的核心目標是**最大化團隊賣幣利潤**。空投本質上是為了後期賣幣而付出的市場營銷成本，主要目的包括："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/thecryptoskanda/status/1806633063763595438"
+  externalUrl: null
+  authorUsername: "thecryptoskanda"
+---
+
 # 空投機制設計實戰：以終為始的項目方套現邏輯
 
 > **來源**: [@thecryptoskanda](https://x.com/thecryptoskanda/status/1806633063763595438)

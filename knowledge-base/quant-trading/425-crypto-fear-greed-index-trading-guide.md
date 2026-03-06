@@ -1,3 +1,23 @@
+---
+title: "幣圈恐懼與貪婪指數（CF&GI）實戰交易全攻略"
+date: "2024-07-07"
+tags: 
+  - "恐懼與貪婪指數"
+  - "牛熊週期"
+  - "交易策略"
+summary: "★ Insight ───────────────────────────────────── 1. 這篇 CF&GI 深度分析包含極豐富的量化回測數據（144 情境、1008 輸出） 2. 文章結構完整：從週期性主題分析 → 準確度回報率 → 抄底策略 → 逃頂策略 → 總結 3. 核心價值在於將情緒指標與牛熊週期、持倉時間、資產類別三維度交叉分析 ───────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gayau_eth/status/1809946100222382519"
+  externalUrl: "https://x.com/i/article/1809501403829960704"
+  authorUsername: "gayau_eth"
+---
+
 # 幣圈恐懼與貪婪指數（CF&GI）實戰交易全攻略
 
 > **來源**: [@gayau_eth](https://x.com/gayau_eth/status/1809946100222382519) | [原文連結](https://x.com/i/article/1809501403829960704)

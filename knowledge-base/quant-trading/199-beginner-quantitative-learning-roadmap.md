@@ -1,3 +1,23 @@
+---
+title: "小白入門量化學習路線圖"
+date: "2025-06-20"
+tags: 
+  - "量化交易"
+  - "學習路線"
+  - "入門指南"
+summary: "#### Python 基礎 **基本語法**：數據類型、條件判斷、循環、函數定義 **第三方庫**：NumPy（數值計算）、Pandas（數據處理）、Matplotlib（數據可視化） **推薦資源**： - Python 官方教學（全球最權威） - B 站免費視頻課程（適合中文學習者）"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Techbruneth/status/1935975670582272097"
+  externalUrl: "https://twitter.com/Techbruneth/status/1935975670582272097/photo/1"
+  authorUsername: "Techbruneth"
+---
+
 # 小白入門量化學習路線圖
 
 > **來源**: [@Techbruneth](https://x.com/Techbruneth/status/1935975670582272097) | [原文連結](https://twitter.com/Techbruneth/status/1935975670582272097/photo/1)

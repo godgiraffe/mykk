@@ -1,3 +1,25 @@
+---
+title: "你本來可以慢慢變富 — 為什麼要卸掉槓桿"
+date: "2026-02-04"
+tags: 
+  - "槓桿"
+  - "期權"
+  - "風險管理"
+  - "波動率"
+  - "回撤"
+summary: "策略 槓桿 結果 ------ ------ ------ 小藍 0x 穩定正收益 小綠 3x 大幅跑贏小藍，但 2022 年回撤達 **90%** 小黃 5x -98.9%，幾乎破產 小紅 10x 第一年爆倉出局，永久失去翻身機會"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Yanakz3/status/2019063143599882252"
+  externalUrl: null
+  authorUsername: "Yanakz3"
+---
+
 # 你本來可以慢慢變富 — 為什麼要卸掉槓桿
 
 > **來源**: [BitCow (@Yanakz3)](https://x.com/Yanakz3/status/2019063143599882252)

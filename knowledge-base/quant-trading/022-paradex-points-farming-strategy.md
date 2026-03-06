@@ -1,3 +1,23 @@
+---
+title: "Paradex 積分刷分策略與實踐指南"
+date: ">"
+tags: 
+  - "持倉對沖"
+  - "交易刷量"
+  - "RPI機制"
+summary: "項目 說明 ------ ------ **TGE 時間** 預計 1 月底 **OTC 價格** 0.2U/分 **核心策略** 對沖持倉為主 + 交易刷量輔助 **持倉效率** 山寨幣 > BTC/ETH（約 5 倍以上） **衰減周期** 每 5 天效率減半，需定期換血 **刷量磨損** 理論萬 0.1，RPI 機制可降至萬 0.05"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/2006742759621931026"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # Paradex 積分刷分策略與實踐指南
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/2006742759621931026)

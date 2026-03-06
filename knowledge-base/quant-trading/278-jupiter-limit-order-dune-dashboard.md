@@ -1,3 +1,23 @@
+---
+title: "用 Dune 追蹤 Jupiter 限價單找庄家與買賣點位"
+date: "2025-04-06"
+tags: 
+  - "Jupiter限價單"
+  - "Solana交易"
+  - "鏈上分析"
+summary: "本文介紹如何使用 Dune 追蹤 Jupiter 限價單，透過分析鏈上數據找出莊家吸籌動向、判斷支撐位與阻力位。作者製作了專門的 Dune Dashboard，可以快速查找過去一段時間內透過 Jupiter 限價單功能買入某個代幣的地址、持幣百分比，以及該代幣的限價單掛單價格分佈。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ec_unoxx/status/1908873316158620039"
+  externalUrl: null
+  authorUsername: "ec_unoxx"
+---
+
 # 用 Dune 追蹤 Jupiter 限價單找庄家與買賣點位
 
 > **來源**: [@ec_unoxx](https://x.com/ec_unoxx/status/1908873316158620039)

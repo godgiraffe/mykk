@@ -1,3 +1,23 @@
+---
+title: "21st.dev 組件庫：用 Cursor 打造炫酷前端"
+date: ">"
+tags: 
+  - "UI 元件"
+  - "前端設計"
+  - "Cursor 工具"
+summary: "★ Insight ───────────────────────────────────── 這篇文章展示了如何結合 AI 程式設計工具（Cursor/v0/lovable）與現成組件庫（21st.dev）來提升前端開發效率。核心思路是：使用 21st.dev 的高品質組件作為範本，透過 Cursor 等工具進行客製化調整，避免從零開始設計 UI 的困境。 ───────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Yangyixxxx/status/1940599140045799443"
+  externalUrl: "https://21st.dev/community/components"
+  authorUsername: "Yangyixxxx"
+---
+
 # 21st.dev 組件庫：用 Cursor 打造炫酷前端
 
 > **來源**: [@Yangyixxxx](https://x.com/Yangyixxxx/status/1940599140045799443) | [原文連結](https://21st.dev/community/components)

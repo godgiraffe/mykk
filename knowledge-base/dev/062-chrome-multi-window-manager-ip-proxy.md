@@ -1,3 +1,23 @@
+---
+title: "Chrome 多開多帳號 + VPS 自建代理 IP 完整教程"
+date: ">"
+tags: 
+  - "Chrome 瀏覽器"
+  - "VPS 代理"
+  - "撸毛安全"
+summary: "對於很多擼毛的小伙伴來說，本應該是開開心心過大年的日子，卻突然發生被 ADS 被黑事件，無數人的資金被盜取，黑客地址已經開始混幣，基本找回無望了。對於很多長期的擼毛人來說，指紋瀏覽器確實有比較方便的地方，但是自古效率和安全就是蹺蹺板的兩端，只能兼顧找到一個平衡點。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/MetaHunter168/status/1884214603749691597"
+  externalUrl: "https://x.com/i/article/1884206099823493120"
+  authorUsername: "MetaHunter168"
+---
+
 # Chrome 多開多帳號 + VPS 自建代理 IP 完整教程
 
 > **來源**: [@MetaHunter168](https://x.com/MetaHunter168/status/1884214603749691597) | [原文連結](https://x.com/i/article/1884206099823493120)

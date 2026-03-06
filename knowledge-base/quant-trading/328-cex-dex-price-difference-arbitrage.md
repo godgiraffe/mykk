@@ -1,3 +1,23 @@
+---
+title: "交易所與鏈上價差套利策略 — 發現交易規律的實戰案例"
+date: ">"
+tags: 
+  - "套利策略"
+  - "價差交易"
+  - "市場微觀結構"
+summary: "## 交易觀察紀錄 第一筆交易時間在 3.30 分鐘開始，後面 20 分鐘全是等待。 ## 發現的交易規律 在實際操作中發現了一個關鍵規律： **交易所賣出**：沒有價差 **鏈上賣出**：有價差 ## 後續操作 根據這個發現的規律，在下一個影片中執行了一筆交易操作。 **相關影片**: https://t.co/xQMmSTM7mz"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 45
+evergreenScore: 64
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1876662842524614695"
+  externalUrl: "https://twitter.com/zhamomo666/status/1876662842524614695/video/1"
+  authorUsername: "zhamomo666"
+---
+
 # 交易所與鏈上價差套利策略 — 發現交易規律的實戰案例
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1876662842524614695) | [原文連結](https://twitter.com/zhamomo666/status/1876662842524614695/video/1)

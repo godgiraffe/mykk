@@ -1,3 +1,23 @@
+---
+title: "LP 池子高效篩選策略 — 1 小時 ROI 優先"
+date: "2025-09-19"
+tags: 
+  - "LP策略"
+  - "資金效率"
+  - "快進快出"
+summary: "指標 閾值 ------ ------ 1 小時手續費 > $100 1 小時 ROI > 0.1% 排序方式 1 小時 ROI 倒序"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1968879083158151470"
+  externalUrl: "https://twitter.com/gm365/status/1968879083158151470/photo/1"
+  authorUsername: "gm365"
+---
+
 # LP 池子高效篩選策略 — 1 小時 ROI 優先
 
 > **來源**: [@gm365](https://x.com/gm365/status/1968879083158151470) | [原文連結](https://twitter.com/gm365/status/1968879083158151470/photo/1)

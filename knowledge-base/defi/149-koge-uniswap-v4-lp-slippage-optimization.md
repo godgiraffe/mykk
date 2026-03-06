@@ -1,3 +1,23 @@
+---
+title: "KOGE/USDT 交易對低磨損最優解：大額單筆交易測試"
+date: "2025-06-07"
+tags: 
+  - "LP策略"
+  - "滑點優化"
+  - "Uniswap V4"
+summary: "透過實際測試發現，在 KOGE/USDT 交易對上，使用**大額單筆交易 + 0.01% 滑點**設定可達到最低磨損："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ai_9684xtpa/status/1931186025759670538"
+  externalUrl: null
+  authorUsername: "ai_9684xtpa"
+---
+
 # KOGE/USDT 交易對低磨損最優解：大額單筆交易測試
 
 > **來源**: [@ai_9684xtpa](https://x.com/ai_9684xtpa/status/1931186025759670538)

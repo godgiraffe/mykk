@@ -1,3 +1,23 @@
+---
+title: "10月11日大清洗後的盈利策略與風險管理總結"
+date: "2025-10-12"
+tags: 
+  - "閃跌套利"
+  - "抄底策略"
+  - "風險管理"
+summary: "歷史上最血腥的清洗告一段落，整理 10.11 大清洗後 11 篇優質內容，分為三類：盈利策略、中性操作、風險管理，建議收藏慢慢學習。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Vegahao/status/1977341136479142118"
+  externalUrl: "https://x.com/Vida_BWE/status/1976786239014527104"
+  authorUsername: "Vegahao"
+---
+
 # 10月11日大清洗後的盈利策略與風險管理總結
 
 > **來源**: [@Vegahao](https://x.com/Vegahao/status/1977341136479142118) | [原文連結](https://x.com/Vida_BWE/status/1976786239014527104)

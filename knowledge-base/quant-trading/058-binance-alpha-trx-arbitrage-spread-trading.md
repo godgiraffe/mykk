@@ -1,3 +1,23 @@
+---
+title: "幣安 Alpha TRX 交易賽套利案例：跨交易所借幣鎖價獲利 20%+"
+date: "2025-11-22"
+tags: 
+  - "套利"
+  - "借幣策略"
+  - "市場微觀結構"
+summary: "幣安 Alpha 舉辦 TRX 鏈交易賽期間，幣安並未開放 TRX 即時交易功能，獎勵發放時出現買盤不足（只能用限價單進行撮合），許多人為了脫手而折價賣出。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/fivepointwater5/status/1992229135360663904"
+  externalUrl: "https://x.com/fivepointwater5/status/1991746628743803216"
+  authorUsername: "fivepointwater5"
+---
+
 # 幣安 Alpha TRX 交易賽套利案例：跨交易所借幣鎖價獲利 20%+
 
 > **來源**: [@fivepointwater5](https://x.com/fivepointwater5/status/1992229135360663904) | [原文連結](https://x.com/fivepointwater5/status/1991746628743803216)

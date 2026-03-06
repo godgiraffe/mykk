@@ -1,3 +1,23 @@
+---
+title: "永續合約交易必知：最後成交價、指數價格與標記價格"
+date: "2025-10-18"
+tags: 
+  - "永續合約"
+  - "標記價格"
+  - "風險管理"
+summary: "標記價格是一個綜合指數，由指數價格（各大現貨交易所的加權平均價）和資金費率基差共同構成，以避免單一交易所的價格波動導致不必要的強制平倉。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 41
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1979512916316676576"
+  externalUrl: null
+  authorUsername: "agintender"
+---
+
 # 永續合約交易必知：最後成交價、指數價格與標記價格
 
 > **來源**: [@agintender](https://x.com/agintender/status/1979512916316676576)

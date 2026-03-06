@@ -1,3 +1,23 @@
+---
+title: "CEX/DEX 流動性與套利對比評測：Lighter、edgeX、Variational"
+date: ">"
+tags: 
+  - "套利"
+  - "交易所比較"
+  - "流動性提供"
+summary: "本文對比三個去中心化交易所（Lighter、edgeX、Variational）的實際使用體驗，從套利交易者視角評估流動性、手續費、金庫收益、資金管理等關鍵面向。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0Xlynn03/status/1957640590935609399"
+  externalUrl: null
+  authorUsername: "0Xlynn03"
+---
+
 # CEX/DEX 流動性與套利對比評測：Lighter、edgeX、Variational
 
 > **來源**: [@0Xlynn03](https://x.com/0Xlynn03/status/1957640590935609399)

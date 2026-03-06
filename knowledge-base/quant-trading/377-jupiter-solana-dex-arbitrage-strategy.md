@@ -1,3 +1,23 @@
+---
+title: "基於 Jupiter 的 Solana DEX 套利原理"
+date: "2024-11-04"
+tags: 
+  - "Solana 套利"
+  - "Jupiter DEX"
+  - "量化交易"
+summary: "昨晚會議上，@InkyWang 分享了基於 Jupiter 的 Solana DEX 套利原理。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ChainBuff/status/1853360221672095907"
+  externalUrl: "https://www.youtube.com/watch?v=-siGgrMMIFM"
+  authorUsername: "ChainBuff"
+---
+
 # 基於 Jupiter 的 Solana DEX 套利原理
 
 > **來源**: [@ChainBuff](https://x.com/ChainBuff/status/1853360221672095907) | [原文連結](https://www.youtube.com/watch?v=-siGgrMMIFM)

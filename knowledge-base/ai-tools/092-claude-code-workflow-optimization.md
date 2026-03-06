@@ -1,3 +1,23 @@
+---
+title: "Claude Code 規範驅動工作流完整指南"
+date: "2025-07-27"
+tags: 
+  - "Claude Code"
+  - "工作流優化"
+  - "自動化"
+summary: "作者之前一直使用 Cursor，但最近完全轉向了 Claude Code，原因是 Claude Code 提供了更靈活的定制能力和更智能的上下文管理。相比 Cursor，Claude Code 更像一個「通用 AI Agent」，不僅能寫代碼，還能深度理解項目需求、規劃架構，甚至自動化複雜任務。它的終端集成和強大的上下文處理能力讓它在處理大型項目時表現更出色。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/1949269773453516909"
+  externalUrl: null
+  authorUsername: "shao__meng"
+---
+
 # Claude Code 規範驅動工作流完整指南
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/1949269773453516909)

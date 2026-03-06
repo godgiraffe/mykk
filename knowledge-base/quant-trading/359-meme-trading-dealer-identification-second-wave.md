@@ -1,3 +1,23 @@
+---
+title: "Meme 交易秘訣：識別強莊盤、吃第二波"
+date: "2024-11-24"
+tags: 
+  - "Meme 交易"
+  - "莊家策略"
+  - "波段操作"
+summary: "前幾天跟 @FC_0X0 FC 老闆討論 meme 的 Space 文字版，主要就是一步步拆解莊盤的。大家錯過 Space 的歡迎看一下精簡版，感謝 FC 老闆邀請，歡迎老闆多帶些巨鯨進場一起把蛋糕做大。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1860656944362697147"
+  externalUrl: null
+  authorUsername: "Michael_Liu93"
+---
+
 # Meme 交易秘訣：識別強莊盤、吃第二波
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1860656944362697147)

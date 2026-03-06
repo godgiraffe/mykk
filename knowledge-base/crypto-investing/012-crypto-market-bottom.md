@@ -1,3 +1,25 @@
+---
+title: "加密貨幣市場底部區間策略"
+date: "2026-02-07"
+tags: 
+  - "加密貨幣"
+  - "投資策略"
+  - "市場週期"
+  - "底部判斷"
+  - "分批布局"
+summary: "重點 說明 ---------------------------------- ------------------------------------------------------------------- **底部定義** 底部是一個時間區間，而非單一點位。 **築底時間** 市場通常需要 3-6 個月的時間來築底。 **投資策略** 在合理區間內分批布局，不必追求最低點。 **目標價區間（僅供參考）** BTC: $49k"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/nooob_ape/status/2020042257915855002"
+  externalUrl: null
+  authorUsername: "nooob_ape"
+---
+
 # 加密貨幣市場底部區間策略
 
 > **來源**: [@nooob_ape](https://x.com/nooob_ape/status/2020042257915855002)

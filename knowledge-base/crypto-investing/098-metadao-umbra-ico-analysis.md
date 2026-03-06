@@ -1,3 +1,23 @@
+---
+title: "MetaDAO 與 Umbra 新打新機會分析"
+date: "2025-10-06"
+tags: 
+  - "打新策略"
+  - "IDO評估"
+  - "風險管理"
+summary: "Paradigm 投資的 @MetaDAOProject 將在 **6-10 號**有一個新的打新機會，這是個大卡車項目，感覺就是穩定理財了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1975087513875472782"
+  externalUrl: null
+  authorUsername: "0xleng1"
+---
+
 # MetaDAO 與 Umbra 新打新機會分析
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1975087513875472782)

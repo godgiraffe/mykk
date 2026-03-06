@@ -1,3 +1,23 @@
+---
+title: "10月11日閃崩套利機會總結"
+date: "2025-10-11"
+tags: 
+  - "閃崩套利"
+  - "現貨套利"
+  - "跨鏈交易"
+summary: "**時間**: 5:42 - 5:52 左右，底價 0.66 USDT = 1 USDe"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1976969891518595331"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # 10月11日閃崩套利機會總結
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1976969891518595331)

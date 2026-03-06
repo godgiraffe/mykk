@@ -1,3 +1,23 @@
+---
+title: "Morpho sUSDe/PT 預言機套利：迴圈貸仓位風險分析"
+date: "2024-12-06"
+tags: 
+  - "Morpho"
+  - "Pendle"
+  - "預言機設計"
+summary: "在 Morpho 協議上發現一個有趣的預言機價格差異現象：sUSDe/PT 在 Pendle 的實際市場價格已經達到 33% APY,但 Morpho 對 PT 的預言機價格是使用自定義的計算方式,按照 15% 的 APR 來計算。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yicenglou1/status/1865018985093460168"
+  externalUrl: null
+  authorUsername: "yicenglou1"
+---
+
 # Morpho sUSDe/PT 預言機套利：迴圈貸仓位風險分析
 
 > **來源**: [@yicenglou1](https://x.com/yicenglou1/status/1865018985093460168)

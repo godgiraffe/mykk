@@ -1,3 +1,23 @@
+---
+title: "動物園社區 Solana 交易機器人開源專案"
+date: "2024-10-13"
+tags: 
+  - "交易機器人"
+  - "Solana"
+  - "社區建設"
+summary: "這是動物園社區的交易 BOT 開源專案。在動物園初始建設的時候，開發者思考如何搭建一個基礎設施讓所有人收益，同時擴大影響力，拉盤幣價。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/toupaiwang/status/1845439126985736271"
+  externalUrl: "https://github.com/toupaiwang/tradingbot"
+  authorUsername: "toupaiwang"
+---
+
 # 動物園社區 Solana 交易機器人開源專案
 
 > **來源**: [@toupaiwang](https://x.com/toupaiwang/status/1845439126985736271) | [原文連結](https://github.com/toupaiwang/tradingbot)

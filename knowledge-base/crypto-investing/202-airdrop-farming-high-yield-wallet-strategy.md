@@ -1,3 +1,23 @@
+---
+title: "高勝率撸毛錢包策略：空投獵人的資產配置"
+date: ">"
+tags: 
+  - "空投農場"
+  - "高勝率錢包"
+  - "資產配置"
+summary: "以前收藏了一個超高勝率撸毛地址，光是 RBN + DYDX 就撸到了至少 20 萬美元，歷史上 16 次值錢空投他得有 15 次。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/tyw1984/status/1803749361924661685"
+  externalUrl: null
+  authorUsername: "tyw1984"
+---
+
 # 高勝率撸毛錢包策略：空投獵人的資產配置
 
 > **來源**: [@tyw1984](https://x.com/tyw1984/status/1803749361924661685)

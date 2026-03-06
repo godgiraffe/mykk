@@ -26,8 +26,9 @@ export default defineConfig({
 
     nav: [
       { text: "首頁", link: "/" },
-      { text: "按讚文章", link: "/liked" },
-      { text: "按倒讚文章", link: "/disliked" },
+      { text: "待審", link: "/review" },
+      { text: "精選", link: "/curated" },
+      { text: "封存", link: "/archive" },
     ],
 
     outline: { label: "目錄" },

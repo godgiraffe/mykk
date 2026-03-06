@@ -1,3 +1,23 @@
+---
+title: "Backpack & EdgeX 永續合約自動交易機器人框架"
+date: "2025-09-15"
+tags: 
+  - "量化交易"
+  - "永續合約"
+  - "網格交易策略"
+summary: "趁著寫 Backpack 的腳本，作者把整個程式碼框架重新寫了一遍，將 Backpack 和 EdgeX 的腳本放在同一個 Repo 裡，以後增加其他交易所也會更加方便。新的腳本在 GitHub 連結中，以後只會更新這個新版本，原來的 EdgeX 腳本會停止更新。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1967611807725433271"
+  externalUrl: "https://github.com/your-quantguy/perp-dex-tools"
+  authorUsername: "yourQuantGuy"
+---
+
 # Backpack & EdgeX 永續合約自動交易機器人框架
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1967611807725433271) | [原文連結](https://github.com/your-quantguy/perp-dex-tools)

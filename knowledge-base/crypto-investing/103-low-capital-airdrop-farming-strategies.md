@@ -1,3 +1,23 @@
+---
+title: "小資金空投農耕策略：Binance Alpha、OKX Boost、Limitless"
+date: ">"
+tags: 
+  - "空投農耕"
+  - "低本金策略"
+  - "交易量刷單"
+summary: "分享 3 個適合非常小資金，但回報率極高的策略。不要再說自己小資金參與不了啦,機會多得是,就怕大家不行動。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/degentalk_hk/status/1967863423389372587"
+  externalUrl: "https://web3.okx.com/join/degentalk"
+  authorUsername: "degentalk_hk"
+---
+
 # 小資金空投農耕策略：Binance Alpha、OKX Boost、Limitless
 
 > **來源**: [@degentalk_hk](https://x.com/degentalk_hk/status/1967863423389372587) | [原文連結](https://web3.okx.com/join/degentalk)

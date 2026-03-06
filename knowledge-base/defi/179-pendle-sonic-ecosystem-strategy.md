@@ -1,3 +1,23 @@
+---
+title: "用Pendle玩轉Sonic生態：DeFi策略完全指南"
+date: ">"
+tags: 
+  - "Pendle協議"
+  - "Sonic生態"
+  - "收益策略"
+summary: "**PT（Principal Token，本金代幣）**：代表本金，可用折扣價購買，到期時按面值贖回，鎖定固定收益率 **YT（Yield Token，收益權代幣）**：代表未來收益權，可用小額本金加槓桿撬動生息資產的未來收益"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xPoseidon_sol/status/1904617748485075343"
+  externalUrl: "https://x.com/i/article/1903835962473598976"
+  authorUsername: "0xPoseidon_sol"
+---
+
 # 用Pendle玩轉Sonic生態：DeFi策略完全指南
 
 > **來源**: [@0xPoseidon_sol](https://x.com/0xPoseidon_sol/status/1904617748485075343) | [原文連結](https://x.com/i/article/1903835962473598976)

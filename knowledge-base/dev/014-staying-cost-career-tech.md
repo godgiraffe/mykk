@@ -1,3 +1,23 @@
+---
+title: "駐足的代價：科技業職涯決策的時間維度"
+date: ">"
+tags: 
+  - "職涯規劃"
+  - "技術判斷"
+  - "組織演化"
+summary: "每個技術人現在都在做同樣的計算。他們不會這樣稱呼它，會說自己在「探索選項」或「思考下一步」。但本質上都是同一個計算：留在現在的位置要付出多少代價?"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/amytam01/status/2023593365401636896"
+  externalUrl: "https://x.com/i/article/2023580526087696384"
+  authorUsername: "amytam01"
+---
+
 # 駐足的代價：科技業職涯決策的時間維度
 
 > **來源**: [@amytam01](https://x.com/amytam01/status/2023593365401636896) | [原文連結](https://x.com/i/article/2023580526087696384)

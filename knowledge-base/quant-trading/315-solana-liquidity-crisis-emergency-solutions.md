@@ -1,3 +1,23 @@
+---
+title: "Solana 流動性危機應急方案：跨鏈提幣、免 Gas 換幣、LP 賺手續費"
+date: "2025-01-20"
+tags: 
+  - "Solana"
+  - "流動性管理"
+  - "DeFi 操作"
+summary: "1. 先提幣到任一 EVM 鏈（如以太坊、BSC 等） 2. 使用 Portal Bridge 的 USDC 橋接功能跨到 Solana 3. 整個流程約 10 多分鐘完成"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/aliez_ren/status/1881154885649141896"
+  externalUrl: null
+  authorUsername: "aliez_ren"
+---
+
 # Solana 流動性危機應急方案：跨鏈提幣、免 Gas 換幣、LP 賺手續費
 
 > **來源**: [@aliez_ren](https://x.com/aliez_ren/status/1881154885649141896)

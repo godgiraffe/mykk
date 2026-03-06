@@ -1,3 +1,23 @@
+---
+title: "進擊的做市商 3：統計優勢與信號設計"
+date: "2025-12-26"
+tags: 
+  - "做市商"
+  - "盤口分析"
+  - "微觀結構"
+summary: "這篇文章主題是「做市商的統計優勢與信號設計」，內容涵蓋： Micro Alpha 的概念 經典盤口信號（OBI、OFI、Queue、撤單比） 延遲套利與速度優勢"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/bc1qDave/status/2004383758968037562"
+  externalUrl: "https://x.com/i/article/2004165865588379651"
+  authorUsername: "bc1qDave"
+---
+
 # 進擊的做市商 3：統計優勢與信號設計
 
 > **來源**: [@bc1qDave](https://x.com/bc1qDave/status/2004383758968037562) | [原文連結](https://x.com/i/article/2004165865588379651)

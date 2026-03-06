@@ -1,3 +1,23 @@
+---
+title: "Fight ($FIGHT) — UFC 授權粉絲代幣與 Hololaunch 打新機會"
+date: "2025-10-26"
+tags: 
+  - "打新機會"
+  - "UFC 生態"
+  - "Fan Token"
+summary: "### 10 月 27 日 **18:00** — BuidlPad 平台 MMT 專案打新，單號 3000 USD，BSC 鏈 USDC **20:00** — Kaito 平台 zkPass 專案打新，準備 5000 USD，Base 鏈 USDC **21:00** — MegaETH 在 Sonar 平台預售，單號最低 2650 USD，最高 186,282 USD，需準備 ETH 鏈 USDT **22:00** — **Ho"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/lxx794/status/1982470684464021646"
+  externalUrl: "https://app.hololaunch.ai/ico/fight"
+  authorUsername: "lxx794"
+---
+
 # Fight ($FIGHT) — UFC 授權粉絲代幣與 Hololaunch 打新機會
 
 > **來源**: [@lxx794](https://x.com/lxx794/status/1982470684464021646) | [原文連結](https://app.hololaunch.ai/ico/fight)

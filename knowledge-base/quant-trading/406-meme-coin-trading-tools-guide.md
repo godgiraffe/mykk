@@ -1,3 +1,23 @@
+---
+title: "炒 Meme 幣必備的 45 個工具"
+date: "2024-10-13"
+tags: 
+  - "Meme 幣"
+  - "交易工具"
+  - "工具合集"
+summary: "本文整理了炒 Meme 幣必備的 45 個工具，涵蓋基礎設施、鏈上數據分析、發幣平台、安全檢測和 Telegram 機器人等多個類別。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Crypto_Cat888/status/1845463797047132640"
+  externalUrl: "https://twitter.com/Crypto_Cat888/status/1845463797047132640/photo/1"
+  authorUsername: "Crypto_Cat888"
+---
+
 # 炒 Meme 幣必備的 45 個工具
 
 > **來源**: [@Crypto_Cat888](https://x.com/Crypto_Cat888/status/1845463797047132640) | [原文連結](https://twitter.com/Crypto_Cat888/status/1845463797047132640/photo/1)

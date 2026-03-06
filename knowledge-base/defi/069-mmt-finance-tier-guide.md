@@ -1,3 +1,23 @@
+---
+title: "MMTFinance 大戶認購指南：Tier 等級與 LP 策略"
+date: "2025-10-18"
+tags: 
+  - "打新策略"
+  - "流動性挖礦"
+  - "認購額度"
+summary: "在 @MMTFinance 的 Wagmi 排到 Tier 5 以上，現在從 0 開始至少要放 10 萬刀在 LP + 再多 Swap 才有機會達標（卷爛）"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/TobiChicken/status/1979453230951338087"
+  externalUrl: null
+  authorUsername: "TobiChicken"
+---
+
 # MMTFinance 大戶認購指南：Tier 等級與 LP 策略
 
 > **來源**: [@TobiChicken](https://x.com/TobiChicken/status/1979453230951338087)

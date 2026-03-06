@@ -1,3 +1,23 @@
+---
+title: "永續合約 APR、OI 與成交量信號：小市值代幣異動篩選指南"
+date: "2025-05-12"
+tags: 
+  - "永續合約"
+  - "技術指標"
+  - "小市值代幣"
+summary: "我發現很多人不會用這個網站,如果你看我的截圖,可以發現當時篩選出來的 $Moodeng,兩天時間翻倍了,剛好在啟動的當天!"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xKevin00/status/1921855980926865488"
+  externalUrl: null
+  authorUsername: "0xKevin00"
+---
+
 # 永續合約 APR、OI 與成交量信號：小市值代幣異動篩選指南
 
 > **來源**: [@0xKevin00](https://x.com/0xKevin00/status/1921855980926865488)

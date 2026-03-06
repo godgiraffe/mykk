@@ -1,3 +1,23 @@
+---
+title: "生存優先，利潤次之：加密貨幣交易的長期勝利法則"
+date: "2025-11-10"
+tags: 
+  - "風險管理"
+  - "心態管理"
+  - "長期生存"
+summary: "生存優先，利潤次之。一切都次於生存。你必須每天都還持有資本才能繼續玩這個遊戲、繼續學習。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/tradinghoex/status/1987936954554683828"
+  externalUrl: "https://x.com/i/article/1985471928514248704"
+  authorUsername: "tradinghoex"
+---
+
 # 生存優先，利潤次之：加密貨幣交易的長期勝利法則
 
 > **來源**: [@tradinghoex](https://x.com/tradinghoex/status/1987936954554683828) | [原文連結](https://x.com/i/article/1985471928514248704)

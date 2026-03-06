@@ -1,3 +1,23 @@
+---
+title: "土狗幣二次進場策略：用 GMGN 找出回調買點"
+date: "2024-10-30"
+tags: 
+  - "土狗交易"
+  - "K線分析"
+  - "GMGN工具"
+summary: "如果你沒有科技優勢搶到起點，也沒有運氣衝到金狗起點，就去選擇明牌的、回調較大的金狗去做二次入場吃波段。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/shiluxiya/status/1851503000914948158"
+  externalUrl: "https://gmgn.ai/?ref=FAMt6Zaz&chain=sol"
+  authorUsername: "shiluxiya"
+---
+
 # 土狗幣二次進場策略：用 GMGN 找出回調買點
 
 > **來源**: [@shiluxiya](https://x.com/shiluxiya/status/1851503000914948158) | [原文連結](https://gmgn.ai/?ref=FAMt6Zaz&chain=sol)

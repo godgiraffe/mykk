@@ -1,3 +1,23 @@
+---
+title: "Pendle 聰明錢追蹤儀表板 - YT 持倉監控工具"
+date: "2025-10-27"
+tags: 
+  - "Pendle"
+  - "聰明錢追蹤"
+  - "YieldTrading"
+summary: "這是一個由 AI 輔助開發的 Pendle YT (Yield Token) 聰明錢追蹤工具，開發者無程式基礎背景。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Hollow2077/status/1982682591624065239"
+  externalUrl: "https://pendle-activity-dashboard-167435137175.us-west1.run.app/"
+  authorUsername: "Hollow2077"
+---
+
 # Pendle 聰明錢追蹤儀表板 - YT 持倉監控工具
 
 > **來源**: [@Hollow2077](https://x.com/Hollow2077/status/1982682591624065239) | [原文連結](https://pendle-activity-dashboard-167435137175.us-west1.run.app/)

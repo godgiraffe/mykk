@@ -1,3 +1,23 @@
+---
+title: "槓桿版以太坊：大型 DeFi 代幣的歷史表現分析"
+date: ">"
+tags: 
+  - "杠杆交易"
+  - "DeFi代幣"
+  - "投資策略"
+summary: "Layer 2 代幣似乎不是最佳選擇。從歷史數據來看，大型 DeFi 類代幣表現更好，例如："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/follow_clues/status/1862054114198266352"
+  externalUrl: null
+  authorUsername: "follow_clues"
+---
+
 # 槓桿版以太坊：大型 DeFi 代幣的歷史表現分析
 
 > **來源**: [@follow_clues](https://x.com/follow_clues/status/1862054114198266352)

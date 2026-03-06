@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 時機選擇與 Falcon Finance 策略指南"
+date: "2025-08-18"
+tags: 
+  - "Pendle"
+  - "收益農場"
+  - "資本效率"
+summary: "這篇短文將以最近火熱的合成美元協議 @falconfinance 為例，分享一些 Pendle 的入市邏輯,方便各位 DeFi farmer 開源節流、增強收益。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/craigyc_eth/status/1957436188224376988"
+  externalUrl: "https://quantsheep.com/"
+  authorUsername: "craigyc_eth"
+---
+
 # Pendle YT 時機選擇與 Falcon Finance 策略指南
 
 > **來源**: [@craigyc_eth](https://x.com/craigyc_eth/status/1957436188224376988) | [原文連結](https://quantsheep.com/)

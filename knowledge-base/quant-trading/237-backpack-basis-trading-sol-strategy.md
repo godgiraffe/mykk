@@ -1,3 +1,23 @@
+---
+title: "Backpack SOL 中性套利策略：年化 20% 的無風險組合"
+date: "2025-05-11"
+tags: 
+  - "套利"
+  - "Basis Trading"
+  - "資金費率"
+summary: "在 Backpack 構建一個年化 20%+ 的 SOL 中性套利策略，同時賺取積分。這是一個基於合約 Funding Fee 的基礎套利操作，適合新手入門。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Cody_DeFi/status/1921628662362948024"
+  externalUrl: "https://backpack.exchange/signup?code=608bnwy0"
+  authorUsername: "Cody_DeFi"
+---
+
 # Backpack SOL 中性套利策略：年化 20% 的無風險組合
 
 > **來源**: [@Cody_DeFi](https://x.com/Cody_DeFi/status/1921628662362948024) | [原文連結](https://backpack.exchange/signup?code=608bnwy0)

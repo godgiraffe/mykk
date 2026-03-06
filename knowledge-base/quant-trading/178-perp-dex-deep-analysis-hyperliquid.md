@@ -1,3 +1,23 @@
+---
+title: "永續合約 DEX 深度解析：Hyperliquid 與新興平臺對比"
+date: "2025-06-29"
+tags: 
+  - "永續合約"
+  - "衍生品交易"
+  - "項目評估"
+summary: "★ Insight ─────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cryptonymk/status/1939323316109754869"
+  externalUrl: null
+  authorUsername: "Cryptonymk"
+---
+
 # 永續合約 DEX 深度解析：Hyperliquid 與新興平臺對比
 
 > **來源**: [@Cryptonymk](https://x.com/Cryptonymk/status/1939323316109754869)

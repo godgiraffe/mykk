@@ -1,3 +1,23 @@
+---
+title: "macOS 加密鏡像檔防止資料外洩技巧"
+date: ">"
+tags: 
+  - "資訊安全"
+  - "macOS"
+  - "檔案保護"
+summary: "利用 macOS 的 Disk Utility 建立加密的可掛載鏡像檔（Encrypted Disk Image），在 MacBook 上開闢一塊與世隔絕的硬碟空間。即使黑客程式入侵系統，也無法存取這些重要機密檔案。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0x0_zero/status/1967934752465490017"
+  externalUrl: null
+  authorUsername: "0x0_zero"
+---
+
 # macOS 加密鏡像檔防止資料外洩技巧
 
 > **來源**: [@0x0_zero](https://x.com/0x0_zero/status/1967934752465490017)

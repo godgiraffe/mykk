@@ -1,3 +1,23 @@
+---
+title: "把大佬 SKILL 變成你的專屬工作流：從「抄作業」到「有體系」"
+date: "2026-02-21"
+tags: 
+  - "Claude工具"
+  - "工作流優化"
+  - "SKILL改造"
+summary: "這一篇，我繼續做一件更實操的事：演示怎麼把各路大佬的 SKILL，變成你自己的專屬 SKILL。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LawrenceW_Zen/status/2025121459345998326"
+  externalUrl: "https://x.com/i/article/2025120381359783937"
+  authorUsername: "LawrenceW_Zen"
+---
+
 # 把大佬 SKILL 變成你的專屬工作流：從「抄作業」到「有體系」
 
 > **來源**: [@LawrenceW_Zen](https://x.com/LawrenceW_Zen/status/2025121459345998326) | [原文連結](https://x.com/i/article/2025120381359783937)

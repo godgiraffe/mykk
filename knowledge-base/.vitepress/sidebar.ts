@@ -1,24 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
+import { categoryNames } from "./data/category-meta";
 
 const KB_ROOT = path.resolve(__dirname, "..");
-
-/** 從 README.md 表格解析分類中文名稱 */
-function parseCategoryNames(): Record<string, string> {
-  const readme = fs.readFileSync(path.join(KB_ROOT, "index.md"), "utf-8");
-  const map: Record<string, string> = {};
-
-  for (const line of readme.split("\n")) {
-    // 匹配 | [category](./category/) | 說明 | 格式
-    const match = line.match(
-      /\|\s*\[([^\]]+)\]\(\.\/([^/]+)\/?\)\s*\|\s*(.+?)\s*\|/
-    );
-    if (match) {
-      map[match[2]] = match[1];
-    }
-  }
-  return map;
-}
 
 /** 從 markdown 檔案第一行取標題 */
 function getTitle(filePath: string): string {
@@ -29,7 +13,6 @@ function getTitle(filePath: string): string {
 
 /** 自動生成側邊欄 */
 export function generateSidebar() {
-  const categoryNames = parseCategoryNames();
   const sidebar: any[] = [];
 
   const dirs = fs

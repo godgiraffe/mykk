@@ -1,3 +1,23 @@
+---
+title: "套利學習筆記 - 同步池子基礎數據"
+date: ">"
+tags: 
+  - "套利"
+  - "池子同步"
+  - "AMM"
+summary: "在套利與 MEV 中，池子的基礎數據是關鍵的起點。我們需要從區塊鏈這個強大的資料庫中把需要用到的各種協議池子的基礎數據拿到手，以便後續路徑以及利潤的計算等。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1945760400454439151"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # 套利學習筆記 - 同步池子基礎數據
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1945760400454439151)

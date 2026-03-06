@@ -1,3 +1,23 @@
+---
+title: "LayerZero 併購 Stargate：併購細節與套利機會分析"
+date: ">"
+tags: 
+  - "併購事件"
+  - "套利機會"
+  - "籌碼分析"
+summary: "昨天 LayerZero 宣布要併購 Stargate，消息一出帶動高達 30% 幣價波動。這個併購案從籌碼面到基本面都出現了交易和套利機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptogator1121/status/1955210886668489001"
+  externalUrl: null
+  authorUsername: "cryptogator1121"
+---
+
 # LayerZero 併購 Stargate：併購細節與套利機會分析
 
 > **來源**: [@cryptogator1121](https://x.com/cryptogator1121/status/1955210886668489001)

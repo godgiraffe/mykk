@@ -1,3 +1,23 @@
+---
+title: "MMT Finance Buidlpad 打新指南 — Tier 分配與 LP 策略"
+date: ">"
+tags: 
+  - "打新IEO"
+  - "流動性挖礦"
+  - "額度最大化"
+summary: "這次的打新規則跟 Falcon 一樣，都是分開了兩個 Tier，分別是 250M 和 350M FDV。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/degentalk_hk/status/1978686474787623224"
+  externalUrl: null
+  authorUsername: "degentalk_hk"
+---
+
 # MMT Finance Buidlpad 打新指南 — Tier 分配與 LP 策略
 
 > **來源**: [@degentalk_hk](https://x.com/degentalk_hk/status/1978686474787623224)

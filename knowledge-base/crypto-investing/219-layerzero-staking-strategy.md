@@ -1,3 +1,23 @@
+---
+title: "LayerZero 質押策略：低成本多周期治理參與"
+date: ">"
+tags: 
+  - "LayerZero"
+  - "質押策略"
+  - "veSTG治理"
+summary: "1. **代幣積累時機**：每當大盤下跌時，準備一些 STG 代幣（LayerZero 親兒子代幣）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/shangdu2005/status/1643899170397511681"
+  externalUrl: "https://twitter.com/shangdu2005/status/1643899170397511681/photo/1"
+  authorUsername: "shangdu2005"
+---
+
 # LayerZero 質押策略：低成本多周期治理參與
 
 > **來源**: [@shangdu2005](https://x.com/shangdu2005/status/1643899170397511681) | [原文連結](https://twitter.com/shangdu2005/status/1643899170397511681/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "Wormhole 跨 15 條公鏈零撸教程 - Portal Bridge 完整指南"
+date: "2024-01-26"
+tags: 
+  - "跨鏈橋"
+  - "空投撸毛"
+  - "Wormhole"
+summary: "WORMHOLE 是比肩 LayerZero 的強大跨鏈專案，已籌集 2.25 億美元，今年可能會空投以與 LayerZero 競爭。本教程將帶你完成 15 次跨鏈橋接交易，覆蓋 9 個來源鏈和 12 個目的地鏈，大部分是低 gas 費交易。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKevin00/status/1750864017617494132"
+  externalUrl: "https://portalbridge.com/"
+  authorUsername: "0xKevin00"
+---
+
 # Wormhole 跨 15 條公鏈零撸教程 - Portal Bridge 完整指南
 
 > **來源**: [@0xKevin00](https://x.com/0xKevin00/status/1750864017617494132) | [原文連結](https://portalbridge.com/)

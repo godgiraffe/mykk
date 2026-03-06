@@ -1,3 +1,23 @@
+---
+title: "Polymarket 15分鐘錯價套利：交易延遲而非幣種"
+date: "2025-12-13"
+tags: 
+  - "短線交易"
+  - "市場微觀結構"
+  - "套利策略"
+summary: "項目 說明 ------ ------ 交易標的 Polymarket 15 分鐘時間框架預測市場（BTC、ETH、SOL、XRP） 套利來源 現貨價格快速波動與 Polymarket 盤口報價之間的延遲差異 進場時機 現貨價格突破後，15 分鐘盤口尚未重新計算時 出場時機 盤口賠率回歸至合理水平時立即平倉 累積收益 $56K+ (All Time) 核心優勢 交易延遲而非幣種方向，避免持倉風險和敘事風險"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/carverfomo/status/1999839092545093809"
+  externalUrl: null
+  authorUsername: "carverfomo"
+---
+
 # Polymarket 15分鐘錯價套利：交易延遲而非幣種
 
 > **來源**: [@carverfomo](https://x.com/carverfomo/status/1999839092545093809)

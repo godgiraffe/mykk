@@ -1,3 +1,25 @@
+---
+title: "Claude Code 使用技巧分享"
+date: "2026-02-01"
+tags: 
+  - "Claude"
+  - "AI工具"
+  - "錯誤處理"
+  - "經驗分享"
+  - "大型語言模型"
+summary: "本篇文章整理自 @cryptonerdcn (NerdC) 對 Claude Code 創始人 Boris 的 Claude Code 使用經驗分享的解讀。重點在於如何讓 Claude Code Agent 避免重複犯錯，這是一個值得學習的技巧。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptonerdcn/status/2017871448770286011"
+  externalUrl: null
+  authorUsername: "cryptonerdcn"
+---
+
 # Claude Code 使用技巧分享
 
 > **來源**: [@cryptonerdcn](https://x.com/cryptonerdcn/status/2017871448770286011)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code Skills 生態：質量優於數量"
+date: "2026-03-01"
+tags: 
+  - "Claude Code"
+  - "Skills 系統"
+  - "知識管理"
+summary: "上條聊了 CLAUDE.md 怎麼從配置文件變成記憶系統，這條接著說能力層——Skills。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2028253450631331958"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "runes_leo"
+---
+
 # Claude Code Skills 生態：質量優於數量
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2028253450631331958) | [原文連結](https://code.claude.com/docs)

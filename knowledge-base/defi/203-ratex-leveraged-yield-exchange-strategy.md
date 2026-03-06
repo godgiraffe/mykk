@@ -1,3 +1,23 @@
+---
+title: "RateX 槓桿收益交易所 — Solana 上的新興 YT 保證金交易協議"
+date: "2024-12-29"
+tags: 
+  - "YT 交易"
+  - "槓桿交易"
+  - "積分挖礦"
+summary: "RateX 是一個建立在 Solana 上的創新型利率平台,常被稱為「Solana 上的 Pendle」,但實際上與 Pendle 有著顯著的差異。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Vivi0xfish/status/1873394011920294088"
+  externalUrl: "https://app.rate-x.io/referral?ref=DW8rwEle"
+  authorUsername: "Vivi0xfish"
+---
+
 # RateX 槓桿收益交易所 — Solana 上的新興 YT 保證金交易協議
 
 > **來源**: [@Vivi0xfish](https://x.com/Vivi0xfish/status/1873394011920294088) | [原文連結](https://app.rate-x.io/referral?ref=DW8rwEle)

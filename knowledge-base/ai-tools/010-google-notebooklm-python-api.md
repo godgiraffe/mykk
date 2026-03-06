@@ -1,3 +1,24 @@
+---
+title: "Google NotebookLM Python API：非官方工具"
+date: ">"
+tags: 
+  - "NotebookLM"
+  - "Python API"
+  - "AI工具"
+  - "Google"
+summary: "## Google NotebookLM Python API：非官方工具知識庫文章"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/vista8/status/2011029383688188166"
+  externalUrl: "https://github.com/teng-lin/notebooklm-py"
+  authorUsername: "vista8"
+---
+
 # Google NotebookLM Python API：非官方工具
 
 > **來源**: [@vista8](https://x.com/vista8/status/2011029383688188166) | [原文連結](https://github.com/teng-lin/notebooklm-py)

@@ -1,3 +1,23 @@
+---
+title: "做市商透過 OI 操控合約價格的策略分析"
+date: "2025-10-17"
+tags: 
+  - "做市商"
+  - "未平倉量"
+  - "合約策略"
+summary: "鮮少有人知道做市商（MM）操控的不是合約的價格，而是合約的未平倉量（OI，Open Interest）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 52
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/off_thetarget/status/1979211706737004862"
+  externalUrl: null
+  authorUsername: "off_thetarget"
+---
+
 # 做市商透過 OI 操控合約價格的策略分析
 
 > **來源**: [@off_thetarget](https://x.com/off_thetarget/status/1979211706737004862)

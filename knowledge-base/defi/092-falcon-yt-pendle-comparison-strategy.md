@@ -1,3 +1,23 @@
+---
+title: "Falcon YT Pendle 策略對比：sUSDF、USDF、yvBal-GHO-USDF 性價比分析"
+date: "2025-09-20"
+tags: 
+  - "Pendle"
+  - "Falcon Finance"
+  - "YT 策略"
+summary: "玩轉 Pendle，最新一期 Falcon YT 大比拼，sUSDF0925/sUSDF0129/USDF0129/yvBal-GHO-USDF0129，哪家更強！"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Eason_2099/status/1969241921542636036"
+  externalUrl: null
+  authorUsername: "Eason_2099"
+---
+
 # Falcon YT Pendle 策略對比：sUSDF、USDF、yvBal-GHO-USDF 性價比分析
 
 > **來源**: [@Eason_2099](https://x.com/Eason_2099/status/1969241921542636036)

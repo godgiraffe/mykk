@@ -1,3 +1,23 @@
+---
+title: "2024 DeFi 挖礦與交易生態演變分析"
+date: ">"
+tags: 
+  - "DeFi挖礦"
+  - "Pendle與Morpho"
+  - "Solana交易生態"
+summary: "永恆不變的是 DeFi。DeFi 自從誕生伊始,就是鏈上所有行為的基礎。在經歷了 20-21 年狂暴的 DeFi 週期後,整個 DeFi 市場開始了分化和敘事驅動。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/YeruiZhang/status/1873924427811066000"
+  externalUrl: null
+  authorUsername: "YeruiZhang"
+---
+
 # 2024 DeFi 挖礦與交易生態演變分析
 
 > **來源**: [@YeruiZhang](https://x.com/YeruiZhang/status/1873924427811066000)

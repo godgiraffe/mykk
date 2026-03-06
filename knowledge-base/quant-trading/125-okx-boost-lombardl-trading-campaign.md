@@ -1,3 +1,23 @@
+---
+title: "OKX Boost 第二期 Lombard 空投交易策略指南"
+date: "2025-09-15"
+tags: 
+  - "交易競賽"
+  - "空投套利"
+  - "OKX"
+summary: "好的，我直接根據原始內容進行整理。這是一篇關於 OKX Boost 第二期 Lombard 空投交易策略的實戰教程。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/imqianyi88/status/1967580584282382813"
+  externalUrl: "https://t.me/imqianyi88"
+  authorUsername: "imqianyi88"
+---
+
 # OKX Boost 第二期 Lombard 空投交易策略指南
 
 > **來源**: [@imqianyi88](https://x.com/imqianyi88/status/1967580584282382813) | [原文連結](https://t.me/imqianyi88)

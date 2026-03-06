@@ -1,3 +1,23 @@
+---
+title: "交易日記：三年修行到 Trump 一戰千萬利潤的經驗總結"
+date: "2025-03-30"
+tags: 
+  - "交易心態"
+  - "風險管理"
+  - "倉位策略"
+summary: "接觸幣圈這三年多以來,除了平時在推特上對大大小小的項目做比較系統化的覆盤總結,我偶爾也會用筆記工具進行一些碎片化的梳理,昨天抽空翻看了一下,覺得這些經驗對自己最終完成 Trump 上的操作起到了很大幫助,也簡單整理一下分享給大家,其中部分文字是直接摘抄的:"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xSunNFT/status/1906249868798230597"
+  externalUrl: null
+  authorUsername: "0xSunNFT"
+---
+
 # 交易日記：三年修行到 Trump 一戰千萬利潤的經驗總結
 
 > **來源**: [@0xSunNFT](https://x.com/0xSunNFT/status/1906249868798230597)

@@ -1,3 +1,23 @@
+---
+title: "使用 AI 逆向還原 JavaScript 代碼"
+date: "2025-10-24"
+tags: 
+  - "代碼逆向"
+  - "AI 工具"
+  - "TypeScript"
+summary: "我其實也經常逆向優秀的 JavaScript 程式碼，以前手動，現在藉助 AI 效率奇高，絕大部分程式碼都能藉助 AI 還原。這事一是要有耐心，另一個就是要懂技術實現。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dotey/status/1981586724988858442"
+  externalUrl: null
+  authorUsername: "dotey"
+---
+
 # 使用 AI 逆向還原 JavaScript 代碼
 
 > **來源**: [@dotey](https://x.com/dotey/status/1981586724988858442)

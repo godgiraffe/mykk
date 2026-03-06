@@ -1,3 +1,23 @@
+---
+title: "在 Claude Code 中整合 Gemini CLI 子智能體進行大型程式庫分析"
+date: "2025-08-25"
+tags: 
+  - "Claude Code"
+  - "Gemini CLI"
+  - "子智能體"
+summary: "在 Claude Code 中整合 Gemini CLI 子智能體，將大型程式庫分析任務委派給 Gemini 的百萬 token 視窗，既能節省 Claude 額度，又能獲得高品質結果。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/aigclink/status/1959901325917118575"
+  externalUrl: null
+  authorUsername: "aigclink"
+---
+
 # 在 Claude Code 中整合 Gemini CLI 子智能體進行大型程式庫分析
 
 > **來源**: [@aigclink](https://x.com/aigclink/status/1959901325917118575)

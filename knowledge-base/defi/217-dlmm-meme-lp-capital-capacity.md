@@ -1,3 +1,23 @@
+---
+title: "DLMM Meme LP 資金容量分析：百萬美元策略的風險與收益"
+date: ">"
+tags: 
+  - "DLMM"
+  - "流動性挖礦"
+  - "風險對沖"
+summary: "一般而言，低頻、趨勢型策略，資金容量大。比如指數型 ETF 基金，幾乎無上限；但高頻型策略，則資金容量小很多。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1861967185473900653"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM Meme LP 資金容量分析：百萬美元策略的風險與收益
 
 > **來源**: [@gm365](https://x.com/gm365/status/1861967185473900653)

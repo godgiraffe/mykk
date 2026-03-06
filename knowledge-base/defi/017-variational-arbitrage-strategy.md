@@ -1,3 +1,25 @@
+---
+title: "Variational 平台套利策略分析與心得"
+date: "2026-01-16"
+tags: 
+  - "Variational"
+  - "DeFi"
+  - "套利"
+  - "交易策略"
+  - "虧損返還"
+summary: "本文分析了一位交易者利用 Variational 平台的虧損返還機制進行無風險套利的策略。作者 @Airdrop_Guard (小熊饼干 . SOL⛵) 分享了他對該策略的觀察，以及自己在 Variational 平台上交易的心得，並推薦其他交易者加入。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Airdrop_Guard/status/2011989328495591788"
+  externalUrl: "https://omni.variational.io/?ref=OMNICOOKIE"
+  authorUsername: "Airdrop_Guard"
+---
+
 # Variational 平台套利策略分析與心得
 
 > **來源**: [@Airdrop_Guard](https://x.com/Airdrop_Guard/status/2011989328495591788) | [原文連結](https://omni.variational.io/?ref=OMNICOOKIE)

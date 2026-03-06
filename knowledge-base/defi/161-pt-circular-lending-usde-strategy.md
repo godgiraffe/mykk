@@ -1,3 +1,23 @@
+---
+title: "PT 循環貸策略：AAVE + Pendle + Ethena 的 DeFi 套娃創新"
+date: "2025-05-18"
+tags: 
+  - "PT 循環貸"
+  - "Pendle"
+  - "Ethena"
+summary: "這次介紹 PT 循環貸的原因，主要是觀察到，自從幣圈最大的 DEFI 協議 @aave 上了合成美元 @ethena 在 @pendle_fi 的 PT 作為抵押品。然後整個 PT 循環貸的規模滾得非常快，直接滾到了 10 億美金。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cody_DeFi/status/1923909635091857874"
+  externalUrl: null
+  authorUsername: "Cody_DeFi"
+---
+
 # PT 循環貸策略：AAVE + Pendle + Ethena 的 DeFi 套娃創新
 
 > **來源**: [@Cody_DeFi](https://x.com/Cody_DeFi/status/1923909635091857874)

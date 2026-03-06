@@ -1,3 +1,23 @@
+---
+title: "24'Q4 跨鏈互操作性板塊對標財務模型研究報告 —— Axelar 與 Wormhole 脫穎而出？"
+date: "2024-10-20"
+tags: 
+  - "跨鏈互操作性"
+  - "財務模型對標"
+  - "代幣經濟學"
+summary: "此報告為 2024 年第四季度的跨鏈互操作性板塊對標財務模型研究。跨鏈互操作性板塊在 2024 年備受關注，主因是板塊「三巨頭」中 LayerZero 和 Wormhole 均在 24'Q2 發幣 (TGE)。同時隨著區塊鏈碎片化 (Fragmentation) 和各鏈項目蓬勃發展、各有千秋，互操作性引申的流動性和開發資源簡化現今都顯得格外切題。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gayau_eth/status/1847824884313051497"
+  externalUrl: "https://x.com/i/article/1845404448304377856"
+  authorUsername: "gayau_eth"
+---
+
 # 24'Q4 跨鏈互操作性板塊對標財務模型研究報告 —— Axelar 與 Wormhole 脫穎而出？
 
 > **來源**: [@gayau_eth](https://x.com/gayau_eth/status/1847824884313051497) | [原文連結](https://x.com/i/article/1845404448304377856)

@@ -1,3 +1,23 @@
+---
+title: "二級市場交易心法：從技術分析到本質認知"
+date: "2025-04-13"
+tags: 
+  - "技術分析"
+  - "交易心態"
+  - "風險管理"
+summary: "我在剛開始做二級交易的時候也經歷過執著去學「技術分析」的階段,那會兒一直在追求「聖杯」,恨不得把十八般武藝都練會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1911324045758644538"
+  externalUrl: null
+  authorUsername: "Michael_Liu93"
+---
+
 # 二級市場交易心法：從技術分析到本質認知
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1911324045758644538)

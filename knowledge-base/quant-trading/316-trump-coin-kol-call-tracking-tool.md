@@ -1,3 +1,23 @@
+---
+title: "Trump 幣 KOL Call 追蹤工具：幣傳播鏈與價格分析"
+date: "2025-01-20"
+tags: 
+  - "量化工具"
+  - "KOL分析"
+  - "鏈上數據"
+summary: "查看某個幣種的所有 KOL Call 單時間點 對照每個時間點對應的價格 回溯所有 KOL 在各個價格點發表的內容"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 41
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xcryptowizard/status/1881317861811171814"
+  externalUrl: "https://twitter.com/0xcryptowizard/status/1881317861811171814/photo/1"
+  authorUsername: "0xcryptowizard"
+---
+
 # Trump 幣 KOL Call 追蹤工具：幣傳播鏈與價格分析
 
 > **來源**: [@0xcryptowizard](https://x.com/0xcryptowizard/status/1881317861811171814) | [原文連結](https://twitter.com/0xcryptowizard/status/1881317861811171814/photo/1)

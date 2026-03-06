@@ -1,3 +1,24 @@
+---
+title: "BTC 四年減半週期預測"
+date: "2026-02-05"
+tags: 
+  - "BTC"
+  - "減半週期"
+  - "熊市預測"
+  - "時間線"
+summary: "時間 事件 ------ ------ 2026 年中前 熊市持續下跌（預計至少兩次大機構暴雷） **2027 年 3 月** 到達底部約 **$38,000** 左右，開始底部震盪 2027 全年 在 $35,000 ~ $47,000 區間震盪（約 34.29%） **2028 年 4 月 20 日** 第五次 BTC 減半 2028-2029 減半後 1.5 年牛市"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 51
+evergreenScore: 66
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmagnolia/status/2019376184564576581"
+  externalUrl: null
+  authorUsername: "0xmagnolia"
+---
+
 # BTC 四年減半週期預測
 
 > **來源**: [magnolia (@0xmagnolia)](https://x.com/0xmagnolia/status/2019376184564576581)

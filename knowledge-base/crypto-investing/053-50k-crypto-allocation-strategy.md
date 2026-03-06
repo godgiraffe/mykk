@@ -1,3 +1,23 @@
+---
+title: "$50k 加密貨幣投資配置策略 — Delta 中立農場與預測市場"
+date: "2025-11-09"
+tags: 
+  - "投資配置"
+  - "套利策略"
+  - "風險管理"
+summary: "**避開主流幣種**： 跳過 $BTC / $ETH / $SOL — 對你來說已經太晚了"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1987502171013763255"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # $50k 加密貨幣投資配置策略 — Delta 中立農場與預測市場
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1987502171013763255)

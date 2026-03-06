@@ -1,3 +1,23 @@
+---
+title: "USDC/USDT 匯率作為市場資金流向信號的套利分析"
+date: "2025-09-13"
+tags: 
+  - "穩定幣套利"
+  - "資金流向"
+  - "市場微觀結構"
+summary: "由於 8 月推出的 Plasma USDT 鎖倉和 USDC Flexible 高息理財活動使大量的穩定幣流入 Binance。現在活動結束，這些穩定幣也「空閒」了出來；因此這幾天經常看到 USDC/USDT 的買/賣盤有上億美元的資金在掛單。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Murphychen888/status/1966775483313647794"
+  externalUrl: null
+  authorUsername: "Murphychen888"
+---
+
 # USDC/USDT 匯率作為市場資金流向信號的套利分析
 
 > **來源**: [@Murphychen888](https://x.com/Murphychen888/status/1966775483313647794)

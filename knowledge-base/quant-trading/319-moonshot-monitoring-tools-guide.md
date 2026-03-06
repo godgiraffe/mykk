@@ -1,3 +1,23 @@
+---
+title: "Moonshot 代幣監控工具完全指南"
+date: "2025-01-18"
+tags: 
+  - "監控工具"
+  - "Moonshot"
+  - "早期發現"
+summary: "今天的 $trump 我是在群裡先看到，10:13 上線 Moonshot，我 10:15 才注意到監控，然後就轉發到了電報頻道，編輯好文字、圖片後就 10:20 了。要不是看到 Moonshot 的監控，估計我也會錯過。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x_zibu/status/1880500868816294220"
+  externalUrl: "https://t.me/moonshotlistings"
+  authorUsername: "0x_zibu"
+---
+
 # Moonshot 代幣監控工具完全指南
 
 > **來源**: [@0x_zibu](https://x.com/0x_zibu/status/1880500868816294220) | [原文連結](https://t.me/moonshotlistings)

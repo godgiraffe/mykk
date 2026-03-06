@@ -1,3 +1,23 @@
+---
+title: "期現套利機制深度講座"
+date: "2025-06-21"
+tags: 
+  - "期貨現貨套利"
+  - "套利策略"
+  - "量化交易"
+summary: "很抱歉，這個連結指向的是一個 **X Spaces 語音直播的錄音**（標題：「聊聊期現套利機制」），而不是文字內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/1936368616590790899"
+  externalUrl: "https://twitter.com/i/spaces/1eaKbWAPNRvGX"
+  authorUsername: "dan326714"
+---
+
 # 期現套利機制深度講座
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/1936368616590790899) | [原文連結](https://twitter.com/i/spaces/1eaKbWAPNRvGX)

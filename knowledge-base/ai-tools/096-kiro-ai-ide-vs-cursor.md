@@ -1,3 +1,23 @@
+---
+title: "Kiro AI IDE 試用心得：對標 Cursor 的新興開發工具"
+date: "2025-07-16"
+tags: 
+  - "AI IDE"
+  - "Kiro"
+  - "開發工具"
+summary: "試用了一個新 AI IDE：Kiro，也是 VSCode 套皮，但發現了兩點比 Cursor 強的地方："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Ehco1996/status/1945286554844316141"
+  externalUrl: null
+  authorUsername: "Ehco1996"
+---
+
 # Kiro AI IDE 試用心得：對標 Cursor 的新興開發工具
 
 > **來源**: [@Ehco1996](https://x.com/Ehco1996/status/1945286554844316141)

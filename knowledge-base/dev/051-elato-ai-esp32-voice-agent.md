@@ -1,3 +1,23 @@
+---
+title: "ElatoAI：基於 ESP32 的實時語音 AI 代理系統"
+date: "2025-04-26"
+tags: 
+  - "物聯網"
+  - "語音 AI"
+  - "開源硬體"
+summary: "想要讓玩具、公仔變得會說話、有情感，現有的方案要麼太貴太複雜，要麼就是需要一直連著手機，用起來特別不方便。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/GitHub_Daily/status/1915922659575271556"
+  externalUrl: "https://github.com/akdeb/ElatoAI"
+  authorUsername: "GitHub_Daily"
+---
+
 # ElatoAI：基於 ESP32 的實時語音 AI 代理系統
 
 > **來源**: [@GitHub_Daily](https://x.com/GitHub_Daily/status/1915922659575271556) | [原文連結](https://github.com/akdeb/ElatoAI)

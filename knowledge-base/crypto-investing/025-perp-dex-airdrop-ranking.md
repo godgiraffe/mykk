@@ -1,3 +1,23 @@
+---
+title: "永續 DEX 空投評級與賽道分析"
+date: "2025-12-31"
+tags: 
+  - "永續交易"
+  - "空投策略"
+  - "賽道對比"
+summary: "當前 Perp DEX 賽道呈現百花齊放態勢，其競爭格局與發展階段類似當年 L2 四大天王（Optimism、Arbitrum、Starknet、zkSync）時期的生態演進。作者將各項目類比到 L2 發展軌跡，評估空投模式與項目成熟度。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/tmacmax01/status/2006194578693710130"
+  externalUrl: null
+  authorUsername: "tmacmax01"
+---
+
 # 永續 DEX 空投評級與賽道分析
 
 > **來源**: [@tmacmax01](https://x.com/tmacmax01/status/2006194578693710130)

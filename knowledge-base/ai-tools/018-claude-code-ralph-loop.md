@@ -1,3 +1,24 @@
+---
+title: "Claude Code結合Ralph Loop插件提升程式效率"
+date: "2026-01-09"
+tags: 
+  - "Claude Code"
+  - "Ralph Loop"
+  - "AI效率工具"
+  - "Agent编程"
+summary: "本文介紹如何將 Ryan 開源的 Ralph Loop 遷移到 Claude Code 上，並透過結合 Claude Code 的 Ralph Loop 插件，大幅提升程式效率。根據作者 @wquguru 的經驗，此方法能將程式效率提升五倍，並大幅減少人工干預次數。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/2009661206743969833"
+  externalUrl: "https://x.com/wquguru/status/2009489714190143601?s=20"
+  authorUsername: "wquguru"
+---
+
 # Claude Code結合Ralph Loop插件提升程式效率
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/2009661206743969833) | [原文連結](https://x.com/wquguru/status/2009489714190143601?s=20)

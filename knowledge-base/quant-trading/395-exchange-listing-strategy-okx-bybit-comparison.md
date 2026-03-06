@@ -1,3 +1,23 @@
+---
+title: "交易所上新策略分析：OKX、Bybit、幣安對比"
+date: "2024-10-20"
+tags: 
+  - "交易所上新"
+  - "合約交易"
+  - "市場敏銳度"
+summary: "1. **OKX 今年趨於保守** - 上新的敏銳度遠遠不如 Bybit，今年也不如幣安 - 甚至 TON 小遊戲賽道被證偽了，還在上小遊戲 - 但是最近開始嘗試合約上新熱門幣種了，例如 $PUFFER、$MOODENG"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1847943961622786547"
+  externalUrl: "https://twitter.com/richrichardoz/status/1847943961622786547/photo/1"
+  authorUsername: "richrichardoz"
+---
+
 # 交易所上新策略分析：OKX、Bybit、幣安對比
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1847943961622786547) | [原文連結](https://twitter.com/richrichardoz/status/1847943961622786547/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "三層交易系統：歷史先驗、實時信號與風險管理"
+date: ">"
+tags: 
+  - "量化交易"
+  - "信號系統"
+  - "風險管理"
+summary: "本系統採用三層架構進行交易決策：歷史記憶作為先驗、實時信號投票決定方向、防禦系統控制倉位。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jtrevorchapman/status/2027136529378718114"
+  externalUrl: null
+  authorUsername: "jtrevorchapman"
+---
+
 # 三層交易系統：歷史先驗、實時信號與風險管理
 
 > **來源**: [@jtrevorchapman](https://x.com/jtrevorchapman/status/2027136529378718114)

@@ -1,3 +1,23 @@
+---
+title: "TermMax DeFi 挖礦策略與早期佈局指南"
+date: "2025-06-11"
+tags: 
+  - "DeFi協議"
+  - "流動性挖礦"
+  - "代幣經濟"
+summary: "SEC 主席拋出創新豁免政策 Innovation Exemption，瞬間點燃整個 DeFi 市場情緒，一線協議幣像是 $AAVE、$PENDLE 全面暴漲。甚至連 CZ 都親自轉發稱「6/9 是 DeFi 紀念日」。這次不只是短期情緒而已，整體敘事結構正在大轉向。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/jimcurrywang/status/1932748191243644955"
+  externalUrl: "https://app.termmax.ts.finance/?ref=JNE4MX"
+  authorUsername: "jimcurrywang"
+---
+
 # TermMax DeFi 挖礦策略與早期佈局指南
 
 > **來源**: [@jimcurrywang](https://x.com/jimcurrywang/status/1932748191243644955) | [原文連結](https://app.termmax.ts.finance/?ref=JNE4MX)

@@ -1,3 +1,23 @@
+---
+title: "MIT 和 Yale 的免費量化交易課程指南"
+date: "2026-02-25"
+tags: 
+  - "量化交易"
+  - "教育資源"
+  - "動量策略"
+summary: "金融術語和概念介紹 投資組合優化的線性代數 機率論和隨機過程 回歸分析和時間序列 波動率建模 風險模型和衍生品定價"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/GoshawkTrades/status/2026681308701929812"
+  externalUrl: "https://x.com/i/article/2026631700223242245"
+  authorUsername: "GoshawkTrades"
+---
+
 # MIT 和 Yale 的免費量化交易課程指南
 
 > **來源**: [@GoshawkTrades](https://x.com/GoshawkTrades/status/2026681308701929812) | [原文連結](https://x.com/i/article/2026631700223242245)

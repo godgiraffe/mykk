@@ -1,3 +1,23 @@
+---
+title: "LP 流動性挖礦回本策略 — Skate 案例分析"
+date: ">"
+tags: 
+  - "LP策略"
+  - "複投技巧"
+  - "風險管理"
+summary: "我為了刷 @legiondotcc 的打新分，當然也有想賺錢的心思，打了 5 千美金的 Skate 的打新。故事大家也知道了，成本 0.08 美金，價格到現在都 0.04 美金。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/scuptone/status/1981291705409425921"
+  externalUrl: null
+  authorUsername: "scuptone"
+---
+
 # LP 流動性挖礦回本策略 — Skate 案例分析
 
 > **來源**: [@scuptone](https://x.com/scuptone/status/1981291705409425921)

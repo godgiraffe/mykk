@@ -1,3 +1,23 @@
+---
+title: "回撤控制與不對等機會：個人交易哲學"
+date: "2025-11-24"
+tags: 
+  - "風險管理"
+  - "機會等待"
+  - "資金管理"
+summary: "我追求的是**回撤控制在 2% 以內**，一年能創造 **20-30% 的複利**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Vida_BWE/status/1992846763393421483"
+  externalUrl: null
+  authorUsername: "Vida_BWE"
+---
+
 # 回撤控制與不對等機會：個人交易哲學
 
 > **來源**: [@Vida_BWE](https://x.com/Vida_BWE/status/1992846763393421483)

@@ -1,3 +1,23 @@
+---
+title: "Buidlpad Falcon Finance ($FF) IDO 參與策略與 HODL 技巧"
+date: "2025-09-12"
+tags: 
+  - "IDO策略"
+  - "鎖倉激勵"
+  - "Pendle生態"
+summary: "這次 @falconfinance 在 @buidlpad 上發幣 $FF 的規則稍微有些複雜。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/degentalk_hk/status/1966421041636405319"
+  externalUrl: null
+  authorUsername: "degentalk_hk"
+---
+
 # Buidlpad Falcon Finance ($FF) IDO 參與策略與 HODL 技巧
 
 > **來源**: [@degentalk_hk](https://x.com/degentalk_hk/status/1966421041636405319)

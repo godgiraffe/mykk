@@ -1,3 +1,23 @@
+---
+title: "MEME 幣莊家識別指南 — Dune / Nansen / Arkham 鏈上數據分析"
+date: "2024-10-02"
+tags: 
+  - "聰明錢追蹤"
+  - "獲利地址分析"
+  - "鏈上數據工具"
+summary: "本文將使用 Dune / Nansen / Arkham 三個工具，以大小寫 $NEIRO 為案例，詳細展示我們對獲利地址的復盤步驟，以及分析出「聰明錢」的過程。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/FC_0X0/status/1841454641856516437"
+  externalUrl: null
+  authorUsername: "FC_0X0"
+---
+
 # MEME 幣莊家識別指南 — Dune / Nansen / Arkham 鏈上數據分析
 
 > **來源**: [@FC_0X0](https://x.com/FC_0X0/status/1841454641856516437)

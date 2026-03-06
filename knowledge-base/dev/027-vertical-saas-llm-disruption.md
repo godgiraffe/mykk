@@ -1,3 +1,23 @@
+---
+title: "十年垂直軟體經驗談：LLM 對行業軟體的衝擊與展望"
+date: "2026-02-16"
+tags: 
+  - "垂直軟體"
+  - "LLM衝擊"
+  - "商業模式"
+summary: "從內容來看，這篇文章主要討論： LLM 對垂直軟體（Vertical SaaS）產業的衝擊 AI 工具如何改變企業軟體的競爭格局 作者同時建立傳統 SaaS（Doctrine）和 AI 驅動產品（Fintool）的經驗"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/nicbstme/status/2023501562480644501"
+  externalUrl: "https://x.com/i/article/2023495526877155328"
+  authorUsername: "nicbstme"
+---
+
 # 十年垂直軟體經驗談：LLM 對行業軟體的衝擊與展望
 
 > **來源**: [@nicbstme](https://x.com/nicbstme/status/2023501562480644501) | [原文連結](https://x.com/i/article/2023495526877155328)

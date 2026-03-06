@@ -1,3 +1,23 @@
+---
+title: "Equilibria：vePendle 收益拆分機制與 EQB 槓桿策略"
+date: ">"
+tags: 
+  - "vePendle"
+  - "Equilibria"
+  - "收益拆分"
+summary: "Pendle (@pendle_fi) 可以將各類收益代幣拆成 PT 與 YT，那麼有沒有想過將 $PENDLE 的 ve-tokenomics 版本 —— $vePendle 的收益進行拆分呢？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Cwish_CS/status/1922140938417406371"
+  externalUrl: "https://twitter.com/Cwish_CS/status/1922140938417406371/photo/1"
+  authorUsername: "Cwish_CS"
+---
+
 # Equilibria：vePendle 收益拆分機制與 EQB 槓桿策略
 
 > **來源**: [@Cwish_CS](https://x.com/Cwish_CS/status/1922140938417406371) | [原文連結](https://twitter.com/Cwish_CS/status/1922140938417406371/photo/1)

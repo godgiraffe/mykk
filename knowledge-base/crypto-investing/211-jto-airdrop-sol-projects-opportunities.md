@@ -1,3 +1,23 @@
+---
+title: "JTO 空投季來臨：Solana 無代幣項目機會"
+date: "2023-12-10"
+tags: 
+  - "空投farming"
+  - "Solana生態"
+  - "代幣經濟"
+summary: "作者分享了 13 個 Solana 生態系統中尚未發行代幣的項目清單，這些項目可能在未來提供空投機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/its_airdrop/status/1733814758300868836"
+  externalUrl: "https://twitter.com/its_airdrop/status/1733814758300868836/photo/1"
+  authorUsername: "its_airdrop"
+---
+
 # JTO 空投季來臨：Solana 無代幣項目機會
 
 > **來源**: [@its_airdrop](https://x.com/its_airdrop/status/1733814758300868836) | [原文連結](https://twitter.com/its_airdrop/status/1733814758300868836/photo/1)

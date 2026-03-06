@@ -1,3 +1,23 @@
+---
+title: "如何用 AI 快速篩選加密項目投資機會"
+date: "2025-12-31"
+tags: 
+  - "投研效率"
+  - "AI 工具應用"
+  - "項目評估框架"
+summary: "★ Insight ───────────────────────────────────── 這是一個知識庫文章整理任務，需要將社群分享的投研方法論整理成結構化的知識筆記。內容涉及使用 AI 工具（SurfAI、Grok）進行加密項目評估，核心是「6 個關鍵問題 + 月度追蹤」的快速篩選框架。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/scuptone/status/2006323613297692790"
+  externalUrl: null
+  authorUsername: "scuptone"
+---
+
 # 如何用 AI 快速篩選加密項目投資機會
 
 > **來源**: [@scuptone](https://x.com/scuptone/status/2006323613297692790)

@@ -1,3 +1,23 @@
+---
+title: "用 Kimi 跑通 Claude Skills，直接替代 n8n 工作流"
+date: "2025-11-08"
+tags: 
+  - "Claude Skills"
+  - "Kimi AI"
+  - "工作流自動化"
+summary: "n8n 已死！我用 Kimi 跑通了 Claude Skills，直接替代工作流。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 54
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/bggg_ai/status/1986996153741967534"
+  externalUrl: "https://twitter.com/bggg_ai/status/1986996153741967534/photo/1"
+  authorUsername: "bggg_ai"
+---
+
 # 用 Kimi 跑通 Claude Skills，直接替代 n8n 工作流
 
 > **來源**: [@bggg_ai](https://x.com/bggg_ai/status/1986996153741967534) | [原文連結](https://twitter.com/bggg_ai/status/1986996153741967534/photo/1)

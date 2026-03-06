@@ -1,3 +1,23 @@
+---
+title: "跨鏈橋接套利策略：Chainlink CCIP 與 LayerZero OFT"
+date: ">"
+tags: 
+  - "跨鏈套利"
+  - "DeFi策略"
+  - "流動性"
+summary: "**Chainlink CCIP**（Cross-Chain Interoperability Protocol） **LayerZero OFT**（Omnichain Fungible Token）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 64
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xiangxiaoping1/status/1922912858846679454"
+  externalUrl: "https://twitter.com/xiangxiaoping1/status/1922912858846679454/photo/1"
+  authorUsername: "xiangxiaoping1"
+---
+
 # 跨鏈橋接套利策略：Chainlink CCIP 與 LayerZero OFT
 
 > **來源**: [@xiangxiaoping1](https://x.com/xiangxiaoping1/status/1922912858846679454) | [原文連結](https://twitter.com/xiangxiaoping1/status/1922912858846679454/photo/1)

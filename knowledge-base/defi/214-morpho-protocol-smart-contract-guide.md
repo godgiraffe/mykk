@@ -1,3 +1,23 @@
+---
+title: "Morpho 協議智能合約解析與利率模型詳解"
+date: "2024-12-01"
+tags: 
+  - "智能合約"
+  - "Morpho 協議"
+  - "利率模型"
+summary: "Morpho 比較複雜的是利率計算邏輯,其支持的 adaptive-curve-irm (自適應曲線利率模型) 原理有點複雜。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1863257589816902135"
+  externalUrl: "https://twitter.com/wong_ssh/status/1863257589816902135/photo/1"
+  authorUsername: "wong_ssh"
+---
+
 # Morpho 協議智能合約解析與利率模型詳解
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1863257589816902135) | [原文連結](https://twitter.com/wong_ssh/status/1863257589816902135/photo/1)

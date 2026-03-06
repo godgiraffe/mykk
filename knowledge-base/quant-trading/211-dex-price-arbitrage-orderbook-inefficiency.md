@@ -1,3 +1,23 @@
+---
+title: "DEX 報價低效與套利機會：無人區的價差空間"
+date: "2025-06-06"
+tags: 
+  - "DEX套利"
+  - "盤口微觀結構"
+  - "流動性不足"
+summary: "和預期的一樣，這個 DEX 名下所有 pool 的報價都沒人在監聽，因為有一定技術門檻。今天幣價波動一下子打亂了價格錨，到處都是利潤空間。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lnkybtc/status/1931054681629065489"
+  externalUrl: null
+  authorUsername: "lnkybtc"
+---
+
 # DEX 報價低效與套利機會：無人區的價差空間
 
 > **來源**: [@lnkybtc](https://x.com/lnkybtc/status/1931054681629065489)

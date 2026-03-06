@@ -1,3 +1,23 @@
+---
+title: "$THE 代幣脫錨套利策略教學 — Ve(3,3) 模型與無風險收益"
+date: "2024-12-01"
+tags: 
+  - "套利機會"
+  - "脫錨交易對"
+  - "流動性質押"
+summary: "最近新上幣安的 $THE 代幣，從鏈上到現在已經上漲了幾十倍。這個專案採用 ve(3,3) 模型（類似 $VELODROME），共有三種代幣："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Joensmoon/status/1863230443619054076"
+  externalUrl: null
+  authorUsername: "Joensmoon"
+---
+
 # $THE 代幣脫錨套利策略教學 — Ve(3,3) 模型與無風險收益
 
 > **來源**: [@Joensmoon](https://x.com/Joensmoon/status/1863230443619054076)

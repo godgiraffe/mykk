@@ -1,3 +1,23 @@
+---
+title: "Solana 上 MEV 的格局演進與是非功過"
+date: "2025-04-18"
+tags: 
+  - "MEV"
+  - "Jito"
+  - "Solana"
+summary: "Solana 已然五年，其中 Jito（Solana 上 MEV 基礎設施龍頭）的發展不足 3 年，但市佔率飛速從最初的 15% 發展到如今的 95%，可以說，大多數的 Solana 上的 Meme 買賣交易，都得經過他！"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/c_luyishisi/status/1913132848376365199"
+  externalUrl: "https://paragraph.com/@shisi-eth/mw2gMAbtwhLEhPJTrD5q"
+  authorUsername: "c_luyishisi"
+---
+
 # Solana 上 MEV 的格局演進與是非功過
 
 > **來源**: [@c_luyishisi](https://x.com/c_luyishisi/status/1913132848376365199) | [原文連結](https://paragraph.com/@shisi-eth/mw2gMAbtwhLEhPJTrD5q)

@@ -1,3 +1,23 @@
+---
+title: "Lucide 開源圖示庫 — 超過 5000 個設計精美的 SVG 圖標"
+date: "2025-07-27"
+tags: 
+  - "設計工具"
+  - "開源資源"
+  - "圖示庫"
+summary: "Lucide 是一個開源的 SVG 圖示庫，提供超過 5000 個設計精美的圖示。在 Vibe Coding 的開發過程中發現這個圖示庫非常好用，強烈推薦給前端開發者使用。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/PandaTalk8/status/1949407780710015292"
+  externalUrl: "https://lucide.dev/icons/"
+  authorUsername: "PandaTalk8"
+---
+
 # Lucide 開源圖示庫 — 超過 5000 個設計精美的 SVG 圖標
 
 > **來源**: [@PandaTalk8](https://x.com/PandaTalk8/status/1949407780710015292) | [原文連結](https://lucide.dev/icons/)

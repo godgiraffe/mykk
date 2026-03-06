@@ -1,3 +1,23 @@
+---
+title: "Rust Skills 創作初衷與架構介紹"
+date: "2026-01-17"
+tags: 
+  - "Rust"
+  - "Skills"
+  - "程式設計技巧"
+summary: "本文旨在介紹 rust-skills 專案的創作初衷、設計架構，以及作者在開發過程中學習和應用的高級技巧。作者希望透過分享這些經驗，激發大家對 Rust Skills 技巧的探索與研究。更詳細的內容可參考作者的公眾號文章（連結見文末）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/blackanger/status/2012622413180309913"
+  externalUrl: "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HKw-kGmjgvYsqGN-YLgpynySi7fgqgdxab9E38n0&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYFVY32QL07HWHEl0zyiWxw"
+  authorUsername: "blackanger"
+---
+
 # Rust Skills 創作初衷與架構介紹
 
 > **來源**: [@blackanger](https://x.com/blackanger/status/2012622413180309913) | [原文連結](https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HKw-kGmjgvYsqGN-YLgpynySi7fgqgdxab9E38n0&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYFVY32QL07HWHEl0zyiWxw)

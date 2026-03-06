@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性挖礦策略：穩定盈利的風控與資金管理"
+date: "2025-07-28"
+tags: 
+  - "DLMM"
+  - "流動性挖礦"
+  - "風險管理"
+summary: "7 日盈利：+137 SOL → $26K 7 日 ROI：+4.7% 每日勝率：100% 每日投入時長：1～2 小時"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1949708682587254835"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 流動性挖礦策略：穩定盈利的風控與資金管理
 
 > **來源**: [@gm365](https://x.com/gm365/status/1949708682587254835)

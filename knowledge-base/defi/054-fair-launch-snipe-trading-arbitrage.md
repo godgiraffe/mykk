@@ -1,3 +1,23 @@
+---
+title: "公平模式代幣狙擊原理與實現——TrustWallet Swap API Hook 技巧"
+date: "2025-10-29"
+tags: 
+  - "狙擊交易"
+  - "公平模式"
+  - "MEV套利"
+summary: "這是我的狙擊地址: 0xA00C191B792a7963599FcC2284566321e6E70F65"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CryptoNyaRu/status/1983485182754816093"
+  externalUrl: "https://four.meme/"
+  authorUsername: "CryptoNyaRu"
+---
+
 # 公平模式代幣狙擊原理與實現——TrustWallet Swap API Hook 技巧
 
 > **來源**: [@CryptoNyaRu](https://x.com/CryptoNyaRu/status/1983485182754816093) | [原文連結](https://four.meme/)

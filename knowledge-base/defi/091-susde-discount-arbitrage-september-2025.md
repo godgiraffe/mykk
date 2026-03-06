@@ -1,3 +1,23 @@
+---
+title: "sUSDe 折價套利機會回到 -0.15%：Pendle PT/YT 到期前的部位操作分析"
+date: "2025-09-21"
+tags: 
+  - "sUSDe折價"
+  - "Pendle到期"
+  - "低風險套利"
+summary: "最近都在寫 @falconfinance，已經好久沒有發有關於循環貸和 @ethena $sUSDe 相關的文章了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1969778860884635743"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # sUSDe 折價套利機會回到 -0.15%：Pendle PT/YT 到期前的部位操作分析
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1969778860884635743)

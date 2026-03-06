@@ -1,3 +1,23 @@
+---
+title: "Claude Code 進階技巧：使用 --dangerously-skip-permissions 參數"
+date: "2025-11-28"
+tags: 
+  - "Claude Code"
+  - "CLI技巧"
+  - "開發效率"
+summary: "在 Claude Code 中使用 --dangerously-skip-permissions 參數可以跳過權限檢查，加快開發流程。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Jimmy_JingLv/status/1994322917556199553"
+  externalUrl: "https://twitter.com/Jimmy_JingLv/status/1994322917556199553/photo/1"
+  authorUsername: "Jimmy_JingLv"
+---
+
 # Claude Code 進階技巧：使用 --dangerously-skip-permissions 參數
 
 > **來源**: [@Jimmy_JingLv](https://x.com/Jimmy_JingLv/status/1994322917556199553) | [原文連結](https://twitter.com/Jimmy_JingLv/status/1994322917556199553/photo/1)

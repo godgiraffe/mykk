@@ -1,3 +1,23 @@
+---
+title: "Falcon Finance 穩定幣收益策略：YT 與 PT 的風險評估"
+date: ">"
+tags: 
+  - "穩定幣收益"
+  - "YT槓鈿策略"
+  - "風險管理"
+summary: "幣安 33% 循環貸結束後，Falcon Finance 年化 22% 是否值得參與？本文從風險角度分析 YT 與 PT 的策略選擇。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1965431467364040931"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # Falcon Finance 穩定幣收益策略：YT 與 PT 的風險評估
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1965431467364040931)

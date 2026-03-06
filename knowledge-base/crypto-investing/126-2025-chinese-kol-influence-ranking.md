@@ -1,3 +1,23 @@
+---
+title: "2025 年中文 KOL 影響力榜單"
+date: ">"
+tags: 
+  - "KOL榜單"
+  - "行業聲音"
+  - "影響力評估"
+summary: "**中文 KOL 影響力榜** **宏觀領域戰力榜** **鏈上領域戰力榜** **一級市場領域戰力榜** **二級市場領域戰力榜**"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/MetaEraCN/status/1943333537995985072"
+  externalUrl: null
+  authorUsername: "MetaEraCN"
+---
+
 # 2025 年中文 KOL 影響力榜單
 
 > **來源**: [@MetaEraCN](https://x.com/MetaEraCN/status/1943333537995985072)

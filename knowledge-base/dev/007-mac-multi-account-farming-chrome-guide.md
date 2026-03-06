@@ -1,3 +1,23 @@
+---
+title: "Mac 本地多開撸毛指南：Chrome 獨立 IP 物理隔離方案"
+date: "2025-12-26"
+tags: 
+  - "多開技術"
+  - "工具配置"
+  - "效率提升"
+summary: "★ Insight ───────────────────────────────────── 這是一個知識庫文章整理任務。讓我先分析需要做什麼： 1. 這是關於 Mac 多開撸毛的技術教學，應歸入 crypto-investing 或 dev 分類 2. 需要整理推文內容成結構化文章 3. 內容涉及 Chrome 命令行、代理配置、安全性等技術細節 ───────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/moranweb3/status/2004511760292925909"
+  externalUrl: "https://www.youtube.com/watch?v=p_WiuGFwnqo"
+  authorUsername: "moranweb3"
+---
+
 # Mac 本地多開撸毛指南：Chrome 獨立 IP 物理隔離方案
 
 > **來源**: [@moranweb3](https://x.com/moranweb3/status/2004511760292925909) | [原文連結](https://www.youtube.com/watch?v=p_WiuGFwnqo)

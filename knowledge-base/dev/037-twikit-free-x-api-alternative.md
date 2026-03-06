@@ -1,3 +1,23 @@
+---
+title: "Twikit：免費的 X API 開源替代方案"
+date: "2025-08-16"
+tags: 
+  - "API"
+  - "開發工具"
+  - "Python"
+summary: "**運作原理**： 登入一個 X 帳號 模擬瀏覽器訪問 https://t.co/JBKJXNyB9i 透過自動化方式取得 X 平台的資料"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 41
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/interjc/status/1956522631089533334"
+  externalUrl: "https://twitter.com/interjc/status/1956522631089533334/photo/1"
+  authorUsername: "interjc"
+---
+
 # Twikit：免費的 X API 開源替代方案
 
 > **來源**: [@interjc](https://x.com/interjc/status/1956522631089533334) | [原文連結](https://twitter.com/interjc/status/1956522631089533334/photo/1)

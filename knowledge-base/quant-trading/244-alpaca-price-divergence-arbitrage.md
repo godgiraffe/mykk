@@ -1,3 +1,23 @@
+---
+title: "ALPACA 跨交易所價差套利案例：價差發散與風險管理"
+date: "2025-04-30"
+tags: 
+  - "套利"
+  - "價差發散"
+  - "風險管理"
+summary: "今天 16:00 的時候，Binance 的 ALPACA 開始爆拉，Gate 的 ALPACA 開始暴跌，差價一度來到了 220%。很多人問為什麼可以預測價差會發散來盈利，開個貼解釋一下。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1917504961312874636"
+  externalUrl: null
+  authorUsername: "Boywus"
+---
+
 # ALPACA 跨交易所價差套利案例：價差發散與風險管理
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1917504961312874636)

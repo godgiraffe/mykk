@@ -1,3 +1,23 @@
+---
+title: "Meteora 流動池策略：超額收益與風險對沖指南"
+date: "2025-03-03"
+tags: 
+  - "流動池"
+  - "策略"
+  - "風險管理"
+summary: "如何在市場不斷下跌的情況下保住利潤？如何讓 SOL 和你手中的幣都能有收益？Meteora 策略選擇大解"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/PokFuLam7/status/1896393751955943832"
+  externalUrl: "https://valiant-scourge-fa6.notion.site/Meteora-1ab76a8d1df8808988ace147bc98dca0?pvs=4"
+  authorUsername: "PokFuLam7"
+---
+
 # Meteora 流動池策略：超額收益與風險對沖指南
 
 > **來源**: [@PokFuLam7](https://x.com/PokFuLam7/status/1896393751955943832) | [原文連結](https://valiant-scourge-fa6.notion.site/Meteora-1ab76a8d1df8808988ace147bc98dca0?pvs=4)

@@ -1,3 +1,23 @@
+---
+title: "Slidev：開發者的 Markdown 簡報框架"
+date: ">"
+tags: 
+  - "簡報工具"
+  - "Vue3"
+  - "開發效率"
+summary: "Slidev 是一個專為開發者設計的 Markdown 簡報框架，特別適合結合 AI 進行 vibe coding slides。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yunwei37/status/1985781922904326423"
+  externalUrl: "https://github.com/slidevjs/slidev"
+  authorUsername: "yunwei37"
+---
+
 # Slidev：開發者的 Markdown 簡報框架
 
 > **來源**: [@yunwei37](https://x.com/yunwei37/status/1985781922904326423) | [原文連結](https://github.com/slidevjs/slidev)

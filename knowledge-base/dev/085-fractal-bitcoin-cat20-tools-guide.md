@@ -1,3 +1,23 @@
+---
+title: "Fractal Bitcoin CAT20 工具完整指南"
+date: "2024-09-13"
+tags: 
+  - "Fractal Bitcoin"
+  - "CAT20 協議"
+  - "區塊鏈工具"
+summary: "分形比特幣協議 CAT20 爆火，$FB 的價格直接從 10u 漲到 30u。本文整理了玩轉 Fractal Bitcoin 的完整工具清單。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BiteyeCN/status/1834552922358862328"
+  externalUrl: null
+  authorUsername: "BiteyeCN"
+---
+
 # Fractal Bitcoin CAT20 工具完整指南
 
 > **來源**: [@BiteyeCN](https://x.com/BiteyeCN/status/1834552922358862328)

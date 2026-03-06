@@ -1,3 +1,23 @@
+---
+title: "跟單交易風控策略：如何挑選不賠錢的地址"
+date: "2025-01-08"
+tags: 
+  - "跟單交易"
+  - "風險管理"
+  - "地址篩選"
+summary: "這邊分享一個思路：**我認為跟單流的精髓是「找到跟了不會賠錢的地址」，而不是預想跟了這地址會吃到爆擊。**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0x542121/status/1876815943214735385"
+  externalUrl: null
+  authorUsername: "0x542121"
+---
+
 # 跟單交易風控策略：如何挑選不賠錢的地址
 
 > **來源**: [@0x542121](https://x.com/0x542121/status/1876815943214735385)

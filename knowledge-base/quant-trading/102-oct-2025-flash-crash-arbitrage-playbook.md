@@ -1,3 +1,23 @@
+---
+title: "10 月 2025 年清算行情下的套利操作實戰復盤"
+date: ">"
+tags: 
+  - "套利策略"
+  - "極端行情"
+  - "風險管理"
+summary: "我已經整理好文章內容，正在等待你批准寫入檔案。這篇文章整理了 8 位交易員在 10 月 2025 年清算行情下的實戰經驗，包含："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/taresky/status/1977938228381704601"
+  externalUrl: "https://x.com/i/article/1977936557740105728"
+  authorUsername: "taresky"
+---
+
 # 10 月 2025 年清算行情下的套利操作實戰復盤
 
 > **來源**: [@taresky](https://x.com/taresky/status/1977938228381704601) | [原文連結](https://x.com/i/article/1977936557740105728)

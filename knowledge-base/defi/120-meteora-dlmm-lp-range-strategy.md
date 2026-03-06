@@ -1,3 +1,23 @@
+---
+title: "Meteora DLMM LP 區間策略：-80%±10% Poseidon 高效區間"
+date: ">"
+tags: 
+  - "DLMM"
+  - "LP策略"
+  - "Meteora"
+summary: "《用 Meteora LP 策略玩轉 Meme》第二彈：高效且相對安全的區間選擇。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xPoseidon_sol/status/1955873690798973251"
+  externalUrl: "https://twitter.com/0xPoseidon_sol/status/1955873690798973251/photo/1"
+  authorUsername: "0xPoseidon_sol"
+---
+
 # Meteora DLMM LP 區間策略：-80%±10% Poseidon 高效區間
 
 > **來源**: [@0xPoseidon_sol](https://x.com/0xPoseidon_sol/status/1955873690798973251) | [原文連結](https://twitter.com/0xPoseidon_sol/status/1955873690798973251/photo/1)

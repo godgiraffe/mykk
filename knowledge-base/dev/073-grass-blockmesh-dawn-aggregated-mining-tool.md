@@ -1,3 +1,23 @@
+---
+title: "聚合挖礦工具：一鍵運行多個 DePIN 項目"
+date: "2024-11-13"
+tags: 
+  - "DePIN挖礦"
+  - "自動化工具"
+  - "去中心化基礎設施"
+summary: "已經有人開發出聚合挖礦工具，可以一鍵同時運行多個 DePIN（去中心化實體基礎設施網絡）項目。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/scuptone/status/1856495921623892370"
+  externalUrl: "https://twitter.com/scuptone/status/1856495921623892370/photo/1"
+  authorUsername: "scuptone"
+---
+
 # 聚合挖礦工具：一鍵運行多個 DePIN 項目
 
 > **來源**: [@scuptone](https://x.com/scuptone/status/1856495921623892370) | [原文連結](https://twitter.com/scuptone/status/1856495921623892370/photo/1)

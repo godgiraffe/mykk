@@ -1,3 +1,23 @@
+---
+title: "【Day 1】Solana Meme 幣鏈上數據即時監控：用 Python 抓取 Raydium/Jupiter 交易流"
+date: ">"
+tags: 
+  - "鏈上數據擷取"
+  - "Solana DEX 監控"
+  - "Python 交易機器人"
+summary: "要捕捉 Solana 上的 Meme 幣機會,第一步是即時監控鏈上數據。這份 Solana 交易監控代碼主要用於監測 **Jupiter DEX** 和 **Raydium AMM** 上的大額交易（超過 50 SOL）,並記錄**代幣交換（Swap）資訊**到本地 SQLite 資料庫。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/practice_y11/status/1884952151879045123"
+  externalUrl: "https://www.python.org/downloads/"
+  authorUsername: "practice_y11"
+---
+
 # 【Day 1】Solana Meme 幣鏈上數據即時監控：用 Python 抓取 Raydium/Jupiter 交易流
 
 > **來源**: [@practice_y11](https://x.com/practice_y11/status/1884952151879045123) | [原文連結](https://www.python.org/downloads/)

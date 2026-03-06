@@ -1,3 +1,23 @@
+---
+title: "英文 Meme 幣圈 KOL 指南 — 頂級交易者名單"
+date: ">"
+tags: 
+  - "KOL跟蹤"
+  - "Meme幣交易"
+  - "英文社群"
+summary: "如果你只關注中文圈，那註定大多是群友 PVP。以下是值得關注的英文 Meme 幣圈 KOL："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/VeronicaPump/status/1861974309461524964"
+  externalUrl: "https://pump.fun/"
+  authorUsername: "VeronicaPump"
+---
+
 # 英文 Meme 幣圈 KOL 指南 — 頂級交易者名單
 
 > **來源**: [@VeronicaPump](https://x.com/VeronicaPump/status/1861974309461524964) | [原文連結](https://pump.fun/)

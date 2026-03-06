@@ -1,3 +1,23 @@
+---
+title: "AI Agent 記憶架構實戰 II：三層記憶系統讓 Agent 越用越聰明"
+date: "2026-02-16"
+tags: 
+  - "AI Agent"
+  - "記憶管理"
+  - "系統架構"
+summary: "不管你用 Claude、OpenClaw 還是別的，session 結束就清空。下次來，它什麼都不記得。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xxx111god/status/2023521632673763473"
+  externalUrl: "https://x.com/i/article/2023516920029605888"
+  authorUsername: "xxx111god"
+---
+
 # AI Agent 記憶架構實戰 II：三層記憶系統讓 Agent 越用越聰明
 
 > **來源**: [@xxx111god](https://x.com/xxx111god/status/2023521632673763473) | [原文連結](https://x.com/i/article/2023516920029605888)

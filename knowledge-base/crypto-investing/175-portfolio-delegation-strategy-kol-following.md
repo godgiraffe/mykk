@@ -1,3 +1,23 @@
+---
+title: "投資組合委託策略：不同賽道跟隨不同 KOL"
+date: "2024-12-23"
+tags: 
+  - "投資策略"
+  - "KOL 跟隨"
+  - "賽道分工"
+summary: "賽道 委託對象 ------ ---------- **Solana** @Michael_Liu93、@0xcryptowizard **Base** @superbili、@hellosuoha **空投挖礦** @hebi555、@MetaHunter168 **礦業與股票** @Vito_168 **一級市場** @BlueV1007、@Lin_2mars **BNB Chain** 自己研究"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/connectfarm1/status/1871219338931540030"
+  externalUrl: null
+  authorUsername: "connectfarm1"
+---
+
 # 投資組合委託策略：不同賽道跟隨不同 KOL
 
 > **來源**: [@connectfarm1](https://x.com/connectfarm1/status/1871219338931540030)

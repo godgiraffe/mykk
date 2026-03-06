@@ -1,3 +1,23 @@
+---
+title: "統一帳戶與合理槓桿的套利進階策略"
+date: ">"
+tags: 
+  - "統一帳戶"
+  - "槓桿倍數"
+  - "套利進階"
+summary: "本篇為作者分享的套利進階策略影片，主要探討如何透過統一帳戶（Unified Account）搭配合理的槓桿操作來提升套利收益。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1849241018329366788"
+  externalUrl: "https://twitter.com/zhamomo666/status/1849241018329366788/video/1"
+  authorUsername: "zhamomo666"
+---
+
 # 統一帳戶與合理槓桿的套利進階策略
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1849241018329366788) | [原文連結](https://twitter.com/zhamomo666/status/1849241018329366788/video/1)

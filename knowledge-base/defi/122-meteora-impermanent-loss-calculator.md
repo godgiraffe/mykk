@@ -1,3 +1,23 @@
+---
+title: "Meteora 無常損失計算器"
+date: "2025-08-13"
+tags: 
+  - "LP策略"
+  - "無常損失"
+  - "Meteora"
+summary: "這是一個更新版的超詳細 Meteora 無常損失計算器，涵蓋所有熱門池和不同的買賣價差設定。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 51
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xMrBeefman/status/1955594086259228825"
+  externalUrl: null
+  authorUsername: "0xMrBeefman"
+---
+
 # Meteora 無常損失計算器
 
 > **來源**: [@0xMrBeefman](https://x.com/0xMrBeefman/status/1955594086259228825)

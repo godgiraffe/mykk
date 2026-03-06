@@ -1,3 +1,23 @@
+---
+title: "BTC 價格與 ETF 流入流出關係分析"
+date: ">"
+tags: 
+  - "BTC ETF"
+  - "市場週期"
+  - "價格驅動"
+summary: "BTC ETF 通過之後為 BTC 增加了一種合法購買途徑，市場上很多觀點認為是 ETF 的通過帶來了這輪牛市。從數據可以明顯看出，ETF 在今年 1 月通過後，快速將 BTC 價格從 38,000 美元拉升到了 73,000 美元。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xOar/status/1853716690942742810"
+  externalUrl: null
+  authorUsername: "0xOar"
+---
+
 # BTC 價格與 ETF 流入流出關係分析
 
 > **來源**: [@0xOar](https://x.com/0xOar/status/1853716690942742810)

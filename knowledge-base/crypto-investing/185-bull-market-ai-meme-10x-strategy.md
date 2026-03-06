@@ -1,3 +1,23 @@
+---
+title: "牛市 AI + MEME 賽道 10 倍策略及 ACT 選幣思路"
+date: "2024-11-17"
+tags: 
+  - "牛市策略"
+  - "MEME 幣"
+  - "選幣邏輯"
+summary: "和巫師 @0xcryptowizard 的 Space 乾貨滿滿！精華內容整理成了文字。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/pearbinance/status/1858086181969502649"
+  externalUrl: null
+  authorUsername: "pearbinance"
+---
+
 # 牛市 AI + MEME 賽道 10 倍策略及 ACT 選幣思路
 
 > **來源**: [@pearbinance](https://x.com/pearbinance/status/1858086181969502649)

@@ -1,3 +1,23 @@
+---
+title: "現貨控盤吃合約的市場操縱典型"
+date: "2025-07-11"
+tags: 
+  - "市場操縱"
+  - "現貨期貨套利"
+  - "資深交易手法"
+summary: "今天和群友複盤了一下 $M 的走勢，發現又是一個控制現貨吃合約的典型案例。這種操作手法在 $TRB 等幣種上已經被老前輩們玩得很熟練了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 40
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/AlbertCoinGlass/status/1943735139043095009"
+  externalUrl: null
+  authorUsername: "AlbertCoinGlass"
+---
+
 # 現貨控盤吃合約的市場操縱典型
 
 > **來源**: [@AlbertCoinGlass](https://x.com/AlbertCoinGlass/status/1943735139043095009)

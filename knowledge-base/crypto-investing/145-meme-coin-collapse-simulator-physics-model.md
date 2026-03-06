@@ -1,3 +1,23 @@
+---
+title: "Meme 幣崩盤物理模型：為什麼沒有新的超級 Meme 了"
+date: "2025-04-26"
+tags: 
+  - "Meme幣週期"
+  - "市場信息熵"
+  - "收割循環"
+summary: "我用物理運動學的邏輯做了一個 MeMe 崩盤模擬器，直觀地告訴你——為什麼在 Trump 後，我們沒有再出現像 WIF、Popcat、MooDeng、chiilguy、bome 這種 MeMe 了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/If_wewin/status/1916013867454353503"
+  externalUrl: "https://meme-collapse-simulator.lovable.app/"
+  authorUsername: "If_wewin"
+---
+
 # Meme 幣崩盤物理模型：為什麼沒有新的超級 Meme 了
 
 > **來源**: [@If_wewin](https://x.com/If_wewin/status/1916013867454353503) | [原文連結](https://meme-collapse-simulator.lovable.app/)

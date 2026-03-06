@@ -1,3 +1,23 @@
+---
+title: "使用 Agent Docs 提升 Claude Code 效率 10 倍"
+date: "2025-10-06"
+tags: 
+  - "Claude Code"
+  - "Prompt 工程"
+  - "Agent 文件"
+summary: "根據你提供的原始內容，這是一則簡短的推文預告，表示有一個完整的 thread（討論串）。由於我無法獲取完整內容，讓我根據現有資訊整理成文章："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/jasonzhou1993/status/1975135928516833647"
+  externalUrl: "https://twitter.com/jasonzhou1993/status/1975135928516833647/photo/1"
+  authorUsername: "jasonzhou1993"
+---
+
 # 使用 Agent Docs 提升 Claude Code 效率 10 倍
 
 > **來源**: [@jasonzhou1993](https://x.com/jasonzhou1993/status/1975135928516833647) | [原文連結](https://twitter.com/jasonzhou1993/status/1975135928516833647/photo/1)

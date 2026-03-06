@@ -1,3 +1,23 @@
+---
+title: "代幣投資風險管理指南：五大檢查清單"
+date: "2025-09-29"
+tags: 
+  - "風險管理"
+  - "流動性鎖定"
+  - "機會成本"
+summary: "現在各種項目要錢存，挖礦 APR 也高，精力不夠，資金也不夠，容易忙活到最後錢的流動性鎖死，最後錢又沒賺到，建議："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lspeth/status/1972466700508668337"
+  externalUrl: null
+  authorUsername: "lspeth"
+---
+
 # 代幣投資風險管理指南：五大檢查清單
 
 > **來源**: [@lspeth](https://x.com/lspeth/status/1972466700508668337)

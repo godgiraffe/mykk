@@ -1,3 +1,23 @@
+---
+title: "Lighter 平台跨交易所套利機器人實踐 - 22% APR 收益分享"
+date: "2025-06-27"
+tags: 
+  - "套利策略"
+  - "量化交易"
+  - "Lighter"
+summary: "最近在 Lighter 上進行跨交易所套利實驗，代碼已穩定運行近一週，策略持續調整中，主要目標是找到下單量和每單盈利率的平衡點。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1938588008736862435"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # Lighter 平台跨交易所套利機器人實踐 - 22% APR 收益分享
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1938588008736862435)

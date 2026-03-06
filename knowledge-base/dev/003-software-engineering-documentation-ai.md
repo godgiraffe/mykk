@@ -1,3 +1,25 @@
+---
+title: "軟體工程文檔與AI輔助開發"
+date: "2026-02-11"
+tags: 
+  - "軟體工程"
+  - "文檔寫作"
+  - "AI"
+  - "MSBuild"
+  - "Windbg"
+summary: "本文整理了 @geniusvczh 在軟體工程文檔與 AI 輔助開發方面的經驗分享，核心觀點是：將本科《軟體工程文檔寫作》課程的知識應用到 AI 輔助開發流程中，並結合 MSBuild 和 Windbg 等工具，能夠有效提升開發效率。 這個方法並非創新，而是將幾十年前已被總結的知識，運用於新的開發環境。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/geniusvczh/status/2021464656204923074"
+  externalUrl: null
+  authorUsername: "geniusvczh"
+---
+
 # 軟體工程文檔與AI輔助開發
 
 > **來源**: [@geniusvczh](https://x.com/geniusvczh/status/2021464656204923074)

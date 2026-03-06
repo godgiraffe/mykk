@@ -1,3 +1,23 @@
+---
+title: "市值評估原理：避免高位接盤的估值工具"
+date: "2025-10-24"
+tags: 
+  - "估值指標"
+  - "市值分析"
+  - "風險管理"
+summary: "**資料庫特點**： 更新頻率：大約每半天更新一次 用途：查看各項目的市值水位 資料來源：Notion 資料庫連結"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Mextric/status/1981571407382520146"
+  externalUrl: "https://mextrel.notion.site/projectscan?source=copy_link"
+  authorUsername: "Mextric"
+---
+
 # 市值評估原理：避免高位接盤的估值工具
 
 > **來源**: [@Mextric](https://x.com/Mextric/status/1981571407382520146) | [原文連結](https://mextrel.notion.site/projectscan?source=copy_link)

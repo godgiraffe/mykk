@@ -1,3 +1,23 @@
+---
+title: "Perp DEX 平台對比指南 — 七大交易所積分規則與盈利策略"
+date: "2025-09-17"
+tags: 
+  - "Perp DEX"
+  - "積分農耕"
+  - "高頻交易"
+summary: "最近 perp dex 非常 fomo，噪音太多了，整理了一些相關資訊供參考，包括 TGE 時間、積分規則、費率、特點等："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1968371037441245564"
+  externalUrl: null
+  authorUsername: "0xKaKa03"
+---
+
 # Perp DEX 平台對比指南 — 七大交易所積分規則與盈利策略
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1968371037441245564)

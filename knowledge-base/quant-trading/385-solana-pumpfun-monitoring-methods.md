@@ -1,3 +1,23 @@
+---
+title: "Solana PumpFun 盯盤完整手冊"
+date: ">"
+tags: 
+  - "盯盤策略"
+  - "Solana 交易"
+  - "風險管理"
+summary: "本文整理 Solana PumpFun 的四種核心盯盤方式，從信息源監控到外盤掃描，涵蓋不同強度與盈虧比的策略選擇。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/youmin8341/status/1851155408280596933"
+  externalUrl: "https://t.me/youmin666"
+  authorUsername: "youmin8341"
+---
+
 # Solana PumpFun 盯盤完整手冊
 
 > **來源**: [@youmin8341](https://x.com/youmin8341/status/1851155408280596933) | [原文連結](https://t.me/youmin666)

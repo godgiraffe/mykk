@@ -1,3 +1,23 @@
+---
+title: "讓 Claude Cowork 強大 100 倍的 17 項最佳實踐"
+date: "2026-03-01"
+tags: 
+  - "Claude Cowork"
+  - "Prompt 工程"
+  - "AI 生產力"
+summary: "七週內，我執行了超過 400 次 Cowork 任務。我測試了每個 plugin、每個 connector、每個斜線指令。我用各種方式測到極限，甚至是 Anthropic 可能都沒見過的狀況。而我找出了那些能區分「覺得 Cowork 還不錯」和「用它取代了一半軟體工具」的人之間的確切實踐方法。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/heynavtoor/status/2028148844891152554"
+  externalUrl: "https://x.com/i/article/2027686256118009858"
+  authorUsername: "heynavtoor"
+---
+
 # 讓 Claude Cowork 強大 100 倍的 17 項最佳實踐
 
 > **來源**: [@heynavtoor](https://x.com/heynavtoor/status/2028148844891152554) | [原文連結](https://x.com/i/article/2027686256118009858)

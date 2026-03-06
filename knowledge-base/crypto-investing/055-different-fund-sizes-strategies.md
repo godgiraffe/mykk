@@ -1,3 +1,23 @@
+---
+title: "不同資金體量的加密投資策略指南"
+date: "2025-11-09"
+tags: 
+  - "資金管理"
+  - "套利策略"
+  - "風險控制"
+summary: "Crypto 頂級套利大神 @Cbb0fe 針對不同資金體量（A4-A7）的投資者給出了具體建議："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/nbblock/status/1987384897388884414"
+  externalUrl: "https://x.com/Cbb0fe/status/1981679977176182958?s=20"
+  authorUsername: "nbblock"
+---
+
 # 不同資金體量的加密投資策略指南
 
 > **來源**: [@nbblock](https://x.com/nbblock/status/1987384897388884414) | [原文連結](https://x.com/Cbb0fe/status/1981679977176182958?s=20)

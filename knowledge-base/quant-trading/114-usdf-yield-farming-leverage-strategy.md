@@ -1,3 +1,23 @@
+---
+title: "USDF 套利與循環貸積分挖礦策略實戰復盤"
+date: ">"
+tags: 
+  - "套利策略"
+  - "槓桿交易"
+  - "積分挖礦"
+summary: "如果我能刷到這種硬核內容的博主，我一定狠狠的關注它，每天都看它發什麼內容。可惜我找不到。推特基本上不是什麼今天賺了幾 m，就是一大串 AI 編寫的不知名項目的廣告。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1972953735728119944"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # USDF 套利與循環貸積分挖礦策略實戰復盤
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1972953735728119944)

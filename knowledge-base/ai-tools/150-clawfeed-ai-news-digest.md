@@ -1,3 +1,23 @@
+---
+title: "ClawFeed：AI 驅動的新聞摘要工具"
+date: "2026-02-25"
+tags: 
+  - "AI 新聞摘要"
+  - "信息篩選"
+  - "開源工具"
+summary: "每天都要花大量時間刷 Twitter 和 RSS，生怕錯過熱點，結果卻總被無效資訊淹沒，越刷越焦慮。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/GitHub_Daily/status/2026474173829357941"
+  externalUrl: "https://github.com/kevinho/clawfeed"
+  authorUsername: "GitHub_Daily"
+---
+
 # ClawFeed：AI 驅動的新聞摘要工具
 
 > **來源**: [@GitHub_Daily](https://x.com/GitHub_Daily/status/2026474173829357941) | [原文連結](https://github.com/kevinho/clawfeed)

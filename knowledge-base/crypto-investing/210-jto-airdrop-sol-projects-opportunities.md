@@ -1,3 +1,23 @@
+---
+title: "JTO 空投機會及 Solana 項目空投指南"
+date: ">"
+tags: 
+  - "空投"
+  - "Solana 生態"
+  - "投資機會"
+summary: "**注意**：原文為推文形式，作者提到將在後續推文中分享 8 個 Solana 生態項目的空投機會，但具體項目列表未包含在此推文中。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BladeDefi/status/1732865405897838925"
+  externalUrl: "https://twitter.com/BladeDefi/status/1732865405897838925/photo/1"
+  authorUsername: "BladeDefi"
+---
+
 # JTO 空投機會及 Solana 項目空投指南
 
 > **來源**: [@BladeDefi](https://x.com/BladeDefi/status/1732865405897838925) | [原文連結](https://twitter.com/BladeDefi/status/1732865405897838925/photo/1)

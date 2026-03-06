@@ -1,3 +1,23 @@
+---
+title: "使用 Claude Agent SDK 打造非程式碼工作流程"
+date: ">"
+tags: 
+  - "Claude Agent SDK"
+  - "多代理系統"
+  - "工作流程自動化"
+summary: "作者探索使用 Claude Agent SDK（驅動 Claude Code 的底層框架）來建立**非程式碼工作流程**，作為 CrewAI 和 LangChain 等代理框架的輕量級替代方案。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/donvito/status/2009252378017689947"
+  externalUrl: "https://x.com/i/article/2009248193532628992"
+  authorUsername: "donvito"
+---
+
 # 使用 Claude Agent SDK 打造非程式碼工作流程
 
 > **來源**: [@donvito](https://x.com/donvito/status/2009252378017689947) | [原文連結](https://x.com/i/article/2009248193532628992)

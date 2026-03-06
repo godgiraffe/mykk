@@ -1,3 +1,23 @@
+---
+title: "玩轉 Pendle：Equilibria 上的 Alpha 利器 EQB 和 ePendle"
+date: "2025-06-01"
+tags: 
+  - "Pendle收益"
+  - "Equilibria協議"
+  - "流動性挖礦"
+summary: "這兩天看到 @807743450Li 和 @block_dam 兩位 DEFI 專家都分享了持有 YT-mPENDLE 及 PNP 所獲得高 APY 收益。大米做為 @pendle_fi 的超級粉，那也來分享一下 Pendle 衍生的另外一個應用協議 Equilibria 上面的 Alpha 利器：**EQB 和 ePendle**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Eason_2099/status/1929048031187579176"
+  externalUrl: null
+  authorUsername: "Eason_2099"
+---
+
 # 玩轉 Pendle：Equilibria 上的 Alpha 利器 EQB 和 ePendle
 
 > **來源**: [@Eason_2099](https://x.com/Eason_2099/status/1929048031187579176)

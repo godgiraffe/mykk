@@ -1,3 +1,23 @@
+---
+title: "幣安 Alpha 工具生態百寶箱"
+date: "2025-06-08"
+tags: 
+  - "Alpha 積分"
+  - "DEX 交易"
+  - "空投收益"
+summary: "幣安 Alpha 活動衍生出多個社群開發的實用工具，涵蓋積分追蹤、空投數據、流動性分析和低磨損刷分策略。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ai_9684xtpa/status/1931615726504382827"
+  externalUrl: "https://blockai.pro/alpha-tool"
+  authorUsername: "ai_9684xtpa"
+---
+
 # 幣安 Alpha 工具生態百寶箱
 
 > **來源**: [@ai_9684xtpa](https://x.com/ai_9684xtpa/status/1931615726504382827) | [原文連結](https://blockai.pro/alpha-tool)

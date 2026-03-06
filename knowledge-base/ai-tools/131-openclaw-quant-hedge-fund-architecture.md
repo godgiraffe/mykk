@@ -1,3 +1,23 @@
+---
+title: "用 OpenClaw 搭建 AI 量化對沖基金：Subagent 職責設計"
+date: "2026-03-01"
+tags: 
+  - "OpenClaw"
+  - "Subagent架構"
+  - "量化基金"
+summary: "## DAY 2：搭建 AI 量化對沖基金的崗位體系與 Subagent 職責劃分"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sunlc_crypto/status/2028020210209591306"
+  externalUrl: null
+  authorUsername: "sunlc_crypto"
+---
+
 # 用 OpenClaw 搭建 AI 量化對沖基金：Subagent 職責設計
 
 > **來源**: [@sunlc_crypto](https://x.com/sunlc_crypto/status/2028020210209591306)

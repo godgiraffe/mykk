@@ -1,3 +1,23 @@
+---
+title: "Polymarket 預測市場技術深度解析：訂單簿架構與智能合約"
+date: "2025-11-15"
+tags: 
+  - "預測市場"
+  - "訂單簿"
+  - "智能合約"
+summary: "我發現原始內容中已經包含了第一篇文章的完整內容。讓我基於現有的內容進行整理。這篇文章詳細解析了 Polymarket 的訂單簿架構、智能合約運作機制和技術實現。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Slutsky___/status/1989767806137897315"
+  externalUrl: "https://rocknblock.io/blog/how-polymarket-works-the-tech-behind-prediction-markets"
+  authorUsername: "Slutsky___"
+---
+
 # Polymarket 預測市場技術深度解析：訂單簿架構與智能合約
 
 > **來源**: [@Slutsky___](https://x.com/Slutsky___/status/1989767806137897315) | [原文連結](https://rocknblock.io/blog/how-polymarket-works-the-tech-behind-prediction-markets)

@@ -1,3 +1,23 @@
+---
+title: "被動收入策略：定投升級與Short Put收租"
+date: "2025-12-08"
+tags: 
+  - "被動收入"
+  - "Short Put策略"
+  - "定投自動化"
+summary: "作者 @MengLayer (陈小萌) 分享了進入「收租模式」的操作策略，透過兩項核心工具與被動收入來源，達成日均約 1500 美元的收益。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/MengLayer/status/1997938183452140017"
+  externalUrl: null
+  authorUsername: "MengLayer"
+---
+
 # 被動收入策略：定投升級與Short Put收租
 
 > **來源**: [@MengLayer](https://x.com/MengLayer/status/1997938183452140017)

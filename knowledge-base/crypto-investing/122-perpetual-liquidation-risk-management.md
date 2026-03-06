@@ -1,3 +1,23 @@
+---
+title: "永續合約清算風險管理：強平價格與破產價格的區別"
+date: "2025-07-16"
+tags: 
+  - "風險管理"
+  - "清算"
+  - "永續合約"
+summary: "重要的事情說很多次： 開倉的時候，記得設止損 開倉的時候，記得設止損 開倉的時候，記得設止損"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1945348426935492937"
+  externalUrl: null
+  authorUsername: "agintender"
+---
+
 # 永續合約清算風險管理：強平價格與破產價格的區別
 
 > **來源**: [@agintender](https://x.com/agintender/status/1945348426935492937)

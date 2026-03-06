@@ -1,3 +1,24 @@
+---
+title: "用 Agent SDK 把 Claude Code 變成免費加強版 Clawdbot"
+date: "2026-01-26"
+tags: 
+  - "Claude Code"
+  - "Agent SDK"
+  - "Telegram Bot"
+  - "Clawdbot"
+summary: "比較項目 Clawdbot Claude Code + Agent SDK ---------- ---------- ------------------------- 功能 Claude Code 能做的它都能做 更強大、更靈活 靈活性 受限於平台 完全自訂 資料主權 第三方託管 完全自主 額外費用 付費服務 零額外成本（使用現有 Claude 訂閱） 互動方式 Telegram 對話 Telegram 對話"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/YukerX/status/2015649479387722160"
+  externalUrl: "https://x.com/i/article/2015502993685356544"
+  authorUsername: "YukerX"
+---
+
 # 用 Agent SDK 把 Claude Code 變成免費加強版 Clawdbot
 
 > **來源**: [@YukerX (Yuker)](https://x.com/YukerX/status/2015649479387722160) | [原文連結](https://x.com/i/article/2015502993685356544)

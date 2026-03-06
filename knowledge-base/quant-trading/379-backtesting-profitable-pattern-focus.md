@@ -1,3 +1,23 @@
+---
+title: "回測系統：集中於最賺錢的單一模式"
+date: "2024-11-02"
+tags: 
+  - "回測"
+  - "交易系統"
+  - "模式識別"
+summary: "這是典型的帕累托法則（80/20 法則）在交易系統中的體現：少數幾個核心模式貢獻了絕大部分的獲利。與其分散精力研究大量邊緣策略，不如專注優化最有效的單一模式。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 64
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/winchrr/status/1852658155450159386"
+  externalUrl: "https://twitter.com/winchrr/status/1852658155450159386/photo/1"
+  authorUsername: "winchrr"
+---
+
 # 回測系統：集中於最賺錢的單一模式
 
 > **來源**: [@winchrr](https://x.com/winchrr/status/1852658155450159386) | [原文連結](https://twitter.com/winchrr/status/1852658155450159386/photo/1)

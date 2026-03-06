@@ -1,3 +1,23 @@
+---
+title: "2025年10月市場時機與Launchcoin抄底策略"
+date: "2025-10-11"
+tags: 
+  - "市場時機"
+  - "抄底策略"
+  - "新幣種"
+summary: "**鏈上標的**：除了哈基米（Hakimi）外，主要想抄底 Launchcoin **一級市場**：4u 的 Meta **二級市場**：HYPE"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 51
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/au_xbt/status/1976871247997968859"
+  externalUrl: "https://x.com/level941/status/1976840629867958437?t=AP5bFbH9fUyFN6wpYfC5lQ&s=19"
+  authorUsername: "au_xbt"
+---
+
 # 2025年10月市場時機與Launchcoin抄底策略
 
 > **來源**: [@au_xbt](https://x.com/au_xbt/status/1976871247997968859) | [原文連結](https://x.com/level941/status/1976840629867958437?t=AP5bFbH9fUyFN6wpYfC5lQ&s=19)

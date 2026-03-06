@@ -1,3 +1,23 @@
+---
+title: "Perps DEX 空投挖礦完全指南：Hyperliquid 後的投資機會與對沖策略"
+date: "2025-07-23"
+tags: 
+  - "永續合約"
+  - "空投挖礦"
+  - "對沖策略"
+summary: "★ Insight ───────────────────────────────────── • 這是一篇關於 Perps DEX 空投策略的深度分析文章，涵蓋市場機會、項目評估、對沖策略 • 原文為簡體中文推文串，需要轉換為繁體並整理成結構化的知識庫文章 • 文章包含大量數據和計算邏輯，需要保持完整性以確保策略的可操作性 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Cryptonymk/status/1947946608735441376"
+  externalUrl: "https://discord.com/invite/hG2M26Gp"
+  authorUsername: "Cryptonymk"
+---
+
 # Perps DEX 空投挖礦完全指南：Hyperliquid 後的投資機會與對沖策略
 
 > **來源**: [@Cryptonymk](https://x.com/Cryptonymk/status/1947946608735441376) | [原文連結](https://discord.com/invite/hG2M26Gp)

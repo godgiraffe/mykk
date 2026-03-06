@@ -1,3 +1,23 @@
+---
+title: "DeFi 採用障礙與理財心態：為什麼多數人還在賭而不是學"
+date: ">"
+tags: 
+  - "DeFi心態"
+  - "收益交易"
+  - "財富焦慮"
+summary: "我在字節太久，身邊都是聰明人；現在做 Web3，接觸的大多又是 KOL。所以我總覺得——DeFi 很常見。但其實，整個幣圈大多數人，根本不用 DeFi。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ScarlettWeb3/status/1983040629165928480"
+  externalUrl: "https://pendle.notion.site/Pendle-1b2567a21d3780168a83dc0028731413"
+  authorUsername: "ScarlettWeb3"
+---
+
 # DeFi 採用障礙與理財心態：為什麼多數人還在賭而不是學
 
 > **來源**: [@ScarlettWeb3](https://x.com/ScarlettWeb3/status/1983040629165928480) | [原文連結](https://pendle.notion.site/Pendle-1b2567a21d3780168a83dc0028731413)

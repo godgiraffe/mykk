@@ -1,3 +1,23 @@
+---
+title: "個人 AI 系統 3.0 迭代升級：從被動維護到主動進化"
+date: "2026-02-23"
+tags: 
+  - "Claude Code"
+  - "知識管理系統"
+  - "AI 工作流程"
+summary: "本文由本人內容生成系統互動生成。可以不用看完。點讚、轉發、收藏，然後複製全文發給你的 Claude Code，讓它幫你搭建就行。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/rwayne/status/2025857480874664089"
+  externalUrl: "https://x.com/i/article/2025853727329169408"
+  authorUsername: "rwayne"
+---
+
 # 個人 AI 系統 3.0 迭代升級：從被動維護到主動進化
 
 > **來源**: [@rwayne](https://x.com/rwayne/status/2025857480874664089) | [原文連結](https://x.com/i/article/2025853727329169408)

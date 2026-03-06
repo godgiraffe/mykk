@@ -1,3 +1,23 @@
+---
+title: "Vibe Coding 流程：一天半打造交易分析網站"
+date: "2025-11-28"
+tags: 
+  - "AI開發"
+  - "全棧開發"
+  - "快速原型"
+summary: "感謝魏神 @coolish 把交易 API 直接公開出來，整整 5 年的數據，真的把「讓別人無死角看懂自己怎麼交易」這件事做到了極致。拿到 API 之後，更關心的是學習金字塔掛單。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/WeWill_Rocky/status/1994428045080592453"
+  externalUrl: "https://wsnb.online/"
+  authorUsername: "WeWill_Rocky"
+---
+
 # Vibe Coding 流程：一天半打造交易分析網站
 
 > **來源**: [@WeWill_Rocky](https://x.com/WeWill_Rocky/status/1994428045080592453) | [原文連結](https://wsnb.online/)

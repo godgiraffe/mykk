@@ -1,3 +1,23 @@
+---
+title: "分段網格模式套利策略 - 兼顧利潤與交易量"
+date: "2025-11-21"
+tags: 
+  - "網格交易"
+  - "套利策略"
+  - "風險管理"
+summary: "今天給大家介紹我正在開發的新功能：**網格模式套利**。這個模式旨在套利交易中一定程度兼顧利潤和交易量。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1991671570004341230"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 分段網格模式套利策略 - 兼顧利潤與交易量
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1991671570004341230)

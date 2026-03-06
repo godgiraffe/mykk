@@ -1,3 +1,23 @@
+---
+title: "DLMM 池子篩選工具 - Meteora 流動性挖礦分析"
+date: "2025-01-24"
+tags: 
+  - "DLMM"
+  - "LP策略"
+  - "Meteora平台"
+summary: "這是一個專門用來篩選熱門 DLMM（Dynamic Liquidity Market Maker）交易對的工具，靈感來自 @GM365。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Web3Feng/status/1882795718118940834"
+  externalUrl: "https://dlmm.me/"
+  authorUsername: "Web3Feng"
+---
+
 # DLMM 池子篩選工具 - Meteora 流動性挖礦分析
 
 > **來源**: [@Web3Feng](https://x.com/Web3Feng/status/1882795718118940834) | [原文連結](https://dlmm.me/)

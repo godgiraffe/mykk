@@ -1,3 +1,23 @@
+---
+title: "zkSync 救援空投 Paymaster 合約開源"
+date: "2024-06-23"
+tags: 
+  - "智能合約"
+  - "帳戶抽象"
+  - "Paymaster"
+summary: "鏈上救援隊 @ourRescuETH 在 zkSync 空投期間，從近百名粉絲委託的幾百個被盜錢包中救援了近 84 萬枚 $ZK 代幣。這次行動使黑客少盜取了 20 萬美元，同時讓用戶和白帽救援人員獲得了 20 萬美元。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xAA_Science/status/1804901150044680441"
+  externalUrl: "https://github.com/AmazingAng/zkSync-Paymaster-RescuETH"
+  authorUsername: "0xAA_Science"
+---
+
 # zkSync 救援空投 Paymaster 合約開源
 
 > **來源**: [@0xAA_Science](https://x.com/0xAA_Science/status/1804901150044680441) | [原文連結](https://github.com/AmazingAng/zkSync-Paymaster-RescuETH)

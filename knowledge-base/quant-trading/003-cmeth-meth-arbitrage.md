@@ -1,3 +1,26 @@
+---
+title: "cmETH/mETH 套利實戰案例"
+date: "2026-02-04"
+tags: 
+  - "套利"
+  - "搬磚"
+  - "Mantle"
+  - "mETH"
+  - "cmETH"
+  - "自動化"
+summary: "在 Mantle 鏈上進行套利。鏈上幣種不多：fBTC、mETH、cmETH、WETH，逐一研究交互地址。"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/2018909160751173903"
+  externalUrl: null
+  authorUsername: "dan326714"
+---
+
 # cmETH/mETH 套利實戰案例
 
 > **來源**: [十年一梦 (@dan326714)](https://x.com/dan326714/status/2018909160751173903)

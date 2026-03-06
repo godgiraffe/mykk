@@ -1,3 +1,23 @@
+---
+title: "DLMM 盈虧分析工具 — 深度數據洞察"
+date: "2024-12-04"
+tags: 
+  - "DLMM"
+  - "LP策略"
+  - "數據分析"
+summary: "對於一個喜歡數據、希望從數據中挖掘更多有價值資訊的人而言，沒有比研究分析數據更讓人開心的了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1864228173078270431"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 盈虧分析工具 — 深度數據洞察
 
 > **來源**: [@gm365](https://x.com/gm365/status/1864228173078270431)

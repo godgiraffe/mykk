@@ -1,3 +1,23 @@
+---
+title: "狗狗幣槓桿滾倉策略：單邊行情的收益最大化"
+date: "2024-11-09"
+tags: 
+  - "槓桿交易"
+  - "滾倉策略"
+  - "幣安現貨"
+summary: "在確定性單邊行情中，如何最大化收益?以狗狗幣 $DOGE 為例，假設未來幾個月市場持續走高，狗狗幣在沒有超過 33% 回撤的前提下，從目前 $0.20 回到前高 $0.58（上漲 +190%）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/_0xKenny/status/1855075620189094059"
+  externalUrl: null
+  authorUsername: "_0xKenny"
+---
+
 # 狗狗幣槓桿滾倉策略：單邊行情的收益最大化
 
 > **來源**: [@_0xKenny](https://x.com/_0xKenny/status/1855075620189094059)

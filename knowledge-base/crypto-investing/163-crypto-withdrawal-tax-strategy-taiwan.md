@@ -1,3 +1,23 @@
+---
+title: "加密貨幣出金節稅策略：台灣海外所得申報指南"
+date: "2025-02-16"
+tags: 
+  - "加密貨幣出金"
+  - "海外所得節稅"
+  - "Kraken出金"
+summary: "台灣政府部門對幣圈的法規和課稅方式到目前為止都還是相當模糊的。法規開始有限制個人幣商的交易，但課稅並還沒有明確的指引（以下不一定正確，大家都還在猜）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/GigQp/status/1891166612751020140"
+  externalUrl: null
+  authorUsername: "GigQp"
+---
+
 # 加密貨幣出金節稅策略：台灣海外所得申報指南
 
 > **來源**: [@GigQp](https://x.com/GigQp/status/1891166612751020140)

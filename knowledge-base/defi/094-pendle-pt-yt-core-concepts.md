@@ -1,3 +1,23 @@
+---
+title: "Pendle 本息分離核心概念與投資策略"
+date: "2025-09-13"
+tags: 
+  - "Pendle"
+  - "利率衍生品"
+  - "PT/YT交易"
+summary: "圖裡生動地解釋了，Pendle 是怎麼運行的？如何利用 Pendle 賺錢？邏輯是什麼？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BitHappy/status/1966705722831560893"
+  externalUrl: null
+  authorUsername: "BitHappy"
+---
+
 # Pendle 本息分離核心概念與投資策略
 
 > **來源**: [@BitHappy](https://x.com/BitHappy/status/1966705722831560893)

@@ -1,3 +1,23 @@
+---
+title: "Covered Call 被動收入策略：用期權價格模型優化收益"
+date: "2025-02-22"
+tags: 
+  - "期權策略"
+  - "被動收入"
+  - "Black-Scholes模型"
+summary: "如果可以，我不願意買入 Call，只願意賣出 Put；不願意買入 Put，只願意賣出 Call。這也是為什麼單腿 CALL 和 PUT 只會是我交易的一小部分的原因。因為在賣方下，時間會成為你的朋友；而買方則是大敵。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Balder13946731/status/1893404637736378844"
+  externalUrl: "https://x.com/i/article/1893402514416115713"
+  authorUsername: "Balder13946731"
+---
+
 # Covered Call 被動收入策略：用期權價格模型優化收益
 
 > **來源**: [@Balder13946731](https://x.com/Balder13946731/status/1893404637736378844) | [原文連結](https://x.com/i/article/1893402514416115713)

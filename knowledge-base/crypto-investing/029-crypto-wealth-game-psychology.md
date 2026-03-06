@@ -1,3 +1,23 @@
+---
+title: "幣圈還能賺錢嗎？理解市場的本質與博弈心理"
+date: ">"
+tags: 
+  - "市場週期"
+  - "心態管理"
+  - "資訊不對稱"
+summary: "面向 核心論點 ------ ---------- 普遍性機會 窗口收窄，BTC 體量已難讓普通人翻身 市場特性 弱監管造就持續的財富效應製造機制 監管滯後 技術創新永遠領先監管，灰色地帶持續存在 成功條件 逆人性操作、理解資本邏輯、不被情緒主導 市場本質 會講故事的人收割相信故事的人"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BensonTWN/status/2004018183855116359"
+  externalUrl: null
+  authorUsername: "BensonTWN"
+---
+
 # 幣圈還能賺錢嗎？理解市場的本質與博弈心理
 
 > **來源**: [@BensonTWN](https://x.com/BensonTWN/status/2004018183855116359)

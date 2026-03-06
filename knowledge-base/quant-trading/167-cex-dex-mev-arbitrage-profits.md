@@ -1,3 +1,23 @@
+---
+title: "CEX-DEX 套利：MEV 機器人的實際利潤分析"
+date: ">"
+tags: 
+  - "MEV"
+  - "套利"
+  - "市場微觀結構"
+summary: "過去沒有人能準確回答 MEV 機器人透過 CEX-DEX 套利究竟賺了多少錢，但現在透過正式方法的測量，終於有了答案！這項研究已被 AFT25 會議接受。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/sui414/status/1947695935175462958"
+  externalUrl: "https://twitter.com/sui414/status/1947695935175462958/photo/1"
+  authorUsername: "sui414"
+---
+
 # CEX-DEX 套利：MEV 機器人的實際利潤分析
 
 > **來源**: [@sui414](https://x.com/sui414/status/1947695935175462958) | [原文連結](https://twitter.com/sui414/status/1947695935175462958/photo/1)

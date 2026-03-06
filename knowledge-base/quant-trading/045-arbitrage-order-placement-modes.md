@@ -1,3 +1,23 @@
+---
+title: "套利交易的三種下單模式"
+date: "2025-12-08"
+tags: 
+  - "套利策略"
+  - "下單模式"
+  - "交易執行"
+summary: "本文分享套利過程中的三種下單模式，並展示一種有效的 AI 協作開發方式：透過文檔與 AI 的搭配，即使不熟悉程式碼，也能完成複雜的交易邏輯實作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1998032790651322533"
+  externalUrl: "https://x.com/i/article/1998031036564033537"
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 套利交易的三種下單模式
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1998032790651322533) | [原文連結](https://x.com/i/article/1998031036564033537)

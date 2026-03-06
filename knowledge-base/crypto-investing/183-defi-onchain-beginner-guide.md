@@ -1,3 +1,23 @@
+---
+title: "從二級到鏈上：DeFi 新手入門之路"
+date: ">"
+tags: 
+  - "DeFi入門"
+  - "學習心態"
+  - "財富機會"
+summary: "2020 年 9 月，剛玩鏈上時，不懂什麼是 MetaMask，什麼是 AMM/LP，什麼是無常損失，什麼是二池；11 月，算穩拿到大結果。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xcryptowizard/status/1858718847643381889"
+  externalUrl: null
+  authorUsername: "0xcryptowizard"
+---
+
 # 從二級到鏈上：DeFi 新手入門之路
 
 > **來源**: [@0xcryptowizard](https://x.com/0xcryptowizard/status/1858718847643381889)

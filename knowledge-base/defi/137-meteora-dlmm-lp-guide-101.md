@@ -1,3 +1,23 @@
+---
+title: "Meteora DLMM 流動性提供者完全指南"
+date: ">"
+tags: 
+  - "DLMM"
+  - "流動性提供"
+  - "Meteora"
+summary: "DLMM 全稱為 Dynamic Liquidity Market Maker（動態流動性做市商），是 Meteora 上進階流動性提供的核心引擎。DLMM 受 Trader Joe 的 Liquidity Book 啟發，賦予流動性提供者（LP）真正的控制權："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/narkokek/status/1947687843780038782"
+  externalUrl: "https://x.com/i/article/1945912494339342336"
+  authorUsername: "narkokek"
+---
+
 # Meteora DLMM 流動性提供者完全指南
 
 > **來源**: [@narkokek](https://x.com/narkokek/status/1947687843780038782) | [原文連結](https://x.com/i/article/1945912494339342336)

@@ -1,3 +1,23 @@
+---
+title: "永續合約積分刷單通用技巧"
+date: ">"
+tags: 
+  - "刷量策略"
+  - "差價套利"
+  - "積分農耕"
+summary: "★ Insight ───────────────────────────────────── 這是一篇關於永續合約積分刷單的實戰技巧分享，來自 X 平台的撸毛小狗。內容涵蓋穩定幣刷量、自成交、時間套利等 6 種通用方法，並提醒需注意各交易所的政策差異和女巫檢測機制。 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/2000923083918729410"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # 永續合約積分刷單通用技巧
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/2000923083918729410)

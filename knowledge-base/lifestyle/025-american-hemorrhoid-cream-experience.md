@@ -1,3 +1,23 @@
+---
+title: "美國痔瘡膏使用心得：OTC 藥品療效對比"
+date: ">"
+tags: 
+  - "健康用品"
+  - "海外購物"
+  - "用藥心得"
+summary: "外痔手術之後大半年痔瘡又長出來了，在亞馬遜上買了一支 best seller 痔瘡膏使用一週後，痔瘡就縮沒了！"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/MianMaoKu/status/1835908422811996273"
+  externalUrl: "https://twitter.com/MianMaoKu/status/1835908422811996273/photo/1"
+  authorUsername: "MianMaoKu"
+---
+
 # 美國痔瘡膏使用心得：OTC 藥品療效對比
 
 > **來源**: [@MianMaoKu](https://x.com/MianMaoKu/status/1835908422811996273) | [原文連結](https://twitter.com/MianMaoKu/status/1835908422811996273/photo/1)

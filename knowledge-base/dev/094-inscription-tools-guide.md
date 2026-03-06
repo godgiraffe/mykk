@@ -1,3 +1,23 @@
+---
+title: "銘文工具完整指南——監控、刻寫、交易市場"
+date: "2023-12-15"
+tags: 
+  - "銘文"
+  - "開發工具"
+  - "區塊鏈"
+summary: "⭐️⭐️⭐️ https://geniidata.com/user/sanyi（能看全，但不直觀） ⭐️⭐️ https://unisat.io/brc20（直觀但只支援 BRC） ⭐️ https://ordspace.org（只支援 BTC 和 ETH）"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sanyi_eth_/status/1735546691938656643"
+  externalUrl: null
+  authorUsername: "sanyi_eth_"
+---
+
 # 銘文工具完整指南——監控、刻寫、交易市場
 
 > **來源**: [@sanyi_eth_](https://x.com/sanyi_eth_/status/1735546691938656643)

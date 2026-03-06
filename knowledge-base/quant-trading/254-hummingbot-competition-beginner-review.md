@@ -1,3 +1,23 @@
+---
+title: "Hummingbot 量化交易競賽新手實戰復盤記錄"
+date: "2025-04-23"
+tags: 
+  - "量化交易"
+  - "新手學習"
+  - "實戰復盤"
+summary: "量化交易，對交易小白一直都是個神秘的領域，一直想深入學習又各種緣由沒深入（主要不是自己擅長賺錢的領域），也是在多次研究後了解到 Hummingbot，又找尋到由 dolm 組建的中文社群，跟過一期培訓（純湊數，幾乎沒聽課），也算接觸了量化交易，始終是含苞待放的新手而已。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yangle666/status/1914998501899141208"
+  externalUrl: "https://thoughtful-chamomile-c72.notion.site/1dd422f8039880418d53e052c494e66c"
+  authorUsername: "yangle666"
+---
+
 # Hummingbot 量化交易競賽新手實戰復盤記錄
 
 > **來源**: [@yangle666](https://x.com/yangle666/status/1914998501899141208) | [原文連結](https://thoughtful-chamomile-c72.notion.site/1dd422f8039880418d53e052c494e66c)

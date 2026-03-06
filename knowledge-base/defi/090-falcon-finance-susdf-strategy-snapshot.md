@@ -1,3 +1,23 @@
+---
+title: "Falcon Finance sUSDf 策略分析：快照前的低風險配置"
+date: "2025-09-21"
+tags: 
+  - "DeFi策略"
+  - "Falcon Finance"
+  - "收益農業"
+summary: "快照臨近，這個時間再重倉賭就不合適了，要賭也要等到發幣之後看著來，現在可以穩健一點做做低風險的策略。以下是圍繞 @falconfinance 的一些策略想法。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/craigyc_eth/status/1969827435899445288"
+  externalUrl: null
+  authorUsername: "craigyc_eth"
+---
+
 # Falcon Finance sUSDf 策略分析：快照前的低風險配置
 
 > **來源**: [@craigyc_eth](https://x.com/craigyc_eth/status/1969827435899445288)

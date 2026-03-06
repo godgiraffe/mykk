@@ -1,3 +1,23 @@
+---
+title: "MEV 入門指南：套利與三明治攻擊的完整解析"
+date: "2025-03-02"
+tags: 
+  - "MEV套利"
+  - "鏈上套利"
+  - "機器人交易"
+summary: "MEV（Maximal Extractable Value，最大可提取價值）主要分為兩類："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/beiyue66/status/1896032736017821959"
+  externalUrl: null
+  authorUsername: "beiyue66"
+---
+
 # MEV 入門指南：套利與三明治攻擊的完整解析
 
 > **來源**: [@beiyue66](https://x.com/beiyue66/status/1896032736017821959)

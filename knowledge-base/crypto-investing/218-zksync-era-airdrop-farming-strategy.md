@@ -1,3 +1,23 @@
+---
+title: "zkSync Era 空投挖礦策略：早期項目交互指南"
+date: ">"
+tags: 
+  - "空投挖礦"
+  - "zkSync Era"
+  - "DeFi 交互"
+summary: "zkSync Era 網絡上線後，短短 2 週多的時間就獲得了近 1 億美元的 TVL。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yutiancoin/status/1645826942938279938"
+  externalUrl: "https://twitter.com/yutiancoin/status/1645826942938279938/photo/1"
+  authorUsername: "yutiancoin"
+---
+
 # zkSync Era 空投挖礦策略：早期項目交互指南
 
 > **來源**: [@yutiancoin](https://x.com/yutiancoin/status/1645826942938279938) | [原文連結](https://twitter.com/yutiancoin/status/1645826942938279938/photo/1)

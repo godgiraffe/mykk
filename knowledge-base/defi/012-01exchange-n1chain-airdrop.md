@@ -1,3 +1,25 @@
+---
+title: "01 Exchange 與 N1 公鏈潛在空投機會分析"
+date: "2026-01-18"
+tags: 
+  - "01Exchange"
+  - "N1 Chain"
+  - "Perpdex"
+  - "空投"
+  - "DeFi"
+summary: "本文作者 @web3a99 (笑苍生.btc) 分享了他對 01 Exchange 的投資分析與潛在空投機會的看法。作者強調自己主動挖掘了 01 Exchange 這個項目，並深度參與了從內部測試到公開測試的過程。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/web3a99/status/2012805853628584275"
+  externalUrl: null
+  authorUsername: "web3a99"
+---
+
 # 01 Exchange 與 N1 公鏈潛在空投機會分析
 
 > **來源**: [@web3a99](https://x.com/web3a99/status/2012805853628584275)

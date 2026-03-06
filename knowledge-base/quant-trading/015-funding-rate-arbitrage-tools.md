@@ -1,3 +1,23 @@
+---
+title: "資金費率套利查詢工具匯總"
+date: "2026-01-07"
+tags: 
+  - "資金費率套利"
+  - "多平台"
+  - "交易工具"
+summary: "一個整合多平台資金費率套利查詢的開源工具，由開發者 @cas3333333 使用 AI coding 開發，支援即時查詢主流交易平台的永續合約資金費率差異。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/tieqi7/status/2008706907679408177"
+  externalUrl: null
+  authorUsername: "tieqi7"
+---
+
 # 資金費率套利查詢工具匯總
 
 > **來源**: [@tieqi7](https://x.com/tieqi7/status/2008706907679408177)

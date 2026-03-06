@@ -1,3 +1,23 @@
+---
+title: "新手尋找聰明錢地址的基礎理論與實操指南"
+date: "2024-11-24"
+tags: 
+  - "聰明錢跟蹤"
+  - "錢包分析"
+  - "風險識別"
+summary: "現在衝 PVP Meme 要麼跟隨聰明錢地址，要麼自己用工具分析。現在看來有經驗專家的聰明錢地址可能來得更容易一些，身邊有幾個小伙伴靠跟蹤聰明錢地址買，已經持續賺了 1 年+ 的錢了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhang_bj_/status/1860790754249154788"
+  externalUrl: "https://x.com/zhang_bj_/status/1858822695208554973"
+  authorUsername: "zhang_bj_"
+---
+
 # 新手尋找聰明錢地址的基礎理論與實操指南
 
 > **來源**: [@zhang_bj_](https://x.com/zhang_bj_/status/1860790754249154788) | [原文連結](https://x.com/zhang_bj_/status/1858822695208554973)

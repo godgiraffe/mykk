@@ -1,3 +1,23 @@
+---
+title: "Agent 前端落地案例"
+date: "2025-12-20"
+tags: 
+  - "Agent應用"
+  - "前端開發"
+  - "Prompt工程"
+summary: "主題 內容 ------ ------ 核心主題 Agent 在前端開發的落地實戰：從構建到重構的反思 技術挑戰 私有設計系統、代碼預覽、Prompt 工程、自我修復 關鍵轉折 從「如何構建 Agent」到「設計系統的真正目的是什麼」 最終方案 將 Agent 能力轉化為 Skill，融入開發者工作流 核心洞察 以 AI 為中心重新設計流程，而非讓 AI 模仿人類流程"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dotey/status/2002214342486347900"
+  externalUrl: "https://docs.google.com/presentation/d/1-H9VGNyCY-2jKw3e3aO722yQyHbMFtDxc3yEXMmKZDQ/edit?usp=sharing"
+  authorUsername: "dotey"
+---
+
 # Agent 前端落地案例
 
 > **來源**: [@dotey](https://x.com/dotey/status/2002214342486347900) | [原文連結](https://docs.google.com/presentation/d/1-H9VGNyCY-2jKw3e3aO722yQyHbMFtDxc3yEXMmKZDQ/edit?usp=sharing)

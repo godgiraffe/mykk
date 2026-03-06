@@ -1,3 +1,23 @@
+---
+title: "Nado 和 Variational 資金費套利實戰分享"
+date: ">"
+tags: 
+  - "資金費套利"
+  - "現貨合約對沖"
+  - "交易所差價"
+summary: "本文分享在 Nado 和 Variational 兩個交易所間進行資金費套利的實戰經驗，強調： **小額慢速開單**：避免插針導致價差過小造成虧損 **資金費覆蓋手續費**：最佳狀態是每週資金費足以覆蓋開關大倉位的手續費 **合約風險防範**：備足保證金、理解強平價與保證金不足機制 **長期低磨損參與**：不硬刷、不上頭，重在參與"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xStudy/status/2008616135747662156"
+  externalUrl: null
+  authorUsername: "0xStudy"
+---
+
 # Nado 和 Variational 資金費套利實戰分享
 
 > **來源**: [@0xStudy](https://x.com/0xStudy/status/2008616135747662156)

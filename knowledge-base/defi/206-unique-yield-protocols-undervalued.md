@@ -1,3 +1,23 @@
+---
+title: "高價值 DeFi 收益協議盤點"
+date: "2024-12-09"
+tags: 
+  - "DeFi策略"
+  - "收益協議"
+  - "投資評估"
+summary: "我需要先抓取完整的推文內容，因為你提供的只是開頭。讓我使用 agent-browser 工具來獲取完整內容。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/phtevenstrong/status/1866159129313591803"
+  externalUrl: null
+  authorUsername: "phtevenstrong"
+---
+
 # 高價值 DeFi 收益協議盤點
 
 > **來源**: [@phtevenstrong](https://x.com/phtevenstrong/status/1866159129313591803)

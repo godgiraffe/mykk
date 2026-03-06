@@ -1,3 +1,23 @@
+---
+title: "Lotus Router 合約 Calldata 編碼設計解析"
+date: "2025-04-13"
+tags: 
+  - "路由合約"
+  - "智能合約"
+  - "EVM"
+summary: "我個人最近對路由合約非常感興趣,而幾個月前 @jtriley2p 開源了 Lotus Router 合約源代碼,該合約有一個精巧的 calldata 編碼設計。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1911471307260395896"
+  externalUrl: "https://twitter.com/wong_ssh/status/1911471307260395896/photo/1"
+  authorUsername: "wong_ssh"
+---
+
 # Lotus Router 合約 Calldata 編碼設計解析
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1911471307260395896) | [原文連結](https://twitter.com/wong_ssh/status/1911471307260395896/photo/1)

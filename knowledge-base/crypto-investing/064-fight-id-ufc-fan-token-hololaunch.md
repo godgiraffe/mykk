@@ -1,3 +1,23 @@
+---
+title: "Fight ($FIGHT) — UFC 官方授權粉絲代幣與預測市場機制"
+date: ">"
+tags: 
+  - "代幣空投"
+  - "UFC生態"
+  - "預測市場"
+summary: "Fight ($FIGHT) 是格鬥運動的官方 IP 代幣，由 UFC 官方授權的 Web3 生態系統,將粉絲熱情轉化為身份、聲譽和所有權。透過與 UFC 多年合作夥伴關係,連結數百萬粉絲、運動員和創作者,讓參與活動產生價值。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1983232519425405160"
+  externalUrl: "https://app.hololaunch.ai/ico/fight"
+  authorUsername: "0xKaKa03"
+---
+
 # Fight ($FIGHT) — UFC 官方授權粉絲代幣與預測市場機制
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1983232519425405160) | [原文連結](https://app.hololaunch.ai/ico/fight)

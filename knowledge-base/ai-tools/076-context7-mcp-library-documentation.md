@@ -1,3 +1,23 @@
+---
+title: "Context7 MCP：AI 開發必裝的最新文件查詢工具"
+date: "2025-08-20"
+tags: 
+  - "MCP"
+  - "文件參考"
+  - "AI工具"
+summary: "Context7 MCP 是一個專為 AI 開發設計的 MCP (Model Context Protocol) 工具，讓你和你的 AI 助手能夠快速查詢最新的程式庫文件。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/fetalkpodcast/status/1957963302891581459"
+  externalUrl: "https://twitter.com/fetalkpodcast/status/1957963302891581459/photo/1"
+  authorUsername: "fetalkpodcast"
+---
+
 # Context7 MCP：AI 開發必裝的最新文件查詢工具
 
 > **來源**: [@fetalkpodcast](https://x.com/fetalkpodcast/status/1957963302891581459) | [原文連結](https://twitter.com/fetalkpodcast/status/1957963302891581459/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "推薦值得加入的 Telegram 群組與頻道"
+date: ">"
+tags: 
+  - "社群資源"
+  - "知識管理"
+  - "社交網路"
+summary: "這則推文是一個徵求推薦的貼文，內容較為簡短，本身並未提供實質的知識內容。這類型的內容可能不適合直接整理成知識庫文章。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xcryptowizard/status/1998228851697360959"
+  externalUrl: null
+  authorUsername: "0xcryptowizard"
+---
+
 # 推薦值得加入的 Telegram 群組與頻道
 
 > **來源**: [@0xcryptowizard](https://x.com/0xcryptowizard/status/1998228851697360959)

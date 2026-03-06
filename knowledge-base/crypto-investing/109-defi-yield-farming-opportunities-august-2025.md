@@ -1,3 +1,23 @@
+---
+title: "DeFi 理財局彙總：多鏈穩定幣 LP 與固定收益機會"
+date: ">"
+tags: 
+  - "DeFi 理財"
+  - "穩定幣收益"
+  - "打新投資"
+summary: "**$XPL 兩個月固定理財**：估計今天最後一批 1 萬的額度要被搶完了 **各種 booster 活動**：每期年化 20-30% 左右，但要注意贖回卡時間真的大坑 **活期額度**：12% 年化，10 萬 USDC 的活期額度"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yuyue_chris/status/1961215673436340541"
+  externalUrl: null
+  authorUsername: "yuyue_chris"
+---
+
 # DeFi 理財局彙總：多鏈穩定幣 LP 與固定收益機會
 
 > **來源**: [@yuyue_chris](https://x.com/yuyue_chris/status/1961215673436340541)

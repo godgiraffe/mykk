@@ -1,3 +1,25 @@
+---
+title: "DeFi市場LP流動性困境"
+date: "2026-02-04"
+tags: 
+  - "DeFi"
+  - "LP"
+  - "流動性提供"
+  - "市場下跌"
+  - "搬磚"
+summary: "近期市場連續下跌，許多 LP 跌穿範圍，導致搬磚交易額萎縮。觀察顯示，每月約有 10% 的 LP 退出市場，同時也有新的 LP 加入，顯示 DeFi 市場的流動性正面臨挑戰。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/2019164643382767734"
+  externalUrl: null
+  authorUsername: "zhamomo666"
+---
+
 # DeFi市場LP流動性困境
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/2019164643382767734)

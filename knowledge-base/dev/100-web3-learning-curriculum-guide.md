@@ -1,3 +1,23 @@
+---
+title: "Web3 自學課程與資源指南"
+date: ">"
+tags: 
+  - "Web3教育"
+  - "自學資源"
+  - "初學者指南"
+summary: "這只是一條推文串的開頭（0/n 表示這是系列推文的第一條）。要完整整理這個知識庫文章，我需要獲取整個推文串的完整內容。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xScottBTC/status/1636352874165989378"
+  externalUrl: "https://twitter.com/CryptoScott_ETH/status/1636352874165989378/photo/1"
+  authorUsername: "0xScottBTC"
+---
+
 # Web3 自學課程與資源指南
 
 > **來源**: [@0xScottBTC](https://x.com/0xScottBTC/status/1636352874165989378) | [原文連結](https://twitter.com/CryptoScott_ETH/status/1636352874165989378/photo/1)

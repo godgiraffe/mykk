@@ -1,3 +1,23 @@
+---
+title: "跟單策略：基於投研能力和運氣的信號源選擇"
+date: ">"
+tags: 
+  - "跟單交易"
+  - "信號源選擇"
+  - "風險管理"
+summary: "**單筆跟單金額**: 0.5 SOL **最大虧損**: 0.3-0.4 SOL **暴擊收益**: 3-4 SOL 或以上 **近期成績**: 最近摸到了一個 3000u 彩票"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/silverfang88/status/1882388829350547770"
+  externalUrl: null
+  authorUsername: "silverfang88"
+---
+
 # 跟單策略：基於投研能力和運氣的信號源選擇
 
 > **來源**: [@silverfang88](https://x.com/silverfang88/status/1882388829350547770)

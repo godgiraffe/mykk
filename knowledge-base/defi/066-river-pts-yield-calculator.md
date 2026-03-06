@@ -1,3 +1,23 @@
+---
+title: "River PTS 收益計算器 1.0 上線"
+date: "2025-10-19"
+tags: 
+  - "收益計算"
+  - "River生態"
+  - "空投工具"
+summary: "River PTS 收益計算器 1.0 正式上線，專為 River 社群設計的收益追蹤工具，幫助用戶即時掌握積分價值與投資收益。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xiogdmonng81069/status/1979810278792716436"
+  externalUrl: "https://gdx520.github.io/river/river.html"
+  authorUsername: "xiogdmonng81069"
+---
+
 # River PTS 收益計算器 1.0 上線
 
 > **來源**: [@xiogdmonng81069](https://x.com/xiogdmonng81069/status/1979810278792716436) | [原文連結](https://gdx520.github.io/river/river.html)

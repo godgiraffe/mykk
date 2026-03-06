@@ -1,3 +1,23 @@
+---
+title: "CJ Blockchain 研究文章合輯"
+date: "2023-04-10"
+tags: 
+  - "區塊鏈分析"
+  - "加密投資"
+  - "DeFi策略"
+summary: "根據您提供的原始內容，這是一個 Twitter 推文，作者 CJ_Blockchain 分享了他的 Mirror 文章合輯連結。從推文和連結內容中，我可以看到作者在 Mirror 上發表的多篇區塊鏈研究文章。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/nbblock/status/1645331530980667394"
+  externalUrl: "https://paragraph.com/@%E4%BB%8E%E6%AD%A4%E6%97%A0%E5%BF%83%E7%88%B1%E8%89%AF%E5%A4%9C"
+  authorUsername: "nbblock"
+---
+
 # CJ Blockchain 研究文章合輯
 
 > **來源**: [@nbblock](https://x.com/nbblock/status/1645331530980667394) | [原文連結](https://paragraph.com/@%E4%BB%8E%E6%AD%A4%E6%97%A0%E5%BF%83%E7%88%B1%E8%89%AF%E5%A4%9C)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code 的三層思考框架與 Ultrathink 哲學"
+date: "2025-10-06"
+tags: 
+  - "Claude Code"
+  - "思維方法論"
+  - "代碼品味"
+summary: "★ Insight ───────────────────────────────────── 這不只是一篇 prompt 設計文章，更是一個**認知框架的哲學設計**： **三層架構**（現象→本質→哲學）是對問題解決的本質抽象 **Linus 人格設定**是一種巧妙的約束機制，用「服務大師」強化輸出品質 **Good Taste 原則**本質是「消除特殊情況」— 這是軟體設計的最高美學 ───────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/chunxiangai/status/1975108985222291882"
+  externalUrl: null
+  authorUsername: "chunxiangai"
+---
+
 # Claude Code 的三層思考框架與 Ultrathink 哲學
 
 > **來源**: [@chunxiangai](https://x.com/chunxiangai/status/1975108985222291882)

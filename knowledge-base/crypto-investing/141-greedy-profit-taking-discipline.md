@@ -1,3 +1,23 @@
+---
+title: "貪心止盈的理性檢視：克服人性弱點的交易紀律"
+date: "2025-05-16"
+tags: 
+  - "心態管理"
+  - "止盈策略"
+  - "交易紀律"
+summary: "1. **市值空間評估**：這個幣能對標哪些項目？他們的走勢分別都是怎麼樣的？這個幣目前的市值還有上漲空間嗎？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 60
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ashiikesnow/status/1923260794348945470"
+  externalUrl: null
+  authorUsername: "ashiikesnow"
+---
+
 # 貪心止盈的理性檢視：克服人性弱點的交易紀律
 
 > **來源**: [@ashiikesnow](https://x.com/ashiikesnow/status/1923260794348945470)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code Skill Creator 官方工具及社群改進版本"
+date: "2025-12-03"
+tags: 
+  - "Claude Code"
+  - "Skill 創建"
+  - "最佳實踐"
+summary: "Claude Code 官方提供了一個 skill-creator 工具，功能是基於聊天記錄創建 Skill。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gasikaramada/status/1996038285295079451"
+  externalUrl: "https://github.com/daymade/claude-code-skills/tree/main/skill-creator"
+  authorUsername: "gasikaramada"
+---
+
 # Claude Code Skill Creator 官方工具及社群改進版本
 
 > **來源**: [@gasikaramada](https://x.com/gasikaramada/status/1996038285295079451) | [原文連結](https://github.com/daymade/claude-code-skills/tree/main/skill-creator)

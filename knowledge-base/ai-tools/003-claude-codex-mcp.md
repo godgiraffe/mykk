@@ -1,3 +1,25 @@
+---
+title: "Claude Code 中使用 MCP 調用 Codex"
+date: "2026-02-06"
+tags: 
+  - "Claude"
+  - "Codex"
+  - "MCP"
+  - "AI工具"
+  - "命令列"
+summary: "本篇筆記介紹如何透過一行命令在 Claude Code 環境中使用 MCP (Model Control Plane) 調用 Codex 模型，讓使用者能更便捷地配置與使用 Codex。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/discountifu/status/2019639215714386119"
+  externalUrl: null
+  authorUsername: "discountifu"
+---
+
 # Claude Code 中使用 MCP 調用 Codex
 
 > **來源**: [@discountifu](https://x.com/discountifu/status/2019639215714386119)

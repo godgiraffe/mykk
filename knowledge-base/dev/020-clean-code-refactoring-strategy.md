@@ -1,3 +1,23 @@
+---
+title: "Clean Code 漸進式重構策略：AI 時代的程式品質優化"
+date: ">"
+tags: 
+  - "程式品質"
+  - "程式碼重構"
+  - "Clean Code"
+summary: "大部分人用 AI 寫完程式碼就直接上線，作者會多花點時間做一輪整體專案優化。這樣上線後 bug 變少，容易維護。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hellokaton/status/1991384868891292137"
+  externalUrl: null
+  authorUsername: "hellokaton"
+---
+
 # Clean Code 漸進式重構策略：AI 時代的程式品質優化
 
 > **來源**: [@hellokaton](https://x.com/hellokaton/status/1991384868891292137)

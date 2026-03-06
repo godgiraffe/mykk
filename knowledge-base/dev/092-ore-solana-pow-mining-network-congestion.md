@@ -1,3 +1,23 @@
+---
+title: "Ore：Solana POW 挖礦導致網路擁堵與節點方案"
+date: "2024-04-03"
+tags: 
+  - "Solana"
+  - "挖礦"
+  - "RPC節點"
+summary: "你有發現你的 Solana 整個卡鏈了嗎？主要是因為大家都在打 @OreSupply，這是 Solana 上的 POW（工作量證明）挖礦項目。由於 Solana 的創始人轉推造成 FOMO，幾乎把整個 RPC 都打掛了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x0funky/status/1775495305330622731"
+  externalUrl: "https://www.helius.dev/"
+  authorUsername: "0x0funky"
+---
+
 # Ore：Solana POW 挖礦導致網路擁堵與節點方案
 
 > **來源**: [@0x0funky](https://x.com/0x0funky/status/1775495305330622731) | [原文連結](https://www.helius.dev/)

@@ -1,3 +1,25 @@
+---
+title: "魔獸爭霸：童年回憶"
+date: "2026-02-13"
+tags: 
+  - "魔獸爭霸"
+  - "War3"
+  - "童年"
+  - "遊戲"
+  - "回憶"
+summary: "本文紀錄了作者 @nbblock 對魔獸爭霸（War3）的回憶，特別是為 Clawd Bot 加上語音包的設計，引發了其對童年遊戲時光的懷念。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/nbblock/status/2022243406379155713"
+  externalUrl: null
+  authorUsername: "nbblock"
+---
+
 # 魔獸爭霸：童年回憶
 
 > **來源**: [@nbblock](https://x.com/nbblock/status/2022243406379155713)

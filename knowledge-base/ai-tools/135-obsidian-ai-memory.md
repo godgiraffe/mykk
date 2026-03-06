@@ -1,3 +1,23 @@
+---
+title: "用 Obsidian CLI 打造 AI 長期記憶"
+date: "2026-02-27"
+tags: 
+  - "Obsidian"
+  - "Claude Code"
+  - "知識管理"
+summary: "現在很多人把 Obsidian 當 AI 的外部記憶層——筆記、決策記錄、踩坑經驗都沉澱在 vault 裡，AI 需要時直接讀取。我自己就是這麼用的：Claude Code 讀寫 vault，等於跨會話的長期記憶。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2027429571054944298"
+  externalUrl: null
+  authorUsername: "runes_leo"
+---
+
 # 用 Obsidian CLI 打造 AI 長期記憶
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2027429571054944298)

@@ -1,3 +1,23 @@
+---
+title: "StandX 做市商積分模式與 Perp 套利策略"
+date: "2026-01-07"
+tags: 
+  - "做市商"
+  - "積分機制"
+  - "Perp交易"
+summary: "項目 說明 ------ ------ **積分計算因子** 倉位大小、掛單時長、價格距離盤口 **目標效果** 改善流動性，降低價差 **套利策略** 負成本套利，精確計算價差與資金費率 **BTC 價差** 改善前平均 200+ bps"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ddazmon/status/2008768167724953671"
+  externalUrl: "https://standx.com/referral?code=Dazmon88"
+  authorUsername: "ddazmon"
+---
+
 # StandX 做市商積分模式與 Perp 套利策略
 
 > **來源**: [@ddazmon](https://x.com/ddazmon/status/2008768167724953671) | [原文連結](https://standx.com/referral?code=Dazmon88)

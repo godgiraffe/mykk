@@ -1,3 +1,23 @@
+---
+title: "Pump Fun 公售風雲錄：多交易所套利實戰案例"
+date: ">"
+tags: 
+  - "公售策略"
+  - "多交易所套利"
+  - "永續合約交易"
+summary: "這是一場 Pump Fun 公售的實戰套利案例，參與者（瓜哥）在盤前交易、公售參與、開盤套利等多個階段進行操作，最終獲利 10 萬美元。整個操作涉及 Hyperliquid、幣安、Bybit、Gate、Kraken 等多個交易所，展現了對盤前價格發現、資金費率風險、流動性分佈的深刻理解。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/liguagua/status/1944974580411707550"
+  externalUrl: null
+  authorUsername: "liguagua"
+---
+
 # Pump Fun 公售風雲錄：多交易所套利實戰案例
 
 > **來源**: [@liguagua](https://x.com/liguagua/status/1944974580411707550)

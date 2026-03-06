@@ -1,3 +1,23 @@
+---
+title: "AI 輔助加密貨幣學習工作流"
+date: "2026-01-07"
+tags: 
+  - "AI工具"
+  - "學習方法"
+  - "知識整理"
+summary: "由於推特需要登入才能查看完整內容，我無法抓取到 @garyintern 的原始長文。不過根據你提供的摘要資訊，我可以整理出一篇簡短但實用的知識筆記："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BensonTWN/status/2008735957399576583"
+  externalUrl: null
+  authorUsername: "BensonTWN"
+---
+
 # AI 輔助加密貨幣學習工作流
 
 > **來源**: [@BensonTWN](https://x.com/BensonTWN/status/2008735957399576583)

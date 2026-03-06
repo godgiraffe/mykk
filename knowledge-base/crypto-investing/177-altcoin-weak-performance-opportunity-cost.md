@@ -1,3 +1,23 @@
+---
+title: "山寨幣弱勢判斷：30% 漲幅的時間成本分析"
+date: "2024-12-02"
+tags: 
+  - "牛市選幣"
+  - "資金效率"
+  - "機會成本"
+summary: "## 弱勢幣種判斷標準 如果你持有的山寨幣當前只漲了 30%，從市場表現來看，它屬於典型的弱勢幣種。 雖然帳面上是盈利的，但從資金效率的角度來說，實際卻是在「虧時間」和「虧機會」。 ## 相關學習資源 作者在 2024 年 10 月於 B 站上傳了三期關於牛市選幣和做多的教學影片。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 45
+evergreenScore: 54
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CycleStudies/status/1863610969936847071"
+  externalUrl: "https://twitter.com/CycleStudies/status/1863610969936847071/photo/1"
+  authorUsername: "CycleStudies"
+---
+
 # 山寨幣弱勢判斷：30% 漲幅的時間成本分析
 
 > **來源**: [@CycleStudies](https://x.com/CycleStudies/status/1863610969936847071) | [原文連結](https://twitter.com/CycleStudies/status/1863610969936847071/photo/1)

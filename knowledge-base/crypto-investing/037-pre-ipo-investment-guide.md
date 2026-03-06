@@ -1,3 +1,23 @@
+---
+title: "Pre-IPO 投資指南：SPV 結構、成本分析與靠譜渠道"
+date: "2026-02-15"
+tags: 
+  - "Pre-IPO投資"
+  - "SPV結構"
+  - "資產配置"
+summary: "評論區部分評論是認真的，大多都是瞎建議的。作者已購買小 $1M 的 pre-ipo，分享以下經驗。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/2023011893489594476"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # Pre-IPO 投資指南：SPV 結構、成本分析與靠譜渠道
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/2023011893489594476)

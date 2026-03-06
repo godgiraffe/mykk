@@ -1,3 +1,23 @@
+---
+title: "Claude Code 整合 Telegram 實時通知教程"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "Telegram 機器人"
+  - "自動化通知"
+summary: "教程的目的是指導用戶透過簡單的步驟,將 Telegram 與 Claude Code 連接起來,實現以下功能:"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/1957611521892315166"
+  externalUrl: null
+  authorUsername: "shao__meng"
+---
+
 # Claude Code 整合 Telegram 實時通知教程
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/1957611521892315166)

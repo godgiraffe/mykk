@@ -1,3 +1,23 @@
+---
+title: "Lighter 套利工具與數據分析完全指南"
+date: ">"
+tags: 
+  - "套利"
+  - "Lighter"
+  - "量化交易"
+summary: "本文整理了 Lighter 平台的實用工具與數據分析資源，這些工具可以幫助用戶從宏觀和微觀層面深入了解 Lighter 的表現，優化交易策略。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/c_dylanber/status/1938128614979211291"
+  externalUrl: "https://dune.com/margaritalucidi1/lighterxyz"
+  authorUsername: "c_dylanber"
+---
+
 # Lighter 套利工具與數據分析完全指南
 
 > **來源**: [@c_dylanber](https://x.com/c_dylanber/status/1938128614979211291) | [原文連結](https://dune.com/margaritalucidi1/lighterxyz)

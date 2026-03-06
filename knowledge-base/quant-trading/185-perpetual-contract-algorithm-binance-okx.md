@@ -1,3 +1,23 @@
+---
+title: "永續合約演算法之戰：Binance 與 OKX 的金融哲學對峙"
+date: "2025-06-23"
+tags: 
+  - "永續合約"
+  - "演算法設計"
+  - "資金費率"
+summary: "如果你覺得為什麼你在 OKX 單子常常會比 Binance 單子先爆倉？又或者你在 Binance 的單子比 OKX 的單子賺得少？又或者 OKX（的舊算法）為什麼遲遲不上新的合約交易對，是不想幹了嘛？那這篇文章將會解決你的困惑。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1937104613540593742"
+  externalUrl: "https://x.com/i/article/1937098458919550976"
+  authorUsername: "agintender"
+---
+
 # 永續合約演算法之戰：Binance 與 OKX 的金融哲學對峙
 
 > **來源**: [@agintender](https://x.com/agintender/status/1937104613540593742) | [原文連結](https://x.com/i/article/1937098458919550976)

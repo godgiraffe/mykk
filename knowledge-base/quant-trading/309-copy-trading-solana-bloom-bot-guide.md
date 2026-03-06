@@ -1,3 +1,23 @@
+---
+title: "Solana 跟單入門指南：BloomBot 設定與實戰心得"
+date: "2025-01-31"
+tags: 
+  - "跟單交易"
+  - "Solana"
+  - "交易機器人"
+summary: "**收益**: +604 顆 $SOL **跟單流成長**: 30 ➡︎ 1000 $SOL ✅"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x542121/status/1885310277220262207"
+  externalUrl: "https://t.me/BloomSolana_bot?start=ref_AFXLWYTQO5"
+  authorUsername: "0x542121"
+---
+
 # Solana 跟單入門指南：BloomBot 設定與實戰心得
 
 > **來源**: [@0x542121](https://x.com/0x542121/status/1885310277220262207) | [原文連結](https://t.me/BloomSolana_bot?start=ref_AFXLWYTQO5)

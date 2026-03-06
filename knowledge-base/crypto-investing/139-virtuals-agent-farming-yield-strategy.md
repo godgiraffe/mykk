@@ -1,3 +1,23 @@
+---
+title: "Virtuals Agent 挖礦套利策略——月收益 50% 的養殖指南"
+date: ">"
+tags: 
+  - "Agent 生態"
+  - "套利策略"
+  - "風險管理"
+summary: "在我這種 farmer 眼裡,當前的 @virtuals_io 就是個月理財收益 50% 的神礦。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Metabape/status/1928091299418362212"
+  externalUrl: null
+  authorUsername: "Metabape"
+---
+
 # Virtuals Agent 挖礦套利策略——月收益 50% 的養殖指南
 
 > **來源**: [@Metabape](https://x.com/Metabape/status/1928091299418362212)

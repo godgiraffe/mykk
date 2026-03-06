@@ -1,3 +1,23 @@
+---
+title: "Claude Code 遠端工作流程：在雲端與本機間切換"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "遠端開發"
+  - "工作流程"
+summary: "指令 功能 使用場景 ------ ------ ---------- & your prompt 將任務送至 Claude Code 雲端背景執行 離開電腦前交付長時間任務 claude --teleport session_abc123 將雲端工作階段拉回本機終端繼續開發 回到辦公室/家中接手工作"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 50
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/adocomplete/status/1998449649464819733"
+  externalUrl: "https://twitter.com/adocomplete/status/1998449649464819733/video/1"
+  authorUsername: "adocomplete"
+---
+
 # Claude Code 遠端工作流程：在雲端與本機間切換
 
 > **來源**: [@adocomplete](https://x.com/adocomplete/status/1998449649464819733) | [原文連結](https://twitter.com/adocomplete/status/1998449649464819733/video/1)

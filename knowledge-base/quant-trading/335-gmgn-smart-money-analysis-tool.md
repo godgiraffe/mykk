@@ -1,3 +1,23 @@
+---
+title: "GMGN 聰慧錢包地址深度分析工具設計文檔"
+date: ">"
+tags: 
+  - "聰慧錢包分析"
+  - "地址篩選規則"
+  - "交易打分系統"
+summary: "★ Insight ───────────────────────────────────── 這篇文章是一個完整的量化交易系統設計文件，包含： 錢包地址篩選規則（避開機器人和異常交易） 割跟單檢測（60 秒內買賣套利的風險行為） 評分系統（7.5 分制，從勝率、盈利、穩定性多維度評估）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhaoliu911899/status/1866308139110523049"
+  externalUrl: "https://github.com/zhaoqie/gmgn_smart"
+  authorUsername: "zhaoliu911899"
+---
+
 # GMGN 聰慧錢包地址深度分析工具設計文檔
 
 > **來源**: [@zhaoliu911899](https://x.com/zhaoliu911899/status/1866308139110523049) | [原文連結](https://github.com/zhaoqie/gmgn_smart)

@@ -1,3 +1,23 @@
+---
+title: "AI 模型能力對比表（2025 年 3 月）"
+date: "2025-03-29"
+tags: 
+  - "模型比較"
+  - "程式碼生成"
+  - "影像生成"
+summary: "**Gemini 2.5** 現在是程式碼開發能力最強的模型 **ChatGPT** 在圖像生成方面遙遙領先其他模型"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/petergyang/status/1906007718961492391"
+  externalUrl: "https://twitter.com/petergyang/status/1906007718961492391/photo/1"
+  authorUsername: "petergyang"
+---
+
 # AI 模型能力對比表（2025 年 3 月）
 
 > **來源**: [@petergyang](https://x.com/petergyang/status/1906007718961492391) | [原文連結](https://twitter.com/petergyang/status/1906007718961492391/photo/1)

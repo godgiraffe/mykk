@@ -1,3 +1,23 @@
+---
+title: "你真的在乎 20% 年化收益嗎？— DeFi 借貸策略收益分析"
+date: "2025-12-24"
+tags: 
+  - "DeFi 借貸"
+  - "收益率分析"
+  - "投資心態"
+summary: "當市場出現所謂「20% 年化收益」的理財產品時，許多投資者會蜂擁而至。但真正值得思考的問題是：這個看似誘人的數字，對你的實際投資組合影響有多大？"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xAllen/status/2003777353357689257"
+  externalUrl: null
+  authorUsername: "0xAllen"
+---
+
 # 你真的在乎 20% 年化收益嗎？— DeFi 借貸策略收益分析
 
 > **來源**: [@0xAllen](https://x.com/0xAllen/status/2003777353357689257)

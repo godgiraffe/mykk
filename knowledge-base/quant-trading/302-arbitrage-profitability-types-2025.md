@@ -1,3 +1,23 @@
+---
+title: "套利賺錢嗎？套利的類型與適合人群分析"
+date: "2025-02-14"
+tags: 
+  - "套利策略"
+  - "資金費率"
+  - "風險管理"
+summary: "**主要內容**： 1. **套利收益分析**（2023-2025 年 APY 數據） 2. **常規套利類型**（資金費率、期現、價差、Pendle PT） 3. **進階套利策略**（JLP/HLP、YT 流、期權、MEV） 4. **適合人群判斷**（A6+ 資金、風控能力） 5. **重要提醒**（風控、全面思考、工具推薦） 6. **熊市策略**（引用 @taresky 的分析）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xbrak/status/1890303808556920881"
+  externalUrl: "https://chillybot.xyz/"
+  authorUsername: "0xbrak"
+---
+
 # 套利賺錢嗎？套利的類型與適合人群分析
 
 > **來源**: [@0xbrak](https://x.com/0xbrak/status/1890303808556920881) | [原文連結](https://chillybot.xyz/)

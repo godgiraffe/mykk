@@ -1,3 +1,23 @@
+---
+title: "永續合約自動減仓機制（ADL）與風險準備金"
+date: ">"
+tags: 
+  - "自動減倉"
+  - "爆仓風險"
+  - "訂單簿"
+summary: "從這裡開始理解了 IM（初始保證金）、MM（維持保證金）、強平爆倉底層操作，風險準備金用途。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1945132643655541157"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 永續合約自動減仓機制（ADL）與風險準備金
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1945132643655541157)

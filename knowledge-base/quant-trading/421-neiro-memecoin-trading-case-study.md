@@ -1,3 +1,23 @@
+---
+title: "Neiro 大小寫交易復盤：事件型交易的決策與風險管理"
+date: "2024-09-18"
+tags: 
+  - "迷因幣交易"
+  - "事件型交易"
+  - "風險管理"
+summary: "這波大小寫 Neiro / NEIRO 交易，最終結果是大寫虧損，後來靠小寫賺回，目前已實現獲利 7000u，大約 2.86 倍（小寫賺的 / 大寫虧的）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/b66ny/status/1836211968602259922"
+  externalUrl: null
+  authorUsername: "b66ny"
+---
+
 # Neiro 大小寫交易復盤：事件型交易的決策與風險管理
 
 > **來源**: [@b66ny](https://x.com/b66ny/status/1836211968602259922)

@@ -1,3 +1,23 @@
+---
+title: "搬磚機器人套利策略：鏈上現貨與交易所價差自動化"
+date: "2024-11-20"
+tags: 
+  - "套利機器人"
+  - "價差交易"
+  - "交易所策略"
+summary: "作者在交易過程中發現一個有趣的現象：每當買入某種幣後，總是會被立刻砸盤。經過查證後才發現，對方是搬磚機器人。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/seaify1/status/1859080780909015314"
+  externalUrl: "https://twitter.com/seaify1/status/1859080780909015314/photo/1"
+  authorUsername: "seaify1"
+---
+
 # 搬磚機器人套利策略：鏈上現貨與交易所價差自動化
 
 > **來源**: [@seaify1](https://x.com/seaify1/status/1859080780909015314) | [原文連結](https://twitter.com/seaify1/status/1859080780909015314/photo/1)

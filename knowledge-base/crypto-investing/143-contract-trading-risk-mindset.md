@@ -1,3 +1,23 @@
+---
+title: "合約交易風險與心態管理"
+date: "2025-04-30"
+tags: 
+  - "合約交易"
+  - "風險管理"
+  - "交易心態"
+summary: "**情緒波動**:從理性復盤到非理性扛單,心態轉變極快 **扛單行為**:明知虧損卻不止損,反而加倍下注期待反轉 **合約風險**:槓桿交易放大了人性弱點,容易導致重大損失"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 64
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/feikerwu/status/1917491595706007574"
+  externalUrl: "https://twitter.com/feikerwu/status/1917491595706007574/photo/1"
+  authorUsername: "feikerwu"
+---
+
 # 合約交易風險與心態管理
 
 > **來源**: [@feikerwu](https://x.com/feikerwu/status/1917491595706007574) | [原文連結](https://twitter.com/feikerwu/status/1917491595706007574/photo/1)

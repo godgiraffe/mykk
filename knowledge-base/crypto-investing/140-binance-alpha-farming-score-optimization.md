@@ -1,3 +1,23 @@
+---
+title: "幣安 Alpha 積分刷分策略與收益最大化技巧"
+date: "2025-05-21"
+tags: 
+  - "幣安 Alpha"
+  - "積分刷分"
+  - "收益優化"
+summary: "每日積分 15 天總分 領取次數 總收益 --------- ---------- --------- -------- 14 分 210 分 1 次 100U 15 分 225 分 2 次 200U 16 分 240 分 3 次 300U 17 分 255 分 4 次 400U 18 分 270 分 5 次 500U 19 分 285 分 6 次 600U"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Web3_Loon/status/1925092230391595272"
+  externalUrl: "https://docs.google.com/spreadsheets/d/1KHR65Q4PnEyjDsZoAGu879IY620glbUhqE0oMK7m3MY/edit?pli=1&gid=0#gid=0"
+  authorUsername: "Web3_Loon"
+---
+
 # 幣安 Alpha 積分刷分策略與收益最大化技巧
 
 > **來源**: [@Web3_Loon](https://x.com/Web3_Loon/status/1925092230391595272) | [原文連結](https://docs.google.com/spreadsheets/d/1KHR65Q4PnEyjDsZoAGu879IY620glbUhqE0oMK7m3MY/edit?pli=1&gid=0#gid=0)

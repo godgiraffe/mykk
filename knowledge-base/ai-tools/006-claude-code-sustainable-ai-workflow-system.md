@@ -1,3 +1,23 @@
+---
+title: "用 Claude Code 在 3 分鐘搭建可迭代的永續 AI 工作系統"
+date: "2026-02-04"
+tags: 
+  - "Claude Code"
+  - "工作流系統"
+  - "知識管理"
+summary: "根據 git 狀態顯示，knowledge-base/ai-tools/ 目錄應該存在但可能沒有文章，或者有一篇已刪除的文章（006-claude-code-ai-work-system.md）。讓我建立這篇新文章。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Roland_WayneOZ/status/2018946199106326726"
+  externalUrl: "https://x.com/i/article/2018942207735242752"
+  authorUsername: "Roland_WayneOZ"
+---
+
 # 用 Claude Code 在 3 分鐘搭建可迭代的永續 AI 工作系統
 
 > **來源**: [@Roland_WayneOZ](https://x.com/Roland_WayneOZ/status/2018946199106326726) | [原文連結](https://x.com/i/article/2018942207735242752)

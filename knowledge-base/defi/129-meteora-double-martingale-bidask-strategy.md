@@ -1,3 +1,23 @@
+---
+title: "Meteora 雙馬丁格爾策略：利用 Bid-Ask 池操作 SOL 波動套利"
+date: "2025-08-04"
+tags: 
+  - "DeFi策略"
+  - "馬丁格爾"
+  - "Meteora"
+summary: "**核心思路**：使用 @MeteoraAG @MeteoraCN 的 Bid-Ask 功能做雙馬丁格爾策略，買入/賣出 SOL，賺取 SOL 波動盈利 + 積分 + 手續費。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/magiccat001/status/1952301995672658369"
+  externalUrl: null
+  authorUsername: "magiccat001"
+---
+
 # Meteora 雙馬丁格爾策略：利用 Bid-Ask 池操作 SOL 波動套利
 
 > **來源**: [@magiccat001](https://x.com/magiccat001/status/1952301995672658369)

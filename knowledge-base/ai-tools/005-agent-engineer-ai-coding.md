@@ -1,3 +1,26 @@
+---
+title: "AI Agent 工程師如何用 AI 寫生產級程式碼"
+date: "2026-02-10"
+tags: 
+  - "AI編碼"
+  - "Agent"
+  - "Claude Code"
+  - "HANDOFF"
+  - "Sub-Agent"
+  - "Worktree"
+summary: "主題 核心概念 ------ ---------- Context 管理 Context 是 Agent 的生命線，用 HANDOFF 取代 compress Sub-Agent 透過檔案通訊協議擴展 context window Worktree 隔離 並行任務互不干擾 多 Repo 工作區 給 Agent 全局視角 協作模式轉變 從 pair programming 轉為 Tech Lead + Developer 模式 自我驗證能"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yan5xu/status/2021162107170095186"
+  externalUrl: "https://x.com/i/article/2021137228463022080"
+  authorUsername: "yan5xu"
+---
+
 # AI Agent 工程師如何用 AI 寫生產級程式碼
 
 > **來源**: [@yan5xu](https://x.com/yan5xu/status/2021162107170095186) | [原文連結](https://x.com/i/article/2021137228463022080)

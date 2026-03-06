@@ -1,3 +1,23 @@
+---
+title: "Binance Alpha 積分刷分：MEV 技術降低 80% 損耗"
+date: "2025-05-16"
+tags: 
+  - "MEV技術"
+  - "Binance Alpha"
+  - "滑點優化"
+summary: "目前 Binance Alpha 流動池最低的手續費是 1/10000，理論上做一次買入、賣出的交互最低損耗是萬二。但因為買入賣出的時間不一樣導致會有價格波動，實際刷分損耗常常在千分之一以上。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/33357xyz/status/1923338184957821105"
+  externalUrl: null
+  authorUsername: "33357xyz"
+---
+
 # Binance Alpha 積分刷分：MEV 技術降低 80% 損耗
 
 > **來源**: [@33357xyz](https://x.com/33357xyz/status/1923338184957821105)

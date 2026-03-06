@@ -1,3 +1,23 @@
+---
+title: "現代化網頁設計靈感站點集合"
+date: "2025-03-16"
+tags: 
+  - "UI設計"
+  - "網頁設計"
+  - "設計資源"
+summary: "**Godly** - 最佳的網頁設計靈感來源 **Lapa Ninja** - 全領域篩選的設計靈感庫 **SaaS Pages** - SaaS 相關的網頁設計案例 **Landingfolio** - 精心挑選的落地頁（Landing Page）設計 **Mobbin** - 最大的 UI/UX 參考資料庫 **Dark Mode Design** - 暗色模式設計靈感站點"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hellokaton/status/1901235981581430843"
+  externalUrl: "https://craftwork.design/curated/websites/"
+  authorUsername: "hellokaton"
+---
+
 # 現代化網頁設計靈感站點集合
 
 > **來源**: [@hellokaton](https://x.com/hellokaton/status/1901235981581430843) | [原文連結](https://craftwork.design/curated/websites/)

@@ -1,3 +1,23 @@
+---
+title: "穩定幣補貼時代與 DeFi 策略升級——機槍池自動驅動與 Aave Umbrella 機制"
+date: "2025-04-30"
+tags: 
+  - "穩定幣補貼"
+  - "機槍池策略"
+  - "Aave Umbrella"
+summary: "謝謝提供的資訊。我已經取得完整內容，現在整理成知識庫文章的正文部分（不含標題和 frontmatter）："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cmdefi/status/1917586356882268577"
+  externalUrl: "https://twitter.com/cmdefi/status/1917586356882268577/photo/1"
+  authorUsername: "cmdefi"
+---
+
 # 穩定幣補貼時代與 DeFi 策略升級——機槍池自動驅動與 Aave Umbrella 機制
 
 > **來源**: [@cmdefi](https://x.com/cmdefi/status/1917586356882268577) | [原文連結](https://twitter.com/cmdefi/status/1917586356882268577/photo/1)

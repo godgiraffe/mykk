@@ -1,3 +1,23 @@
+---
+title: "Warp 平台 MCP 服務設定指南：GitHub、Puppeteer、Figma、Sentry 和 Context7"
+date: "2025-08-09"
+tags: 
+  - "MCP協議"
+  - "AI開發工具"
+  - "自動化工作流"
+summary: "MCP 是一種標準協議，允許 AI 工具通過標準化的介面與外部系統（如 GitHub、Figma 等）互動。Warp 是一個支援 MCP 的開發平台，透過配置 MCP 伺服器，開發者可以讓 AI Agent 直接存取和操作外部工具的資料，自動化完成各種開發任務。本教學詳細介紹了五種 MCP 伺服器的設定方法、JSON 配置，以及實際工作場景中的使用案例。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/1953986749426020506"
+  externalUrl: null
+  authorUsername: "shao__meng"
+---
+
 # Warp 平台 MCP 服務設定指南：GitHub、Puppeteer、Figma、Sentry 和 Context7
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/1953986749426020506)

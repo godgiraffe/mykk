@@ -1,3 +1,25 @@
+---
+title: "Claude Skills：從指令到資產的系統化構建指南"
+date: "2025-12-05"
+tags: 
+  - "Claude Skills"
+  - "MAPS框架"
+  - "5A+方法論"
+  - "Agent"
+  - "工作流"
+summary: "2024 年初，NVIDIA CEO 黃仁勳在杜拜世界政府峰會上表示，AI 時代不需要人人學程式設計。作者當時的觀點是：只會敲程式碼的人確實會被 AI 替代，但是一個能構建系統的人永遠稀缺。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/AxtonLiu/status/1996761503777820707"
+  externalUrl: "https://www.axtonliu.ai/newsletters/ai-2/posts/claude-agent-skills-maps-framework"
+  authorUsername: "AxtonLiu"
+---
+
 # Claude Skills：從指令到資產的系統化構建指南
 
 > **來源**: [@AxtonLiu](https://x.com/AxtonLiu/status/1996761503777820707) | [原文連結](https://www.axtonliu.ai/newsletters/ai-2/posts/claude-agent-skills-maps-framework)

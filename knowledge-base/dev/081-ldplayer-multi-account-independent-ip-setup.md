@@ -1,3 +1,23 @@
+---
+title: "雷電模擬器多帳號及獨立IP設置教程"
+date: "2024-09-22"
+tags: 
+  - "模擬器"
+  - "多帳號管理"
+  - "IP代理"
+summary: "啟動模擬器，不單是為了 TON 鏈的小遊戲，而是我覺得模擬器作為擼毛的一項工具，或許以後要不可或缺了。如果是模擬真實手機，我覺得獨立 IP 也挺有必要。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hualunjiejie/status/1837795115467001989"
+  externalUrl: "https://x.com/i/article/1837766118179844096"
+  authorUsername: "hualunjiejie"
+---
+
 # 雷電模擬器多帳號及獨立IP設置教程
 
 > **來源**: [@hualunjiejie](https://x.com/hualunjiejie/status/1837795115467001989) | [原文連結](https://x.com/i/article/1837766118179844096)

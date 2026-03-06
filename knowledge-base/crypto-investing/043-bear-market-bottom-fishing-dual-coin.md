@@ -1,3 +1,23 @@
+---
+title: "熊市抄底策略：雙幣贏低買操作指南"
+date: "2025-11-22"
+tags: 
+  - "抄底策略"
+  - "雙幣贏"
+  - "風險管理"
+summary: "分享一個穩健的熊市抄底策略，使用雙幣贏低買 $BTC 功能，在比特幣 4 小時以上級別超跌的時候進行操作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/discountifu/status/1992216690273530100"
+  externalUrl: null
+  authorUsername: "discountifu"
+---
+
 # 熊市抄底策略：雙幣贏低買操作指南
 
 > **來源**: [@discountifu](https://x.com/discountifu/status/1992216690273530100)

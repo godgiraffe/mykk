@@ -1,3 +1,23 @@
+---
+title: "Cash 內幕分析：尋找二段機會的策略指南"
+date: "2025-01-08"
+tags: 
+  - "內幕分析"
+  - "二段進場"
+  - "市場微觀結構"
+summary: "**案例代幣**：$tsochke CA：4mbdysBik3jmzD7mt6FGPDsMxnYcxExSQRFjPucdpump"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Live_2_Earn/status/1876934416649384314"
+  externalUrl: null
+  authorUsername: "Live_2_Earn"
+---
+
 # Cash 內幕分析：尋找二段機會的策略指南
 
 > **來源**: [@Live_2_Earn](https://x.com/Live_2_Earn/status/1876934416649384314)

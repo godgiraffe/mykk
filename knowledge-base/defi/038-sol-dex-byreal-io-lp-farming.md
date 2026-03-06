@@ -1,3 +1,23 @@
+---
+title: "Byreal.io SOL 鏈 DEX：LP 組隊農場搬磚策略"
+date: ">"
+tags: 
+  - "DEX交易所"
+  - "LP流動性挖礦"
+  - "套利機制"
+summary: "Byreal.io 是一個由 Bybit 孵化的 Solana 鏈 DEX（去中心化交易所）。該平台提供以下功能："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1993216413268627564"
+  externalUrl: "https://twitter.com/zhamomo666/status/1993216413268627564/photo/1"
+  authorUsername: "zhamomo666"
+---
+
 # Byreal.io SOL 鏈 DEX：LP 組隊農場搬磚策略
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1993216413268627564) | [原文連結](https://twitter.com/zhamomo666/status/1993216413268627564/photo/1)

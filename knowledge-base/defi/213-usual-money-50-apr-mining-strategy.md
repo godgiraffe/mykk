@@ -1,3 +1,23 @@
+---
+title: "USUAL 協議 50% APR 挖礦策略分析"
+date: "2024-12-01"
+tags: 
+  - "DeFi挖礦"
+  - "USUAL"
+  - "收益率"
+summary: "資金規模 策略類型 APR 範圍 推薦方向 --------- --------- --------- --------- 大資金 穩定礦 30-60% APR 穩健收益 小資金 中風險 - @MemeFarmerWeb3 迷你倉 高風險高倍數 - 掃鏈、發現土狗"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/lspeth/status/1863234963690381419"
+  externalUrl: "https://twitter.com/lsp8940/status/1863234963690381419/photo/1"
+  authorUsername: "lspeth"
+---
+
 # USUAL 協議 50% APR 挖礦策略分析
 
 > **來源**: [@lspeth](https://x.com/lspeth/status/1863234963690381419) | [原文連結](https://twitter.com/lsp8940/status/1863234963690381419/photo/1)

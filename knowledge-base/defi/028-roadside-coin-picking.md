@@ -1,3 +1,23 @@
+---
+title: "別在壓路機前撿硬幣：DeFi 高收益策略的隱藏風險"
+date: "2025-12-24"
+tags: 
+  - "風險管理"
+  - "收益策略"
+  - "清算風險"
+summary: "★ Insight ───────────────────────────────────── 這篇文章提出了一個強烈的風險隱喻：在 DeFi 高收益策略中「撿硬幣」，實際上是在「壓路機前」承擔低頻但致命的風險。重點不在於否定所有高收益策略，而是強調： 1. **風險識別**：每個「穩定收益」背後都有隱藏的風險來源 2. **倖存者偏差**：只看到成功案例，忽略了被壓路機輾過的人 3. **投資紀律**：用「保險費思維」管理倉位，把退出"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/MengLayer/status/2003743331994751206"
+  externalUrl: "https://x.com/i/article/2003737283242098689"
+  authorUsername: "MengLayer"
+---
+
 # 別在壓路機前撿硬幣：DeFi 高收益策略的隱藏風險
 
 > **來源**: [@MengLayer](https://x.com/MengLayer/status/2003743331994751206) | [原文連結](https://x.com/i/article/2003737283242098689)

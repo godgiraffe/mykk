@@ -1,3 +1,23 @@
+---
+title: "從 1000 美元到 1 億美元的財富增長之旅"
+date: "2024-01-29"
+tags: 
+  - "財富增長"
+  - "投資策略"
+  - "風險管理"
+summary: "兩年多以前我剛入圈的時候就反覆看過神魚的這篇《在區塊鏈行業如何從 1000 刀的本金賺到 1 億刀》,還存在了手機相冊裡,那時候我剛讀研一,帶入幣圈的本金不到五萬元,今天看到這條推特還是挺感慨的。這幾天有很多朋友都分享了財富增長的經驗,我也斗膽藉此機會講講自己的看法。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xSunNFT/status/1751888091487580633"
+  externalUrl: null
+  authorUsername: "0xSunNFT"
+---
+
 # 從 1000 美元到 1 億美元的財富增長之旅
 
 > **來源**: [@0xSunNFT](https://x.com/0xSunNFT/status/1751888091487580633)

@@ -1,3 +1,23 @@
+---
+title: "Pendle YT-PT 對沖套利策略"
+date: "2025-10-04"
+tags: 
+  - "Pendle"
+  - "YT-PT對沖"
+  - "相對價值"
+summary: "在 Pendle 中，如果判斷兩個池子的 YT 價格會朝相反方向變化，可以採用「買入一個 YT + 買入另一個 PT」的對沖策略來盈利。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1974455195414499414"
+  externalUrl: "https://x.com/awesomeHunter_z/status/1971120186439934288"
+  authorUsername: "LumaoDoggie"
+---
+
 # Pendle YT-PT 對沖套利策略
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1974455195414499414) | [原文連結](https://x.com/awesomeHunter_z/status/1971120186439934288)

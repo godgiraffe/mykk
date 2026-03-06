@@ -1,3 +1,23 @@
+---
+title: "Meme 幣投資策略：爆倉後的生存指南"
+date: "2026-02-09"
+tags: 
+  - "Meme幣"
+  - "投資策略"
+  - "加密貨幣"
+summary: "策略目標 快速增長，從爆倉困境中翻身 --- --- 適用對象 爆倉後資金有限的投資者 核心方法 小額資金參與 Meme 幣交易，快速獲利出場 主要鏈 BNB Chain, Solana 風險提示 Meme 幣風險極高，務必控制倉位並嚴格執行停利策略"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Hotpot01/status/2020652935806644337"
+  externalUrl: null
+  authorUsername: "Hotpot01"
+---
+
 # Meme 幣投資策略：爆倉後的生存指南
 
 > **來源**: [@Hotpot01](https://x.com/Hotpot01/status/2020652935806644337)

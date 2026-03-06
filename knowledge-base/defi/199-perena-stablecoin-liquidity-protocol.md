@@ -1,3 +1,23 @@
+---
+title: "Perena：Solana 穩定幣流動性中心深度探析"
+date: "2025-01-08"
+tags: 
+  - "DeFi協議"
+  - "穩定幣"
+  - "Solana生態"
+summary: "DeFi Degen 最快樂的事情可能並不是挖掘到了 Alpha，而是挖掘 Alpha 的過程。當某個專案的願景、創新範式，甚至 UE 觸動你時...像是頑皮的孩子找到了有趣的玩具。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/joejoedefi/status/1876947355771273267"
+  externalUrl: "https://app.perena.org/swap?code=pump_multicoin_susd"
+  authorUsername: "joejoedefi"
+---
+
 # Perena：Solana 穩定幣流動性中心深度探析
 
 > **來源**: [@joejoedefi](https://x.com/joejoedefi/status/1876947355771273267) | [原文連結](https://app.perena.org/swap?code=pump_multicoin_susd)

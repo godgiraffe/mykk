@@ -1,3 +1,23 @@
+---
+title: "內容不完整 - 引用連結無法存取"
+date: ">"
+tags: 
+  - "內容分析中止"
+  - "缺少完整資訊"
+  - "需要原文"
+summary: "很抱歉，這則推文引用的內容是 X（Twitter）的文章頁面，但該頁面顯示「This page is not supported」（此頁面不支援），需要在最新版本的 X 上查看作者的個人資料才能閱讀完整內容。"
+curationStatus: "archive"
+usefulnessScore: 39
+noveltyScore: 36
+evergreenScore: 35
+priorityScore: 37
+curationNote: "內容訊號偏弱，若沒有額外背景脈絡，建議優先封存。"
+source:
+  tweetUrl: "https://x.com/xmissionpro/status/2005821212598178052"
+  externalUrl: null
+  authorUsername: "xmissionpro"
+---
+
 # 內容不完整 - 引用連結無法存取
 
 > **來源**: [@xmissionpro](https://x.com/xmissionpro/status/2005821212598178052)

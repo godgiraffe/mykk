@@ -1,3 +1,23 @@
+---
+title: "StarkNet STRK 空投教程：Braavos 錢包操作指南"
+date: "2023-04-12"
+tags: 
+  - "空投教程"
+  - "StarkNet"
+  - "Braavos錢包"
+summary: "StarkNet 官方合作的錢包 Braavos 最近在瘋狂暗示空投 #STRK 代幣。以下是完整的 step by step 操作教程。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Charis_Chakra/status/1646144598014668802"
+  externalUrl: "https://paragraph.com/@littlechain/ajDW76fVdDLcCZGPoiDC"
+  authorUsername: "Charis_Chakra"
+---
+
 # StarkNet STRK 空投教程：Braavos 錢包操作指南
 
 > **來源**: [@Charis_Chakra](https://x.com/Charis_Chakra/status/1646144598014668802) | [原文連結](https://paragraph.com/@littlechain/ajDW76fVdDLcCZGPoiDC)

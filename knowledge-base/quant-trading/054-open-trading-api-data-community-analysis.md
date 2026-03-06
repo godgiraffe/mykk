@@ -1,3 +1,23 @@
+---
+title: "公開實盤 API 與交易數據的社群協作價值"
+date: ">"
+tags: 
+  - "開放數據"
+  - "實盤分析"
+  - "社群智慧"
+summary: "一兩天的工夫，已經有好幾個推友公開分享，把我 2020 年 5 月～2025 年 11 月，長達 5 年半、每天不間斷的交易數據，扒了底朝天。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/coolish/status/1993190610745098589"
+  externalUrl: "https://x.com/Mstone_crypto/status/1992943911682318563"
+  authorUsername: "coolish"
+---
+
 # 公開實盤 API 與交易數據的社群協作價值
 
 > **來源**: [@coolish](https://x.com/coolish/status/1993190610745098589) | [原文連結](https://x.com/Mstone_crypto/status/1992943911682318563)

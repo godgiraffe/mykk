@@ -1,3 +1,23 @@
+---
+title: "財富成長之旅：從 1000 美元到 1 億美元"
+date: "2024-01-28"
+tags: 
+  - "財富積累策略"
+  - "風險管理"
+  - "市場週期把握"
+summary: "從我的幣圈經歷,講講如何從 1000 刀賺到 100M。完全個人色彩,我在幣圈是偏保守的風格,以下純是個人觀點,僅供參考。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shrimpwen/status/1751410626952642873"
+  externalUrl: null
+  authorUsername: "shrimpwen"
+---
+
 # 財富成長之旅：從 1000 美元到 1 億美元
 
 > **來源**: [@shrimpwen](https://x.com/shrimpwen/status/1751410626952642873)

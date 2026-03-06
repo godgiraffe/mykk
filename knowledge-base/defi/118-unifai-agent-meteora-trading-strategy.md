@@ -1,3 +1,23 @@
+---
+title: "UnifAI Agent 自動化交易策略：Meteora LP 挖礦競賽指南"
+date: "2025-08-16"
+tags: 
+  - "自動化交易"
+  - "流動性挖礦"
+  - "DeFi Agent"
+summary: "感謝樓哥各種細緻的意見，其實中文區隱藏了很多 Meteora 大佬，S1 的積分已經盆滿缽滿。Meteora 確實是 Sol 上最賺錢，也是玩法最多的池子，有簡單的玩法，也有高級玩法，UnifAi 的 Alphahunt 系列已經介紹過很多玩法。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sunny_unifAI/status/1956722457722925445"
+  externalUrl: null
+  authorUsername: "sunny_unifAI"
+---
+
 # UnifAI Agent 自動化交易策略：Meteora LP 挖礦競賽指南
 
 > **來源**: [@sunny_unifAI](https://x.com/sunny_unifAI/status/1956722457722925445)

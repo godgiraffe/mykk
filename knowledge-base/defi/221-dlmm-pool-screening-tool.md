@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性池篩選指標：資金效率與 K 線形態"
+date: ">"
+tags: 
+  - "DLMM"
+  - "LP 策略"
+  - "資金效率"
+summary: "昨天的長推分享了自己 DLMM 30 天的一些心得,其中關於如何選擇最佳的 LP 標的,今天想補充兩點資訊,同樣供大家參考。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1858814701406482582"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 流動性池篩選指標：資金效率與 K 線形態
 
 > **來源**: [@gm365](https://x.com/gm365/status/1858814701406482582)

@@ -1,3 +1,23 @@
+---
+title: "GPT 時代付費群組的價值反思"
+date: "2025-10-15"
+tags: 
+  - "知識付費"
+  - "AI工具"
+  - "心態管理"
+summary: "作者認為在 GPT 時代，付費群組不值得付費。他的論據是：人類最高智慧結晶的 GPT 才 20 美金，相較之下，付費群組的價值無法證明其收費的正當性。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/octopusycc/status/1978427277823058028"
+  externalUrl: "https://twitter.com/octopusycc/status/1978427277823058028/photo/1"
+  authorUsername: "octopusycc"
+---
+
 # GPT 時代付費群組的價值反思
 
 > **來源**: [@octopusycc](https://x.com/octopusycc/status/1978427277823058028) | [原文連結](https://twitter.com/octopusycc/status/1978427277823058028/photo/1)

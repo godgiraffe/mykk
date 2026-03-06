@@ -1,3 +1,23 @@
+---
+title: "幣安現貨量化交易：AWS 東京伺服器延遲優化指南"
+date: "2025-02-24"
+tags: 
+  - "伺服器部署"
+  - "交易速度"
+  - "基礎設施"
+summary: "做幣安現貨量化服務時，如果對速度有要求，可以優先考慮將伺服器放在 AWS 東京的 **Zone C**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/TuobaW/status/1894016372901912887"
+  externalUrl: null
+  authorUsername: "TuobaW"
+---
+
 # 幣安現貨量化交易：AWS 東京伺服器延遲優化指南
 
 > **來源**: [@TuobaW](https://x.com/TuobaW/status/1894016372901912887)

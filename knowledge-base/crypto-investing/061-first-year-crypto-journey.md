@@ -1,3 +1,23 @@
+---
+title: "加密貨幣金融第一年：從技術到交易的跨越"
+date: ">"
+tags: 
+  - "投資心態"
+  - "交易策略"
+  - "學習成長"
+summary: "去年春節我開始去買 meme，真實用 500U 通過 debot/gmgn 虧錢。那個時候是第一次從學了幾年的區塊鏈技術，到區塊鏈金融的跨越，從源碼到錢的跨越。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/2023712304681169098"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 加密貨幣金融第一年：從技術到交易的跨越
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/2023712304681169098)

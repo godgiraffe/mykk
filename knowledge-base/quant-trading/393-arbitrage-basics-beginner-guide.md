@@ -1,3 +1,23 @@
+---
+title: "套利基礎知識（小白篇）第一期"
+date: ">"
+tags: 
+  - "套利基礎"
+  - "量化交易"
+  - "初階教學"
+summary: "## 套利基礎知識（小白篇）第一期 在線錄，講個大概意思。 影片連結 **備註**: 本篇為影片形式的套利基礎教學，適合新手入門。詳細內容請觀看影片。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 45
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1848755507185766471"
+  externalUrl: "https://twitter.com/zhamomo666/status/1848755507185766471/video/1"
+  authorUsername: "zhamomo666"
+---
+
 # 套利基礎知識（小白篇）第一期
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1848755507185766471) | [原文連結](https://twitter.com/zhamomo666/status/1848755507185766471/video/1)

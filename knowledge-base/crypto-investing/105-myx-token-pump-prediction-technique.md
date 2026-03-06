@@ -1,3 +1,23 @@
+---
+title: "$MYX 狗庄拉盤預測技巧 - 辨識莊家目標價位"
+date: "2025-09-10"
+tags: 
+  - "狗庄操控"
+  - "代幣價格"
+  - "市場微觀"
+summary: "效果如下：的確價格就沒有超過項目方的預期，拉到了對應 BNB/MYX 0.02713。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 40
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/scuptone/status/1965613677975142491"
+  externalUrl: "https://twitter.com/scuptone/status/1965613677975142491/photo/1"
+  authorUsername: "scuptone"
+---
+
 # $MYX 狗庄拉盤預測技巧 - 辨識莊家目標價位
 
 > **來源**: [@scuptone](https://x.com/scuptone/status/1965613677975142491) | [原文連結](https://twitter.com/scuptone/status/1965613677975142491/photo/1)

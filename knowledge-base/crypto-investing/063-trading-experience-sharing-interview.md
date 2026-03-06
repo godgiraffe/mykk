@@ -1,3 +1,23 @@
+---
+title: "交易員心得分享：堅果專訪干貨集錦"
+date: "2025-10-29"
+tags: 
+  - "交易經驗"
+  - "加密貨幣"
+  - "心態管理"
+summary: "本文整理自幣圈不設防節目對幣安廣場交易大V堅果 (@Lsssss1106) 的專訪內容，他首次露臉接受採訪分享交易經驗。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/OwenJin12/status/1983486788166619525"
+  externalUrl: null
+  authorUsername: "OwenJin12"
+---
+
 # 交易員心得分享：堅果專訪干貨集錦
 
 > **來源**: [@OwenJin12](https://x.com/OwenJin12/status/1983486788166619525)

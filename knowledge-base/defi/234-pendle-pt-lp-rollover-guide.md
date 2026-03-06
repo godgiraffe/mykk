@@ -1,3 +1,23 @@
+---
+title: "Pendle 一鍵展期滾存 PT/LP 指南與 STIP 挖礦機會"
+date: ">"
+tags: 
+  - "Pendle"
+  - "收益農場"
+  - "複利策略"
+summary: "Pendle 推出最新的一鍵展期滾存 PT/LP 功能，讓使用者能夠輕鬆進行到期資產的展期操作，發揮複息威力，達到「滾雪球」效果。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ViNc2453/status/1806134788891541592"
+  externalUrl: null
+  authorUsername: "ViNc2453"
+---
+
 # Pendle 一鍵展期滾存 PT/LP 指南與 STIP 挖礦機會
 
 > **來源**: [@ViNc2453](https://x.com/ViNc2453/status/1806134788891541592)

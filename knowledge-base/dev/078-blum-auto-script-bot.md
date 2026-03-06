@@ -1,3 +1,23 @@
+---
+title: "Blum 自動遊戲腳本開源工具"
+date: "2024-11-02"
+tags: 
+  - "自動化腳本"
+  - "遊戲機器人"
+  - "開發工具"
+summary: "1. 開啟 Blum 的 Telegram WebApp 2. 打開瀏覽器控制台（Console） 3. 輸入以下指令： 4. **第一次使用時**：需要輸入 允許粘貼 四個字才能進行粘貼操作 5. 執行後會自動複製一段內容到剪貼簿"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Xuegaogx/status/1852625295443992662"
+  externalUrl: "https://github.com/GzGod/Blum"
+  authorUsername: "Xuegaogx"
+---
+
 # Blum 自動遊戲腳本開源工具
 
 > **來源**: [@Xuegaogx](https://x.com/Xuegaogx/status/1852625295443992662) | [原文連結](https://github.com/GzGod/Blum)

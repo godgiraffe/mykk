@@ -1,3 +1,23 @@
+---
+title: "永續合約的資金費率機制：市場自我調節的金融創新"
+date: "2025-07-21"
+tags: 
+  - "永續合約"
+  - "資金費率"
+  - "交易策略"
+summary: "就是這個簡單直接的公式讓多少交易大神折戟、早就多少個暴富神話、甚至還給大家貢獻了精彩的盤面攻防戰。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1947296732876067010"
+  externalUrl: "https://x.com/agintender/status/1947269261057266046"
+  authorUsername: "agintender"
+---
+
 # 永續合約的資金費率機制：市場自我調節的金融創新
 
 > **來源**: [@agintender](https://x.com/agintender/status/1947296732876067010) | [原文連結](https://x.com/agintender/status/1947269261057266046)

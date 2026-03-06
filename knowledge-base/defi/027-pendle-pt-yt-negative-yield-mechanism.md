@@ -1,3 +1,23 @@
+---
+title: "Pendle PT/YT 負收益機制解析與雙重收益策略"
+date: ">"
+tags: 
+  - "Pendle"
+  - "負收益"
+  - "PT交易策略"
+summary: "完美！我看到： DeFi 分類目前最新是 026 所以這篇 Pendle 文章應該是 **027** 圖片已經正確放在 knowledge-base/assets/defi/027-pendle-pt-yt-negative-yield-mechanism-{1-5}.jpg"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ViNc2453/status/2003450525862474016"
+  externalUrl: "https://pendle.notion.site/Pendle-v2-2b5567a21d37803ab509d4ce3af4bd34"
+  authorUsername: "ViNc2453"
+---
+
 # Pendle PT/YT 負收益機制解析與雙重收益策略
 
 > **來源**: [@ViNc2453](https://x.com/ViNc2453/status/2003450525862474016) | [原文連結](https://pendle.notion.site/Pendle-v2-2b5567a21d37803ab509d4ce3af4bd34)

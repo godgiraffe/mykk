@@ -1,3 +1,23 @@
+---
+title: "悶聲發大財：幣圈投資心態與信息獲取哲學"
+date: "2025-04-06"
+tags: 
+  - "投資心態"
+  - "信息獲取"
+  - "獨立研究"
+summary: "如果你還在等 KOL/KOC 給你餵飯，這個按腳擼，那個按頭衝，其實你就是他想要擼的那個毛🫠"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/SteinAmour/status/1908734658000674986"
+  externalUrl: null
+  authorUsername: "SteinAmour"
+---
+
 # 悶聲發大財：幣圈投資心態與信息獲取哲學
 
 > **來源**: [@SteinAmour](https://x.com/SteinAmour/status/1908734658000674986)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code 工程化最佳實踐指南"
+date: "2026-02-22"
+tags: 
+  - "Claude Code"
+  - "工程化實踐"
+  - "開發工作流"
+summary: "作者 @shanraisshan 開源的 Claude Code 工程化使用實戰知識庫，系統性地展示了如何配置、編排和優化 Claude Code 的各項能力，包括 Skills、Agents、Commands、Hooks、MCP Servers、Memory、Rules、Plugins、Sandbox 等核心機制。基於大量實際使用後提煉出的經驗模式和反模式，幫助開發者避免在 Claude Code 的工程化使用中走彎路。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/2025417337101574154"
+  externalUrl: "https://github.com/shanraisshan/claude-code-best-practice"
+  authorUsername: "shao__meng"
+---
+
 # Claude Code 工程化最佳實踐指南
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/2025417337101574154) | [原文連結](https://github.com/shanraisshan/claude-code-best-practice)

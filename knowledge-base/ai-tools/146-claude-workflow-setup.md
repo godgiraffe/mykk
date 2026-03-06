@@ -1,3 +1,23 @@
+---
+title: "放棄 OpenClaw 後，怎麼用 Claude 搭建最強工作流"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "Skills 系統"
+  - "工作流自動化"
+summary: "答案是：Chat + Cowork + 偶爾 Code。但光說這樣不夠，讓我解釋我實際的工作流是怎麼搭起來的。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/joooe453/status/2029498338283003945"
+  externalUrl: "https://x.com/i/article/2028826625492852739"
+  authorUsername: "joooe453"
+---
+
 # 放棄 OpenClaw 後，怎麼用 Claude 搭建最強工作流
 
 > **來源**: [@joooe453](https://x.com/joooe453/status/2029498338283003945) | [原文連結](https://x.com/i/article/2028826625492852739)

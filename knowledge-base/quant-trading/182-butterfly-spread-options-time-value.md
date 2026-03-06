@@ -1,3 +1,23 @@
+---
+title: "蝶式價差組合與期權時間價值淺析"
+date: "2025-07-13"
+tags: 
+  - "期權策略"
+  - "時間價值"
+  - "蝶式價差"
+summary: "Deribit 和 Signalplus 在 7 月 7 日推薦了一組「買入看漲期權蝶式價差組合」。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/viviennaBTC/status/1944422374755139835"
+  externalUrl: "https://x.com/i/article/1944413739132108800"
+  authorUsername: "viviennaBTC"
+---
+
 # 蝶式價差組合與期權時間價值淺析
 
 > **來源**: [@viviennaBTC](https://x.com/viviennaBTC/status/1944422374755139835) | [原文連結](https://x.com/i/article/1944413739132108800)

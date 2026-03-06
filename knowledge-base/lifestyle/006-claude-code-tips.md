@@ -1,3 +1,24 @@
+---
+title: "Claude Code 使用技巧分享"
+date: "2026-01-31"
+tags: 
+  - "Claude Code"
+  - "AI工具"
+  - "效率提升"
+  - "使用技巧"
+summary: "重點 說明 -------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bcherny/status/2017742741636321619"
+  externalUrl: null
+  authorUsername: "bcherny"
+---
+
 # Claude Code 使用技巧分享
 
 > **來源**: [@bcherny](https://x.com/bcherny/status/2017742741636321619)

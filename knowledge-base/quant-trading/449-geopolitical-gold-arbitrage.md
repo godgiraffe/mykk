@@ -1,3 +1,23 @@
+---
+title: "地緣黑天鵝：週末休市的鏈上黃金溢價套利"
+date: "2026-03-01"
+tags: 
+  - "套利交易"
+  - "市場微觀結構"
+  - "預言機延遲"
+summary: "寫在文前，當時 Hyperliquid 的 Gold 報價在 $5291 左右，寫到這裡時，價差基本已經被市場吃完了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xBenniee/status/2027964744871907521"
+  externalUrl: "https://x.com/i/article/2027942970461458434"
+  authorUsername: "0xBenniee"
+---
+
 # 地緣黑天鵝：週末休市的鏈上黃金溢價套利
 
 > **來源**: [@0xBenniee](https://x.com/0xBenniee/status/2027964744871907521) | [原文連結](https://x.com/i/article/2027942970461458434)

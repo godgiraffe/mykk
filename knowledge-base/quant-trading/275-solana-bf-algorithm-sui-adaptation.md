@@ -1,3 +1,23 @@
+---
+title: "Solana BF 改良算法在 Sui 區鏈的應用實踐"
+date: "2025-04-11"
+tags: 
+  - "交易算法"
+  - "Sui 生態"
+  - "跨鏈遷移"
+summary: "作者將原本為 Solana 開發的 BF（Bundle Flashbot）改良算法移植到 Sui 區塊鏈上使用，發現在 Sui 上表現更佳。主要原因是 Sui 生態缺乏像 Jupiter 這樣的通用型聚合交易工具，降低了競爭壓力。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/SteinAmour/status/1910632882638643654"
+  externalUrl: "https://twitter.com/SteinAmour/status/1910632882638643654/photo/1"
+  authorUsername: "SteinAmour"
+---
+
 # Solana BF 改良算法在 Sui 區鏈的應用實踐
 
 > **來源**: [@SteinAmour](https://x.com/SteinAmour/status/1910632882638643654) | [原文連結](https://twitter.com/SteinAmour/status/1910632882638643654/photo/1)

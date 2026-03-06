@@ -1,3 +1,23 @@
+---
+title: "BAN 迷因幣鯨魚操縱分析：627 倍報酬的財富轉移"
+date: "2024-11-01"
+tags: 
+  - "鯨魚操縱"
+  - "迷因幣交易"
+  - "鏈上分析"
+summary: "昨天 Solana Meme 代幣 $BAN 暴力反彈 60%，市值一度回到 4000 萬美金。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ai_9684xtpa/status/1852237477094002747"
+  externalUrl: "https://pump.fun/"
+  authorUsername: "ai_9684xtpa"
+---
+
 # BAN 迷因幣鯨魚操縱分析：627 倍報酬的財富轉移
 
 > **來源**: [@ai_9684xtpa](https://x.com/ai_9684xtpa/status/1852237477094002747) | [原文連結](https://pump.fun/)

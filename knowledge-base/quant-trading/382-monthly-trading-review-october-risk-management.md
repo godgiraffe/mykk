@@ -1,3 +1,23 @@
+---
+title: "十月月末交易總結：風控升級與策略優化"
+date: ">"
+tags: 
+  - "風險管理"
+  - "交易日誌"
+  - "策略迭代"
+summary: "國慶的時候，還記得晚上打麻將，贏了一把的間歇，打開手機瞅一眼，不少群友給我發訊息，說上貔貅了，頭皮發麻，趕緊打開 abot 看了下，大概虧損 1.5 萬刀，一方面心疼，一方面幸好沒被掏乾淨，不在電腦面前，只能保持關注，繼續麻將，最後麻將贏 300，也感謝各位群友的關心，感受到了溫暖。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/seaify1/status/1851794765777662090"
+  externalUrl: null
+  authorUsername: "seaify1"
+---
+
 # 十月月末交易總結：風控升級與策略優化
 
 > **來源**: [@seaify1](https://x.com/seaify1/status/1851794765777662090)

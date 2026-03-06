@@ -1,3 +1,23 @@
+---
+title: "River Inc 坐庄側分析——龐氏結構的客觀規律與項目困境"
+date: "2025-11-10"
+tags: 
+  - "龐氏結構"
+  - "項目風險"
+  - "盤面分析"
+summary: "雖然我自己跟 @RiverdotInc 沒什麼利益關係,連第一期投票獎勵的 PT 我都沒動過(或者說不知道怎麼動)"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/thecryptoskanda/status/1987821400514855404"
+  externalUrl: null
+  authorUsername: "thecryptoskanda"
+---
+
 # River Inc 坐庄側分析——龐氏結構的客觀規律與項目困境
 
 > **來源**: [@thecryptoskanda](https://x.com/thecryptoskanda/status/1987821400514855404)

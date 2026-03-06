@@ -1,3 +1,23 @@
+---
+title: "新手獨立開發者技術棧推薦 - React、Bun、PostgreSQL"
+date: "2025-05-02"
+tags: 
+  - "技術棧"
+  - "後端開發"
+  - "前端框架"
+summary: "**前端**： React React Router V7（替代 NextJS） TailwindCSS"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/austinit/status/1918244278788407727"
+  externalUrl: null
+  authorUsername: "austinit"
+---
+
 # 新手獨立開發者技術棧推薦 - React、Bun、PostgreSQL
 
 > **來源**: [@austinit](https://x.com/austinit/status/1918244278788407727)

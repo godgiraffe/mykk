@@ -1,3 +1,23 @@
+---
+title: "BRC-20 與 Unisat 網站操作指南"
+date: ">"
+tags: 
+  - "區塊鏈"
+  - "BRC-20"
+  - "交易工具"
+summary: "關於實操 BRC-20 和 Unisat 網站 @unisat_wallet，新手必須了解的重要技巧。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/DeFiTeddy2020/status/1655842623574405121"
+  externalUrl: null
+  authorUsername: "DeFiTeddy2020"
+---
+
 # BRC-20 與 Unisat 網站操作指南
 
 > **來源**: [@DeFiTeddy2020](https://x.com/DeFiTeddy2020/status/1655842623574405121)

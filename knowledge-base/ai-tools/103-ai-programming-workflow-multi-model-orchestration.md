@@ -1,3 +1,23 @@
+---
+title: "AI 編程最優路徑：多模型編排工作流"
+date: "2025-07-06"
+tags: 
+  - "AI 編程"
+  - "多模型協作"
+  - "Claude Code"
+summary: "最近感覺 Cursor / Windsurf 沒那麼好用了,於是安裝了 Gemini CLI 和 Claude Code,找到了 AI 編程最優路徑:"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xScottBTC/status/1941707237199839601"
+  externalUrl: null
+  authorUsername: "0xScottBTC"
+---
+
 # AI 編程最優路徑：多模型編排工作流
 
 > **來源**: [@0xScottBTC](https://x.com/0xScottBTC/status/1941707237199839601)

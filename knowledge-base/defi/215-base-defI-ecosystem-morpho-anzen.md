@@ -1,3 +1,23 @@
+---
+title: "Base 生態 DeFi 發展現況：資金淨流入蟬聯五週冠軍"
+date: "2024-11-30"
+tags: 
+  - "Base Layer 2"
+  - "DeFi 生態"
+  - "資金流向"
+summary: "**今年十月超過 Arbitrum 成為 TVL 第一的 Layer 2** **Base 的 DEX 在單日、7 日、單月交易量穩居第三** - 單論交易量 Base 僅次於 Solana 和以太坊主網，顯示生態的活躍度極高 - 本週更有 19% 的增幅，Solana 則是 25% 的跌幅"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Alvin0617/status/1862866649633956058"
+  externalUrl: null
+  authorUsername: "Alvin0617"
+---
+
 # Base 生態 DeFi 發展現況：資金淨流入蟬聯五週冠軍
 
 > **來源**: [@Alvin0617](https://x.com/Alvin0617/status/1862866649633956058)

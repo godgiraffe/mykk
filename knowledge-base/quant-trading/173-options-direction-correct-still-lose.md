@@ -1,3 +1,23 @@
+---
+title: "為什麼方向對了買期權卻還是虧錢？"
+date: "2025-07-19"
+tags: 
+  - "期權交易"
+  - "時間價值"
+  - "隱含波動率"
+summary: "相信很多新手朋友在期權市場,最令人困惑、最讓人抓狂的情況就是:明明猜對方向了,卻還是虧錢。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/RichTerry123/status/1946450774193824001"
+  externalUrl: "https://x.com/i/article/1946141274832269312"
+  authorUsername: "RichTerry123"
+---
+
 # 為什麼方向對了買期權卻還是虧錢？
 
 > **來源**: [@RichTerry123](https://x.com/RichTerry123/status/1946450774193824001) | [原文連結](https://x.com/i/article/1946141274832269312)

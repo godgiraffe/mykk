@@ -1,3 +1,23 @@
+---
+title: "OpenClaw 多角色 AI 協作系統完整設計指南"
+date: "2026-02-18"
+tags: 
+  - "AI Agent 協作"
+  - "系統架構"
+  - "Prompt 工程"
+summary: "我用 OpenClaw 搭了一套 5 角色 AI 協作操作系統，來個完整的技術拆解！"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gkxspace/status/2024093343118950463"
+  externalUrl: "https://x.com/i/article/2024074576573923328"
+  authorUsername: "gkxspace"
+---
+
 # OpenClaw 多角色 AI 協作系統完整設計指南
 
 > **來源**: [@gkxspace](https://x.com/gkxspace/status/2024093343118950463) | [原文連結](https://x.com/i/article/2024074576573923328)

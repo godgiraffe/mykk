@@ -1,3 +1,23 @@
+---
+title: "問題解決的終極框架：猜測、測試、修正的循環"
+date: ">"
+tags: 
+  - "問題解決"
+  - "思維框架"
+  - "人生智慧"
+summary: "你可能不會覺得這有什麼了不起，但如果古代國王、皇后和帝王的亡靈能看見我，他們的下巴會驚訝地掉下來。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/george__mack/status/2023555289329312011"
+  externalUrl: "https://x.com/i/article/2023503090104848384"
+  authorUsername: "george__mack"
+---
+
 # 問題解決的終極框架：猜測、測試、修正的循環
 
 > **來源**: [@george__mack](https://x.com/george__mack/status/2023555289329312011) | [原文連結](https://x.com/i/article/2023503090104848384)

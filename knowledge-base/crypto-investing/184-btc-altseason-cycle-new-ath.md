@@ -1,3 +1,23 @@
+---
+title: "BTC 創新高與山寨季開啟：市場週期分析"
+date: "2024-11-17"
+tags: 
+  - "比特幣"
+  - "山寨季"
+  - "市場週期"
+summary: "**第 1 週開始**：山寨季進入啟動階段 **之前階段**：山寨幣普遍跑輸 BTC，資金集中在 BTC **週期轉換**：新高確認後約一週，資金開始輪動至山寨幣"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/follow_clues/status/1858061542572339384"
+  externalUrl: "https://twitter.com/follow_clues/status/1858061542572339384/photo/1"
+  authorUsername: "follow_clues"
+---
+
 # BTC 創新高與山寨季開啟：市場週期分析
 
 > **來源**: [@follow_clues](https://x.com/follow_clues/status/1858061542572339384) | [原文連結](https://twitter.com/follow_clues/status/1858061542572339384/photo/1)

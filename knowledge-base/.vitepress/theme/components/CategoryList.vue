@@ -1,45 +1,81 @@
 <script setup lang="ts">
-import { computed } from "vue";
+import { computed, onBeforeUnmount, onMounted, ref } from "vue";
 import { withBase } from "vitepress";
 import { data as allArticles } from "../../data/articles.data";
+import { categoryCatalog } from "../../data/category-meta";
+import {
+  getCurationMap,
+  resolveCurationStatus,
+  subscribeCuration,
+  type CurationMap,
+} from "../composables/useCuration";
 
-const categories = [
-  { slug: "ai-tools",        name: "AI 工具與應用",  desc: "AI 工具、Claude Code、Prompt 工程、AI 開發與安全" },
-  { slug: "crypto-investing", name: "加密貨幣投資",  desc: "加密貨幣投資哲學、週期生存、心態管理" },
-  { slug: "defi",            name: "DeFi 策略與安全", desc: "DeFi 策略、LP、套利、智能合約安全" },
-  { slug: "quant-trading",   name: "量化交易",       desc: "量化交易、市場微觀結構、高頻交易" },
-  { slug: "dev",             name: "軟體開發",       desc: "開發工具、程式語言、軟體工程、知識管理" },
-  { slug: "lifestyle",       name: "生活與效率",     desc: "旅遊、理財、生產力、娛樂、自我成長" },
-];
+const curationMap = ref<CurationMap>({});
+let unsubscribe = () => {};
+
+function syncCuration() {
+  curationMap.value = getCurationMap();
+}
 
 const totalCount = computed(() => (allArticles || []).length);
 
+const resolvedArticles = computed(() =>
+  (allArticles || []).map((article) => ({
+    ...article,
+    effectiveStatus: resolveCurationStatus(article.url, article.curationStatus, curationMap.value),
+  })),
+);
+
 const rows = computed(() =>
-  categories.map((c) => ({
+  categoryCatalog.map((c) => ({
     ...c,
-    count: (allArticles || []).filter((a) => a.category === c.slug).length,
+    total: resolvedArticles.value.filter((a) => a.category === c.slug).length,
+    curated: resolvedArticles.value.filter(
+      (a) => a.category === c.slug && a.effectiveStatus === "curated",
+    ).length,
+    inbox: resolvedArticles.value.filter(
+      (a) => a.category === c.slug && a.effectiveStatus === "inbox",
+    ).length,
+    archive: resolvedArticles.value.filter(
+      (a) => a.category === c.slug && a.effectiveStatus === "archive",
+    ).length,
     link: `/${c.slug}/`,
   }))
 );
+
+onMounted(() => {
+  syncCuration();
+  unsubscribe = subscribeCuration(syncCuration);
+});
+
+onBeforeUnmount(() => {
+  unsubscribe();
+});
 </script>
 
 <template>
   <div class="category-header">
-    <span class="total-count">共 {{ totalCount }} 篇</span>
+    <span class="total-count">共 {{ totalCount }} 篇，首頁與精選流以 curated 為主</span>
   </div>
   <table class="category-table">
     <thead>
       <tr>
         <th>分類</th>
         <th>說明</th>
-        <th class="count-col">篇數</th>
+        <th class="count-col">精選</th>
+        <th class="count-col">待審</th>
+        <th class="count-col">封存</th>
+        <th class="count-col">總數</th>
       </tr>
     </thead>
     <tbody>
       <tr v-for="row in rows" :key="row.slug">
         <td><a :href="withBase(row.link)">{{ row.name }}</a></td>
         <td>{{ row.desc }}</td>
-        <td class="count-col">{{ row.count }} 篇</td>
+        <td class="count-col highlight">{{ row.curated }}</td>
+        <td class="count-col">{{ row.inbox }}</td>
+        <td class="count-col">{{ row.archive }}</td>
+        <td class="count-col">{{ row.total }}</td>
       </tr>
     </tbody>
   </table>
@@ -96,6 +132,11 @@ const rows = computed(() =>
   text-align: right;
   white-space: nowrap;
   color: var(--vp-c-text-2);
-  width: 80px;
+  width: 72px;
+}
+
+.highlight {
+  color: #0d7758;
+  font-weight: 700;
 }
 </style>

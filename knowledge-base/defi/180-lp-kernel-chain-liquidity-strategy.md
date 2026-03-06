@@ -1,3 +1,23 @@
+---
+title: "LP Kernel 鏈上流動性挖礦策略與實踐"
+date: ">"
+tags: 
+  - "LP策略"
+  - "流動性挖礦"
+  - "滑點管理"
+summary: "LP Kernel 鏈上先開，給了 1 小時左右的鏈上流動性機會。實際操作延續到第二天，本金加上手續費扣除無常損失，大概獲利 1.2k。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/feikerwu/status/1912057978318131364"
+  externalUrl: null
+  authorUsername: "feikerwu"
+---
+
 # LP Kernel 鏈上流動性挖礦策略與實踐
 
 > **來源**: [@feikerwu](https://x.com/feikerwu/status/1912057978318131364)

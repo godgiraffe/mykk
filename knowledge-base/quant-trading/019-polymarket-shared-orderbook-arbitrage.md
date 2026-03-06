@@ -1,3 +1,23 @@
+---
+title: "Polymarket 共享訂單簿與套利機制詳解"
+date: "2025-12-31"
+tags: 
+  - "預測市場"
+  - "套利機會"
+  - "訂單簿機制"
+summary: "我會使用 agent-browser 技能來協助處理這個知識庫整理任務，因為這涉及到網路內容的結構化整理。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wang_xiaolou/status/2006355409637175453"
+  externalUrl: null
+  authorUsername: "wang_xiaolou"
+---
+
 # Polymarket 共享訂單簿與套利機制詳解
 
 > **來源**: [@wang_xiaolou](https://x.com/wang_xiaolou/status/2006355409637175453)

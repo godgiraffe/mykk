@@ -1,3 +1,23 @@
+---
+title: "加密貨幣新幣打新策略分享｜多個項目風險收益評估"
+date: "2025-10-26"
+tags: 
+  - "打新策略"
+  - "風險管理"
+  - "加密投資"
+summary: "我應該會大號打滿 18 萬 U，剩下幾個小號打低保，其實這次人那麼多，蠻多人都走的小號策略拿低保，我感覺是沒有低保的。但是防患於未然也沒什麼問題。打滿我估摸著能拿到 5-10% 的額度分配，然後 2-3X 這樣。結束和公布額度的時候一定是大量人套保的，選擇權在自己。怎麼去賣就看自己了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1982370473100063059"
+  externalUrl: null
+  authorUsername: "0xleng1"
+---
+
 # 加密貨幣新幣打新策略分享｜多個項目風險收益評估
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1982370473100063059)

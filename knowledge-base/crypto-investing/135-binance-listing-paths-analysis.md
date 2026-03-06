@@ -1,3 +1,23 @@
+---
+title: "Binance 上線路徑研究報告：Alpha、IDO、Futures、Spot 及後續 CEX 表現分析"
+date: "2025-06-09"
+tags: 
+  - "交易所上線策略"
+  - "代幣生命週期"
+  - "CEX 選擇指南"
+summary: "本研究分析了 Binance 四大上幣渠道——Alpha、IDO、Futures 和 Spot——的代幣生命週期表現,並追蹤其在 Bitget、Bybit、Coinbase、Upbit 上的後續上線情況,重點考察了回報表現、上幣節奏、賽道偏好及 FDV 區間。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/IOSGVC/status/1931994312255951055"
+  externalUrl: "https://x.com/i/article/1931988964665446400"
+  authorUsername: "IOSGVC"
+---
+
 # Binance 上線路徑研究報告：Alpha、IDO、Futures、Spot 及後續 CEX 表現分析
 
 > **來源**: [@IOSGVC](https://x.com/IOSGVC/status/1931994312255951055) | [原文連結](https://x.com/i/article/1931988964665446400)

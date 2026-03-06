@@ -1,3 +1,23 @@
+---
+title: "永續合約資金費率套利策略：跨所對沖技巧"
+date: "2025-12-13"
+tags: 
+  - "資金費率套利"
+  - "合約對沖"
+  - "跨交易所策略"
+summary: "交易所 持倉計算方式 快照時間點 -------- ------------ ---------- **G 所** 時點制 發分前快照時刻的持倉量決定獎勵 **P 所** 時間加權制 按整天持倉計算獎勵"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sofa667788/status/1999814360806682937"
+  externalUrl: null
+  authorUsername: "sofa667788"
+---
+
 # 永續合約資金費率套利策略：跨所對沖技巧
 
 > **來源**: [@sofa667788](https://x.com/sofa667788/status/1999814360806682937)

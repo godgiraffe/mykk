@@ -1,3 +1,23 @@
+---
+title: "用 NotebookLM 高效學習 MegaETH 技術原理"
+date: "2025-03-09"
+tags: 
+  - "AI學習工具"
+  - "NotebookLM"
+  - "技術理解"
+summary: "前天想研究 @megaeth，但突然發現，幾乎所有官方或團隊成員發布的內容都非常技術化，大腦一時有點消化不過來 😅"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bee926cn/status/1898576383657525640"
+  externalUrl: null
+  authorUsername: "bee926cn"
+---
+
 # 用 NotebookLM 高效學習 MegaETH 技術原理
 
 > **來源**: [@bee926cn](https://x.com/bee926cn/status/1898576383657525640)

@@ -1,3 +1,23 @@
+---
+title: "ETH 主網省 Gas 費用技巧 — GasHawk 自動化交易"
+date: "2023-04-22"
+tags: 
+  - "Gas 優化"
+  - "智能合約"
+  - "省費策略"
+summary: "最近主網 gas 爆炸！分享一個 ETH 主網省 95% ETH gas 費的小技巧，適用於不急著處理的交易，24 小時內會找最低的時候給你交易。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xPutao/status/1649717521954787329"
+  externalUrl: "https://twitter.com/TingfengMM/status/1649717521954787329/photo/1"
+  authorUsername: "0xPutao"
+---
+
 # ETH 主網省 Gas 費用技巧 — GasHawk 自動化交易
 
 > **來源**: [@0xPutao](https://x.com/0xPutao/status/1649717521954787329) | [原文連結](https://twitter.com/TingfengMM/status/1649717521954787329/photo/1)

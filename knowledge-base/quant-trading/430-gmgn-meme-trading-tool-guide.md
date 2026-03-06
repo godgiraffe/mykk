@@ -1,3 +1,23 @@
+---
+title: "GMGN 全鏈 Meme 交易工具使用指南"
+date: "2024-05-31"
+tags: 
+  - "Meme 交易"
+  - "交易工具"
+  - "風險評估"
+summary: "GMGN（@gmgnai）是全鏈 Meme 交易工具，支援 SOL 和 ETH 鏈，可透過網站和 TG 訪問。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xixikawaii/status/1796523541363662933"
+  externalUrl: "https://t.me/xixi_callchat"
+  authorUsername: "xixikawaii"
+---
+
 # GMGN 全鏈 Meme 交易工具使用指南
 
 > **來源**: [@xixikawaii](https://x.com/xixikawaii/status/1796523541363662933) | [原文連結](https://t.me/xixi_callchat)

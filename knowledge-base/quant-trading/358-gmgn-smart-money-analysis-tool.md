@@ -1,3 +1,23 @@
+---
+title: "GMGN 智能錢包追蹤工具使用手冊"
+date: "2024-11-25"
+tags: 
+  - "鏈上分析"
+  - "智能錢包"
+  - "Memecoin 交易"
+summary: "一直在構思這篇文章,正好趁著二級回調,鏈上降溫,把這篇手冊補充完整。行情不好的時候最重要的就是枯坐,枯坐不是對著電腦屏幕和手機搁那刷抖音、看 K 線。情緒最 FOMO 的時候沒時間學習,現在是拉開差距的最佳時間段。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xseven1/status/1861036611930370392"
+  externalUrl: "https://gmgn.ai/?ref=tyg8LHaa&chain=sol"
+  authorUsername: "0xseven1"
+---
+
 # GMGN 智能錢包追蹤工具使用手冊
 
 > **來源**: [@0xseven1](https://x.com/0xseven1/status/1861036611930370392) | [原文連結](https://gmgn.ai/?ref=tyg8LHaa&chain=sol)

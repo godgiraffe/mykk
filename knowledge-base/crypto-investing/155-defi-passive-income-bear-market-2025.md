@@ -1,3 +1,23 @@
+---
+title: "DeFi 被動收入現況與熊市應對策略 - 2025年3月總結"
+date: "2025-03-31"
+tags: 
+  - "被動收入"
+  - "熊市策略"
+  - "風險管理"
+summary: "收入來源 金額（美元） --------- ------------- concentrator $120 votium $172 LSD $482 SAAS $956 L2 鏈上 LP 挖礦收益 $0 **總計** **$1,731**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/darkforesttri/status/1906734089023139876"
+  externalUrl: null
+  authorUsername: "darkforesttri"
+---
+
 # DeFi 被動收入現況與熊市應對策略 - 2025年3月總結
 
 > **來源**: [@darkforesttri](https://x.com/darkforesttri/status/1906734089023139876)

@@ -1,3 +1,23 @@
+---
+title: "River Points 收益計算：買入 YT 還是直接購買積分更划算？"
+date: "2025-10-05"
+tags: 
+  - "River"
+  - "Pendle YT"
+  - "積分套利"
+summary: "River（@RiverdotInc）已經 TGE 十多天，價格維持在 2.55U 左右表現堅挺。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Eason_2099/status/1974683679600660546"
+  externalUrl: "https://app.river.inc/fun?ref=Eason_2099"
+  authorUsername: "Eason_2099"
+---
+
 # River Points 收益計算：買入 YT 還是直接購買積分更划算？
 
 > **來源**: [@Eason_2099](https://x.com/Eason_2099/status/1974683679600660546) | [原文連結](https://app.river.inc/fun?ref=Eason_2099)

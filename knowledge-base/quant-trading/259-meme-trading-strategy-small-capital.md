@@ -1,3 +1,23 @@
+---
+title: "MEME 市場掠金術：小資金 300U～100萬 U 的飛升策略"
+date: "2025-04-18"
+tags: 
+  - "MEME 交易"
+  - "資金管理"
+  - "策略量化"
+summary: "但其實不是，小資金想要做大，或者說來到一級市場，重中之重就是建立自己的交易體系。（我打出這句話的時候有點煩我自己了）這破大道理誰都會講，但沒有什麼人講真實的情況，沒有人會去說到底該如何建立，如何透徹的明晰這個交易體系。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Shanks_A9z/status/1913161508290269456"
+  externalUrl: null
+  authorUsername: "Shanks_A9z"
+---
+
 # MEME 市場掠金術：小資金 300U～100萬 U 的飛升策略
 
 > **來源**: [@Shanks_A9z](https://x.com/Shanks_A9z/status/1913161508290269456)

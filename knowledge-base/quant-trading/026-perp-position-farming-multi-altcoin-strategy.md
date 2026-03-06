@@ -1,3 +1,23 @@
+---
+title: "改進的永續合約持倉積分挖礦策略：多幣種自動平衡方案"
+date: "2025-12-22"
+tags: 
+  - "永續合約"
+  - "OI挖礦"
+  - "風險管理"
+summary: "根據 git status，我看到已經有 025-polymarket-bot-parameter-optimization.md，所以下一篇應該是 026。文章內容是關於永續合約持倉積分挖礦的多幣種策略，我建議檔名為："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/2003052584706416671"
+  externalUrl: "https://x.com/LumaoDoggie/status/1997224101715587481"
+  authorUsername: "LumaoDoggie"
+---
+
 # 改進的永續合約持倉積分挖礦策略：多幣種自動平衡方案
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/2003052584706416671) | [原文連結](https://x.com/LumaoDoggie/status/1997224101715587481)

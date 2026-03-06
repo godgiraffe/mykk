@@ -1,3 +1,23 @@
+---
+title: "BuidlPad Momentum ($MMT) 打新規則指南"
+date: "2025-10-10"
+tags: 
+  - "打新"
+  - "流動性"
+  - "IDO"
+summary: "### Tier 1 按 2.5 億 FDV 購買代幣，價格更優 在 Momentum 上提供流動性金額 ≥ 3000（需綁定對應錢包） 快照時間：10 月 25 日 10:00 仍需通過反女巫審核，持有 ≥ 3000 LP 並不保證資格"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/MaiMaiTi778/status/1976546181338759500"
+  externalUrl: null
+  authorUsername: "MaiMaiTi778"
+---
+
 # BuidlPad Momentum ($MMT) 打新規則指南
 
 > **來源**: [@MaiMaiTi778](https://x.com/MaiMaiTi778/status/1976546181338759500)

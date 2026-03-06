@@ -1,3 +1,23 @@
+---
+title: "套利風險與莊家陷阱：從極端價差到強平"
+date: ">"
+tags: 
+  - "套利風險"
+  - "莊家操縱"
+  - "風險管理"
+summary: "**TRB 慘痛教訓**： 幣安 500，OK 750 巨大的價差吸引套利者 結果：套利的一夜回到解放前"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1983142704427991301"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 套利風險與莊家陷阱：從極端價差到強平
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1983142704427991301)

@@ -1,3 +1,23 @@
+---
+title: "盤口微觀結構刷量策略：買賣一檔變化信號與高頻套利"
+date: ">"
+tags: 
+  - "高頻交易"
+  - "盤口分析"
+  - "套利策略"
+summary: "分析盤口數據，（買 1 賣 1 的變化）決定開倉信號，然後預測下一刻的價格變化。這就是我的刷量腳本的核心邏輯。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1988281519983743308"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 盤口微觀結構刷量策略：買賣一檔變化信號與高頻套利
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1988281519983743308)

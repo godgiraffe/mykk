@@ -1,3 +1,23 @@
+---
+title: "Solana 迷因幣掃鏈工具與自主發現策略"
+date: "2024-10-06"
+tags: 
+  - "掃鏈工具"
+  - "迷因幣發現"
+  - "交易工具棧"
+summary: "工具 用途 ------ ------ 推特 資訊追蹤 Pump 監控 PumpFun 平台 BullX 掃描 Pump 內盤數據 老鷹 查看主網新開盤代幣 GMGN 查看 K 線圖表 Sol 瀏覽器 查詢開發者資金來源"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/angel_0x13/status/1842863122090274914"
+  externalUrl: "https://twitter.com/angel_0x13/status/1842863122090274914/photo/1"
+  authorUsername: "angel_0x13"
+---
+
 # Solana 迷因幣掃鏈工具與自主發現策略
 
 > **來源**: [@angel_0x13](https://x.com/angel_0x13/status/1842863122090274914) | [原文連結](https://twitter.com/angel_0x13/status/1842863122090274914/photo/1)

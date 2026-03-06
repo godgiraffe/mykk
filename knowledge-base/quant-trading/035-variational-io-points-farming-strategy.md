@@ -1,3 +1,23 @@
+---
+title: "Variational IO 積分農場策略與交易分析"
+date: ">"
+tags: 
+  - "點數農場"
+  - "方向性交易"
+  - "交易量"
+summary: "項目 說明 ------ ------ **主要積分來源** 方向性交易（85%）+ 轉介（15%） **持倉週期** 1-7 天短期交易為主 **交易標的** 40% BTC/ETH，60% 山寨幣 **總交易量** 9 位數美元等級 **策略差異** 純 BTC/ETH 帳戶積分效率較低"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Defi_Maestro/status/2001491430586638434"
+  externalUrl: "https://omni.variational.io/?ref=OMNIMAESTRO"
+  authorUsername: "Defi_Maestro"
+---
+
 # Variational IO 積分農場策略與交易分析
 
 > **來源**: [@Defi_Maestro](https://x.com/Defi_Maestro/status/2001491430586638434) | [原文連結](https://omni.variational.io/?ref=OMNIMAESTRO)

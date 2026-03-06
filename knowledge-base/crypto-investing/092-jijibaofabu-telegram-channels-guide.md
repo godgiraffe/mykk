@@ -1,3 +1,23 @@
+---
+title: "急播報免費群組導覽 — 加密貨幣即時播報電報群"
+date: ">"
+tags: 
+  - "電報群組"
+  - "即時播報"
+  - "市場監控"
+summary: "### 急播報公告群（1線） https://t.me/jijifabu_notice00 成員：4,582 人 線上：64 人"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/jibobao1/status/1871497317595115554"
+  externalUrl: "https://t.me/jijifabu_notice00"
+  authorUsername: "jibobao1"
+---
+
 # 急播報免費群組導覽 — 加密貨幣即時播報電報群
 
 > **來源**: [@jibobao1](https://x.com/jibobao1/status/1871497317595115554) | [原文連結](https://t.me/jijifabu_notice00)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code 中 Skills 和 SubAgent 的激活策略研究"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "Skills 激活"
+  - "開發流程優化"
+summary: "在 Claude Code 中使用 Skills 和 SubAgent 時，開發者經常會遇到一個令人困擾的問題：這些功能的激活率極低。它們不是靜靜地等待被喚醒，而是被徹底遺忘。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/xiaokedada/status/1999130869072834850"
+  externalUrl: null
+  authorUsername: "xiaokedada"
+---
+
 # Claude Code 中 Skills 和 SubAgent 的激活策略研究
 
 > **來源**: [@xiaokedada](https://x.com/xiaokedada/status/1999130869072834850)

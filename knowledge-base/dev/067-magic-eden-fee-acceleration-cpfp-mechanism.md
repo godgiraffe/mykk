@@ -1,3 +1,23 @@
+---
+title: "Magic Eden 費率機制與 CPFP 加速原理解析"
+date: "2024-11-30"
+tags: 
+  - "比特幣交易"
+  - "序數市場"
+  - "交易費率"
+summary: "在 Magic Eden 上購買時，明明選擇的是 6 sats/vB 的費率，為什麼錢包簽名時卻顯示只有 1.2 sats/vB？購買完成後查看內存池，費率也只有 1.2，是否會永遠無法上鏈？該如何加速？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lilyanna_btc/status/1862795119931617397"
+  externalUrl: null
+  authorUsername: "lilyanna_btc"
+---
+
 # Magic Eden 費率機制與 CPFP 加速原理解析
 
 > **來源**: [@lilyanna_btc](https://x.com/lilyanna_btc/status/1862795119931617397)

@@ -1,3 +1,23 @@
+---
+title: "風險管理與連環暴雷：從 Luna 崩盤到機構挤兑"
+date: "2025-10-17"
+tags: 
+  - "風險管理"
+  - "連環暴雷"
+  - "杠杆風控"
+summary: "最近我一直在強調風險。從 1011 暴跌開始，我不斷的在說風險。現在表面上看著沒事，實際上那天造成的爆倉的損失，後續肯定會浮出水面。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1979139879486525651"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 風險管理與連環暴雷：從 Luna 崩盤到機構挤兑
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1979139879486525651)

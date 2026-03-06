@@ -1,3 +1,23 @@
+---
+title: "Vibe Coding 兩月成績單：Notion 建站系統、量化策略與開發工具"
+date: "2025-08-22"
+tags: 
+  - "開發方法論"
+  - "全棧開發"
+  - "開源專案"
+summary: "### Notion 建站系統 **技術棧**: Next.js + Golang **完成度**: 70% **進度**: 比預期慢了一半 **預覽**: https://t.co/gE2zicxD5Z"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1958853564857819599"
+  externalUrl: null
+  authorUsername: "wquguru"
+---
+
 # Vibe Coding 兩月成績單：Notion 建站系統、量化策略與開發工具
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1958853564857819599)

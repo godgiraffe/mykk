@@ -1,3 +1,23 @@
+---
+title: "美股期權組合的尾部風險管理"
+date: "2025-07-27"
+tags: 
+  - "期權策略"
+  - "風險控制"
+  - "組合設計"
+summary: "你可能覺得標普500每年最多跌個10%-15%已經夠慘了，但現實往往比想像中更猛："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/RichTerry123/status/1949292672633741799"
+  externalUrl: "https://x.com/i/article/1949287016564465664"
+  authorUsername: "RichTerry123"
+---
+
 # 美股期權組合的尾部風險管理
 
 > **來源**: [@RichTerry123](https://x.com/RichTerry123/status/1949292672633741799) | [原文連結](https://x.com/i/article/1949287016564465664)

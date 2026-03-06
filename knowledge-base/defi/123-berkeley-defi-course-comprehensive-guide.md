@@ -1,3 +1,23 @@
+---
+title: "加州伯克利 DeFi 完整課程指南 — 從入門到精通"
+date: "2025-08-11"
+tags: 
+  - "DeFi教育"
+  - "智能合約"
+  - "區塊鏈基礎"
+summary: "1. **課程介紹**：說明這是伯克利的硬核 DeFi 課程，包含完整教材和經典論文 2. **課程目錄**：10 個主題從入門到進階 3. **課程資訊**：教師、時間、地點等基本資訊 4. **課程結構**：2/3/4 學分的不同要求 5. **評分標準**：各學分的詳細評分表 6. **作業時間表**：完整的專案時程 7. **課程描述**：DeFi 概述、課程目標、學習成果 8. **涵蓋主題**：詳細列出所有教學主題（基礎、資"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1954939215399247933"
+  externalUrl: "https://rdi.berkeley.edu/berkeley-defi/f24"
+  authorUsername: "0xKaKa03"
+---
+
 # 加州伯克利 DeFi 完整課程指南 — 從入門到精通
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1954939215399247933) | [原文連結](https://rdi.berkeley.edu/berkeley-defi/f24)

@@ -1,3 +1,23 @@
+---
+title: "Hype 期權跨交易所價差套利：年化 1000% 的機會與貪心的代價"
+date: "2026-02-25"
+tags: 
+  - "期權套利"
+  - "跨交易所套利"
+  - "市場微觀結構"
+summary: "就去看了一下各個平台的價格和流動性，結果，這價差大到嚇人，按照年化算，能有 1000% 😳"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/2026599703580692767"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # Hype 期權跨交易所價差套利：年化 1000% 的機會與貪心的代價
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/2026599703580692767)

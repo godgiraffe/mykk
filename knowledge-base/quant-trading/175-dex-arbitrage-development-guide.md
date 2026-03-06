@@ -1,3 +1,23 @@
+---
+title: "DEX 套利開發完全指南：從入門到 Gas 優化"
+date: "2025-07-16"
+tags: 
+  - "DEX 套利"
+  - "MEV 研究"
+  - "鏈上技術"
+summary: "我第一次研究三角套利是從 solidquant/mev-templates 開始的，這個示例提供 Python/Javascript/Rust 三種語言，非常適合有一定 EVM 基礎的小夥伴入門，而且在他的 Medium 也能找到好幾期關於討論 MEV 或者 Arbitrage 的文章，非常值得小白系統級入門。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1945325756294553626"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # DEX 套利開發完全指南：從入門到 Gas 優化
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1945325756294553626)

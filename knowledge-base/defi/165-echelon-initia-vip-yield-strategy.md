@@ -1,3 +1,23 @@
+---
+title: "Echelon 在 Initia VIP 機制中的收益機會分析"
+date: "2025-05-03"
+tags: 
+  - "DeFi 借貸"
+  - "Initia 生態"
+  - "收益農場"
+summary: "Echelon (@EchelonMarket) 玩 DeFi 的老 OG 可能多少都接觸過,它最早起源在 Aptos 鏈上,最近這個借貸協議開始在 Initia (@initia) 上提供流動性,根據我的分析,近期在 Init 上給它存錢可能是一個不錯的選擇。(@22333D @bithappy)"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xFreudog/status/1918695927914881384"
+  externalUrl: null
+  authorUsername: "0xFreudog"
+---
+
 # Echelon 在 Initia VIP 機制中的收益機會分析
 
 > **來源**: [@0xFreudog](https://x.com/0xFreudog/status/1918695927914881384)

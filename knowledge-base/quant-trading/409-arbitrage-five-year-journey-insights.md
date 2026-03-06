@@ -1,3 +1,23 @@
+---
+title: "套利五年心得分享與問答"
+date: "2024-10-11"
+tags: 
+  - "套利"
+  - "市場微觀結構"
+  - "交易經驗"
+summary: "😊 幣圈只做套利5年，有任何關於套利的問題歡迎留言。懂得秒回，不懂的問大哥也得回覆🤭"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 51
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1844800156782239791"
+  externalUrl: null
+  authorUsername: "zhamomo666"
+---
+
 # 套利五年心得分享與問答
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1844800156782239791)

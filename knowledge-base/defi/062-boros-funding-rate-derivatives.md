@@ -1,3 +1,23 @@
+---
+title: "Boros：永續合約資金費率衍生品市場"
+date: "2025-09-15"
+tags: 
+  - "資金費率對冲"
+  - "鏈上衍生品"
+  - "Pendle生態"
+summary: "Boros 為永續合約資金費率——創建了一個資本高效的鏈上衍生品市場。通過將鏈外交易所的資金費率「代幣化」為可交易的「收益單位」（Yield Units, YU），實質上構建了一個功能上類似於傳統金融中利率互換（Interest Rate Swaps, IRS）的市場——為貓山王榴槤的果農們實現了一顆榴槤樹「賭」3 次的交易品類。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1967516272955982094"
+  externalUrl: "https://x.com/i/article/1967502073492058112"
+  authorUsername: "agintender"
+---
+
 # Boros：永續合約資金費率衍生品市場
 
 > **來源**: [@agintender](https://x.com/agintender/status/1967516272955982094) | [原文連結](https://x.com/i/article/1967502073492058112)

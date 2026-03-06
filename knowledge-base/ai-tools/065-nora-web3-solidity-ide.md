@@ -1,3 +1,23 @@
+---
+title: "Nora：專為智能合約開發的 AI Coding IDE"
+date: "2025-10-17"
+tags: 
+  - "智能合約開發"
+  - "Solidity IDE"
+  - "Web3 開發工具"
+summary: "Nora 是一款專為 Web3 智能合約開發而設計的 AI Coding IDE，定位為「不只是 copilot，而是更深層的開發助手」。這款工具整合了智能合約開發的完整流程，包括："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1979116866653294737"
+  externalUrl: "https://www.mynora.ai/"
+  authorUsername: "wquguru"
+---
+
 # Nora：專為智能合約開發的 AI Coding IDE
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1979116866653294737) | [原文連結](https://www.mynora.ai/)

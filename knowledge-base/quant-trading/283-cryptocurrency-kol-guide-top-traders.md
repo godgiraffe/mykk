@@ -1,3 +1,23 @@
+---
+title: "加密貨幣值得關注的頂級交易員與分析師指南"
+date: "2025-03-29"
+tags: 
+  - "交易員推薦"
+  - "鏈上分析"
+  - "市場宏觀分析"
+summary: "BTC 鏈上數據分析師，BTC 價格突破 10 萬美元時，最早判斷見頂的分析師之一。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/GodotSancho/status/1905964390521909535"
+  externalUrl: "https://x.com/market_beggar/status/1879015311258841112"
+  authorUsername: "GodotSancho"
+---
+
 # 加密貨幣值得關注的頂級交易員與分析師指南
 
 > **來源**: [@GodotSancho](https://x.com/GodotSancho/status/1905964390521909535) | [原文連結](https://x.com/market_beggar/status/1879015311258841112)

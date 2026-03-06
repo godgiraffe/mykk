@@ -1,3 +1,23 @@
+---
+title: "GMGN 錢包分析爬蟲工具 - 自動抓取交易統計與記錄"
+date: ">"
+tags: 
+  - "量化交易"
+  - "工具開發"
+  - "Solana 錢包"
+summary: "這是一個開源的自動化爬蟲腳本，可以訪問 GMGN.ai 網站並獲取 Solana 錢包的勝率統計和交易記錄。只要輸入錢包地址就可以爬出統計資料（勝率、交易次數）和交易紀錄，也可以一次爬多個錢包地址的資料。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cbd1913/status/1914680285423395238"
+  externalUrl: "https://github.com/a00012025/crawler-scripts"
+  authorUsername: "cbd1913"
+---
+
 # GMGN 錢包分析爬蟲工具 - 自動抓取交易統計與記錄
 
 > **來源**: [@cbd1913](https://x.com/cbd1913/status/1914680285423395238) | [原文連結](https://github.com/a00012025/crawler-scripts)

@@ -1,3 +1,23 @@
+---
+title: "DEX 開源網格交易腳本更新與多交易所支持"
+date: ">"
+tags: 
+  - "網格交易"
+  - "量化策略"
+  - "交易所"
+summary: "自從兩週前開始開源後，目前腳本支援 4 個交易所，在接下來一週內會再增加 2-3 個其他交易所的支援。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1971142704949051546"
+  externalUrl: "https://pro.edgex.exchange/referral/QUANT"
+  authorUsername: "yourQuantGuy"
+---
+
 # DEX 開源網格交易腳本更新與多交易所支持
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1971142704949051546) | [原文連結](https://pro.edgex.exchange/referral/QUANT)

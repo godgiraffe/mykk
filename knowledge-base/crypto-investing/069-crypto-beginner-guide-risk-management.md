@@ -1,3 +1,23 @@
+---
+title: "幣圈新手攻略 —— Go Go Power Rangers"
+date: "2025-10-26"
+tags: 
+  - "風險控制"
+  - "心態修養"
+  - "社群選擇"
+summary: "如果係數很低，比如本金只是你一兩個月的可支配所得，那老實說，真的不用太講究風控。就算 all in 某個你特別看好的土狗也無妨，畢竟就算全虧光，大不了回職場打幾個月工，本金很快就能補回來。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BensonTWN/status/1982305349584732174"
+  externalUrl: "https://x.com/i/article/1982106893662478336"
+  authorUsername: "BensonTWN"
+---
+
 # 幣圈新手攻略 —— Go Go Power Rangers
 
 > **來源**: [@BensonTWN](https://x.com/BensonTWN/status/1982305349584732174) | [原文連結](https://x.com/i/article/1982106893662478336)

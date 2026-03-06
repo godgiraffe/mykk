@@ -1,3 +1,23 @@
+---
+title: "6551 Telegram 新聞監控面板：加快新聞交易速度"
+date: "2025-10-06"
+tags: 
+  - "新聞交易"
+  - "Telegram 監控"
+  - "交易工具"
+summary: "1. 打開 6551 的 Telegram 監控面板：https://t.co/ORZAUo8gji 2. 添加要監控的新聞源頻道，設置好分組 3. 等待推送"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 41
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cryptoxiao/status/1975243330566135838"
+  externalUrl: "https://6551.io/telegramMonitor"
+  authorUsername: "cryptoxiao"
+---
+
 # 6551 Telegram 新聞監控面板：加快新聞交易速度
 
 > **來源**: [@cryptoxiao](https://x.com/cryptoxiao/status/1975243330566135838) | [原文連結](https://6551.io/telegramMonitor)

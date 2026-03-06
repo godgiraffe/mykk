@@ -1,3 +1,23 @@
+---
+title: "做空策略與風險管理：標的選擇、工具運用與分段止盈"
+date: ">"
+tags: 
+  - "做空策略"
+  - "風險管理"
+  - "資金費率"
+summary: "在週期的這個階段，做空比做多在概率上更容易盈利。但公開談論如何做空的人挺少的，畢竟做空的第一條規則，就是不許談論做空。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/QuantVela/status/1963596831847559250"
+  externalUrl: null
+  authorUsername: "QuantVela"
+---
+
 # 做空策略與風險管理：標的選擇、工具運用與分段止盈
 
 > **來源**: [@QuantVela](https://x.com/QuantVela/status/1963596831847559250)

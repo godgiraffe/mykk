@@ -1,3 +1,23 @@
+---
+title: "Falcon Finance 推薦鏈接驗證指南"
+date: "2025-09-14"
+tags: 
+  - "Falcon Finance"
+  - "推薦分"
+  - "Miles Points"
+summary: "1. 我要不要 KYC 2. 1M 等於多少分 3. 推薦鏈接的 15% 沒拿到？怎麼確定我是否有推薦分？"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/MaiMaiTi778/status/1967209625826255147"
+  externalUrl: "https://app.falcon.finance/swap/mint?r=83105a51ea741adc3d2f53bf96ef452e"
+  authorUsername: "MaiMaiTi778"
+---
+
 # Falcon Finance 推薦鏈接驗證指南
 
 > **來源**: [@MaiMaiTi778](https://x.com/MaiMaiTi778/status/1967209625826255147) | [原文連結](https://app.falcon.finance/swap/mint?r=83105a51ea741adc3d2f53bf96ef452e)

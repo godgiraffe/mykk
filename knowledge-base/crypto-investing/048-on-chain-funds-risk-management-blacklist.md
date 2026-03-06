@@ -1,3 +1,23 @@
+---
+title: "鏈上基金風險管理：xUSD 觸及者黑名單"
+date: "2025-11-15"
+tags: 
+  - "風險管理"
+  - "基金評估"
+  - "投資決策"
+summary: "@Re7Labs @MEVCapital @hyperithm @TelosConsilium"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1989746598159814850"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # 鏈上基金風險管理：xUSD 觸及者黑名單
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1989746598159814850)

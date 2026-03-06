@@ -1,3 +1,23 @@
+---
+title: "ACT 代幣幣安上線內幕交易分析 — 7 秒領先公告"
+date: "2024-11-11"
+tags: 
+  - "內幕交易"
+  - "市場微觀結構"
+  - "信息不對稱"
+summary: "我嚴重懷疑這個事是內幕哇！😭今晚幣安公告上線 $ACT，幣價瞬間飆升 10 倍+"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/JeffroBTC/status/1855867227834372170"
+  externalUrl: null
+  authorUsername: "JeffroBTC"
+---
+
 # ACT 代幣幣安上線內幕交易分析 — 7 秒領先公告
 
 > **來源**: [@JeffroBTC](https://x.com/JeffroBTC/status/1855867227834372170)

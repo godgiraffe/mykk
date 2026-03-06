@@ -1,3 +1,23 @@
+---
+title: "Meteora DAMM V2 流動性挖礦策略：30 天從 0.3 SOL 賺取 44 SOL"
+date: "2025-08-01"
+tags: 
+  - "DAMM V2"
+  - "流動性挖礦"
+  - "MEV 套利"
+summary: "30 天內從 0.3 SOL 賺取 +44 SOL PnL，使用 Meteora 的 DAMM V2 策略。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/AtreoxCrypto/status/1951328826446823814"
+  externalUrl: "https://axiom.trade/"
+  authorUsername: "AtreoxCrypto"
+---
+
 # Meteora DAMM V2 流動性挖礦策略：30 天從 0.3 SOL 賺取 44 SOL
 
 > **來源**: [@AtreoxCrypto](https://x.com/AtreoxCrypto/status/1951328826446823814) | [原文連結](https://axiom.trade/)

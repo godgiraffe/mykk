@@ -1,3 +1,23 @@
+---
+title: "TVL LP 尋找指南"
+date: ">"
+tags: 
+  - "LP策略"
+  - "TVL分析"
+  - "DeFi工具"
+summary: "這個問題太簡短了，無法形成完整的知識庫文章。這只是一個提問，沒有提供任何實質內容、方法論或見解。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bocaibocai_/status/2001068625097318888"
+  externalUrl: null
+  authorUsername: "bocaibocai_"
+---
+
 # TVL LP 尋找指南
 
 > **來源**: [@bocaibocai_](https://x.com/bocaibocai_/status/2001068625097318888)

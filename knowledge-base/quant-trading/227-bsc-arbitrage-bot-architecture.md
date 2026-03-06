@@ -1,3 +1,23 @@
+---
+title: "BSC 套利機器人架構分享：一天 200 BNB 毛利實戰"
+date: ">"
+tags: 
+  - "套利機器人"
+  - "BSC"
+  - "資金管理"
+summary: "昨天是 #BSC #套利 真猛，一天跑了近 200 BNB 毛利（利潤+上貢），要是不上貢那得多爽，難怪前些年那些大佬直接自由了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/lofy22479013/status/1925379650190287081"
+  externalUrl: "https://twitter.com/lofy22479013/status/1925379650190287081/photo/1"
+  authorUsername: "lofy22479013"
+---
+
 # BSC 套利機器人架構分享：一天 200 BNB 毛利實戰
 
 > **來源**: [@lofy22479013](https://x.com/lofy22479013/status/1925379650190287081) | [原文連結](https://twitter.com/lofy22479013/status/1925379650190287081/photo/1)

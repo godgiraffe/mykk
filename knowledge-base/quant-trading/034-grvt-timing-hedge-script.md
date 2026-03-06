@@ -1,3 +1,23 @@
+---
+title: "GRVT 擇時對沖腳本：0.0067% 最低磨損策略"
+date: ">"
+tags: 
+  - "對沖交易"
+  - "量化腳本"
+  - "交易所套利"
+summary: "項目 數據 ------ ------ 策略類型 擇時對沖（Timing-based Hedging） 磨損率 0.0067%（12小時測試） 測試成本 35U 虧損 測試交易量 53萬 USDT 測試時長 12小時 市價單手續費 0.039% 測試本金 GRVT + Lighter 各 1萬 U 最大槓桿 4.5倍"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 63
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/2001584115200520463"
+  externalUrl: "https://grvt.io/exchange/sign-up?ref=QUANT"
+  authorUsername: "yourQuantGuy"
+---
+
 # GRVT 擇時對沖腳本：0.0067% 最低磨損策略
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/2001584115200520463) | [原文連結](https://grvt.io/exchange/sign-up?ref=QUANT)

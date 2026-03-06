@@ -1,3 +1,23 @@
+---
+title: "普通人如何掌握一級市場公售機會"
+date: ">"
+tags: 
+  - "IEO"
+  - "一級市場"
+  - "風險管理"
+summary: "除了交易所 IEO（如 OKX、Binance、Bitget、Bybit）之外，還有鏈上一級市場公售機會可以參與。這些公售機會通常勝率高，且可以投入較大倉位。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/TobiChicken/status/1876546228726726775"
+  externalUrl: "https://icodrops.com/"
+  authorUsername: "TobiChicken"
+---
+
 # 普通人如何掌握一級市場公售機會
 
 > **來源**: [@TobiChicken](https://x.com/TobiChicken/status/1876546228726726775) | [原文連結](https://icodrops.com/)

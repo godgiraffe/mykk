@@ -1,3 +1,23 @@
+---
+title: "BNB 空投收益 240 天 70% 報酬率策略（Pendle YT 槓桿交易）"
+date: "2025-10-26"
+tags: 
+  - "Pendle"
+  - "收益交易"
+  - "BNB 空投"
+summary: "silsBNBx 新一期已經於 Pendle (@pendle_fi) 上線，為期 240 天，底層收益來自 BNB holder 的空投收益，長期穩定在 10-12% 的年化。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dxh430/status/1982452361864872132"
+  externalUrl: null
+  authorUsername: "dxh430"
+---
+
 # BNB 空投收益 240 天 70% 報酬率策略（Pendle YT 槓桿交易）
 
 > **來源**: [@dxh430](https://x.com/dxh430/status/1982452361864872132)

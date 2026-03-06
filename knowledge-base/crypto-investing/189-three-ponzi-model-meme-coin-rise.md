@@ -1,3 +1,23 @@
+---
+title: "三盤理論看 MEME 幣崛起：旁氏民主化的演進"
+date: ">"
+tags: 
+  - "旁氏模型"
+  - "MEME幣"
+  - "代幣經濟學"
+summary: "加密韋陀（@thecryptoskanda）認為，Crypto 最大價值之一是首次實現龐氏民主化與可交易化。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hiCaptainZ/status/1783334519132860830"
+  externalUrl: null
+  authorUsername: "hiCaptainZ"
+---
+
 # 三盤理論看 MEME 幣崛起：旁氏民主化的演進
 
 > **來源**: [@hiCaptainZ](https://x.com/hiCaptainZ/status/1783334519132860830)

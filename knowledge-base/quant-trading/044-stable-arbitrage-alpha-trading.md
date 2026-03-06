@@ -1,3 +1,23 @@
+---
+title: "穩定幣 Alpha 交易套利實戰分析 - 現貨合約價差機會"
+date: ">"
+tags: 
+  - "套利策略"
+  - "穩定幣交易"
+  - "現貨合約價差"
+summary: "★ Insight ───────────────────────────────────── **處理知識庫文章整理任務** 這是一篇加密貨幣套利實戰分析，應歸類到 quant-trading 分類 內容包含具體案例分析（Stable 代幣 Alpha 交易）、盈利點識別、風險評估和執行決策 核心價值在於展示多市場價差套利的完整思考框架 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/fivepointwater5/status/1998383681954853292"
+  externalUrl: "https://x.com/fivepointwater5/status/1991486483379953990"
+  authorUsername: "fivepointwater5"
+---
+
 # 穩定幣 Alpha 交易套利實戰分析 - 現貨合約價差機會
 
 > **來源**: [@fivepointwater5](https://x.com/fivepointwater5/status/1998383681954853292) | [原文連結](https://x.com/fivepointwater5/status/1991486483379953990)

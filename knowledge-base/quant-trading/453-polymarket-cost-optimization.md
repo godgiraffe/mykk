@@ -1,3 +1,23 @@
+---
+title: "Polymarket 交易成本優化指南"
+date: "2026-02-25"
+tags: 
+  - "Polymarket"
+  - "交易成本"
+  - "預測市場"
+summary: "入金時，如果選擇 POL 鏈的 usdc.e，可以避免大約 0.06% 的損耗手續費。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zhishizhiyun1/status/2026586235381362996"
+  externalUrl: null
+  authorUsername: "zhishizhiyun1"
+---
+
 # Polymarket 交易成本優化指南
 
 > **來源**: [@zhishizhiyun1](https://x.com/zhishizhiyun1/status/2026586235381362996)

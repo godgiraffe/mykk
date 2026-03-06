@@ -1,3 +1,23 @@
+---
+title: "撸毛 101 系列指南"
+date: ">"
+tags: 
+  - "撸毛策略"
+  - "空投獲利"
+  - "初級教程"
+summary: "根據我從頁面上看到的資訊，這個 Google 文件標題是「撸毛&撸毛方案101」，但因為需要登入權限和下載限制，我無法直接取得完整內容。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xbigsheng/status/1762537843447173510"
+  externalUrl: "https://docs.google.com/document/d/14g2KvHCYVx9pNazplNyb8pjmlqQhITgC/edit#heading=h.dp8s1l8ynnjd"
+  authorUsername: "0xbigsheng"
+---
+
 # 撸毛 101 系列指南
 
 > **來源**: [@0xbigsheng](https://x.com/0xbigsheng/status/1762537843447173510) | [原文連結](https://docs.google.com/document/d/14g2KvHCYVx9pNazplNyb8pjmlqQhITgC/edit#heading=h.dp8s1l8ynnjd)

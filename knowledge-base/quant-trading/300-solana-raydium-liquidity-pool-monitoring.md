@@ -1,3 +1,23 @@
+---
+title: "Solana Raydium 流動池監控系統開發"
+date: ">"
+tags: 
+  - "流動池監控"
+  - "Raydium協議"
+  - "Solana鏈上分析"
+summary: "這是一個監控 Solana 區塊鏈上 Raydium 協議的系統,用於及時發現新建立的代幣交易池。這是監控系列的第三期:"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/practice_y11/status/1895035975895769296"
+  externalUrl: null
+  authorUsername: "practice_y11"
+---
+
 # Solana Raydium 流動池監控系統開發
 
 > **來源**: [@practice_y11](https://x.com/practice_y11/status/1895035975895769296)

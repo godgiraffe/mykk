@@ -1,3 +1,23 @@
+---
+title: "根據資金規模的 Crypto 複利投資策略"
+date: "2026-02-27"
+tags: 
+  - "資金管理"
+  - "複利投資"
+  - "熊市策略"
+summary: "刷到了 Crypto 頂級套利玩家 @Cbb0fe 給出的建議，針對資金體量在 A4–A7 區間的玩家，該如何複利投資。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/XDmnnn0616/status/2027301979324878995"
+  externalUrl: "https://x.com/Cbb0fe/status/1981679977176182958?s=20"
+  authorUsername: "XDmnnn0616"
+---
+
 # 根據資金規模的 Crypto 複利投資策略
 
 > **來源**: [@XDmnnn0616](https://x.com/XDmnnn0616/status/2027301979324878995) | [原文連結](https://x.com/Cbb0fe/status/1981679977176182958?s=20)

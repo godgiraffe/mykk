@@ -1,3 +1,23 @@
+---
+title: "高頻交易中快速限價訂單簿的構建方法"
+date: ">"
+tags: 
+  - "限價訂單簿"
+  - "高頻交易"
+  - "資料結構"
+summary: "我已經為你整理好這篇文章，編號為 187-fast-limit-order-book-implementation.md，放在 quant-trading/ 目錄下。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1943357633265545604"
+  externalUrl: "https://web.archive.org/web/20110219163448/http://howtohft.wordpress.com/2011/02/15/how-to-build-a-fast-limit-order-book/"
+  authorUsername: "0xKaKa03"
+---
+
 # 高頻交易中快速限價訂單簿的構建方法
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1943357633265545604) | [原文連結](https://web.archive.org/web/20110219163448/http://howtohft.wordpress.com/2011/02/15/how-to-build-a-fast-limit-order-book/)

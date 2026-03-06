@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性供應策略：震盪行情下的時間朋友"
+date: "2025-04-13"
+tags: 
+  - "DLMM"
+  - "LP策略"
+  - "風險管理"
+summary: "**資產配置**: 20% RFC + 80% SOL **價格區間**: 上下 30% **交易觀點**: 短期看震盪，長期看多"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/QuantVela/status/1911414572197494810"
+  externalUrl: "https://twitter.com/QuantVela/status/1911414572197494810/photo/1"
+  authorUsername: "QuantVela"
+---
+
 # DLMM 流動性供應策略：震盪行情下的時間朋友
 
 > **來源**: [@QuantVela](https://x.com/QuantVela/status/1911414572197494810) | [原文連結](https://twitter.com/QuantVela/status/1911414572197494810/photo/1)

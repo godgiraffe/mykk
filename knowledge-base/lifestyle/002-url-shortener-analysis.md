@@ -1,3 +1,23 @@
+---
+title: "短網址連結分析"
+date: "2026-02-07"
+tags: 
+  - "網址縮短"
+  - "網路連結"
+  - "資訊安全"
+summary: "短網址雖然方便分享，但也隱藏了連結的真實目的地。點擊不明來源的短網址存在潛在的安全風險，包括釣魚網站、惡意軟體等等。 本文將探討短網址連結可能存在的風險，並建議使用者在點擊前進行風險評估。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/YukerX/status/2019977867061522525"
+  externalUrl: null
+  authorUsername: "YukerX"
+---
+
 # 短網址連結分析
 
 > **來源**: [@YukerX](https://x.com/YukerX/status/2019977867061522525)

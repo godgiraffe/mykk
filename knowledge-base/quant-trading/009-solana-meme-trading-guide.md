@@ -1,3 +1,23 @@
+---
+title: "鏈上屌絲指南：8個月從4000元到百萬級別的新聞交易策略"
+date: "2026-01-07"
+tags: 
+  - "新聞交易"
+  - "高頻交易"
+  - "風險管理"
+summary: "★ Insight ───────────────────────────────────── 這是一篇實戰經驗分享，核心價值在於： 1. **可驗證的真實數據** - 8個月、2萬筆交易、54.66%勝率 2. **具體可執行的策略** - 止損止盈點位、持倉時間、監控對象都有明確定義 3. **風險管理紀律** - 強調「舔一口就跑」而非追求複利，優先保證現金流 ───────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/TraderJhon_/status/2008831253295112706"
+  externalUrl: "https://x.com/i/article/2008533876524953600"
+  authorUsername: "TraderJhon_"
+---
+
 # 鏈上屌絲指南：8個月從4000元到百萬級別的新聞交易策略
 
 > **來源**: [@TraderJhon_](https://x.com/TraderJhon_/status/2008831253295112706) | [原文連結](https://x.com/i/article/2008533876524953600)

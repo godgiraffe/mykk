@@ -1,3 +1,23 @@
+---
+title: "事件驅動 vs 流式處理：交易系統架構設計"
+date: "2025-11-15"
+tags: 
+  - "架構設計"
+  - "流式處理"
+  - "狀態管理"
+summary: "在交易系統中實作「當交易所 A 的 BTC 報價和交易所 B 的 BTC 報價都更新了，計算它們的價差。如果價差大於 100，並且距離我上一次下單超過 5 秒，就執行套利」這個需求時，如果使用事件驅動來做會很彆扭。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1989491037094461596"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 事件驅動 vs 流式處理：交易系統架構設計
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1989491037094461596)

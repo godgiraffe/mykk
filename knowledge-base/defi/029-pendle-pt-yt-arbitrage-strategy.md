@@ -1,3 +1,23 @@
+---
+title: "Pendle 波動交易策略：監控鯨魚成交吃價格回歸"
+date: "2025-12-19"
+tags: 
+  - "Pendle"
+  - "PT/YT拆分"
+  - "主動LP策略"
+summary: "項目 說明 ------ ------ **核心思路** 監控大額 PT 成交造成的隱含 APY 偏離，同步進場 YT 接針吃價格回歸 **本質** 利用池子資金結構造成的短期價格偏離進行波動套利 **風險性質** 非無風險套利，而是優勢交易策略 **適用對象** 熟悉 Pendle 機制、有監控工具能力的進階玩家"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hongkongdoll/status/2002048689007886699"
+  externalUrl: "https://t.me/PendleFinance_CN"
+  authorUsername: "hongkongdoll"
+---
+
 # Pendle 波動交易策略：監控鯨魚成交吃價格回歸
 
 > **來源**: [@hongkongdoll](https://x.com/hongkongdoll/status/2002048689007886699) | [原文連結](https://t.me/PendleFinance_CN)

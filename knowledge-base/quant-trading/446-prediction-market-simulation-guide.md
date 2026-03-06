@@ -1,3 +1,23 @@
+---
+title: "預測市場量化模擬完全指南：從蒙特卡洛到代理模型"
+date: "2026-02-28"
+tags: 
+  - "蒙特卡洛模擬"
+  - "預測市場"
+  - "量化模型"
+summary: "每個章節都建立在前一章的基礎上。跳過某部分，數學就不會有意義。按順序閱讀，到最後你將擁有堆疊中每一層的可執行程式碼。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gemchange_ltd/status/2027744530124951831"
+  externalUrl: "https://x.com/i/article/2027371960175386624"
+  authorUsername: "gemchange_ltd"
+---
+
 # 預測市場量化模擬完全指南：從蒙特卡洛到代理模型
 
 > **來源**: [@gemchange_ltd](https://x.com/gemchange_ltd/status/2027744530124951831) | [原文連結](https://x.com/i/article/2027371960175386624)

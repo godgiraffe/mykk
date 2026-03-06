@@ -1,3 +1,23 @@
+---
+title: "Uniswap V2 套利最佳利潤公式計算教學"
+date: "2025-08-20"
+tags: 
+  - "Uniswap"
+  - "套利"
+  - "公式計算"
+summary: "這是一個關於 Uniswap V2 套利最佳利潤公式計算的手把手教學影片。內容涵蓋如何計算在 Uniswap V2 上進行套利時的最佳投入金額（Optimal Amount In），以獲得最大利潤。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1958221969029316862"
+  externalUrl: "https://www.youtube.com/watch?v=9EKksG-fF1k"
+  authorUsername: "0xKaKa03"
+---
+
 # Uniswap V2 套利最佳利潤公式計算教學
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1958221969029316862) | [原文連結](https://www.youtube.com/watch?v=9EKksG-fF1k)

@@ -1,3 +1,23 @@
+---
+title: "Backpack Perp DEX 機器人交易指南與策略整理"
+date: ">"
+tags: 
+  - "永續交易"
+  - "量化策略"
+  - "做市機器人"
+summary: "在實測多個 Perp DEX 交易機器人後（用 500U 本金測試，虧損 100U），整理了 Backpack 交易機器人的策略表格和使用經驗。Backpack 本賽季開始不會降權 API 交易量的積分，適合掛機器人刷量。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xTykoo/status/1968533408528896351"
+  externalUrl: "https://backpack.exchange/signup?referral=tykoo"
+  authorUsername: "0xTykoo"
+---
+
 # Backpack Perp DEX 機器人交易指南與策略整理
 
 > **來源**: [@0xTykoo](https://x.com/0xTykoo/status/1968533408528896351) | [原文連結](https://backpack.exchange/signup?referral=tykoo)

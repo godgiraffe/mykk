@@ -1,3 +1,23 @@
+---
+title: "期權掃盲：期權交易實戰邏輯與希臘字母應用指南"
+date: "2026-02-15"
+tags: 
+  - "期權交易"
+  - "希臘字母"
+  - "波動率風險"
+summary: "Delta 為 0.5，意味著幣價跌 1 塊，期權虧 0.5 它是在這個維度裡的「倉位」 在期權界面中，越靠近現價，Delta 的絕對值就越大 通常認為絕對值 0.1-0.2 Delta 的區間被認為性價比較高，風險可控"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Blank_TX/status/2023097561293423042"
+  externalUrl: "https://x.com/i/article/2023074238673125376"
+  authorUsername: "Blank_TX"
+---
+
 # 期權掃盲：期權交易實戰邏輯與希臘字母應用指南
 
 > **來源**: [@Blank_TX](https://x.com/Blank_TX/status/2023097561293423042) | [原文連結](https://x.com/i/article/2023074238673125376)

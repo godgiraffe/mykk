@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 高倍杠杆策略回盤：HWHLP、HBUSDT、WVLP 收益複盤"
+date: "2025-10-18"
+tags: 
+  - "Pendle YT"
+  - "高倍杠杆"
+  - "流動性挖礦"
+summary: "深度複盤 hwhlp、hbusdt、wvlp Pendle YT，每個翻 2-3 倍，淨賺 14 萬 U。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/807743450Li/status/1979461383231279167"
+  externalUrl: "https://x.com/ThinkingUSD/status/1976766847551713443"
+  authorUsername: "807743450Li"
+---
+
 # Pendle YT 高倍杠杆策略回盤：HWHLP、HBUSDT、WVLP 收益複盤
 
 > **來源**: [@807743450Li](https://x.com/807743450Li/status/1979461383231279167) | [原文連結](https://x.com/ThinkingUSD/status/1976766847551713443)

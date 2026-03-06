@@ -1,3 +1,23 @@
+---
+title: "Usual 與 Luna 非對稱對比分析"
+date: "2024-12-04"
+tags: 
+  - "穩定幣風險"
+  - "高收益陷阱"
+  - "DeFi 安全"
+summary: "隨著 Usual 協議進入【收益發現】階段，超高的 APY 回報驚豔了無數 DeFi 玩家，協議 TVL 在 7 天內增加了 70M+。隨之而來的也有新用戶的疑慮，有人聯想到了同樣有高收益的穩定幣黑天鵝 Luna，擔憂 Usual 也有同樣的風險。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/joejoedefi/status/1864242606399438974"
+  externalUrl: null
+  authorUsername: "joejoedefi"
+---
+
 # Usual 與 Luna 非對稱對比分析
 
 > **來源**: [@joejoedefi](https://x.com/joejoedefi/status/1864242606399438974)

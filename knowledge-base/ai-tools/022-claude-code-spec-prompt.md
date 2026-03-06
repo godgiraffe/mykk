@@ -1,3 +1,26 @@
+---
+title: "Claude Code Spec Prompt：深度訪談產生完整規格"
+date: "2026-01-11"
+tags: 
+  - "Claude"
+  - "Prompt Engineering"
+  - "規格文件"
+  - "AI協作"
+  - "AskUserQuestionTool"
+  - "ultrathink"
+summary: "本文介紹一個用於 Claude 的 Prompt，旨在協助使用者產生更完整的規格文件。 這個 Prompt 的核心是利用 Claude 扮演資深技術顧問的角色，透過 AskUserQuestionTool 進行深度訪談。 其關鍵在於訪談前進行 ultrathink 分析，以挖掘使用者腦中潛在的、未明確的想法，從而避免規格遺漏。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BensonTWN/status/2010319050099110270"
+  externalUrl: null
+  authorUsername: "BensonTWN"
+---
+
 # Claude Code Spec Prompt：深度訪談產生完整規格
 
 > **來源**: [@BensonTWN](https://x.com/BensonTWN/status/2010319050099110270)

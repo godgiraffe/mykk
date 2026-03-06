@@ -1,3 +1,23 @@
+---
+title: "Claude Code 超級思考型提示詞技巧"
+date: "2025-11-07"
+tags: 
+  - "Claude Code"
+  - "提示詞工程"
+  - "AI 開發"
+summary: "根據系統提示中的 CLAUDE.md 內容，我找到了那個提示詞！在專案的 CLAUDE.md 最後有這段："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/FinanceYF5/status/1986714310396289424"
+  externalUrl: "https://twitter.com/FinanceYF5/status/1986714310396289424/photo/1"
+  authorUsername: "FinanceYF5"
+---
+
 # Claude Code 超級思考型提示詞技巧
 
 > **來源**: [@FinanceYF5](https://x.com/FinanceYF5/status/1986714310396289424) | [原文連結](https://twitter.com/FinanceYF5/status/1986714310396289424/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "回撤交易：頂級交易員的 6 種入場策略"
+date: ">"
+tags: 
+  - "回撤交易"
+  - "入場策略"
+  - "風險回報比"
+summary: "### 🟠 更高盈利可能性的入場 回撤的本質在於，當回撤結束後價格仍會繼續回到此前的波動方向。因此，回撤提供了一個很好的入場機會，如果價格走勢信號出現在回撤後，那麼更是意味著高盈利可能性的入場。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/DtDt666/status/1874726515252117860"
+  externalUrl: null
+  authorUsername: "DtDt666"
+---
+
 # 回撤交易：頂級交易員的 6 種入場策略
 
 > **來源**: [@DtDt666](https://x.com/DtDt666/status/1874726515252117860)

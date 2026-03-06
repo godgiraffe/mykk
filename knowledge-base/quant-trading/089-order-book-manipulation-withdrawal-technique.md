@@ -1,3 +1,23 @@
+---
+title: "訂單簿對敲技巧：卡住資金的解套方法"
+date: "2025-10-26"
+tags: 
+  - "對敲"
+  - "訂單簿"
+  - "資金提領"
+summary: "對敲是一個很常見的手法。當單帳號資金無法提領時，可以透過訂單簿把錢「敲」出來。這個方法甚至可以寫成程式碼作為保命符。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/traderwanwan/status/1982344288647434465"
+  externalUrl: "https://x.com/traderwanwan/status/1941051265779486902?s=46&t=ODEkpYA2xofvGSUIO_cyzg"
+  authorUsername: "traderwanwan"
+---
+
 # 訂單簿對敲技巧：卡住資金的解套方法
 
 > **來源**: [@traderwanwan](https://x.com/traderwanwan/status/1982344288647434465) | [原文連結](https://x.com/traderwanwan/status/1941051265779486902?s=46&t=ODEkpYA2xofvGSUIO_cyzg)

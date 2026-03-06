@@ -1,3 +1,23 @@
+---
+title: "大模型使用清單與最佳實踐策略"
+date: ">"
+tags: 
+  - "大模型對比"
+  - "工具選擇"
+  - "成本優化"
+summary: "最近看到不少幣圈 KOL 在推 Gemini，這裡分享一下我自己的大模型使用清單與體驗："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/NNNNNNOBITA/status/1993195170926408051"
+  externalUrl: null
+  authorUsername: "NNNNNNOBITA"
+---
+
 # 大模型使用清單與最佳實踐策略
 
 > **來源**: [@NNNNNNOBITA](https://x.com/NNNNNNOBITA/status/1993195170926408051)

@@ -1,3 +1,23 @@
+---
+title: "6551Dex：SOL 和 BSC 鏈上交易平台功能解析"
+date: "2025-04-19"
+tags: 
+  - "DEX平台"
+  - "鏈上交易"
+  - "錢包監控"
+summary: "6551Dex (@6551Dex) 是一個支援 SOL 和 BSC 鏈的去中心化交易平台，專注於提供快速交易、AI 分析和智能監控功能。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptoxiao/status/1913524666268041602"
+  externalUrl: null
+  authorUsername: "cryptoxiao"
+---
+
 # 6551Dex：SOL 和 BSC 鏈上交易平台功能解析
 
 > **來源**: [@cryptoxiao](https://x.com/cryptoxiao/status/1913524666268041602)

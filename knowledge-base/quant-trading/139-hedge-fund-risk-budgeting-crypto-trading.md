@@ -1,3 +1,23 @@
+---
+title: "對冲基金視角：用風險預算提升加密交易能力"
+date: "2025-08-31"
+tags: 
+  - "風險預算"
+  - "VaR管理"
+  - "頭寸規模"
+summary: "許多 Crypto 投資者痴迷於尋找下一個百倍幣，研究各種鏈上 alpha,但帳戶淨值曲線卻常常波動巨大。很多人明明看對了方向,卻死在了黎明前。為什麼？因為他們的交易體系裡,缺了一個最重要的角色：**一個首席風險預算官**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cryptocald/status/1962013498101375439"
+  externalUrl: null
+  authorUsername: "Cryptocald"
+---
+
 # 對冲基金視角：用風險預算提升加密交易能力
 
 > **來源**: [@Cryptocald](https://x.com/Cryptocald/status/1962013498101375439)

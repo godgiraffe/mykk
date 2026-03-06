@@ -1,3 +1,23 @@
+---
+title: "優化資訊流：追蹤頂級交易者提升交易認知"
+date: "2025-08-31"
+tags: 
+  - "資訊流管理"
+  - "交易心態"
+  - "社群學習"
+summary: "建議在 Telegram 上單獨設置一個 folder，專門追蹤英文區 CT（Crypto Twitter）和中文區較為頂級的交易者。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xcrypto_max/status/1962079301089787931"
+  externalUrl: null
+  authorUsername: "0xcrypto_max"
+---
+
 # 優化資訊流：追蹤頂級交易者提升交易認知
 
 > **來源**: [@0xcrypto_max](https://x.com/0xcrypto_max/status/1962079301089787931)

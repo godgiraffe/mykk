@@ -1,3 +1,23 @@
+---
+title: "Coinglass 視覺篩選器：短線操作的持倉分析工具"
+date: "2024-10-20"
+tags: 
+  - "持倉數據"
+  - "短線交易"
+  - "期貨分析"
+summary: "繼上一篇短線操作的基本核心與觀察，有人詢問關於更細部的實際操作方式。這邊推薦 Coinglass 上面的**視覺篩選器**，可以很直觀看出目前各種幣種的合約狀況。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/b66ny/status/1848030553129570742"
+  externalUrl: null
+  authorUsername: "b66ny"
+---
+
 # Coinglass 視覺篩選器：短線操作的持倉分析工具
 
 > **來源**: [@b66ny](https://x.com/b66ny/status/1848030553129570742)

@@ -1,3 +1,23 @@
+---
+title: "Hyperliquid 永續 DEX 的早期參與經驗與跨資產交易機會"
+date: "2025-10-22"
+tags: 
+  - "早期項目"
+  - "財富機會"
+  - "DEX永續"
+summary: "Hyperliquid 是我個人 23-24 年以來比較大的一波收穫，除了公開的號之外，當時也拉了朋友批量做號以及擼 Purr 換積分，和大的鯨魚沒法比，但是就目前各個號目前總共下來大概小 A8 是有的，當然很可惜有的部分賣早了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/kungfu_crypto/status/1980998856511979973"
+  externalUrl: "https://trade.xyz/"
+  authorUsername: "kungfu_crypto"
+---
+
 # Hyperliquid 永續 DEX 的早期參與經驗與跨資產交易機會
 
 > **來源**: [@kungfu_crypto](https://x.com/kungfu_crypto/status/1980998856511979973) | [原文連結](https://trade.xyz/)

@@ -1,3 +1,23 @@
+---
+title: "三十萬美元 DeFi 農業投資藍圖"
+date: ">"
+tags: 
+  - "DeFi 農業"
+  - "流動性挖礦"
+  - "資金配置"
+summary: "**2. 不持有 BTC、ETH、SOL。** 在這個階段，我認為這些是隨機的上漲空間。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1980782102678208553"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # 三十萬美元 DeFi 農業投資藍圖
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1980782102678208553)

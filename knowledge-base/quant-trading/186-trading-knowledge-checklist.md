@@ -1,3 +1,23 @@
+---
+title: "交易知識檢查清單"
+date: "2025-07-11"
+tags: 
+  - "知識整理"
+  - "交易教材"
+  - "進階學習"
+summary: "根據我從推文截圖中看到的內容，這是一張關於 DeFi 書籍的照片。圖片顯示了一本書的封面，標題似乎是關於「交易知識檢查清單」的 PDF 文件。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/1943466395074990119"
+  externalUrl: "https://twitter.com/rnmumu3/status/1943466395074990119/photo/1"
+  authorUsername: "dan326714"
+---
+
 # 交易知識檢查清單
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/1943466395074990119) | [原文連結](https://twitter.com/rnmumu3/status/1943466395074990119/photo/1)

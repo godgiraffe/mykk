@@ -1,3 +1,23 @@
+---
+title: "Unichain Merkl 挖礦策略：日賺 2000 美元的頭礦玩法"
+date: "2025-04-19"
+tags: 
+  - "流動性挖礦"
+  - "Merkl 機制"
+  - "頭礦策略"
+summary: "這幾天都在挖 Unichain 的生態補貼，也曬了一些收益圖,很多人在私信我問我的策略,這裡做個簡單分享,文筆不好,只有乾貨。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xRandle/status/1913488129832686034"
+  externalUrl: "https://x.com/i/article/1913470473406689281"
+  authorUsername: "0xRandle"
+---
+
 # Unichain Merkl 挖礦策略：日賺 2000 美元的頭礦玩法
 
 > **來源**: [@0xRandle](https://x.com/0xRandle/status/1913488129832686034) | [原文連結](https://x.com/i/article/1913470473406689281)

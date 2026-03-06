@@ -1,3 +1,23 @@
+---
+title: "Falcon Finance TGE 上線準備指南"
+date: "2025-09-28"
+tags: 
+  - "新幣上線"
+  - "套利機會"
+  - "時間規劃"
+summary: "Falcon Finance 將於 9 月 29 日進行 TGE（代幣生成事件）。新幣上線往往伴隨各種賺錢機會，包括套利、抄底、頭礦、逃頂等。例如 $XPL 的頭礦短期 APY 達 1000%，但若連跨鏈橋都找不到，便無法把握機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Logic060/status/1972193652886896863"
+  externalUrl: null
+  authorUsername: "Logic060"
+---
+
 # Falcon Finance TGE 上線準備指南
 
 > **來源**: [@Logic060](https://x.com/Logic060/status/1972193652886896863)

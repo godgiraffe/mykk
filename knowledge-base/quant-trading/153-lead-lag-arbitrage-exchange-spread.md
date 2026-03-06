@@ -1,3 +1,23 @@
+---
+title: "Lead-Lag 套利策略：捕捉小所價格滯後機制"
+date: "2025-08-04"
+tags: 
+  - "套利"
+  - "跨所交易"
+  - "市場微觀結構"
+summary: "Lead-Lag Arbitrage 是一個經典的跨所套利策略，利用主流交易所（幣安、火幣、OKX）作為價格領先指標，捕捉小所的價格滯後機制。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1952377186335531043"
+  externalUrl: "https://github.com/beaquant/thousandTrading/blob/master/margin_spot_strategy/margin_dig_btc.py"
+  authorUsername: "0xKaKa03"
+---
+
 # Lead-Lag 套利策略：捕捉小所價格滯後機制
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1952377186335531043) | [原文連結](https://github.com/beaquant/thousandTrading/blob/master/margin_spot_strategy/margin_dig_btc.py)

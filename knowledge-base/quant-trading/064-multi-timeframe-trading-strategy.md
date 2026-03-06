@@ -1,3 +1,23 @@
+---
+title: "多週期 K 線交易法：4 小時定方向、1 小時畫地圖、15 分鐘開槍"
+date: ">"
+tags: 
+  - "多週期交易"
+  - "技術分析"
+  - "風險管理"
+summary: "很多人學交易，第一件事就是把圖表搞得五顏六色，線畫得比蜘蛛網還密，然後盯著 1 分鐘 K 線，心跳跟著價格上上下下。這不叫交易，叫看盤自慰。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/b66ny/status/1991460444503175477"
+  externalUrl: null
+  authorUsername: "b66ny"
+---
+
 # 多週期 K 線交易法：4 小時定方向、1 小時畫地圖、15 分鐘開槍
 
 > **來源**: [@b66ny](https://x.com/b66ny/status/1991460444503175477)

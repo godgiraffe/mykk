@@ -1,3 +1,23 @@
+---
+title: "ZRC 跨鏈搬磚套利路徑"
+date: ">"
+tags: 
+  - "跨鏈橋接"
+  - "套利搬磚"
+  - "ZRC"
+summary: "1. **起點**：ZRC（BSC 鏈） 2. **跨鏈橋接**：透過 Layer Zero (L0) 橋將 ZRC 從 BSC 鏈橋接至 ETH 鏈 3. **終點**：將 ZRC 轉入 Bitget 交易所"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 56
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cryptoxiaosanhu/status/1929823114508345555"
+  externalUrl: null
+  authorUsername: "Cryptoxiaosanhu"
+---
+
 # ZRC 跨鏈搬磚套利路徑
 
 > **來源**: [@Cryptoxiaosanhu](https://x.com/Cryptoxiaosanhu/status/1929823114508345555)

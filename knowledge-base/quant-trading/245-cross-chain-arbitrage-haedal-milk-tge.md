@@ -1,3 +1,23 @@
+---
+title: "跨鏈套利機會：TGE 首小時的價差套利實例分析"
+date: ">"
+tags: 
+  - "跨鏈套利"
+  - "TGE 交易"
+  - "價格不對稱"
+summary: "跨鏈套利麻了。最近幣安新上的 $Haedal 和 $Milk 都是跨鏈幣,又接入了最大流動性場所 Binance。我想說的是,TGE 頭一個小時,是搬磚黨的狂歡,價差巨大。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/block_dam/status/1917236332545655013"
+  externalUrl: null
+  authorUsername: "block_dam"
+---
+
 # 跨鏈套利機會：TGE 首小時的價差套利實例分析
 
 > **來源**: [@block_dam](https://x.com/block_dam/status/1917236332545655013)

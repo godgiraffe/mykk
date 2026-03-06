@@ -1,3 +1,23 @@
+---
+title: "Balancer 黑客事件套利策略分析"
+date: "2025-11-03"
+tags: 
+  - "套利"
+  - "流動性陷阱"
+  - "限價單"
+summary: "其中需要關注的是 osETH 和 sfrxETH，這兩個代幣分別有 6 千多個和 2 千多個。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1985370807753957684"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # Balancer 黑客事件套利策略分析
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1985370807753957684)

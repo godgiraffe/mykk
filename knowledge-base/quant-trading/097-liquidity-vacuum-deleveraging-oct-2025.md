@@ -1,3 +1,23 @@
+---
+title: "10/11 流動性真空去槓桿事件分析"
+date: "2025-10-17"
+tags: 
+  - "流動性危機"
+  - "風險管理"
+  - "做市商機制"
+summary: "10/10 - 10/11 的暴跌是市場槓桿過高引爆的流動性撤離事件，進而引起 USDe、BNSOL、WBETH 等資產的脫鉤，主流媒體統計此次全市場去槓桿規模約 $19B，為近年最劇烈之一"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptowilson_/status/1979119096127197263"
+  externalUrl: null
+  authorUsername: "cryptowilson_"
+---
+
 # 10/11 流動性真空去槓桿事件分析
 
 > **來源**: [@cryptowilson_](https://x.com/cryptowilson_/status/1979119096127197263)

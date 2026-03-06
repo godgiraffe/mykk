@@ -1,3 +1,23 @@
+---
+title: "BQL Trade Mining 尤達大師空投教學"
+date: "2024-01-06"
+tags: 
+  - "空投挖礦"
+  - "Swap交易"
+  - "開源腳本"
+summary: "$PORT3 還沒刷到尤達大師的朋友可以參考以下步驟。快要空投了，懶得手動刷的人可以使用開源腳本。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/tinyminer_yt/status/1743627447801623020"
+  externalUrl: "https://soquest.xyz/mining?invite_code=tDrVY7"
+  authorUsername: "tinyminer_yt"
+---
+
 # BQL Trade Mining 尤達大師空投教學
 
 > **來源**: [@tinyminer_yt](https://x.com/tinyminer_yt/status/1743627447801623020) | [原文連結](https://soquest.xyz/mining?invite_code=tDrVY7)

@@ -1,3 +1,23 @@
+---
+title: "撸毛工具完全指南：資產管理與自動化工具"
+date: "2023-04-15"
+tags: 
+  - "撸毛工具"
+  - "資產管理"
+  - "效率工具"
+summary: "撸毛的時候如果什麼東西都是手動，那樣會很麻煩，我們可以借助工具來幫助完成半自動化的操作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xKevin00/status/1647121887460204546"
+  externalUrl: null
+  authorUsername: "0xKevin00"
+---
+
 # 撸毛工具完全指南：資產管理與自動化工具
 
 > **來源**: [@0xKevin00](https://x.com/0xKevin00/status/1647121887460204546)

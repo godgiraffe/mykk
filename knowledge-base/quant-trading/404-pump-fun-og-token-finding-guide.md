@@ -1,3 +1,23 @@
+---
+title: "Pump.fun 尋找 OG 項目的鏈上技巧"
+date: "2024-10-09"
+tags: 
+  - "Pump.fun"
+  - "OG項目"
+  - "早期發現"
+summary: "當一個 IP 話題火了之後,市場上會有人炒作該 IP 的「OG 版本」(最早部署的同名代幣)。以下是透過 Pump.fun 平台找到 OG 項目的完整方法。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/angel_0x13/status/1843857706349932628"
+  externalUrl: "https://pump.fun/"
+  authorUsername: "angel_0x13"
+---
+
 # Pump.fun 尋找 OG 項目的鏈上技巧
 
 > **來源**: [@angel_0x13](https://x.com/angel_0x13/status/1843857706349932628) | [原文連結](https://pump.fun/)

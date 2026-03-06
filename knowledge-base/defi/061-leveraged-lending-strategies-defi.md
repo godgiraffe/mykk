@@ -1,3 +1,23 @@
+---
+title: "超額抵押借貸下的杠杆玩法：散戶、做市商、項目方與交易所的金融樂高"
+date: "2025-10-18"
+tags: 
+  - "借貸策略"
+  - "杠杆交易"
+  - "風險管理"
+summary: "核心概念：用戶首先向一個借貸協議提供一種資產作為抵押，然後借出同一種資產，再將借出的資產重新存入協議作為新的抵押品。這個過程可以重複多次，以建立一個高度槓桿化的頭寸。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1979441023094001834"
+  externalUrl: "https://x.com/i/article/1979207332262481920"
+  authorUsername: "agintender"
+---
+
 # 超額抵押借貸下的杠杆玩法：散戶、做市商、項目方與交易所的金融樂高
 
 > **來源**: [@agintender](https://x.com/agintender/status/1979441023094001834) | [原文連結](https://x.com/i/article/1979207332262481920)

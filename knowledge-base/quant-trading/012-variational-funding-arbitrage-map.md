@@ -1,3 +1,23 @@
+---
+title: "Variational 資金費率套利地圖——多鏈永續合約對比工具"
+date: ">"
+tags: 
+  - "資金費率"
+  - "套利機會"
+  - "永續合約"
+summary: "Variational Funding Map 是一個基於 Variational Omni Read API 開發的資金費率套利地圖工具，可即時比較多個永續合約交易所的資金費率數據，幫助交易者快速識別跨平台套利機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cas3333333/status/2008660921619784056"
+  externalUrl: "https://varfunding.xyz/"
+  authorUsername: "cas3333333"
+---
+
 # Variational 資金費率套利地圖——多鏈永續合約對比工具
 
 > **來源**: [@cas3333333](https://x.com/cas3333333/status/2008660921619784056) | [原文連結](https://varfunding.xyz/)

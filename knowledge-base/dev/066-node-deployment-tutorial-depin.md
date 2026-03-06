@@ -1,3 +1,23 @@
+---
+title: "節點部署基礎教程——一鍵腳本命令解析"
+date: "2024-12-09"
+tags: 
+  - "節點部署"
+  - "DePin"
+  - "VPS"
+summary: "節點專案推薦:參考大賭哥的推薦圖 部署方式:使用 VPS 執行一鍵腳本 專案類型:DePin 節點挖礦專案"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Nazarick_eth/status/1865964441398808853"
+  externalUrl: "https://twitter.com/Nazarick_eth/status/1865964441398808853/photo/1"
+  authorUsername: "Nazarick_eth"
+---
+
 # 節點部署基礎教程——一鍵腳本命令解析
 
 > **來源**: [@Nazarick_eth](https://x.com/Nazarick_eth/status/1865964441398808853) | [原文連結](https://twitter.com/Nazarick_eth/status/1865964441398808853/photo/1)

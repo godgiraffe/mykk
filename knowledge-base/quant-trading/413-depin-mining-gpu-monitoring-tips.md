@@ -1,3 +1,23 @@
+---
+title: "DePIN 挖礦 GPU 監控技巧與多開策略"
+date: "2024-10-04"
+tags: 
+  - "GPU監控"
+  - "DePIN挖礦"
+  - "macOS實用技巧"
+summary: "1. 打開「活動監視器」（可在「應用程式」資料夾中的「工具程式」資料夾找到，或使用 Spotlight 搜尋「活動監視器」開啟） 2. 進入「活動監視器」後，點選視窗頂部的「視窗」選單，然後選擇「GPU 歷史記錄」 3. 會出現獨立視窗，顯示當前系統中每個 GPU 的使用情況和歷史記錄"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Btc_Crush/status/1842200083384906069"
+  externalUrl: null
+  authorUsername: "Btc_Crush"
+---
+
 # DePIN 挖礦 GPU 監控技巧與多開策略
 
 > **來源**: [@Btc_Crush](https://x.com/Btc_Crush/status/1842200083384906069)

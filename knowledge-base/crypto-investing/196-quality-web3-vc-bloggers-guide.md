@@ -1,3 +1,23 @@
+---
+title: "12 位優質中文區 Web3 VC 博主推薦"
+date: ">"
+tags: 
+  - "VC 從業者"
+  - "行業認知"
+  - "投資學習"
+summary: "於是 Sky 決定給大家推薦一些優質 VC 博主，和他們多互動能學到在 VC 的認知。其實關於行業認知啊，散戶很多時候學到的都是反的，多看他們行情來了能抓住。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 39
+priorityScore: 53
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sky_gpt/status/1834347666970738993"
+  externalUrl: null
+  authorUsername: "sky_gpt"
+---
+
 # 12 位優質中文區 Web3 VC 博主推薦
 
 > **來源**: [@sky_gpt](https://x.com/sky_gpt/status/1834347666970738993)

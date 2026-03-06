@@ -1,3 +1,23 @@
+---
+title: "USDe 循環貸策略 - TON 鏈 3 倍 APY 42.44%"
+date: "2025-08-04"
+tags: 
+  - "循環貸"
+  - "USDe"
+  - "TON 鏈"
+summary: "在以太坊主網 AAVE + Ethena 上循環策略，需要的 Gas 還是有點高的，5 次循環即使 Gas 低於 0.5 Gwei 也要燃燒接近 8U。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BitHappy/status/1952318157164859562"
+  externalUrl: "https://x.com/BitHappyX/status/1947583308369625339"
+  authorUsername: "BitHappy"
+---
+
 # USDe 循環貸策略 - TON 鏈 3 倍 APY 42.44%
 
 > **來源**: [@BitHappy](https://x.com/BitHappy/status/1952318157164859562) | [原文連結](https://x.com/BitHappyX/status/1947583308369625339)

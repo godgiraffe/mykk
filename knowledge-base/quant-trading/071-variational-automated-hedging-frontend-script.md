@@ -1,3 +1,23 @@
+---
+title: "Variational 全自動對沖前端開源腳本教程"
+date: ">"
+tags: 
+  - "自動化交易"
+  - "對沖策略"
+  - "前端腳本"
+summary: "Variational 全自動對沖前端開源腳本教程。多位高質量內容創作者推薦（例如 Lighter），建議早期參與以免後悔錯過機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ddazmon/status/1990629703238271318"
+  externalUrl: "https://arbiscan.io/address/0xc47756133753280c37b227c24782984e021c4544#tokentxns"
+  authorUsername: "ddazmon"
+---
+
 # Variational 全自動對沖前端開源腳本教程
 
 > **來源**: [@ddazmon](https://x.com/ddazmon/status/1990629703238271318) | [原文連結](https://arbiscan.io/address/0xc47756133753280c37b227c24782984e021c4544#tokentxns)

@@ -1,3 +1,23 @@
+---
+title: "套利部位管理實踐：48 天平倉心路歷程"
+date: ">"
+tags: 
+  - "套利策略"
+  - "部位管理"
+  - "交易心態"
+summary: "從開倉到結束總共經歷了 48 天。期間其實有過很好的平倉機會，中間曾出現過最佳的退出時機——價差回歸。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LeonLytic/status/1929953658508333206"
+  externalUrl: null
+  authorUsername: "LeonLytic"
+---
+
 # 套利部位管理實踐：48 天平倉心路歷程
 
 > **來源**: [@LeonLytic](https://x.com/LeonLytic/status/1929953658508333206)

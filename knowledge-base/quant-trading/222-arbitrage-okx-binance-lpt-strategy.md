@@ -1,3 +1,23 @@
+---
+title: "OKX-幣安套利策略：LPT 低風險交易案例"
+date: "2025-05-30"
+tags: 
+  - "套利"
+  - "低風險交易"
+  - "交易策略"
+summary: "套利人追求的都是低風險的交易，其實原理非常簡單。今天的 OKX 搞了個小插曲，下篇套利文章將會是原理解析公開分享，條件也很簡單：只要你有 BINANCE 和 OKX 的帳戶就可以了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1928385334758477907"
+  externalUrl: null
+  authorUsername: "Boywus"
+---
+
 # OKX-幣安套利策略：LPT 低風險交易案例
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1928385334758477907)

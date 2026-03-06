@@ -1,3 +1,23 @@
+---
+title: "飯碗告警系統推薦"
+date: "2025-04-11"
+tags: 
+  - "交易工具"
+  - "預警系統"
+  - "效率提升"
+summary: "## 內容 網友推薦的飯碗告警系統，可立即使用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 45
+evergreenScore: 51
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x0_zero/status/1910550936659132857"
+  externalUrl: "https://twitter.com/0x0_zero/status/1910550936659132857/photo/1"
+  authorUsername: "0x0_zero"
+---
+
 # 飯碗告警系統推薦
 
 > **來源**: [@0x0_zero](https://x.com/0x0_zero/status/1910550936659132857) | [原文連結](https://twitter.com/0x0_zero/status/1910550936659132857/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "Yond DeFi 交易方法論彙總：Yield Farming、仓位管理、止盈策略"
+date: "2025-04-23"
+tags: 
+  - "DeFi策略"
+  - "仓位管理"
+  - "風險控制"
+summary: "**Yield Farming 的本質 一**: https://t.co/fkiK3lSMjm **Yield Farming 的本質 二**: https://t.co/v5RuTJ3zzz"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xYond/status/1914893503634792561"
+  externalUrl: "https://t.me/yondcallsbeta/15"
+  authorUsername: "0xYond"
+---
+
 # Yond DeFi 交易方法論彙總：Yield Farming、仓位管理、止盈策略
 
 > **來源**: [@0xYond](https://x.com/0xYond/status/1914893503634792561) | [原文連結](https://t.me/yondcallsbeta/15)

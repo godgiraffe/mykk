@@ -1,3 +1,23 @@
+---
+title: "套利入門指南：從基礎到進階的套利策略"
+date: ">"
+tags: 
+  - "套利"
+  - "資金費率"
+  - "價差套利"
+summary: "在開始這個話題之前,首先要明白一點,大多數人在 web3 不斷投入精力/金錢的驅動是什麼,是獲得更多的💰,當你有利潤時,你才會繼續鑽研更多的東西。所以,對大部分新人來說,入門套利首先是要找一個能賺到錢的地方,然後不斷深入。有些人上來就直接幹 BSC、SOL 之類的鏈上套利,然後鑽研很久,被各種大科教育,賺不到錢,然後就自然而然放棄了套利這一行。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dev_xjm/status/1948262202441630043"
+  externalUrl: null
+  authorUsername: "dev_xjm"
+---
+
 # 套利入門指南：從基礎到進階的套利策略
 
 > **來源**: [@dev_xjm](https://x.com/dev_xjm/status/1948262202441630043)

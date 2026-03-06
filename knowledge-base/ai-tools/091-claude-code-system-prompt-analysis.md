@@ -1,3 +1,23 @@
+---
+title: "Claude Code 系統提示詞深度解析：Coding Agent 設計原理"
+date: "2025-07-28"
+tags: 
+  - "Claude Code"
+  - "系統提示詞"
+  - "AI Agent設計"
+summary: "Claude Code 系統提示詞已被開源公布（作者 @khoi_danny），本文深入解讀其設計原理，了解 Claude Code 如何設計 Coding Agent 系統提示詞，以便更好地使用它。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/1949628169625243816"
+  externalUrl: null
+  authorUsername: "shao__meng"
+---
+
 # Claude Code 系統提示詞深度解析：Coding Agent 設計原理
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/1949628169625243816)

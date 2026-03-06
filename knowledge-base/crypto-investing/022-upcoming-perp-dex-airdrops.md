@@ -1,3 +1,23 @@
+---
+title: "近期永續合約 DEX 空投確認清單"
+date: ">"
+tags: 
+  - "空投農耕"
+  - "DEX"
+  - "永續交易"
+summary: "平台 TGE 分配比例 社群空投比例 狀態 ------ -------------- -------------- ------ **Paradex** 20% at TGE 未公開 已確認 **Extended App** 30% at TGE 未公開 已確認 **EdgeX Exchange** 25% at TGE 未公開 已確認 **Variational** TGE 未確認 50% 社群 已確認社群分配 **Pacifica"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xRohitz/status/2008555058619953524"
+  externalUrl: null
+  authorUsername: "0xRohitz"
+---
+
 # 近期永續合約 DEX 空投確認清單
 
 > **來源**: [@0xRohitz](https://x.com/0xRohitz/status/2008555058619953524)

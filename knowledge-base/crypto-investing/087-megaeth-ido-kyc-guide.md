@@ -1,3 +1,23 @@
+---
+title: "MegaETH 打新上線：Echo Sonar KYC 完整教程（含地址證明方案）"
+date: "2025-10-18"
+tags: 
+  - "新幣上線"
+  - "打新教程"
+  - "KYC驗證"
+summary: "MegaETH (@megaeth) 是 EVM 兼容的 L2 區塊鏈專案，目標實現： 低於 10 毫秒級的區塊時間 10 萬 TPS 的交易吞吐量"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/johnsmith_data/status/1979464593492885951"
+  externalUrl: "https://token.megaeth.com/"
+  authorUsername: "johnsmith_data"
+---
+
 # MegaETH 打新上線：Echo Sonar KYC 完整教程（含地址證明方案）
 
 > **來源**: [@johnsmith_data](https://x.com/johnsmith_data/status/1979464593492885951) | [原文連結](https://token.megaeth.com/)

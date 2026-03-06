@@ -1,3 +1,23 @@
+---
+title: "從配置到系統：Claude Code 兩個月的演化之旅"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "系統設計"
+  - "工作流程"
+summary: "用 Claude Code 兩個多月，CLAUDE.md 從一個配置文件長成了一套操作系統。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2027030391643570258"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "runes_leo"
+---
+
 # 從配置到系統：Claude Code 兩個月的演化之旅
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2027030391643570258) | [原文連結](https://code.claude.com/docs)

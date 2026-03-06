@@ -1,3 +1,23 @@
+---
+title: "2025年10月10日套利交易社群分享"
+date: "2025-10-10"
+tags: 
+  - "套利策略"
+  - "市場微觀結構"
+  - "實時交易"
+summary: "抱歉，這個連結指向的是 **X Spaces（音訊直播間）**，而不是文字推文。X Spaces 是即時或錄製的語音對話，無法像一般推文一樣抓取文字內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1976792021764653547"
+  externalUrl: "https://twitter.com/i/spaces/1yoJMPYyBRoGQ"
+  authorUsername: "zhamomo666"
+---
+
 # 2025年10月10日套利交易社群分享
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1976792021764653547) | [原文連結](https://twitter.com/i/spaces/1yoJMPYyBRoGQ)

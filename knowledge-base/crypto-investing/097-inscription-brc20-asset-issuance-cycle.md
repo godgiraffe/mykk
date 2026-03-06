@@ -1,3 +1,23 @@
+---
+title: "銘文與 BRC20：資產發行的新季節"
+date: ">"
+tags: 
+  - "資產發行"
+  - "鏈上銘文"
+  - "市場週期"
+summary: "「動物園」、「銘文 BRC20」、「中文 ticker」的共同點在於它們都是**資產發行的類別**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lnkybtc/status/1976244685774651839"
+  externalUrl: null
+  authorUsername: "lnkybtc"
+---
+
 # 銘文與 BRC20：資產發行的新季節
 
 > **來源**: [@lnkybtc](https://x.com/lnkybtc/status/1976244685774651839)

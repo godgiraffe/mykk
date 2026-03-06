@@ -1,3 +1,23 @@
+---
+title: "小資金薅羊毛投機策略"
+date: "2024-10-30"
+tags: 
+  - "套利"
+  - "小資金"
+  - "投機"
+summary: "根據我獲取的資訊，這條推文的內容非常簡短，只有一句話：「小資金薅羊毛投機（個人理解）」，並附帶一個 6 分 40 秒的影片。由於這是一條純影片內容的推文，文字部分極其簡短，我無法從推文本身提取更多文字內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1851675939643756601"
+  externalUrl: "https://twitter.com/zhamomo666/status/1851675939643756601/video/1"
+  authorUsername: "zhamomo666"
+---
+
 # 小資金薅羊毛投機策略
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1851675939643756601) | [原文連結](https://twitter.com/zhamomo666/status/1851675939643756601/video/1)

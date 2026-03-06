@@ -1,3 +1,23 @@
+---
+title: "ZeroBase 與 USDAI 穩定幣理財策略對比"
+date: "2025-10-17"
+tags: 
+  - "DeFi收益"
+  - "穩定幣"
+  - "風險管理"
+summary: "**ZeroBase**：至少 90% 的年化吃利息，upbit + 幣安大滿貫 **USDAI**：穩定幣最高 5.5% 的溢價差價，還不算空投給的積分。USDAI 差不多 1M 積分 150-200U 左右收益"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1979124698895233524"
+  externalUrl: null
+  authorUsername: "0xleng1"
+---
+
 # ZeroBase 與 USDAI 穩定幣理財策略對比
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1979124698895233524)

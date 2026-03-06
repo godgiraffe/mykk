@@ -1,3 +1,23 @@
+---
+title: "市場擇時與成本優勢：跨越週期的投資哲學"
+date: ">"
+tags: 
+  - "成本優勢"
+  - "熊市佈局"
+  - "心態管理"
+summary: "樹挪死人挪活，去年 11 月發現場內山寨幣按個人的估值體系和審美幾乎都下不去吊，所以大倉位幹了 COIN 和 MARA。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/keyahayek/status/1856919175635374143"
+  externalUrl: null
+  authorUsername: "keyahayek"
+---
+
 # 市場擇時與成本優勢：跨越週期的投資哲學
 
 > **來源**: [@keyahayek](https://x.com/keyahayek/status/1856919175635374143)

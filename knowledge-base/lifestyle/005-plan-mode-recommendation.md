@@ -1,3 +1,23 @@
+---
+title: "Plan Mode 使用心得推薦"
+date: "2026-02-02"
+tags: 
+  - "效率工具"
+  - "生活技巧"
+  - "推薦"
+summary: "特點 描述 -------- ------------------------------------- 工具名稱 Plan Mode 推薦者 @seekjourney (极客杰尼) 重點 使用體驗良好，值得推薦。 引用來源 @cellinlab (連結：https://t.co/AVRt6HWpbh)"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/seekjourney/status/2018248940018356317"
+  externalUrl: null
+  authorUsername: "seekjourney"
+---
+
 # Plan Mode 使用心得推薦
 
 > **來源**: [@seekjourney](https://x.com/seekjourney/status/2018248940018356317)

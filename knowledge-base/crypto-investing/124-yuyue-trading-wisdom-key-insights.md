@@ -1,3 +1,23 @@
+---
+title: "交易大師 Yuyue 的投資哲學：信息差、選標邏輯與鏈上機會"
+date: "2025-07-13"
+tags: 
+  - "投資心態"
+  - "套利思維"
+  - "標的選擇"
+summary: "3. **要有第二波的思維**，大的概念如果第一波沒有抓住的話，一般會有第二波。——巫師"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/moment_eth/status/1944373418926948573"
+  externalUrl: null
+  authorUsername: "moment_eth"
+---
+
 # 交易大師 Yuyue 的投資哲學：信息差、選標邏輯與鏈上機會
 
 > **來源**: [@moment_eth](https://x.com/moment_eth/status/1944373418926948573)

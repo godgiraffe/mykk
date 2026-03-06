@@ -1,3 +1,23 @@
+---
+title: "Pendle 穩定幣收益策略與意見領袖指南"
+date: "2025-09-12"
+tags: 
+  - "Pendle"
+  - "固定收益"
+  - "DeFi 策略"
+summary: "如果你喜歡低風險玩穩定幣，使用 @pendle_fi 賺取積分類收益，只需要關注以下幾位意見領袖就夠了（包括最近很火的 @falconfinance）："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/MaiMaiTi778/status/1966323663378280615"
+  externalUrl: null
+  authorUsername: "MaiMaiTi778"
+---
+
 # Pendle 穩定幣收益策略與意見領袖指南
 
 > **來源**: [@MaiMaiTi778](https://x.com/MaiMaiTi778/status/1966323663378280615)

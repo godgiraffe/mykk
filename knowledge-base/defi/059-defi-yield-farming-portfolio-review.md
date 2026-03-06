@@ -1,3 +1,23 @@
+---
+title: "DeFi 收益農場投資組合復盤與策略調整"
+date: "2025-10-25"
+tags: 
+  - "Yield Farming"
+  - "YT 代幣"
+  - "流動性挖礦"
+summary: "### 1. Ethena S4 賽季空投 @ethena_labs S4 賽季空投將於本月底發放 持有 37 億積分，預計可獲得 40,000 個 $ENA 代幣"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/imqianyi88/status/1982103138602733769"
+  externalUrl: null
+  authorUsername: "imqianyi88"
+---
+
 # DeFi 收益農場投資組合復盤與策略調整
 
 > **來源**: [@imqianyi88](https://x.com/imqianyi88/status/1982103138602733769)

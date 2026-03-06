@@ -1,3 +1,25 @@
+---
+title: "LP 選標的四大核心指標"
+date: "2026-01-13"
+tags: 
+  - "LP"
+  - "Uniswap"
+  - "選標"
+  - "手續費"
+  - "波動率"
+summary: "幣價是否在合理區間內？ 如果價格已經偏離基本面太多，做 LP 可能承受無常損失 優先選擇**價格穩定或有均值回歸特性**的幣對"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 56
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/fivepointwater5/status/2009592431583653919"
+  externalUrl: null
+  authorUsername: "fivepointwater5"
+---
+
 # LP 選標的四大核心指標
 
 > **來源**: [五點水 (@fivepointwater5)](https://x.com/fivepointwater5/status/2009592431583653919)

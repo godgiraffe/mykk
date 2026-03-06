@@ -1,3 +1,23 @@
+---
+title: "DeFi 冷門協議實戰指南：Contango、Morpho、Pendle 等低波動農場"
+date: "2024-09-14"
+tags: 
+  - "DeFi策略"
+  - "循環貸"
+  - "固定收益"
+summary: "其實不少人常常私訊問我最近在看什麼 DeFi。近期手動擼毛接近死亡，加上我已經沒時間這樣擼，因此把有限時間換去找低波動 Farming 的香礦，同時包含 PT YT 這類花式虧錢的路徑。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/CryptoCharming/status/1834895526023905671"
+  externalUrl: null
+  authorUsername: "CryptoCharming"
+---
+
 # DeFi 冷門協議實戰指南：Contango、Morpho、Pendle 等低波動農場
 
 > **來源**: [@CryptoCharming](https://x.com/CryptoCharming/status/1834895526023905671)

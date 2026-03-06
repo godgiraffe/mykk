@@ -1,3 +1,23 @@
+---
+title: "ETH 靓號錢包生成教學：手把手跑 12 個 0 開頭的錢包"
+date: "2024-10-23"
+tags: 
+  - "以太坊"
+  - "錢包地址"
+  - "技術教學"
+summary: "很多人都有自己的靚號錢包，比如有的兄弟的錢包是 0x666 開頭、0x888 開頭，或者八個八、六個六、七個七結尾的錢包。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cutepanda/status/1848985340473933836"
+  externalUrl: "https://x.com/MasterCui/status/1572421387981328384"
+  authorUsername: "cutepanda"
+---
+
 # ETH 靓號錢包生成教學：手把手跑 12 個 0 開頭的錢包
 
 > **來源**: [@cutepanda](https://x.com/cutepanda/status/1848985340473933836) | [原文連結](https://x.com/MasterCui/status/1572421387981328384)

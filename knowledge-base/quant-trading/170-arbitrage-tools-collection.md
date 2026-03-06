@@ -1,3 +1,23 @@
+---
+title: "套利工具實用資源合集"
+date: "2025-07-21"
+tags: 
+  - "套利機會"
+  - "交易所差價"
+  - "資金費率"
+summary: "以下是常用的套利工具與監控平台，涵蓋交易所差價監控、資金費率對比、實時資訊與 DeFi 數據分析等功能。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/haogege999/status/1947356592393105825"
+  externalUrl: "https://pulse.astro-btc.xyz/"
+  authorUsername: "haogege999"
+---
+
 # 套利工具實用資源合集
 
 > **來源**: [@haogege999](https://x.com/haogege999/status/1947356592393105825) | [原文連結](https://pulse.astro-btc.xyz/)

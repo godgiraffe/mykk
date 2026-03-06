@@ -1,3 +1,23 @@
+---
+title: "交易如釣魚：市場心態與風控清單"
+date: "2025-12-28"
+tags: 
+  - "心態管理"
+  - "風險控制"
+  - "交易紀律"
+summary: "交易維度 釣魚比喻 實際做法 --------- --------- --------- **控制範圍** 你管不到魚，只能控制裝備與策略 不能控制市場，只能控制自己的風控與執行 **定位技術** 老手看湖像看地圖，知道魚在哪 學會看流動性、結構、訂單聚集位置 **執行紀律** 條件符合才拋竿，否則就等待 setup 出現才執行，不符合就關掉 **面對虧損** 脫鉤是常態，記錄原因繼續釣 虧損是機率成本，固定風險繼續執行 **零機會日*"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jstin0502/status/2005210354079641977"
+  externalUrl: null
+  authorUsername: "jstin0502"
+---
+
 # 交易如釣魚：市場心態與風控清單
 
 > **來源**: [@jstin0502](https://x.com/jstin0502/status/2005210354079641977)

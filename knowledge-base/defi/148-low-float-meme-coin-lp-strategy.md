@@ -1,3 +1,23 @@
+---
+title: "低流動性 Meme 幣 LP 策略分析"
+date: "2025-06-11"
+tags: 
+  - "LP策略"
+  - "Meme幣"
+  - "自動化"
+summary: "雖然文章中有不少細節性錯誤（比如單邊 DAMM v2 無法實現等），但整體策略依然有值得借鑑的地方。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1932719049689227449"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # 低流動性 Meme 幣 LP 策略分析
 
 > **來源**: [@gm365](https://x.com/gm365/status/1932719049689227449)

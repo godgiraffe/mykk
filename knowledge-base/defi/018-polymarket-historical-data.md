@@ -1,3 +1,24 @@
+---
+title: "Polymarket 歷史數據分享與回測"
+date: ">"
+tags: 
+  - "Polymarket"
+  - "數據分析"
+  - "回測"
+  - "預測市場"
+summary: "本文整理了 @DFarm_club (DFarm) 分享的 Polymarket 歷史交易數據，涵蓋 2022 年至 2026 年，旨在協助用戶進行策略回測。同時簡述了 DFarm 過往的社群經驗與對未來 AI 時代內容分享的展望。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/DFarm_club/status/2011765347716894927"
+  externalUrl: "http://dfarm.vip/docs/about/"
+  authorUsername: "DFarm_club"
+---
+
 # Polymarket 歷史數據分享與回測
 
 > **來源**: [@DFarm_club](https://x.com/DFarm_club/status/2011765347716894927) | [原文連結](http://dfarm.vip/docs/about/)

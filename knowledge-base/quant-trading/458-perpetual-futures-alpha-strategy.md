@@ -1,3 +1,23 @@
+---
+title: "永續合約：小而美的量化 Alpha 之路"
+date: ">"
+tags: 
+  - "永續合約"
+  - "套利策略"
+  - "量化交易"
+summary: "在現代統計學與機器學習的降維打擊下，量化交易已成為頂級數理人才博弈的紅海。當前的研發邏輯不再滿足於短暫的套利，而是致力於挖掘具有低衰減特性與大資金承載力的深度策略。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/2029499603767415067"
+  externalUrl: "https://x.com/i/article/2029488760237572097"
+  authorUsername: "Boywus"
+---
+
 # 永續合約：小而美的量化 Alpha 之路
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/2029499603767415067) | [原文連結](https://x.com/i/article/2029488760237572097)

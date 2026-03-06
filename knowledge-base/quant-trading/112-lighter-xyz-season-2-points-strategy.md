@@ -1,3 +1,23 @@
+---
+title: "Lighter 第二季積分策略與交易指南"
+date: "2025-10-05"
+tags: 
+  - "Lighter 積分"
+  - "OI 交易"
+  - "新幣上市"
+summary: "1. **交易低 OI 幣種** - 選擇持倉量較低的交易對 2. **持倉時長** - 至少持有 1 小時以上，持倉時間很重要 3. **每日交易** - 保持日常交易活躍度 4. **交易新上架幣種** - 優先交易最新上架的幣種（目前最新為 $ZEC） 5. **夏普比率 + 交易量** - 兼顧風險調整後收益與交易量"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Aravindxbt/status/1974850392262611394"
+  externalUrl: null
+  authorUsername: "Aravindxbt"
+---
+
 # Lighter 第二季積分策略與交易指南
 
 > **來源**: [@Aravindxbt](https://x.com/Aravindxbt/status/1974850392262611394)

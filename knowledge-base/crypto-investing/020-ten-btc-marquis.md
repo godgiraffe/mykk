@@ -1,3 +1,25 @@
+---
+title: "十幣稱侯：比特幣囤幣哲學與價格錨定邏輯"
+date: "2026-02-01"
+tags: 
+  - "比特幣"
+  - "囤幣"
+  - "價格錨定"
+  - "減半"
+  - "長期投資"
+summary: "本文由 @ohyishi (Yishi) 撰寫，原文發表於 2023 年 11 月 4 日（BTC 當時價格 34,522 美元），後於 2026 年重新發布。文章從「存量-產量」模型、價格錨定遊戲、山寨幣陷阱、底倉理解等角度，系統性闡述比特幣的長期投資邏輯。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ohyishi/status/2017829613200945157"
+  externalUrl: null
+  authorUsername: "ohyishi"
+---
+
 # 十幣稱侯：比特幣囤幣哲學與價格錨定邏輯
 
 > **來源**: [@ohyishi](https://x.com/ohyishi/status/2017829613200945157)

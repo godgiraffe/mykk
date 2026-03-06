@@ -1,3 +1,23 @@
+---
+title: "小市值幣種莊家操盤策略分析：F3B 案例拆解"
+date: "2025-04-12"
+tags: 
+  - "小市值交易"
+  - "莊家心理"
+  - "期現套利"
+summary: "小市值幣種如果沒有莊家，就會淪為散戶陷阱。莊家的經典操盤流程：買入現貨、開倉、做 OI（持倉量）、拉盤、累積對手盤、負費率、負溢價、出貨。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/daidaibtc/status/1911164324858700156"
+  externalUrl: null
+  authorUsername: "daidaibtc"
+---
+
 # 小市值幣種莊家操盤策略分析：F3B 案例拆解
 
 > **來源**: [@daidaibtc](https://x.com/daidaibtc/status/1911164324858700156)

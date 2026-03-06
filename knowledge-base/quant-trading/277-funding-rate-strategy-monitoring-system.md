@@ -1,3 +1,23 @@
+---
+title: "合約費率戰法監測系統開源項目"
+date: "2025-04-07"
+tags: 
+  - "資金費率"
+  - "量化交易系統"
+  - "開源工具"
+summary: "**倉庫地址**: https://github.com/follow-clues/funding-rate-monitor"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/follow_clues/status/1909300928043450856"
+  externalUrl: "https://github.com/Theclues/Funding_rate_strategy_monitoring_system"
+  authorUsername: "follow_clues"
+---
+
 # 合約費率戰法監測系統開源項目
 
 > **來源**: [@follow_clues](https://x.com/follow_clues/status/1909300928043450856) | [原文連結](https://github.com/Theclues/Funding_rate_strategy_monitoring_system)

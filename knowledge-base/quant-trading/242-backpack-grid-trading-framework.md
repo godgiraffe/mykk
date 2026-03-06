@@ -1,3 +1,23 @@
+---
+title: "Backpack 網格交易程序 - 開源自動化交易腳本"
+date: "2025-05-02"
+tags: 
+  - "網格交易"
+  - "Backpack Exchange"
+  - "自動化交易"
+summary: "這是一個針對 Backpack Exchange 設計的開源網格交易腳本，主要用於自動化交易策略。不是什麼高深的套利策略，純粹網格策略避免過於複雜，用於刷量簡單獲利/虧損方便。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/practice_y11/status/1918202432888422660"
+  externalUrl: null
+  authorUsername: "practice_y11"
+---
+
 # Backpack 網格交易程序 - 開源自動化交易腳本
 
 > **來源**: [@practice_y11](https://x.com/practice_y11/status/1918202432888422660)

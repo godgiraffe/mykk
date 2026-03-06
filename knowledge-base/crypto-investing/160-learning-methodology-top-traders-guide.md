@@ -1,3 +1,23 @@
+---
+title: "加密幣交易入門方法論—向頂級博主學習"
+date: "2025-03-21"
+tags: 
+  - "學習方法"
+  - "交易心態"
+  - "知識積累"
+summary: "最近收到的訊息比較多,我說下我入行的方法論和比較厲害的博主的推薦。我是看他們影片和推特,甚至看他們的留言去學習的。最開始的時候我一看能看一天,我翻了這些博主最近3年的記錄。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/1902892100095795295"
+  externalUrl: null
+  authorUsername: "dan326714"
+---
+
 # 加密幣交易入門方法論—向頂級博主學習
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/1902892100095795295)

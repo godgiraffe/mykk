@@ -1,3 +1,23 @@
+---
+title: "Lighter ARC 事件：LLP 攻擊與 ADL 清算實錄"
+date: "2026-02-25"
+tags: 
+  - "市場微觀結構"
+  - "自動清算機制"
+  - "流動性風險"
+summary: "該帳戶在 Lighter 上開倉了約 2 億個 ARC 的看多合約，價值約 $2400 萬，並且還在不停地 TWAP 開倉，當時浮盈 $500 萬，每天需要付 $95 萬的資金費。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/2026801322146578605"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # Lighter ARC 事件：LLP 攻擊與 ADL 清算實錄
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/2026801322146578605)

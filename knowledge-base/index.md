@@ -3,14 +3,14 @@ layout: home
 hero:
   name: Knowledge Base
   text: 個人知識庫
-  tagline: 收錄各領域學習筆記與資料整理
+  tagline: 從全量匯入，走向真正可回頭使用的精選知識庫
   actions:
     - theme: brand
-      text: 開始瀏覽
-      link: /quant-trading/001-orderbook-factors-hft
+      text: 開始待審
+      link: /review
     - theme: alt
-      text: GitHub
-      link: https://github.com/chenjunhan/mykk
+      text: 看精選
+      link: /curated
 features:
   - title: AI 工具與應用
     details: Claude Code、AI 開發、Prompt 工程、安全

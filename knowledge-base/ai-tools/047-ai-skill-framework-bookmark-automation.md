@@ -1,3 +1,23 @@
+---
+title: "打造個人 AI Agent 技能庫：從收藏到自動執行"
+date: "2026-02-15"
+tags: 
+  - "AI Agent"
+  - "Skill 框架"
+  - "知識管理"
+summary: "我做了個小工具叫「收藏到就是學到」，它會自動把你收藏的內容抓下來，轉成乾淨的 Markdown 文件。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/JamesAI/status/2022889900237001179"
+  externalUrl: "https://x.com/i/article/2022883015387680768"
+  authorUsername: "JamesAI"
+---
+
 # 打造個人 AI Agent 技能庫：從收藏到自動執行
 
 > **來源**: [@JamesAI](https://x.com/JamesAI/status/2022889900237001179) | [原文連結](https://x.com/i/article/2022883015387680768)

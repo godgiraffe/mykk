@@ -1,3 +1,23 @@
+---
+title: "USDE 脫錨套利策略與跨鏈橋接實踐"
+date: "2025-10-10"
+tags: 
+  - "USDE套利"
+  - "跨鏈橋接"
+  - "DEX交易"
+summary: "今晚看見 USDE 閃崩脫錨後，在幣安買入。當時正好在電腦前看 Pendle，就用 Pendle Swap 看了一眼，發現 BASE 和 ARB 的 USDE 在錨（事實上這兩條鏈 USDE 就壓根沒脫錨）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/craigyc_eth/status/1976791881406431741"
+  externalUrl: null
+  authorUsername: "craigyc_eth"
+---
+
 # USDE 脫錨套利策略與跨鏈橋接實踐
 
 > **來源**: [@craigyc_eth](https://x.com/craigyc_eth/status/1976791881406431741)

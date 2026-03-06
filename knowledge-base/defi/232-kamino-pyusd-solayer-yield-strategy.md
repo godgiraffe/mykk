@@ -1,3 +1,23 @@
+---
+title: "Kamino + Solayer 複合收益策略分享"
+date: ">"
+tags: 
+  - "收益農耕"
+  - "Solana生態"
+  - "風險管理"
+summary: "1. **將 USDC swap 成 pyUSD** 2. **存入 Kamino** - 吃 20% 的 APR - 加一點點 Kamino 空投 3. **借出 SOL** - 支付 6% APR 4. **存入 Solayer** - 賺 8% APR - 加潛在空投"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1821451565452206394"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # Kamino + Solayer 複合收益策略分享
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1821451565452206394)

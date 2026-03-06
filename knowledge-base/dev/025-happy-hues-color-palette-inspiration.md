@@ -1,3 +1,23 @@
+---
+title: "Happy Hues - 色彩調色盤靈感工具"
+date: "2025-11-01"
+tags: 
+  - "設計工具"
+  - "色彩搭配"
+  - "UI設計"
+summary: "Happy Hues 是一個色彩調色盤靈感工具，提供精選的色彩組合並以實際網站範例展示這些顏色如何應用於設計專案中。網站地址：https://www.happyhues.co/"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/AdhamDannaway/status/1984628242309951657"
+  externalUrl: "https://www.happyhues.co/"
+  authorUsername: "AdhamDannaway"
+---
+
 # Happy Hues - 色彩調色盤靈感工具
 
 > **來源**: [@AdhamDannaway](https://x.com/AdhamDannaway/status/1984628242309951657) | [原文連結](https://www.happyhues.co/)

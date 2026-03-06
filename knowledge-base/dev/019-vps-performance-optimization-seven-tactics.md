@@ -1,3 +1,23 @@
+---
+title: "榨干黑五VPS的7個姿勢 - Web3開發者VPS性能優化指南"
+date: "2025-11-23"
+tags: 
+  - "VPS優化"
+  - "資源管理"
+  - "開發工具"
+summary: "一台 VPS，4 核 8G 記憶體 120GB 硬碟，多數人只用來掛個🐛或🪜，CPU 占用常年不到 10%，8GB 記憶體只用了 1.5GB。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1992498767954850299"
+  externalUrl: null
+  authorUsername: "wquguru"
+---
+
 # 榨干黑五VPS的7個姿勢 - Web3開發者VPS性能優化指南
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1992498767954850299)

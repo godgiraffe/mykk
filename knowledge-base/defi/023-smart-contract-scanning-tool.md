@@ -1,3 +1,27 @@
+---
+title: "智能合約掃描工具"
+date: "2026-02-04"
+tags: 
+  - "智能合約"
+  - "安全"
+  - "掃描工具"
+  - "LLM"
+  - "Slither"
+  - "漏洞"
+  - "DeFi"
+summary: "本文介紹一款開源智能合約掃描工具，該工具可以批量掃描智能合約的漏洞，並允許使用者自定義提示詞。它支援多種 AI 模型和掃描模式，並具備代碼清洗和 solc 解析功能，掃描速度快。 該工具已具備商業價值，有人在此基礎上進行二次開發並已獲利。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/S7iter_/status/2018995347302043709"
+  externalUrl: null
+  authorUsername: "S7iter_"
+---
+
 # 智能合約掃描工具
 
 > **來源**: [@S7iter_](https://x.com/S7iter_/status/2018995347302043709)

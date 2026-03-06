@@ -1,3 +1,23 @@
+---
+title: "Pendle 與 Polymarket 綜合策略指南"
+date: "2025-10-31"
+tags: 
+  - "DeFi策略"
+  - "資金費率"
+  - "LP收益"
+summary: "1. DeFi 循環思路 2. Pendle 機制 3. 資金費率 4. Polymarket 基本機制"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1984159243889786945"
+  externalUrl: "https://x.com/agintender/status/1979441023094001834"
+  authorUsername: "agintender"
+---
+
 # Pendle 與 Polymarket 綜合策略指南
 
 > **來源**: [@agintender](https://x.com/agintender/status/1984159243889786945) | [原文連結](https://x.com/agintender/status/1979441023094001834)

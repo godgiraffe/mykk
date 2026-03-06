@@ -1,3 +1,23 @@
+---
+title: "如何快速找到優質英文 Caller 脫離信息繭房"
+date: "2025-03-05"
+tags: 
+  - "資訊來源"
+  - "Caller 篩選"
+  - "交易研究"
+summary: "反向思維：不是等 Caller 推薦幣種，而是從已經成功的幣種反推——看誰在早期就發現並有理有據地分析它。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xJingleMingle/status/1897109092721942692"
+  externalUrl: "https://lunarcrush.com/home"
+  authorUsername: "0xJingleMingle"
+---
+
 # 如何快速找到優質英文 Caller 脫離信息繭房
 
 > **來源**: [@0xJingleMingle](https://x.com/0xJingleMingle/status/1897109092721942692) | [原文連結](https://lunarcrush.com/home)

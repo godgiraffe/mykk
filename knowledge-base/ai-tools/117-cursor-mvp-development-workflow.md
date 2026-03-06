@@ -1,3 +1,23 @@
+---
+title: "Cursor 開發工作流優化：如何提供足夠的專案上下文提升 AI 輔助效率"
+date: ">"
+tags: 
+  - "Cursor"
+  - "AI開發工具"
+  - "上下文管理"
+summary: "使用 Cursor 時最重要的是確保 AI 能夠理解你的專案結構、程式碼風格和業務邏輯。缺乏足夠的上下文會導致 AI 產生不相關或錯誤的建議。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/FinanceYF5/status/1853790341469790702"
+  externalUrl: null
+  authorUsername: "FinanceYF5"
+---
+
 # Cursor 開發工作流優化：如何提供足夠的專案上下文提升 AI 輔助效率
 
 > **來源**: [@FinanceYF5](https://x.com/FinanceYF5/status/1853790341469790702)

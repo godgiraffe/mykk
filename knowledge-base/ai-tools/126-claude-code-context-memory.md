@@ -1,3 +1,23 @@
+---
+title: "Claude Code 上下文記憶架構：Scratchpad 與 Bounded Reasoning"
+date: "2026-03-04"
+tags: 
+  - "Claude Code"
+  - "上下文管理"
+  - "Token 優化"
+summary: "用 Claude Code 三個月，目錄越建越多，rules/ docs/ memory/ skills/ 各種分層，但一直說不清自己在搭什麼。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2028990557331112363"
+  externalUrl: "https://today.md/"
+  authorUsername: "runes_leo"
+---
+
 # Claude Code 上下文記憶架構：Scratchpad 與 Bounded Reasoning
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2028990557331112363) | [原文連結](https://today.md/)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code 完整指南：工作流程與最佳實踐"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "開發工具"
+  - "AI 編程助手"
+summary: "根據你的指示，我現在為你整理這篇關於 Claude Code 的文章。這篇內容包含了推文和官方文檔的綜合資訊。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Yangyixxxx/status/1960353275271901523"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "Yangyixxxx"
+---
+
 # Claude Code 完整指南：工作流程與最佳實踐
 
 > **來源**: [@Yangyixxxx](https://x.com/Yangyixxxx/status/1960353275271901523) | [原文連結](https://code.claude.com/docs)

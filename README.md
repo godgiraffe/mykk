@@ -57,7 +57,27 @@ bun run sync 5        # 只處理 5 筆
 bun run sync --reset  # 清除進度（重新處理所有書籤）
 ```
 
-同步流程：抓取 X 書籤 → Gemini AI 分類與整理 → 生成 markdown 文章 → 從 X 移除已處理書籤
+同步流程：抓取 X 書籤 → Claude AI 分類與整理 → 生成 markdown 文章 → 從 X 移除已處理書籤
+
+## Curation Workflow
+
+網站現在採用三層內容流：
+
+- `review`：待審文章（預設 inbox）
+- `curated`：真正想留下來回頭重看的文章
+- `archive`：低信號或暫時不想再花力氣的內容
+
+如果你在前台 review 頁做了一批 `待審 / 精選 / 封存` 決策，可以先匯出 JSON，再用下面指令回寫到 repo：
+
+```bash
+bun run curation:apply ./path/to/curation-export.json
+```
+
+若要幫既有文章批次補 frontmatter、summary 與 curation scores：
+
+```bash
+bun run curation:backfill
+```
 
 #### Cookie 過期處理
 

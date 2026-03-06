@@ -1,3 +1,23 @@
+---
+title: "Sui 鏈凍結黑客資產事件：去中心化信仰的危機"
+date: "2025-06-02"
+tags: 
+  - "區塊鏈治理"
+  - "協議升級"
+  - "去中心化危機"
+summary: "比特幣向左，Sui 向右，每一個動搖去中心化的行業舉動出現，都帶來更強烈對比特幣的信仰。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/c_luyishisi/status/1929439032741941428"
+  externalUrl: "https://paragraph.com/@shisi-eth/bDvDEuPbh69WENsEbB5F"
+  authorUsername: "c_luyishisi"
+---
+
 # Sui 鏈凍結黑客資產事件：去中心化信仰的危機
 
 > **來源**: [@c_luyishisi](https://x.com/c_luyishisi/status/1929439032741941428) | [原文連結](https://paragraph.com/@shisi-eth/bDvDEuPbh69WENsEbB5F)

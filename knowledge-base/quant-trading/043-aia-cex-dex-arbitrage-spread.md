@@ -1,3 +1,23 @@
+---
+title: "AIA 上市套利：流動性解放的價差收斂機會"
+date: "2025-12-10"
+tags: 
+  - "套利"
+  - "流動性"
+  - "價差交易"
+summary: "AIA 開放 CEX 提幣後，DEX 與 CEX 之間被阻隔的流動性瞬間打通，產生高達 8-9% 的正價差套利機會。作者在價差約 6% 時果斷進場搬磚，成功把握流動性回流的紅利。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LeonLytic/status/1998665851336269933"
+  externalUrl: "https://twitter.com/LeonLytic/status/1998665851336269933/photo/1"
+  authorUsername: "LeonLytic"
+---
+
 # AIA 上市套利：流動性解放的價差收斂機會
 
 > **來源**: [@LeonLytic](https://x.com/LeonLytic/status/1998665851336269933) | [原文連結](https://twitter.com/LeonLytic/status/1998665851336269933/photo/1)

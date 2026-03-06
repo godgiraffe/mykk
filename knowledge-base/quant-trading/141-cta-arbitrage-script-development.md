@@ -1,3 +1,23 @@
+---
+title: "跨交易所資金費率套利腳本開發經驗"
+date: "2025-04-04"
+tags: 
+  - "套利策略"
+  - "模組化編程"
+  - "AI輔助開發"
+summary: "5 天時間開發出一個跨交易所套利的腳本，採用模組化方式編寫。如果需要增加交易所，可以保證原來的程式不需要大規模更改。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1908208268432076969"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 跨交易所資金費率套利腳本開發經驗
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1908208268432076969)

@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 價格下降機制與收益率杠杆交易"
+date: ">"
+tags: 
+  - "Pendle"
+  - "YT代幣"
+  - "隱含年化收益率"
+summary: "有些朋友說，@pendle_fi 上面 YT 都快歸零了，為什麼還要買？這是誤解。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 42
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/quant_sheep/status/1800674510716498334"
+  externalUrl: "https://twitter.com/quant_sheep/status/1800674510716498334/photo/1"
+  authorUsername: "quant_sheep"
+---
+
 # Pendle YT 價格下降機制與收益率杠杆交易
 
 > **來源**: [@quant_sheep](https://x.com/quant_sheep/status/1800674510716498334) | [原文連結](https://twitter.com/quant_sheep/status/1800674510716498334/photo/1)

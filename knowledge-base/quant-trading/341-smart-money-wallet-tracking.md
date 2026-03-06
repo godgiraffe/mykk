@@ -1,3 +1,23 @@
+---
+title: "Smart Money 錢包追蹤指南"
+date: ">"
+tags: 
+  - "錢包分析"
+  - "Smart Money"
+  - "鏈上數據"
+summary: "**關注錢包**：0x9aFd4aB181946CDEde0142054c6ABcB5D4E69d82"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 63
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Wayne145591/status/1867346620721078635"
+  externalUrl: "https://twitter.com/Wayne145591/status/1867346620721078635/photo/1"
+  authorUsername: "Wayne145591"
+---
+
 # Smart Money 錢包追蹤指南
 
 > **來源**: [@Wayne145591](https://x.com/Wayne145591/status/1867346620721078635) | [原文連結](https://twitter.com/Wayne145591/status/1867346620721078635/photo/1)

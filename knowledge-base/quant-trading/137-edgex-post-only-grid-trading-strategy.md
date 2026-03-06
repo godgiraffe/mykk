@@ -1,3 +1,23 @@
+---
+title: "edgeX 掛單網格交易策略與刷分實操分享"
+date: "2025-09-05"
+tags: 
+  - "網格交易"
+  - "掛單策略"
+  - "現貨交易"
+summary: "使用邀請碼註冊可享以下福利： 1. 直接升級為 VIP 1 手續費費率 2. 享受 10% 手續費返佣，每 24 小時自動結算一次，在 edgeX 網頁上直接領取。這是在 VIP 1 手續費費率的基礎上返佣，所以實際手續費是 0.013% × 0.9 = 0.0117% 3. 10% 的積分加成"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1963922726810267963"
+  externalUrl: "https://pro.edgex.exchange/referral/QUANT"
+  authorUsername: "yourQuantGuy"
+---
+
 # edgeX 掛單網格交易策略與刷分實操分享
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1963922726810267963) | [原文連結](https://pro.edgex.exchange/referral/QUANT)

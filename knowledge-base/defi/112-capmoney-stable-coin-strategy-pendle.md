@@ -1,3 +1,23 @@
+---
+title: "Cap Money 穩定幣協議投資策略 - Pendle YT 挖分與頭礦機會"
+date: ">"
+tags: 
+  - "穩定幣協議"
+  - "Pendle策略"
+  - "頭礦參與"
+summary: "1. 前兩週持有 $cUSD 有 20x 積分加成，相當於頭礦 2. 目前 $cUSD 相關池子未上線 @pendle_fi，另一個 $stcUSD 池子上線了（但這個是收益池而非積分池），所以當前積分沒有被稀釋；後續 $cUSD 上線 @pendle_fi 我會再考慮 YT 玩法 3. @capmoney_ 是 @megaeth 生態協議，分號是為了等一個福報👀 4. 頭礦目前不卷，TVL 58M，單號存 2000 刀排名 <100"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xanonnnn/status/1958407730991161420"
+  externalUrl: null
+  authorUsername: "0xanonnnn"
+---
+
 # Cap Money 穩定幣協議投資策略 - Pendle YT 挖分與頭礦機會
 
 > **來源**: [@0xanonnnn](https://x.com/0xanonnnn/status/1958407730991161420)

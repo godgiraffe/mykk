@@ -1,3 +1,23 @@
+---
+title: "楓之谷區塊鏈新幣開盤策略分享"
+date: ">"
+tags: 
+  - "新幣開盤"
+  - "鏈上追蹤"
+  - "風險管理"
+summary: "**總量**：10 億枚 **初始流通**：17% 左右 **特殊性**：官方自己投資，無 VC 幣，這是區塊鏈史上最靠譜的 GameFi 項目之一 **個人偏好**：作者本身不愛玩遊戲,但以前玩過冒險島跟跑跑卡丁車 **初步判斷**：0.5 以內梭哈"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/leechan1688/status/1922924691397771774"
+  externalUrl: null
+  authorUsername: "leechan1688"
+---
+
 # 楓之谷區塊鏈新幣開盤策略分享
 
 > **來源**: [@leechan1688](https://x.com/leechan1688/status/1922924691397771774)

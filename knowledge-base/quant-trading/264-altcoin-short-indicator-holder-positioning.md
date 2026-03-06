@@ -1,3 +1,23 @@
+---
+title: "山寨幣做空指標：莊家持倉轉換識別法"
+date: ">"
+tags: 
+  - "技術分析"
+  - "合約持仓"
+  - "莊家行為"
+summary: "**指標 1：正常拉盤階段** 跟隨價格的上漲，合約持倉的名義價值跟持倉量保持一致持續貼合增長"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/xiaomucrypto/status/1912906793719832746"
+  externalUrl: null
+  authorUsername: "xiaomucrypto"
+---
+
 # 山寨幣做空指標：莊家持倉轉換識別法
 
 > **來源**: [@xiaomucrypto](https://x.com/xiaomucrypto/status/1912906793719832746)

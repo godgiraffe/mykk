@@ -1,3 +1,23 @@
+---
+title: "Solana 帳戶模型與交易結構深度解析"
+date: "2025-05-18"
+tags: 
+  - "Solana"
+  - "智能合約"
+  - "區塊鏈開發"
+summary: "深入解析 Solana 的帳戶模型與交易結構，詳解智能合約開發基礎知識。包括帳戶與程式的關係、交易執行流程、Solscan 交易分析、以及鏈上程式核心概念（IDL、PDA、CPI、調用上下文）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1924122310442934478"
+  externalUrl: "https://twitter.com/safety/unsafe_link_warning?unsafe_link=https://blog-blockchain.xyz/solana/solana-basic/"
+  authorUsername: "0xLogicLog"
+---
+
 # Solana 帳戶模型與交易結構深度解析
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1924122310442934478) | [原文連結](https://twitter.com/safety/unsafe_link_warning?unsafe_link=https://blog-blockchain.xyz/solana/solana-basic/)

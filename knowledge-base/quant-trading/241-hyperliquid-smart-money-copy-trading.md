@@ -1,3 +1,23 @@
+---
+title: "HyperLiquid 聰明錢跟單指南｜5 個優質地址分析"
+date: "2025-05-02"
+tags: 
+  - "合約跟單"
+  - "聰明錢"
+  - "HyperLiquid"
+summary: "這幾天開始玩鏈上合約跟單，小賺了點，感覺真的比自己掃 MEME 輕鬆太多了。只要找到靠譜的聰明錢 + 穩定的工具，基本不容易被割，更容易賺錢。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/lucas_faster/status/1918307973086265760"
+  externalUrl: "https://x.com/i/article/1917778559697027072"
+  authorUsername: "lucas_faster"
+---
+
 # HyperLiquid 聰明錢跟單指南｜5 個優質地址分析
 
 > **來源**: [@lucas_faster](https://x.com/lucas_faster/status/1918307973086265760) | [原文連結](https://x.com/i/article/1917778559697027072)

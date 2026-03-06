@@ -1,3 +1,23 @@
+---
+title: "套利與 DeFi 交易完整大綱：手工套利、脈本工具、DeFi 策略"
+date: "2025-11-24"
+tags: 
+  - "套利"
+  - "DeFi策略"
+  - "量化交易"
+summary: "1. **費率套利**：裡面大的又能分 3-4 種，其中有種邪修暴力套利後面會講 2. **差價套利**：這個 @zhamomo666 沫沫老師有期很詳細的視頻，小白有些可能聽不懂，我會舉一反三的延伸開講得再詳細些 3. **期現套利**：這個個人覺得有賭的成分，本質也就是賭費率的下降、差價的回歸。Bybit 的爆倉就是多虧了這個 + 後面的第 4 點 4. **保證金多用（套利理財）**：原理是 1 保證金多用，也就是很多大佬說的套利"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sofa667788/status/1992854900859080847"
+  externalUrl: null
+  authorUsername: "sofa667788"
+---
+
 # 套利與 DeFi 交易完整大綱：手工套利、脈本工具、DeFi 策略
 
 > **來源**: [@sofa667788](https://x.com/sofa667788/status/1992854900859080847)

@@ -1,3 +1,24 @@
+---
+title: "為什麼你交易永遠賺不了大錢——抱單心理的關鍵"
+date: "2026-01-09"
+tags: 
+  - "心態管理"
+  - "交易紀律"
+  - "情緒控制"
+  - "風險管理"
+summary: "提早出場看似獲利，實際反映對系統的不信任、對執行力的缺乏，以及一種想要立刻獲得安全感而非等待長期結果的情緒需求。真正區分業餘與專業交易者的關鍵，不在於完美進場，而在於能否按計畫執行、承受不舒服。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 48
+evergreenScore: 61
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/jstin0502/status/2009731495536275591"
+  externalUrl: "https://x.com/i/article/2009720774631079936"
+  authorUsername: "jstin0502"
+---
+
 # 為什麼你交易永遠賺不了大錢——抱單心理的關鍵
 
 > **來源**: [@jstin0502](https://x.com/jstin0502/status/2009731495536275591) | [原文連結](https://x.com/i/article/2009720774631079936)

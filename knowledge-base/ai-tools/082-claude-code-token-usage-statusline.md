@@ -1,3 +1,23 @@
+---
+title: "Claude Code 代幣使用量狀態列監控"
+date: "2025-08-09"
+tags: 
+  - "Claude Code"
+  - "開發工具"
+  - "代幣管理"
+summary: "現在可以透過 ccusage 工具在 Claude Code 的新狀態列中追蹤代幣使用量。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/iannuttall/status/1954272037976842547"
+  externalUrl: "https://twitter.com/iannuttall/status/1954272037976842547/photo/1"
+  authorUsername: "iannuttall"
+---
+
 # Claude Code 代幣使用量狀態列監控
 
 > **來源**: [@iannuttall](https://x.com/iannuttall/status/1954272037976842547) | [原文連結](https://twitter.com/iannuttall/status/1954272037976842547/photo/1)

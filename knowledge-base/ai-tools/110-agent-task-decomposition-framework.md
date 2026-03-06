@@ -1,3 +1,23 @@
+---
+title: "Agent 任務拆解框架：將工程思想應用於 AI 代理設計"
+date: ">"
+tags: 
+  - "Agent設計"
+  - "任務管理"
+  - "工程方法論"
+summary: "我只能稱之為神仙專案。但凡是做 AI Coding 的，在工程上絕對會想辦法按照這個思路做封裝的。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Yangyixxxx/status/1914687827117518991"
+  externalUrl: "https://twitter.com/Yangyixxxx/status/1914687827117518991/photo/1"
+  authorUsername: "Yangyixxxx"
+---
+
 # Agent 任務拆解框架：將工程思想應用於 AI 代理設計
 
 > **來源**: [@Yangyixxxx](https://x.com/Yangyixxxx/status/1914687827117518991) | [原文連結](https://twitter.com/Yangyixxxx/status/1914687827117518991/photo/1)

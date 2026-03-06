@@ -1,3 +1,23 @@
+---
+title: "Ralph Wiggum 插件：讓 Claude 自我迭代的自動化循環"
+date: "2026-01-02"
+tags: 
+  - "Claude Code"
+  - "自動化工作流"
+  - "TDD開發"
+summary: "Ralph Wiggum 是 Claude Code 的官方插件，透過 **Stop hook 機制**讓 Claude 能夠自我對話和迭代。簡單來說，就是讓 Claude 自己跟自己對話形成循環——你下班回家，它替你加班，醒來代碼就寫好了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dotey/status/2007197068394164613"
+  externalUrl: "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum"
+  authorUsername: "dotey"
+---
+
 # Ralph Wiggum 插件：讓 Claude 自我迭代的自動化循環
 
 > **來源**: [@dotey](https://x.com/dotey/status/2007197068394164613) | [原文連結](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum)

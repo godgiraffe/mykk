@@ -1,3 +1,23 @@
+---
+title: "Agent 全域指令管理最佳實踐"
+date: "2026-01-04"
+tags: 
+  - "Claude Code"
+  - "開發工具"
+  - "工程文化"
+summary: "方法 說明 適用場景 ------ ------ ---------- AGENT.md / CLAUDE.md 全域指令文件，每次請求載入 持久性規則、跨專案標準 SKILL.md 技能型指令，按需載入（如 commit 時才觸發） 特定操作的專業指令集"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/elliotarledge/status/2007752112361685197"
+  externalUrl: "https://spec.md/"
+  authorUsername: "elliotarledge"
+---
+
 # Agent 全域指令管理最佳實踐
 
 > **來源**: [@elliotarledge](https://x.com/elliotarledge/status/2007752112361685197) | [原文連結](https://spec.md/)

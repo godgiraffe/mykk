@@ -1,3 +1,23 @@
+---
+title: "Solana 跟單機器人速度實測對比"
+date: "2025-03-03"
+tags: 
+  - "跟單機器人"
+  - "Solana"
+  - "交易速度"
+summary: "本次測試燒 1200U 手續費，進行全網最完整的跟單 BOT 速度實測。所有詳細紀錄包含每筆 tx 與各家 Bot 設定截圖都在 Notion Page 中。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x542121/status/1896534568733458523"
+  externalUrl: "https://evergreen-texture-7d9.notion.site/Bot-Creator-21-0x5421-X-0x542121-1abdc654fae780f99f24dca50e48fe0a"
+  authorUsername: "0x542121"
+---
+
 # Solana 跟單機器人速度實測對比
 
 > **來源**: [@0x542121](https://x.com/0x542121/status/1896534568733458523) | [原文連結](https://evergreen-texture-7d9.notion.site/Bot-Creator-21-0x5421-X-0x542121-1abdc654fae780f99f24dca50e48fe0a)

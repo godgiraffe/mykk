@@ -1,3 +1,23 @@
+---
+title: "Vibe Coding 工作流心得：與 AI 高效協作的實踐"
+date: "2025-12-14"
+tags: 
+  - "AI 開發"
+  - "工作流程"
+  - "提示工程"
+summary: "AI 頻繁犯錯，特別是對接 API 時 AI 會「幻想」不存在的端點或參數結構 已完成的功能被 AI 重新改動或改壞 小修改導致整個專案崩潰"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hunterweb303/status/2000100945867538647"
+  externalUrl: null
+  authorUsername: "hunterweb303"
+---
+
 # Vibe Coding 工作流心得：與 AI 高效協作的實踐
 
 > **來源**: [@hunterweb303](https://x.com/hunterweb303/status/2000100945867538647)

@@ -1,3 +1,23 @@
+---
+title: "止盈技巧：分批止盈與止損管理"
+date: ">"
+tags: 
+  - "止盈策略"
+  - "風險管理"
+  - "交易紀律"
+summary: "分批止盈配合動態止損線調整，是穩健鎖定利潤的重要手段。在預期止盈區域出現時，應嚴格執行既定計劃，避免因貪婪而錯失最佳退出時機。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 51
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CycleStudies/status/1862151884460757160"
+  externalUrl: "https://twitter.com/CycleStudies/status/1862151884460757160/photo/1"
+  authorUsername: "CycleStudies"
+---
+
 # 止盈技巧：分批止盈與止損管理
 
 > **來源**: [@CycleStudies](https://x.com/CycleStudies/status/1862151884460757160) | [原文連結](https://twitter.com/CycleStudies/status/1862151884460757160/photo/1)

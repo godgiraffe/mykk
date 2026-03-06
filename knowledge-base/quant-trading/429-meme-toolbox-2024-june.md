@@ -1,3 +1,23 @@
+---
+title: "Meme 工具箱 2.0：SOL/ETH 狙擊工具與頻道聚合指南"
+date: "2024-06-08"
+tags: 
+  - "meme交易工具"
+  - "狙擊策略"
+  - "社群頻道"
+summary: "距離上一次迭代頻道列表已經過去 3 個月，隨著很多頻道版主已經自由擺爛（除我），又發現了很多新的頻道以及新的打狗工具。主要分類還是：SOL/ETH 打狗工具 + 聚合頻道推薦，這次會插入一些我看完後覺得受益匪淺的 Meme 心得貼（在最後）。不一定全，但都是我現在在看的/在用的。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xixikawaii/status/1799450478713155713"
+  externalUrl: "https://gmgn.ai/trend/SpuPYqrqS?chain=sol"
+  authorUsername: "xixikawaii"
+---
+
 # Meme 工具箱 2.0：SOL/ETH 狙擊工具與頻道聚合指南
 
 > **來源**: [@xixikawaii](https://x.com/xixikawaii/status/1799450478713155713) | [原文連結](https://gmgn.ai/trend/SpuPYqrqS?chain=sol)

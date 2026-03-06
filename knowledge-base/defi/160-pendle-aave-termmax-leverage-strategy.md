@@ -1,3 +1,23 @@
+---
+title: "Pendle x AAVE 槓桿風險與 TermMax 固定利率策略"
+date: "2025-05-17"
+tags: 
+  - "槓桿風險"
+  - "固定利率"
+  - "收益農場"
+summary: "最近 Pendle x AAVE x Ethena 成長炸裂，巨鯨們狂做 PT loop。但如果行情繼續看漲，可能出現槓桿玩家被榨乾的風險循環。相比之下，TermMax 提供固定利率策略，可避免 squeeze 風險。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jimcurrywang/status/1923693989078892927"
+  externalUrl: null
+  authorUsername: "jimcurrywang"
+---
+
 # Pendle x AAVE 槓桿風險與 TermMax 固定利率策略
 
 > **來源**: [@jimcurrywang](https://x.com/jimcurrywang/status/1923693989078892927)

@@ -1,3 +1,23 @@
+---
+title: "迷因幣掃鏈技巧：快速判斷盤子價值"
+date: ">"
+tags: 
+  - "掃鏈技巧"
+  - "迷因幣評估"
+  - "風險篩選"
+summary: "1. **短時間同時出現一樣圖片的盤子** - 大概率可以直接 pass - 突發熱點盤子除外"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/angel_0x13/status/1843479865821147455"
+  externalUrl: null
+  authorUsername: "angel_0x13"
+---
+
 # 迷因幣掃鏈技巧：快速判斷盤子價值
 
 > **來源**: [@angel_0x13](https://x.com/angel_0x13/status/1843479865821147455)

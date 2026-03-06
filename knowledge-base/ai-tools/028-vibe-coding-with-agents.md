@@ -1,3 +1,23 @@
+---
+title: "用代理編程而不需要技術背景：Ben Tossell 的代理驅動開發實踐"
+date: "2025-12-31"
+tags: 
+  - "代理編程"
+  - "系統思維"
+  - "學習方法"
+summary: "★ Insight ───────────────────────────────────── 這篇文章的核心價值在於展示「學習曲線的反轉」： 1. **傳統路徑**：語法 → 資料結構 → 演算法 → （數月後）能建構簡單專案 2. **代理路徑**：系統思維 → 實際建構 → 從錯誤學習 → （數天後）能建構複雜專案"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/bentossell/status/2006352820140749073"
+  externalUrl: "https://x.com/i/article/2006346812785868800"
+  authorUsername: "bentossell"
+---
+
 # 用代理編程而不需要技術背景：Ben Tossell 的代理驅動開發實踐
 
 > **來源**: [@bentossell](https://x.com/bentossell/status/2006352820140749073) | [原文連結](https://x.com/i/article/2006346812785868800)

@@ -1,3 +1,23 @@
+---
+title: "NotebookLM Skill 強化：自動上傳檔案與智能提問"
+date: ">"
+tags: 
+  - "NotebookLM"
+  - "自動化提問"
+  - "Skill開發"
+summary: "根據提供的內容，這是一則簡短的推文分享，內容主要是作者對 NotebookLM Skill 的功能強化說明。由於內容較為精簡，我將整理成結構化的筆記形式："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/vista8/status/2004261872611328427"
+  externalUrl: "https://twitter.com/vista8/status/2004261872611328427/photo/1"
+  authorUsername: "vista8"
+---
+
 # NotebookLM Skill 強化：自動上傳檔案與智能提問
 
 > **來源**: [@vista8](https://x.com/vista8/status/2004261872611328427) | [原文連結](https://twitter.com/vista8/status/2004261872611328427/photo/1)

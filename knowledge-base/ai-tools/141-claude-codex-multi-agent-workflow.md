@@ -1,3 +1,23 @@
+---
+title: "Codex CLI 多 Agent 集成：Claude 大脑 + Codex 双手的 AI 工作流"
+date: ">"
+tags: 
+  - "Multi-Agent 架构"
+  - "Claude API"
+  - "AI 工具链"
+summary: "Codex CLI 昨天更新支援多 Agent，果斷把它接進 OpenClaw 了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/xxx111god/status/2027031013172359209"
+  externalUrl: null
+  authorUsername: "xxx111god"
+---
+
 # Codex CLI 多 Agent 集成：Claude 大脑 + Codex 双手的 AI 工作流
 
 > **來源**: [@xxx111god](https://x.com/xxx111god/status/2027031013172359209)

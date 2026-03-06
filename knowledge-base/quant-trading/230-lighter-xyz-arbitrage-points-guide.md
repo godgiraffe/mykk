@@ -1,3 +1,23 @@
+---
+title: "Lighter 入門指南：積分獲取與套利策略"
+date: "2025-05-18"
+tags: 
+  - "永續期貨"
+  - "積分獲取"
+  - "套利策略"
+summary: "Lighter 是基於 ZK L2 技術的去中心化永續期貨交易平台，支援訂單簿交易，提供類似中心化交易所的精確價格設定和交易體驗。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/c_dylanber/status/1924051627960582318"
+  externalUrl: "https://t.me/lighter_cn"
+  authorUsername: "c_dylanber"
+---
+
 # Lighter 入門指南：積分獲取與套利策略
 
 > **來源**: [@c_dylanber](https://x.com/c_dylanber/status/1924051627960582318) | [原文連結](https://t.me/lighter_cn)

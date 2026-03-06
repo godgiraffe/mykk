@@ -1,3 +1,25 @@
+---
+title: "利用 P2P 出入金利差進行套利"
+date: "2026-01-09"
+tags: 
+  - "P2P"
+  - "套利"
+  - "加密貨幣"
+  - "投資機會"
+  - "Web3"
+summary: "本篇文章整理了 @AirdropAlchemis (炼金叔叔) 分享的一種利用 P2P 出入金利差進行套利的投資策略。該策略強調即使不參與高風險操作，Web3 仍然存在許多未被發掘的獲利機會，並鼓勵讀者積極嘗試，抓住潛在的市場機會。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/AirdropAlchemis/status/2009454566593712383"
+  externalUrl: null
+  authorUsername: "AirdropAlchemis"
+---
+
 # 利用 P2P 出入金利差進行套利
 
 > **來源**: [@AirdropAlchemis](https://x.com/AirdropAlchemis/status/2009454566593712383)

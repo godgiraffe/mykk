@@ -1,3 +1,23 @@
+---
+title: "Pendle Finance 深度分析"
+date: "2024-09-07"
+tags: 
+  - "DeFi協議"
+  - "收益交易"
+  - "智能合約"
+summary: "我需要您的授權才能使用 WebFetch 工具來獲取這個推文連結的內容。或者，您可以："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 54
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/reisnertobias/status/1832499528282599795"
+  externalUrl: "https://twitter.com/reisnertobias/status/1832499528282599795/photo/1"
+  authorUsername: "reisnertobias"
+---
+
 # Pendle Finance 深度分析
 
 > **來源**: [@reisnertobias](https://x.com/reisnertobias/status/1832499528282599795) | [原文連結](https://twitter.com/reisnertobias/status/1832499528282599795/photo/1)

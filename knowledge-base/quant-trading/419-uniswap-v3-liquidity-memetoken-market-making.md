@@ -1,3 +1,23 @@
+---
+title: "Uniswap V3 流動性做市的土狗漲幅機制分析"
+date: ">"
+tags: 
+  - "Uniswap V3"
+  - "市場微觀結構"
+  - "土狗交易策略"
+summary: "昨晚在鏈上突然出現一個叫 RALLY 的土狗幣，沒有任何資訊，但一直有好幾 E 的大單持續買入。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cutepanda/status/1838556085432778989"
+  externalUrl: null
+  authorUsername: "cutepanda"
+---
+
 # Uniswap V3 流動性做市的土狗漲幅機制分析
 
 > **來源**: [@cutepanda](https://x.com/cutepanda/status/1838556085432778989)

@@ -1,3 +1,23 @@
+---
+title: "Jupiter 質押與新台打新策略分享"
+date: "2025-12-13"
+tags: 
+  - "質押激勵"
+  - "新台打新"
+  - "交易挖礦"
+summary: "★ Insight ───────────────────────────────────── 1. **知識庫自動化整理流程**：這個任務展示了如何將社群分享內容結構化成知識庫文章，重點在於保留操作步驟、時間線和風險提示 2. **DeFi 操作文檔化**：將實際操作經驗整理成可複製的步驟，包含操作邏輯、數據驗證和注意事項，這是量化知識沉澱的關鍵 ────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sheeplzh/status/1999731406529077717"
+  externalUrl: null
+  authorUsername: "sheeplzh"
+---
+
 # Jupiter 質押與新台打新策略分享
 
 > **來源**: [@sheeplzh](https://x.com/sheeplzh/status/1999731406529077717)

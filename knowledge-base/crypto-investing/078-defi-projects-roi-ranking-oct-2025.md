@@ -1,3 +1,23 @@
+---
+title: "近期主流打新項目收益率排序分析（Stable、Flying Tulip、MegaETH、MMT）"
+date: ">"
+tags: 
+  - "打新項目"
+  - "收益率比較"
+  - "風險評估"
+summary: "近期打新項目眾多，以下按收益率與風險回報比進行排序分析（也是作者自己的配倉順序）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/DefiFarmerYue/status/1981226789902176261"
+  externalUrl: null
+  authorUsername: "DefiFarmerYue"
+---
+
 # 近期主流打新項目收益率排序分析（Stable、Flying Tulip、MegaETH、MMT）
 
 > **來源**: [@DefiFarmerYue](https://x.com/DefiFarmerYue/status/1981226789902176261)

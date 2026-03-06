@@ -1,3 +1,23 @@
+---
+title: "BitFuFu 槓桿與套利策略：幣價漲跌盤整三情況應對"
+date: ">"
+tags: 
+  - "槓桿交易"
+  - "套利策略"
+  - "風險管理"
+summary: "雖然不接業配，但在越南多年，體會到任何東西都是有價格的，我的堅持也是。BitFuFu 真的是好東西，因此盡力推廣！"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shawnchen_eth/status/1650869304043405312"
+  externalUrl: null
+  authorUsername: "shawnchen_eth"
+---
+
 # BitFuFu 槓桿與套利策略：幣價漲跌盤整三情況應對
 
 > **來源**: [@shawnchen_eth](https://x.com/shawnchen_eth/status/1650869304043405312)

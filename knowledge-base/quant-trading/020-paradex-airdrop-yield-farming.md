@@ -1,3 +1,23 @@
+---
+title: "Paradex 積分刷取策略：100%+ 年化收益指南"
+date: "2026-01-02"
+tags: 
+  - "永續合約"
+  - "積分農耕"
+  - "套利策略"
+summary: "策略面向 核心方法 預期年化收益 --------- --------- ------------ 交易刷分 BTC/ETH 交易對 + 1小時持倉 100%+ 持倉刷分 雙帳戶同所對沖 100%+ 綜合策略 對沖持倉 + 每日刷量 100%+"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/2007104785212899491"
+  externalUrl: "https://x.com/LumaoDoggie/status/2006996882787283265"
+  authorUsername: "LumaoDoggie"
+---
+
 # Paradex 積分刷取策略：100%+ 年化收益指南
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/2007104785212899491) | [原文連結](https://x.com/LumaoDoggie/status/2006996882787283265)

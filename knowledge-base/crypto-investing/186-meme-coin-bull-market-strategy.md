@@ -1,3 +1,23 @@
+---
+title: "迷因幣牛市策略與心態管理"
+date: ">"
+tags: 
+  - "迷因幣"
+  - "牛市策略"
+  - "心態管理"
+summary: "眾多迷因幣都歷史新高了（持有一包都 ATH），包含我這次組的 ETF 也包了好幾個 MEME："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/woodycryptow/status/1857073197759312094"
+  externalUrl: null
+  authorUsername: "woodycryptow"
+---
+
 # 迷因幣牛市策略與心態管理
 
 > **來源**: [@woodycryptow](https://x.com/woodycryptow/status/1857073197759312094)

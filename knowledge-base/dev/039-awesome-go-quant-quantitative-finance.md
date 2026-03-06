@@ -1,3 +1,23 @@
+---
+title: "awesome-go-quant：Go 量化交易資源庫"
+date: "2025-08-04"
+tags: 
+  - "Go 語言"
+  - "量化交易"
+  - "開發工具"
+summary: "awesome-go-quant 是一個精心整理的 Go 語言量化金融資源庫，收錄了大量用於量化交易（Quantitative Finance）的 Go 語言函式庫、套件和資源。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1952296615164924375"
+  externalUrl: "https://github.com/goex-top/awesome-go-quant"
+  authorUsername: "0xKaKa03"
+---
+
 # awesome-go-quant：Go 量化交易資源庫
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1952296615164924375) | [原文連結](https://github.com/goex-top/awesome-go-quant)

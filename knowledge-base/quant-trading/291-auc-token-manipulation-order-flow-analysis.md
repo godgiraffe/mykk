@@ -1,3 +1,23 @@
+---
+title: "AUC 代幣莊家出貨操盤手法分析 — 訂單流洞察"
+date: "2025-03-22"
+tags: 
+  - "訂單流分析"
+  - "莊家操盤"
+  - "CVD指標"
+summary: "**CVD（累計成交量增量）一直上漲**：主動買單 > 主動賣單 **費率持續向上**：多頭相對於空頭數量增加 **持倉量增加**：總合約數量增加"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/biupa/status/1903570827712581677"
+  externalUrl: null
+  authorUsername: "biupa"
+---
+
 # AUC 代幣莊家出貨操盤手法分析 — 訂單流洞察
 
 > **來源**: [@biupa](https://x.com/biupa/status/1903570827712581677)

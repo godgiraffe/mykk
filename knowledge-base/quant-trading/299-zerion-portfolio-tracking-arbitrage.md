@@ -1,3 +1,23 @@
+---
+title: "Zerion 鏈上投資組合追蹤工具—跟隨優秀交易者學習套利"
+date: "2025-02-28"
+tags: 
+  - "套利策略"
+  - "鏈上工具"
+  - "交易者追蹤"
+summary: "**Zerion Portfolio Tracker** 功能：加密貨幣投資組合追蹤工具，支援 NFT 和 DeFi 用途：追蹤優秀交易者的鏈上地址，學習他們的套利策略 連結：https://zerion.io"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 66
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1895597554685071386"
+  externalUrl: "https://app.zerion.io/"
+  authorUsername: "zhamomo666"
+---
+
 # Zerion 鏈上投資組合追蹤工具—跟隨優秀交易者學習套利
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1895597554685071386) | [原文連結](https://app.zerion.io/)

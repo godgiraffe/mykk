@@ -1,3 +1,23 @@
+---
+title: "Pendle LP 穩定收益策略：突破溢價困境的 Alpha 機會"
+date: ">"
+tags: 
+  - "Pendle"
+  - "LP 策略"
+  - "穩定幣溢價"
+summary: "**關鍵認知**：LP 就是 LP，沒有辦法鎖定價值，只能鎖定份額。SY/PT 的比例會跟隨市場不斷調整比例。如果市場看多收益，就會出售更多的 PT，那麼你的 PT 還會逐漸變多。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/an_le23998/status/1986582858060996984"
+  externalUrl: null
+  authorUsername: "an_le23998"
+---
+
 # Pendle LP 穩定收益策略：突破溢價困境的 Alpha 機會
 
 > **來源**: [@an_le23998](https://x.com/an_le23998/status/1986582858060996984)

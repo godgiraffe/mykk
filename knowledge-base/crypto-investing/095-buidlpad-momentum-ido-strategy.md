@@ -1,3 +1,23 @@
+---
+title: "BUIDLpad Momentum IDO 打新策略與 KYC 注意事項"
+date: "2025-10-10"
+tags: 
+  - "IDO 打新"
+  - "層級策略"
+  - "KYC 風險"
+summary: "@MMTFinance + @buidlpad 打新最佳姿勢，講一下新人最佳策略和 KYC 多號注意事項。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1976632114633420921"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # BUIDLpad Momentum IDO 打新策略與 KYC 注意事項
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1976632114633420921)

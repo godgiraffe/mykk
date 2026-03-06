@@ -1,3 +1,23 @@
+---
+title: "ENA S4賽季 YT 購買盈虧計算指南"
+date: ">"
+tags: 
+  - "ENA"
+  - "Pendle YT"
+  - "積分倍數"
+summary: "發現還是有很多小夥伴對 ENA S4 賽季規則不清楚，這裡大致詳細講述下購買 YT 計算盈虧："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/1Yxmb/status/1957742713862005001"
+  externalUrl: null
+  authorUsername: "1Yxmb"
+---
+
 # ENA S4賽季 YT 購買盈虧計算指南
 
 > **來源**: [@1Yxmb](https://x.com/1Yxmb/status/1957742713862005001)

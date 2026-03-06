@@ -1,3 +1,23 @@
+---
+title: "Pendle mHYPER YT 套利策略分析"
+date: "2025-10-24"
+tags: 
+  - "Pendle"
+  - "YT套利"
+  - "DeFi策略"
+summary: "今天 @pendle_fi 的 mHYPER 池出現了一個套利機會。@stable 開放額度後立即被老鼠倉和科學家吃完，但在此期間，@MidasRWA 的金庫 mHYPER 透過借貸給 Hyperithm 25M 的資金，間接投入了 Stable 的預存款中。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1981679938978930978"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # Pendle mHYPER YT 套利策略分析
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1981679938978930978)

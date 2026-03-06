@@ -1,3 +1,23 @@
+---
+title: "Solana MEME 季套利賺錢方法分享"
+date: "2025-03-31"
+tags: 
+  - "套利"
+  - "Solana"
+  - "MEME"
+summary: "1. **推文中圖片的截圖**（如果您有保存） 2. **推文的完整文字內容**（包括圖片中的文字） 3. 或者我可以幫您使用 x-bookmark-sync 工具來抓取這個書籤（如果您已經收藏了這條推文）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1906757554434375840"
+  externalUrl: "https://twitter.com/zhamomo666/status/1906757554434375840/video/1"
+  authorUsername: "zhamomo666"
+---
+
 # Solana MEME 季套利賺錢方法分享
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1906757554434375840) | [原文連結](https://twitter.com/zhamomo666/status/1906757554434375840/video/1)

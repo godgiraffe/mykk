@@ -1,3 +1,25 @@
+---
+title: "Pendle YT 進場時機：Pool 到期即機會"
+date: "2026-01-30"
+tags: 
+  - "Pendle"
+  - "YT"
+  - "收益代幣"
+  - "DeFi"
+  - "進場時機"
+summary: "Pendle Pool 到期時，YT（Yield Token）價格會大幅下跌，這正是進場買入下一期 YT 的最佳時機。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 56
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BTCLIN/status/2016801483988332609"
+  externalUrl: null
+  authorUsername: "BTCLIN"
+---
+
 # Pendle YT 進場時機：Pool 到期即機會
 
 > **來源**: [林柏翰 BTC (@BTCLIN)](https://x.com/BTCLIN/status/2016801483988332609)

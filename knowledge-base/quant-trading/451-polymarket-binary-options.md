@@ -1,3 +1,23 @@
+---
+title: "Polymarket 加密貨幣 Up/Down 二元期權交易指南"
+date: "2026-02-27"
+tags: 
+  - "二元期權"
+  - "波動率模型"
+  - "做市策略"
+summary: "我看到很多關於這些市場的低質量文章，所以我想分享一些見解。我在這些市場上仍然有相當大的交易量，雖然相比 3 個月前的輝煌時期我已經有點退步了，但我對這些市場的了解足以提供一些入門指南。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CUTNPASTE4/status/2027405725266493891"
+  externalUrl: "https://x.com/i/article/2027320868628758528"
+  authorUsername: "CUTNPASTE4"
+---
+
 # Polymarket 加密貨幣 Up/Down 二元期權交易指南
 
 > **來源**: [@CUTNPASTE4](https://x.com/CUTNPASTE4/status/2027405725266493891) | [原文連結](https://x.com/i/article/2027320868628758528)

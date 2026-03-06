@@ -1,3 +1,24 @@
+---
+title: "提升 Claude Code 工作流程"
+date: "2026-02-09"
+tags: 
+  - "Claude"
+  - "工作流程"
+  - "效率提升"
+  - "AI工具"
+summary: "這篇文章(@DeFiMinty) 提供了一些提升 Claude Code 工作流程的建議，旨在幫助使用者更有效率地使用 Claude Code 進行程式碼相關任務，進而提高生產力。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 54
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/DeFiMinty/status/2020985761383039300"
+  externalUrl: null
+  authorUsername: "DeFiMinty"
+---
+
 # 提升 Claude Code 工作流程
 
 > **來源**: [@DeFiMinty](https://x.com/DeFiMinty/status/2020985761383039300)

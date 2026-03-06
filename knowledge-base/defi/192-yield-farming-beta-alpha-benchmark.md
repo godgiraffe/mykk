@@ -1,3 +1,23 @@
+---
+title: "Yield Farming 的 β 和 α：穩定幣收益基準指南"
+date: "2025-01-29"
+tags: 
+  - "收益農場"
+  - "基準指標"
+  - "風險管理"
+summary: "★ Insight ───────────────────────────────────── 這篇文章系統性地介紹了 DeFi 中的收益基準（β）和超額收益（α）概念，類似傳統金融中的市場收益和主動管理收益。文章將 DeFi 收益來源分為五大類別，並為每個類別提供了具體的追蹤工具和數據來源，非常實用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ZLiao3/status/1884501640721715447"
+  externalUrl: "https://x.com/i/article/1884484139111612416"
+  authorUsername: "ZLiao3"
+---
+
 # Yield Farming 的 β 和 α：穩定幣收益基準指南
 
 > **來源**: [@ZLiao3](https://x.com/ZLiao3/status/1884501640721715447) | [原文連結](https://x.com/i/article/1884484139111612416)

@@ -1,3 +1,24 @@
+---
+title: "利用 Claude Code 建立個人經驗知識庫"
+date: "2026-02-06"
+tags: 
+  - "Claude Code"
+  - "知識庫"
+  - "經驗管理"
+  - "個人成長"
+summary: "本文作者 @LotusDecoder 分享了如何使用 Claude Code 管理個人知識庫的經驗，核心概念是建立「經驗庫」，將反思、心得和道理記錄下來。當遇到類似問題時，可以向 Claude Code 提問，尋找經驗庫中相似的經歷作為參考，從而加速解決問題。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LotusDecoder/status/2019696487987609731"
+  externalUrl: null
+  authorUsername: "LotusDecoder"
+---
+
 # 利用 Claude Code 建立個人經驗知識庫
 
 > **來源**: [@LotusDecoder](https://x.com/LotusDecoder/status/2019696487987609731)

@@ -1,3 +1,23 @@
+---
+title: "交易所套利總結框架"
+date: "2025-04-19"
+tags: 
+  - "交易所套利"
+  - "套利策略"
+  - "量化交易"
+summary: "好的，我已經成功獲取到 Notion 頁面的完整內容。現在讓我為您整理成 markdown 格式的知識庫文章："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/1913511492680630581"
+  externalUrl: "https://ten-kilogram-fc0.notion.site/1dad94f5c31c80a6b21fe0ae0486f0db?pvs=73"
+  authorUsername: "dan326714"
+---
+
 # 交易所套利總結框架
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/1913511492680630581) | [原文連結](https://ten-kilogram-fc0.notion.site/1dad94f5c31c80a6b21fe0ae0486f0db?pvs=73)

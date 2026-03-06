@@ -1,3 +1,23 @@
+---
+title: "2025 年第四季潛力項目盤點與參與策略"
+date: "2025-11-05"
+tags: 
+  - "項目評測"
+  - "積分計畫"
+  - "收益策略"
+summary: "**參與方式**： 大資金：持有 cUSD 或組 Pendle LP 小資金：購買 YT"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 60
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xBitalk/status/1986009940906107373"
+  externalUrl: null
+  authorUsername: "0xBitalk"
+---
+
 # 2025 年第四季潛力項目盤點與參與策略
 
 > **來源**: [@0xBitalk](https://x.com/0xBitalk/status/1986009940906107373)

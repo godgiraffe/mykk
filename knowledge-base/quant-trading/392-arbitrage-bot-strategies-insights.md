@@ -1,3 +1,23 @@
+---
+title: "套利機器人黨：手動搬磚、鏈上對沖與交易所差價套利"
+date: ">"
+tags: 
+  - "套利機器人"
+  - "交易所套利"
+  - "鏈上套利"
+summary: "**鏈上接針賣 CEX**：在鏈上接針後賣到中心化交易所 **自動套利生息**：自動化套利並產生利息 **爬交易所測試錢包發掘上幣內幕**：透過爬蟲監控交易所測試錢包，發現上幣內幕消息"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1849240051240358324"
+  externalUrl: null
+  authorUsername: "richrichardoz"
+---
+
 # 套利機器人黨：手動搬磚、鏈上對沖與交易所差價套利
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1849240051240358324)

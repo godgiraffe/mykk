@@ -1,3 +1,23 @@
+---
+title: "Sentinel：輕量級區塊鏈事件監控框架"
+date: "2024-11-06"
+tags: 
+  - "區塊鏈監控"
+  - "Python 開發"
+  - "事件驅動架構"
+summary: "1. **完整保留原文內容**：包括所有安裝步驟、程式碼範例、配置說明 2. **繁體中文轉換**：將簡體中文轉為繁體，專有名詞保留原文 3. **結構化章節**：用清晰的 markdown 標題組織內容 4. **保留作者心得**：特別保留了作者關於 Python vs Rust 的技術選擇思考"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKISS/status/1854148227882438936"
+  externalUrl: "https://github.com/neal-zhu/sentinel"
+  authorUsername: "0xKISS"
+---
+
 # Sentinel：輕量級區塊鏈事件監控框架
 
 > **來源**: [@0xKISS](https://x.com/0xKISS/status/1854148227882438936) | [原文連結](https://github.com/neal-zhu/sentinel)

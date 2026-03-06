@@ -1,3 +1,23 @@
+---
+title: "Story 徽章合約 Mint 完整指南"
+date: "2024-11-29"
+tags: 
+  - "NFT"
+  - "智能合約"
+  - "Story Testnet"
+summary: "★ Insight ───────────────────────────────────── **知識整理策略**：處理 Web3 技術教學時，必須保留所有操作步驟細節（URL、合約地址、具體方法名稱） **測試網項目特性**：Story 徽章活動有明確截止時間（12.8），需在文章中保留時效性資訊作為歷史記錄 **跨平台驗證流程**：涉及多個平台（X、Warpcast、Telegram）的驗證步驟，順序和細節不可省略 ───────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/lumaodaren/status/1862406384899502544"
+  externalUrl: "https://www.poster.fun/badge-mint"
+  authorUsername: "lumaodaren"
+---
+
 # Story 徽章合約 Mint 完整指南
 
 > **來源**: [@lumaodaren](https://x.com/lumaodaren/status/1862406384899502544) | [原文連結](https://www.poster.fun/badge-mint)

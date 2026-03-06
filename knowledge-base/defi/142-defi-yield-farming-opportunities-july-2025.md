@@ -1,3 +1,23 @@
+---
+title: "DeFi 高收益挖礦機會彙總 - 2025 年 7 月"
+date: "2025-07-02"
+tags: 
+  - "穩定幣收益"
+  - "流動性挖礦"
+  - "DeFi 協議"
+summary: "感謝所有在推特和私底下給我推薦礦的朋友，今天總結一下所有我目前沒有在挖的礦。我還沒有時間每個項目都看一眼，所以在這裡隨機排序，只是歸納總結，沒有推薦和偏好。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1940332583981666533"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # DeFi 高收益挖礦機會彙總 - 2025 年 7 月
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1940332583981666533)

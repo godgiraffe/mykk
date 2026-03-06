@@ -1,3 +1,23 @@
+---
+title: "低成本幣圈翻身策略指南"
+date: "2025-10-18"
+tags: 
+  - "空投賺幣"
+  - "刷分策略"
+  - "打新機制"
+summary: "### 刷分黨 重點項目：bp / lighter / edgeX / aster / paradex / standX"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/anymose/status/1979493672489251220"
+  externalUrl: null
+  authorUsername: "anymose"
+---
+
 # 低成本幣圈翻身策略指南
 
 > **來源**: [@anymose](https://x.com/anymose/status/1979493672489251220)

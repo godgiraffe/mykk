@@ -1,3 +1,23 @@
+---
+title: "Claude Code 命令與工作流完全指南"
+date: "2025-08-01"
+tags: 
+  - "Claude Code"
+  - "開發工作流"
+  - "最佳實踐"
+summary: "Anthropic 發布了 19 個 Code with Claude 影片，總長達 8 小時，其實濃縮成一張圖就足夠了，剩下的交給你自己，基於專案刻意練習。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1951320386051964997"
+  externalUrl: "https://docs.ctok.ai/claude-code-commands-guide.html"
+  authorUsername: "wquguru"
+---
+
 # Claude Code 命令與工作流完全指南
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1951320386051964997) | [原文連結](https://docs.ctok.ai/claude-code-commands-guide.html)

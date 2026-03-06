@@ -1,3 +1,23 @@
+---
+title: "加密貨幣交易 KOL 內容學習路線圖"
+date: ">"
+tags: 
+  - "KOL推薦"
+  - "交易策略"
+  - "學習資源"
+summary: "本清單整理了加密貨幣交易領域值得學習的 KOL 及其核心內容方向，供交易者參考學習："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/leo_0s1/status/1879954244129943778"
+  externalUrl: null
+  authorUsername: "leo_0s1"
+---
+
 # 加密貨幣交易 KOL 內容學習路線圖
 
 > **來源**: [@leo_0s1](https://x.com/leo_0s1/status/1879954244129943778)

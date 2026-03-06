@@ -1,3 +1,23 @@
+---
+title: "Aster 現貨期現套利與 Stage 2 空投策略"
+date: "2025-09-20"
+tags: 
+  - "期現套利"
+  - "資金費"
+  - "Aster"
+summary: "Aster 上的現貨和合約時常存在 1-3% 的價差，且合約長期有正向資金費率，可以進行期現套利操作："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/MarS20210212/status/1969244540952592539"
+  externalUrl: null
+  authorUsername: "MarS20210212"
+---
+
 # Aster 現貨期現套利與 Stage 2 空投策略
 
 > **來源**: [@MarS20210212](https://x.com/MarS20210212/status/1969244540952592539)

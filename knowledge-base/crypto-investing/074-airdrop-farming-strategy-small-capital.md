@@ -1,3 +1,23 @@
+---
+title: "小資金加密投資策略：專注空投與預測市場"
+date: "2025-10-24"
+tags: 
+  - "空投農場"
+  - "資金配置"
+  - "預測市場"
+summary: "### 2. 購買 X Premium 並開始發文 在 Crypto Twitter (CT) 上建立個人品牌。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 50
+priorityScore: 56
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1981679977176182958"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # 小資金加密投資策略：專注空投與預測市場
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1981679977176182958)

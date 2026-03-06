@@ -1,3 +1,23 @@
+---
+title: "sUSDe 折價套利實戰：GHO 循環貸策略與 117% 年化報酬分析"
+date: "2025-08-23"
+tags: 
+  - "sUSDe套利"
+  - "循環貸策略"
+  - "Ethena積分"
+summary: "經過了 11 天，$sUSDe 終於又回穩。以前都只有大致上講解邏輯，這次就來分享我的操作方式，以及我操作過程中觀察的細節，一切均為真實數據，鏈上可查。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1959173139822440887"
+  externalUrl: "https://app.ethena.fi/join/ivqwq"
+  authorUsername: "0xlemoneth"
+---
+
 # sUSDe 折價套利實戰：GHO 循環貸策略與 117% 年化報酬分析
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1959173139822440887) | [原文連結](https://app.ethena.fi/join/ivqwq)

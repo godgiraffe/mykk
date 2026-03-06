@@ -1,3 +1,23 @@
+---
+title: "推特 Alpha 獵人與交易員資源清單"
+date: "2025-10-19"
+tags: 
+  - "信息來源"
+  - "社群推薦"
+  - "交易策略"
+summary: "為了優化推特資訊流，發現更多的 alpha 和資訊，整理了一個正在關注的推特帳號清單。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xBenniee/status/1979945614554370216"
+  externalUrl: "https://www.football.fun/"
+  authorUsername: "0xBenniee"
+---
+
 # 推特 Alpha 獵人與交易員資源清單
 
 > **來源**: [@0xBenniee](https://x.com/0xBenniee/status/1979945614554370216) | [原文連結](https://www.football.fun/)

@@ -1,3 +1,23 @@
+---
+title: "AI 即將改變一切：你需要知道的真相"
+date: ">"
+tags: 
+  - "AI 加速發展"
+  - "職業轉型"
+  - "AI 能力爆炸"
+summary: "這是一篇由 AI 創業者 Matt Shumer 撰寫的長文，描述 AI 技術在 2025-2026 年間的快速發展如何已經開始改變知識工作，並警告這種改變的速度比大多數人想像的快得多。作者以自己在軟體開發領域的親身經歷為例，說明 AI 已經從輔助工具進化到能夠獨立完成複雜工作的階段。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/mattshumer_/status/2021256989876109403"
+  externalUrl: "https://x.com/i/article/2021095128832622592"
+  authorUsername: "mattshumer_"
+---
+
 # AI 即將改變一切：你需要知道的真相
 
 > **來源**: [@mattshumer_](https://x.com/mattshumer_/status/2021256989876109403) | [原文連結](https://x.com/i/article/2021095128832622592)

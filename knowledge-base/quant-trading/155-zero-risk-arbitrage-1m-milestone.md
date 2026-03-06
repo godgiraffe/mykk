@@ -1,3 +1,23 @@
+---
+title: "零風險套利突破百萬美金里程碑與復盤計畫"
+date: "2025-08-02"
+tags: 
+  - "套利策略"
+  - "獨立開發"
+  - "收益里程碑"
+summary: "從去年九月底開始研究，沒有團隊，每一行代碼與策略都出自作者之手，成功過了一段一天一萬刀的時光。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/traderwanwan/status/1951596375386579405"
+  externalUrl: null
+  authorUsername: "traderwanwan"
+---
+
 # 零風險套利突破百萬美金里程碑與復盤計畫
 
 > **來源**: [@traderwanwan](https://x.com/traderwanwan/status/1951596375386579405)

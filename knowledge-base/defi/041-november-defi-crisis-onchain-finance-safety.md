@@ -1,3 +1,23 @@
+---
+title: "11月 DeFi 暴雷後的鏈上理財安全指南"
+date: ">"
+tags: 
+  - "DeFi風險"
+  - "穩定幣安全"
+  - "協議選擇"
+summary: "11月3日，老牌 DeFi 協議 Balancer 遭遇攻擊，損失約 1 億美元。隨後，多家 TVL 過億的穩定幣出現脫錨，涉及 Euler、Morpho 等協議，眾多儲戶損失慘重。這是自 2022 年算法穩定幣 TerraUSD 崩盤以來，DeFi 領域遭遇的最大衝擊。鏈上用戶紛紛恐慌性提款至中心化交易所避險，各大 DEX 流動性驟降，除 USDC 與 USDT 外的穩定幣均遭遇擠兌。直到 11 月中旬，市場才逐漸恢復平穩。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1989019575934190036"
+  externalUrl: "https://x.com/i/article/1989003124275851264"
+  authorUsername: "LumaoDoggie"
+---
+
 # 11月 DeFi 暴雷後的鏈上理財安全指南
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1989019575934190036) | [原文連結](https://x.com/i/article/1989003124275851264)

@@ -1,3 +1,23 @@
+---
+title: "Ethena ENA 低風險套利策略：年化 200% 收益"
+date: "2025-07-20"
+tags: 
+  - "套利"
+  - "Ethena"
+  - "收益優化"
+summary: "年化 200% 的低風險套利機會。這週因為 $ENA 暴漲，@ethenalab 被關注不少，以下分享上週的實際操作經驗。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1946949400791798052"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # Ethena ENA 低風險套利策略：年化 200% 收益
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1946949400791798052)

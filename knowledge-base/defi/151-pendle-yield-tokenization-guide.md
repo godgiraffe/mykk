@@ -1,3 +1,23 @@
+---
+title: "Pendle 完全指南：DeFi 收益代幣化與固定收益策略"
+date: ">"
+tags: 
+  - "收益代幣化"
+  - "PT與YT"
+  - "DeFi策略"
+summary: "我將為您整理這篇關於 Pendle 的文章。這是一篇詳細介紹 DeFi 收益代幣化協議的內容，包含了 Pendle 的核心機制和實戰應用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Alfredfuuu/status/1929856798548230339"
+  externalUrl: "https://pendle.notion.site/Pendle-1b2567a21d3780168a83dc0028731413"
+  authorUsername: "Alfredfuuu"
+---
+
 # Pendle 完全指南：DeFi 收益代幣化與固定收益策略
 
 > **來源**: [@Alfredfuuu](https://x.com/Alfredfuuu/status/1929856798548230339) | [原文連結](https://pendle.notion.site/Pendle-1b2567a21d3780168a83dc0028731413)

@@ -1,3 +1,23 @@
+---
+title: "CEX 流動性管理案例：Upbit 上線 CKB 導致的水位不足問題"
+date: "2024-09-14"
+tags: 
+  - "流動性風險"
+  - "交易所管理"
+  - "市場微觀結構"
+summary: "Upbit 上線 $CKB 後出現水位不足問題，這是一個典型的 CEX 流動性管理案例，類似於銀行擠兌，最終導致每個交易所的價格不一樣。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 42
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/OwenJin12/status/1834817411624980929"
+  externalUrl: null
+  authorUsername: "OwenJin12"
+---
+
 # CEX 流動性管理案例：Upbit 上線 CKB 導致的水位不足問題
 
 > **來源**: [@OwenJin12](https://x.com/OwenJin12/status/1834817411624980929)

@@ -1,3 +1,23 @@
+---
+title: "GRVT 合約套利與無損刷分策略"
+date: "2025-12-06"
+tags: 
+  - "套利"
+  - "積分farming"
+  - "風險管理"
+summary: "★ Insight ───────────────────────────────────── GRVT 套利策略核心：利用雙賬戶對沖 + 10% 固定利息形成無風險刷分模式 自動平衡機器人：透過監控保證金差異和可用資金比例，實現高槓桿下的安全運行 ADL 機制風險：GRVT 採用社會化損失分攤，需注意系統性風險 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1997224101715587481"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # GRVT 合約套利與無損刷分策略
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1997224101715587481)

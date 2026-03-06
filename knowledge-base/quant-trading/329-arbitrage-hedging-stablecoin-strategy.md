@@ -1,3 +1,23 @@
+---
+title: "套利對沖穩定幣策略：1000U 測試月收益分析"
+date: ">"
+tags: 
+  - "套利"
+  - "對沖策略"
+  - "穩定幣交易"
+summary: "**套保**：2000 個幣 + 500U **搬磚**：準備 2000U **現貨幣**：準備 2000U"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1876662959113740785"
+  externalUrl: "https://twitter.com/zhamomo666/status/1876662959113740785/video/1"
+  authorUsername: "zhamomo666"
+---
+
 # 套利對沖穩定幣策略：1000U 測試月收益分析
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1876662959113740785) | [原文連結](https://twitter.com/zhamomo666/status/1876662959113740785/video/1)

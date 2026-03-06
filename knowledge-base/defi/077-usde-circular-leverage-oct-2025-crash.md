@@ -1,3 +1,23 @@
+---
+title: "USDe 循環槓桿與 10 月 11 日加密市場崩盤機制解析"
+date: "2025-10-12"
+tags: 
+  - "槓桿風險"
+  - "USDe"
+  - "清算連鎖"
+summary: "★ Insight ───────────────────────────────────── 這篇文章完整保留了原文的所有技術細節與分析架構 雙層槓桿結構(山寨幣抵押 + USDe 循環)是理解崩盤機制的關鍵 文章揭示了 DeFi 與 CeFi 風險傳染的隱藏通道,值得反覆研讀 ─────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1977398716127740131"
+  externalUrl: "https://x.com/i/article/1977391128128487424"
+  authorUsername: "agintender"
+---
+
 # USDe 循環槓桿與 10 月 11 日加密市場崩盤機制解析
 
 > **來源**: [@agintender](https://x.com/agintender/status/1977398716127740131) | [原文連結](https://x.com/i/article/1977391128128487424)

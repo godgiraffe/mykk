@@ -1,3 +1,23 @@
+---
+title: "位元操作技巧 - Solidity 內聯匯編優化參考"
+date: "2025-01-04"
+tags: 
+  - "位元運算"
+  - "Solidity 優化"
+  - "低階編程"
+summary: "許多進行 Solidity 內聯匯編優化的工程師都使用同一份位元操作參考資料作為基礎。那些看起來難以理解的位元運算，其實很多都是直接從這份文件中複製過來的程式碼。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1875386042750255265"
+  externalUrl: "https://graphics.stanford.edu/~seander/bithacks.html"
+  authorUsername: "wong_ssh"
+---
+
 # 位元操作技巧 - Solidity 內聯匯編優化參考
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1875386042750255265) | [原文連結](https://graphics.stanford.edu/~seander/bithacks.html)

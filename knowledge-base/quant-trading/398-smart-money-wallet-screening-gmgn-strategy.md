@@ -1,3 +1,23 @@
+---
+title: "聰明錢包篩選策略：如何用 GMGN 發現頂級交易者"
+date: ">"
+tags: 
+  - "聰明錢追蹤"
+  - "錢包分析"
+  - "Solana 交易"
+summary: "很多人還不知道怎麼扒聰明錢包。這裡分享一個最簡單的方法，透過 GMGN.AI 工具來尋找和監控頂級交易者。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xseven1/status/1846054431890235850"
+  externalUrl: "https://gmgn.ai/trend/Sa1ni0WxJ?chain=sol"
+  authorUsername: "0xseven1"
+---
+
 # 聰明錢包篩選策略：如何用 GMGN 發現頂級交易者
 
 > **來源**: [@0xseven1](https://x.com/0xseven1/status/1846054431890235850) | [原文連結](https://gmgn.ai/trend/Sa1ni0WxJ?chain=sol)

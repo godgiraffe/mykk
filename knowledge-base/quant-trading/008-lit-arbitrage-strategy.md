@@ -1,3 +1,27 @@
+---
+title: "$LIT 套利交易復盤：多交易所策略與風險管理"
+date: "2026-02-06"
+tags: 
+  - "LIT"
+  - "套利"
+  - "期現套利"
+  - "交易所"
+  - "Backpack"
+  - "LG"
+  - "Variational"
+summary: "本文作者 @Metabape (Meta 猿 🦍) 分享了在不同交易所針對 $LIT 進行套利交易的經驗，包含 TGE 前、後以及 LG 上線合約後的策略。文章詳細描述了各階段的機會、風險以及應對方法，並總結了寶貴的教訓，例如避免在主流交易所沒有現貨的幣種上進行套利。"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Metabape/status/2019688735324139723"
+  externalUrl: null
+  authorUsername: "Metabape"
+---
+
 # $LIT 套利交易復盤：多交易所策略與風險管理
 
 > **來源**: [@Metabape](https://x.com/Metabape/status/2019688735324139723)

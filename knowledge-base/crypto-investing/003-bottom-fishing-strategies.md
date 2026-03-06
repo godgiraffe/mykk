@@ -1,3 +1,25 @@
+---
+title: "熊市築底與抄底策略"
+date: ""
+tags: 
+  - "底部佈局"
+  - "DCA"
+  - "MA730"
+  - "Uniswap LP"
+  - "抄底"
+summary: "市場通常有約 **3 ～ 6 個月的築底期** 有足夠時間在相對低位分批佈局 不必糾結是不是買在最低點，只要在合理區間完成配置即可"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: null
+  externalUrl: null
+  authorUsername: null
+---
+
 # 熊市築底與抄底策略
 
 > **來源 1**: [RideTheWave (@nooob_ape)](https://x.com/nooob_ape/status/2020042257915855002) — 2026-02-07

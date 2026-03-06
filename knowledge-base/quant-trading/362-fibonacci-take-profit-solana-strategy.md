@@ -1,3 +1,23 @@
+---
+title: "斐波那契數列止盈策略在 Solana 的應用"
+date: "2024-11-23"
+tags: 
+  - "止盈策略"
+  - "Solana 交易"
+  - "自動化交易"
+summary: "修復了 bug，斐波那契數列止盈大法真的是太適合 Solana，昨天一天，至少有 2 個幣觸發了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/seaify1/status/1860121923277254783"
+  externalUrl: null
+  authorUsername: "seaify1"
+---
+
 # 斐波那契數列止盈策略在 Solana 的應用
 
 > **來源**: [@seaify1](https://x.com/seaify1/status/1860121923277254783)

@@ -1,3 +1,23 @@
+---
+title: "幣安Meme季來臨：大幣種潛力與上線預期分析"
+date: ">"
+tags: 
+  - "Meme幣"
+  - "幣安上線"
+  - "潛力項目"
+summary: "代幣 漲幅表現 ------ ---------- #NEIROCTO $17M → $1B（50x） #ACT $20M → $500M（25x） #PNUT 20x"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/sol_jingou/status/1856859452764557568"
+  externalUrl: "https://twitter.com/sol_jingou/status/1856859452764557568/photo/1"
+  authorUsername: "sol_jingou"
+---
+
 # 幣安Meme季來臨：大幣種潛力與上線預期分析
 
 > **來源**: [@sol_jingou](https://x.com/sol_jingou/status/1856859452764557568) | [原文連結](https://twitter.com/sol_jingou/status/1856859452764557568/photo/1)

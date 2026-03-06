@@ -1,3 +1,23 @@
+---
+title: "mevlog-rs：EVM 鏈交易查詢工具"
+date: "2025-10-24"
+tags: 
+  - "MEV 分析"
+  - "交易監控"
+  - "開發工具"
+summary: "某個區塊的 Uni sync/swap/mint/burn 交易 查找最近幾個區塊高 Gas 價格進行篩選 查找如轉帳大於 >1000 個代幣的合約地址"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1981532463907426791"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # mevlog-rs：EVM 鏈交易查詢工具
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1981532463907426791)

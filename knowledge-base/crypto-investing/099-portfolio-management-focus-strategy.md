@@ -1,3 +1,23 @@
+---
+title: "資產增長的抓大放小策略"
+date: ">"
+tags: 
+  - "投資心態"
+  - "風險控制"
+  - "機會判斷"
+summary: "1. **沒做好風險控制，導致較大回撤** 2. **分不清主次，指望每天、每個專案都能賺錢**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xSunNFT/status/1973601442436165753"
+  externalUrl: null
+  authorUsername: "0xSunNFT"
+---
+
 # 資產增長的抓大放小策略
 
 > **來源**: [@0xSunNFT](https://x.com/0xSunNFT/status/1973601442436165753)

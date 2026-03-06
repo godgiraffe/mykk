@@ -1,3 +1,23 @@
+---
+title: "Artemis：Rust MEV 機器人開發框架"
+date: ">"
+tags: 
+  - "MEV機器人"
+  - "Rust框架"
+  - "事件驅動架構"
+summary: "Artemis 是一個用 Rust 編寫 MEV 機器人的框架，由 Paradigm 開源。設計理念是簡單、模組化且高效能。炒飯獸大佬開源的 SUI MEV Bot 就是基於這個框架構建的。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1937423039278518533"
+  externalUrl: "https://github.com/paradigmxyz/artemis?source=post_page-----77f4c99207f---------------------------------------"
+  authorUsername: "0xKaKa03"
+---
+
 # Artemis：Rust MEV 機器人開發框架
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1937423039278518533) | [原文連結](https://github.com/paradigmxyz/artemis?source=post_page-----77f4c99207f---------------------------------------)

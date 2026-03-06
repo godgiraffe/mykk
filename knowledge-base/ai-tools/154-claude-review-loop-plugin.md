@@ -1,3 +1,23 @@
+---
+title: "Claude Code 自動審稿插件 — claude-review-loop"
+date: "2026-02-23"
+tags: 
+  - "Claude Code"
+  - "自動審查"
+  - "代碼品質"
+summary: "claude-review-loop 是一個給 Claude Code 加上自動審稿人的插件。讓 AI 審 AI 寫的代碼，Claude 和 Codex 會自動進行代碼審查循環。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/QingQ77/status/2025955055359131998"
+  externalUrl: "https://github.com/hamelsmu/claude-review-loop"
+  authorUsername: "QingQ77"
+---
+
 # Claude Code 自動審稿插件 — claude-review-loop
 
 > **來源**: [@QingQ77](https://x.com/QingQ77/status/2025955055359131998) | [原文連結](https://github.com/hamelsmu/claude-review-loop)

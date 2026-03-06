@@ -1,3 +1,23 @@
+---
+title: "Claude Code 工作流最佳實踐：18 個實用技巧"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "工作流優化"
+  - "Prompt 工程"
+summary: "始終使用 @filename.py 或 @src/classes/ 直接引用檔案來約束 agent 的工作範圍。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/svpino/status/2029645889980305777"
+  externalUrl: null
+  authorUsername: "svpino"
+---
+
 # Claude Code 工作流最佳實踐：18 個實用技巧
 
 > **來源**: [@svpino](https://x.com/svpino/status/2029645889980305777)

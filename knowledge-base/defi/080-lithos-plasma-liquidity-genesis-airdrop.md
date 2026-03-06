@@ -1,3 +1,23 @@
+---
+title: "Lithos：Plasma 原生流動性市場創世空投指南"
+date: ">"
+tags: 
+  - "流動性挖礦"
+  - "空投機會"
+  - "Plasma生態"
+summary: "Plasma 的原生流動性市場 @lithos_to 已開放，參與創世紀交互可獲得 5% 代幣空投，TGE 時間為 10 月 11 日（可能延遲）。目前主要是外國用戶參與，競爭度相對較低，若獲得官方扶持可能有較高回報。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/WY_mask/status/1975622356443021587"
+  externalUrl: "https://lithos.to/?referralcode=71zp9lvisal107kvt9"
+  authorUsername: "WY_mask"
+---
+
 # Lithos：Plasma 原生流動性市場創世空投指南
 
 > **來源**: [@WY_mask](https://x.com/WY_mask/status/1975622356443021587) | [原文連結](https://lithos.to/?referralcode=71zp9lvisal107kvt9)

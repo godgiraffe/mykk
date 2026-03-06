@@ -1,3 +1,23 @@
+---
+title: "鏈上監控埋伏策略：GMT 鯨魚持倉分析與交易決策"
+date: "2024-03-30"
+tags: 
+  - "鯨魚監控"
+  - "合約持倉"
+  - "埋伏策略"
+summary: "分享一個鏈上監控的埋伏策略，經常用這個策略實現盈利，目前 GMT 截止 26 號買入已經實現盈利 28 個點。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/deankepler/status/1773926044653015052"
+  externalUrl: "https://etherscan.io/token/0xe3c408BD53c31C085a1746AF401A4042954ff740?a=0xc7e73afcda8f00525dab82b76433806790501c77"
+  authorUsername: "deankepler"
+---
+
 # 鏈上監控埋伏策略：GMT 鯨魚持倉分析與交易決策
 
 > **來源**: [@deankepler](https://x.com/deankepler/status/1773926044653015052) | [原文連結](https://etherscan.io/token/0xe3c408BD53c31C085a1746AF401A4042954ff740?a=0xc7e73afcda8f00525dab82b76433806790501c77)

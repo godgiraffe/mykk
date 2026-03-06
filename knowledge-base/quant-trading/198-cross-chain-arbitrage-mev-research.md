@@ -1,3 +1,23 @@
+---
+title: "跨鏈套利：DeFi 去中心化金融的下一個 MEV 前沿"
+date: "2025-06-23"
+tags: 
+  - "跨鏈套利"
+  - "MEV"
+  - "市場集中化"
+summary: "論文《Cross-Chain Arbitrage: The Next Frontier of MEV in Decentralized Finance》調研統計了 DEX 上跨鏈套利的市場格局，對套利玩家在資金處置、橋的選擇等方面的權衡取捨可能有啟發。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1937098148012511541"
+  externalUrl: "https://arxiv.org/abs/2501.17335"
+  authorUsername: "0xKaKa03"
+---
+
 # 跨鏈套利：DeFi 去中心化金融的下一個 MEV 前沿
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1937098148012511541) | [原文連結](https://arxiv.org/abs/2501.17335)

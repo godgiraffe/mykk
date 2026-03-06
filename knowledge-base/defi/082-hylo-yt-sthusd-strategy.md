@@ -1,3 +1,23 @@
+---
+title: "Hylo YT-sHYUSD 收益策略與 Pendle 代幣拆分機制"
+date: "2025-10-04"
+tags: 
+  - "YT 收益代幣"
+  - "Solana 穩定幣"
+  - "Pendle 協議"
+summary: "**Implied APY**：18.74% **Underlying APY**：15.38% **APY 差距**：僅 3.36%，我認為目前被低估 😋"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Zh_Crypto517/status/1974359468683989057"
+  externalUrl: "https://hylo.so/leverage?ref=N1AT4F"
+  authorUsername: "Zh_Crypto517"
+---
+
 # Hylo YT-sHYUSD 收益策略與 Pendle 代幣拆分機制
 
 > **來源**: [@Zh_Crypto517](https://x.com/Zh_Crypto517/status/1974359468683989057) | [原文連結](https://hylo.so/leverage?ref=N1AT4F)

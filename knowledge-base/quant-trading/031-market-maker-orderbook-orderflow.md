@@ -1,3 +1,23 @@
+---
+title: "進擊的做市商 2：訂單簿與訂單流"
+date: "2025-12-24"
+tags: 
+  - "做市商"
+  - "訂單簿"
+  - "訂單流"
+summary: "★ Insight ───────────────────────────────────── 這是一篇關於做市商運作機制的深度技術文章。核心概念包括： 1. **限價訂單簿 (LOB)** - 做市商的實際戰場，而非 K 線圖 2. **點差的三大成本** - 不只是利潤，背後是風險與成本的定價 3. **訂單流毒性 (Toxic Flow)** - 做市商如何防範「知情交易者」的攻擊 ────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bc1qDave/status/2003638312201044072"
+  externalUrl: null
+  authorUsername: "bc1qDave"
+---
+
 # 進擊的做市商 2：訂單簿與訂單流
 
 > **來源**: [@bc1qDave](https://x.com/bc1qDave/status/2003638312201044072)

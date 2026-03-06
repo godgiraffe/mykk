@@ -1,3 +1,23 @@
+---
+title: "Iron Condor 超低風險套利：META 期權結構分析"
+date: "2025-06-25"
+tags: 
+  - "期權套利"
+  - "Iron Condor"
+  - "Portfolio Margin"
+summary: "有朋友覺得這不是套利，而是在賭波動，所以我來詳細解釋一下，為什麼這是超低風險套利，而絕不是在賭方向或波動："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1937711158070223297"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # Iron Condor 超低風險套利：META 期權結構分析
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1937711158070223297)

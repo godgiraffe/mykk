@@ -1,3 +1,23 @@
+---
+title: "AI 代码审查专家：code-review-expert 审查工具"
+date: "2026-02-06"
+tags: 
+  - "AI代码审查"
+  - "代码质量"
+  - "软件工程"
+summary: "code-review-expert 是一款 AI 代码审查工具，旨在模擬資深工程師的視角，對程式碼進行全面且結構化的審查。它涵蓋了程式碼品質的多個關鍵面向，例如架構、安全性、效能和程式碼品質本身。此工具適用於希望快速整合基礎審查的開源專案，或個人開發者。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/aigclink/status/2019688236344569987"
+  externalUrl: null
+  authorUsername: "aigclink"
+---
+
 # AI 代码审查专家：code-review-expert 审查工具
 
 > **來源**: [@aigclink](https://x.com/aigclink/status/2019688236344569987)

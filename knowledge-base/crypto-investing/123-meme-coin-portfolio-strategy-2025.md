@@ -1,3 +1,23 @@
+---
+title: "Meme 幣投資組合配置策略與市場觀察"
+date: ">"
+tags: 
+  - "Meme 幣"
+  - "投資策略"
+  - "早期配置"
+summary: "海妖交易所一直走合規路線，最近官方也在慢慢更新一些關於鏈上的資訊，$ANITA 應該是他們自己做的，看到有人說他們本身就經常支持 meme，埋伏了一些,等福報。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BTC_Prophet_/status/1945158441309495544"
+  externalUrl: null
+  authorUsername: "BTC_Prophet_"
+---
+
 # Meme 幣投資組合配置策略與市場觀察
 
 > **來源**: [@BTC_Prophet_](https://x.com/BTC_Prophet_/status/1945158441309495544)

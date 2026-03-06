@@ -1,3 +1,23 @@
+---
+title: "加密貨幣交易員必備 35 個網站工具整理"
+date: "2024-09-21"
+tags: 
+  - "交易工具"
+  - "平台資源"
+  - "效率提升"
+summary: "由於原始內容只提供了文章的開頭部分（標題和引言），完整的 35 個網站工具清單並未在提供的內容中呈現。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/FC_0X0/status/1837382922690855140"
+  externalUrl: null
+  authorUsername: "FC_0X0"
+---
+
 # 加密貨幣交易員必備 35 個網站工具整理
 
 > **來源**: [@FC_0X0](https://x.com/FC_0X0/status/1837382922690855140)

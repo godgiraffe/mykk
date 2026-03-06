@@ -1,3 +1,23 @@
+---
+title: "Anthropic 官方提示工程互動教學課程"
+date: "2025-10-13"
+tags: 
+  - "提示工程"
+  - "Claude"
+  - "學習資源"
+summary: "Anthropic 官方推出的零門檻互動式提示工程教學課程，幫助你解鎖 Claude 的真正潛力。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hongming731/status/1977585846363869563"
+  externalUrl: "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+  authorUsername: "hongming731"
+---
+
 # Anthropic 官方提示工程互動教學課程
 
 > **來源**: [@hongming731](https://x.com/hongming731/status/1977585846363869563) | [原文連結](https://github.com/anthropics/prompt-eng-interactive-tutorial)

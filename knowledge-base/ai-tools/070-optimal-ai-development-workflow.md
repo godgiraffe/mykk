@@ -1,3 +1,23 @@
+---
+title: "最佳 AI 開發工作流程：Ghostty + Claude Code 極簡工具組合"
+date: "2025-08-31"
+tags: 
+  - "Claude Code"
+  - "開發工作流"
+  - "生產力優化"
+summary: "**極簡工具組合 = 最高生產力**。作者在嘗試各種 AI 開發工具後，最終回歸到最精簡的設置：**Ghostty + Claude Code + 最少工具**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/PaulSolt/status/1961990951640907989"
+  externalUrl: "https://steipete.me/posts/2025/optimal-ai-development-workflow"
+  authorUsername: "PaulSolt"
+---
+
 # 最佳 AI 開發工作流程：Ghostty + Claude Code 極簡工具組合
 
 > **來源**: [@PaulSolt](https://x.com/PaulSolt/status/1961990951640907989) | [原文連結](https://steipete.me/posts/2025/optimal-ai-development-workflow)

@@ -1,3 +1,23 @@
+---
+title: "Uniswap V3 代碼分析與數學推導"
+date: "2024-12-22"
+tags: 
+  - "智能合約"
+  - "Uniswap V3"
+  - "DeFi開發"
+summary: "終於寫完了 Uniswap V3 的代碼分析文章，該文章主要內容其實來自 @ProgrammerSmart 的 Uniswap V3 的系列教程視頻，這些視頻的優點是完整的數學推導 + 逐行實現的代碼。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1870792535075172801"
+  externalUrl: "https://twitter.com/wong_ssh/status/1870792535075172801/photo/1"
+  authorUsername: "wong_ssh"
+---
+
 # Uniswap V3 代碼分析與數學推導
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1870792535075172801) | [原文連結](https://twitter.com/wong_ssh/status/1870792535075172801/photo/1)

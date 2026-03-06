@@ -1,3 +1,23 @@
+---
+title: "透過 24 小時手續費評估 Solana Meme 熱度"
+date: "2025-10-15"
+tags: 
+  - "Solana"
+  - "MEME 代幣"
+  - "市場指標"
+summary: "Meteora 官方 API 接口有一個大盤數據，包含了 TVL、交易量、歷史總手續費。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1978306171099603158"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # 透過 24 小時手續費評估 Solana Meme 熱度
 
 > **來源**: [@gm365](https://x.com/gm365/status/1978306171099603158)

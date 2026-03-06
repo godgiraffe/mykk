@@ -1,3 +1,23 @@
+---
+title: "River 項目 20 萬美元虧損教訓：代幣套利陷阱與項目方信用危機"
+date: "2025-11-29"
+tags: 
+  - "項目風險"
+  - "套利失敗"
+  - "人品勝於代碼"
+summary: "@RiverdotInc 這個項目，瓜哥起初注意到它，是因為上了 @binancezh alpha + 永續。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/liguagua/status/1994714361500479713"
+  externalUrl: null
+  authorUsername: "liguagua"
+---
+
 # River 項目 20 萬美元虧損教訓：代幣套利陷阱與項目方信用危機
 
 > **來源**: [@liguagua](https://x.com/liguagua/status/1994714361500479713)

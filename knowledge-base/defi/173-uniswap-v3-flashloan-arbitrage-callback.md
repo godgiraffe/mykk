@@ -1,3 +1,23 @@
+---
+title: "Uniswap V3 閃電貸回調套利：零本金無手續費套利技巧"
+date: "2025-04-25"
+tags: 
+  - "Uniswap V3"
+  - "閃電貸"
+  - "套利技巧"
+summary: "昨晚大佬的一句話讓我醍醐灌頂，真的不知道什麼樣的腦子才能想出這麼天才的想法，我看有好多兄弟不太明白,我實在憋不住了我想解讀一下大佬的做法。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/litangsongyx/status/1915679188113350788"
+  externalUrl: "https://x.com/i/article/1915663556340785152"
+  authorUsername: "litangsongyx"
+---
+
 # Uniswap V3 閃電貸回調套利：零本金無手續費套利技巧
 
 > **來源**: [@litangsongyx](https://x.com/litangsongyx/status/1915679188113350788) | [原文連結](https://x.com/i/article/1915663556340785152)

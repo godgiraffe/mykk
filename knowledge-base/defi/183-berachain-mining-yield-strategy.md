@@ -1,3 +1,23 @@
+---
+title: "Berachain 挖礦收益結構解析"
+date: "2025-04-06"
+tags: 
+  - "Berachain"
+  - "LP 策略"
+  - "收益結構"
+summary: "首先為什麼借貸本身都這麼高？很多人怕 BERA 跌，所以幣是借的，這部分組成 BERA 第一重自己挖自己的收益（資金成本）。這部分是隱性的，會體現在後面兩部分收益裡。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ZKSgu/status/1908803643106836647"
+  externalUrl: null
+  authorUsername: "ZKSgu"
+---
+
 # Berachain 挖礦收益結構解析
 
 > **來源**: [@ZKSgu](https://x.com/ZKSgu/status/1908803643106836647)

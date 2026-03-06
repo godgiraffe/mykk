@@ -1,3 +1,23 @@
+---
+title: "Pendle 鏈上聰明錢監控系統"
+date: ">"
+tags: 
+  - "DeFi監控"
+  - "聰明錢追蹤"
+  - "Pendle協議"
+summary: "花幾天時間撸了個 Pendle 的全鏈監控系統。目前完成的功能包括追蹤聰明錢（買賣 YT/PT、組 LP 都可以監控到）、監控市場波動，以及聰明錢的購買趨勢。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/beiyue66/status/1985745870571389413"
+  externalUrl: null
+  authorUsername: "beiyue66"
+---
+
 # Pendle 鏈上聰明錢監控系統
 
 > **來源**: [@beiyue66](https://x.com/beiyue66/status/1985745870571389413)

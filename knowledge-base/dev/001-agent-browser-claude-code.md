@@ -1,3 +1,24 @@
+---
+title: "使用 agent-browser 節省 Claude Code Token 成本"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "agent-browser"
+  - "Token 成本"
+  - "Web Automation"
+summary: "## 使用 agent-browser 節省 Claude Code Token 成本"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/bozhou_ai/status/2010900280226038232"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "bozhou_ai"
+---
+
 # 使用 agent-browser 節省 Claude Code Token 成本
 
 > **來源**: [@bozhou_ai](https://x.com/bozhou_ai/status/2010900280226038232) | [原文連結](https://code.claude.com/docs)

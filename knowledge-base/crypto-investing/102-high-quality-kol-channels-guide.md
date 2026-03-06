@@ -1,3 +1,23 @@
+---
+title: "高質量 KOL 頻道指南：識別低調大鯨魚的投資者"
+date: "2025-09-27"
+tags: 
+  - "KOL評選"
+  - "空投農耕"
+  - "DeFi策略"
+summary: "最近 @KaitoAI 跟 @falconfinance 合作的 #Yap2Fly 活動非常競爭，各路人馬都衝進來：有真金白銀砸下去的 KOL，也有互洗流量的矩陣號、聊天刷存在感的大軍，甚至還藏著一些被嚴重低估、其實投入不少資金的小號。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jimcurrywang/status/1971868026858623242"
+  externalUrl: null
+  authorUsername: "jimcurrywang"
+---
+
 # 高質量 KOL 頻道指南：識別低調大鯨魚的投資者
 
 > **來源**: [@jimcurrywang](https://x.com/jimcurrywang/status/1971868026858623242)

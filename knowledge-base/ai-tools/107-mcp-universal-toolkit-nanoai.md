@@ -1,3 +1,23 @@
+---
+title: "MCP 萬能工具箱 — 納米AI 整合100+ MCP 服務"
+date: "2025-04-23"
+tags: 
+  - "MCP"
+  - "AI工具"
+  - "開發效率"
+summary: "終於有公司在解決 MCP 配置難的問題了。納米 AI 推出了 MCP 萬能工具箱，整合了 100 多個 MCP 服務，全部預先配置完成，可以直接調用。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/oran_ge/status/1915183713299943559"
+  externalUrl: null
+  authorUsername: "oran_ge"
+---
+
 # MCP 萬能工具箱 — 納米AI 整合100+ MCP 服務
 
 > **來源**: [@oran_ge](https://x.com/oran_ge/status/1915183713299943559)

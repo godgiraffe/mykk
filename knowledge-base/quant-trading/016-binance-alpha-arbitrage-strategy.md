@@ -1,3 +1,23 @@
+---
+title: "幣安 Alpha 套利策略：新幣限價套利與盤前合約套利"
+date: ">"
+tags: 
+  - "套利"
+  - "幣安Alpha"
+  - "市場微觀結構"
+summary: "策略類型 風險等級 收益潛力 容量 適用時機 --------- --------- --------- ------ --------- 新幣限價套利 高 高 小 新幣上線初期（限價單與即時單價差大時） 盤前合約套利 低 高 大 有盤前合約且低開/平開時"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/fivepointwater5/status/1991486483379953990"
+  externalUrl: null
+  authorUsername: "fivepointwater5"
+---
+
 # 幣安 Alpha 套利策略：新幣限價套利與盤前合約套利
 
 > **來源**: [@fivepointwater5](https://x.com/fivepointwater5/status/1991486483379953990)

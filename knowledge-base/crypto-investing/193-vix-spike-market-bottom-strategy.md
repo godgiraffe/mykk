@@ -1,3 +1,23 @@
+---
+title: "VIX 超過 60 的歷史機遇：不要做空極端行情"
+date: ">"
+tags: 
+  - "風險管理"
+  - "市場心態"
+  - "底部機會"
+summary: "時間 VIX 峰值 市場狀況 ------ ---------- ---------- 2008 年 >60 接近絕對底部 2020 年 >60 接近絕對底部 前幾天 >60 當前事件"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1821559487972745713"
+  externalUrl: "https://twitter.com/Michael_Liu93/status/1821559487972745713/photo/1"
+  authorUsername: "Michael_Liu93"
+---
+
 # VIX 超過 60 的歷史機遇：不要做空極端行情
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1821559487972745713) | [原文連結](https://twitter.com/Michael_Liu93/status/1821559487972745713/photo/1)

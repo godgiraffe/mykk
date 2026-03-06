@@ -1,3 +1,23 @@
+---
+title: "Runes 打新套利進階策略：小資金與大資金的差異化玩法"
+date: "2024-06-03"
+tags: 
+  - "Runes打新"
+  - "套利策略"
+  - "資金管理"
+summary: "在 Runes 打新與搬磚套利中，如何根據資金規模制定差異化策略，以及如何正確看待「賣飛」這件事。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xquqi/status/1797495219983900753"
+  externalUrl: null
+  authorUsername: "0xquqi"
+---
+
 # Runes 打新套利進階策略：小資金與大資金的差異化玩法
 
 > **來源**: [@0xquqi](https://x.com/0xquqi/status/1797495219983900753)

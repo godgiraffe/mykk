@@ -1,3 +1,23 @@
+---
+title: "永續合約算法系列文章導覽——從理論到實戰"
+date: "2025-09-10"
+tags: 
+  - "永續合約"
+  - "交易所機制"
+  - "清算機制"
+summary: "有讀者說不太容易找到《合約算法鎌刀》系列的文章合集，這裡寫了一個閱讀導覽（附上連結），給有需要的朋友看看。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/agintender/status/1965664587669213491"
+  externalUrl: "https://x.com/agintender/status/1947269261057266046"
+  authorUsername: "agintender"
+---
+
 # 永續合約算法系列文章導覽——從理論到實戰
 
 > **來源**: [@agintender](https://x.com/agintender/status/1965664587669213491) | [原文連結](https://x.com/agintender/status/1947269261057266046)

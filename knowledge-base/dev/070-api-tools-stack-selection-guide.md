@@ -1,3 +1,23 @@
+---
+title: "API 工具與大模型組合選擇指南"
+date: "2024-11-29"
+tags: 
+  - "API工具"
+  - "大模型"
+  - "網頁爬蟲"
+summary: "用途 工具選擇 說明 ------ ---------- ------ 推特 API @api_dance 推特 API 服務 大模型 @hyperbolic_labs 的 qwen2.5 回應速度相對較快 DexScreener 新幣爬取 Playwright 直接爬取，可繞過 Cloudflare；api_dance 也有提供但 Cursor 沒看懂"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/scriptmoney/status/1862498485825937547"
+  externalUrl: null
+  authorUsername: "scriptmoney"
+---
+
 # API 工具與大模型組合選擇指南
 
 > **來源**: [@scriptmoney](https://x.com/scriptmoney/status/1862498485825937547)

@@ -1,3 +1,23 @@
+---
+title: "Uniswap V3 價格限制套利案例分析"
+date: "2025-05-11"
+tags: 
+  - "套利"
+  - "Uniswap V3"
+  - "聚合器"
+summary: "群裡討論了一個很有意思的交易案例：用戶花費 3 BNB 只買到價值 600 U 的資產。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BoxMrChen/status/1921449158826684682"
+  externalUrl: null
+  authorUsername: "BoxMrChen"
+---
+
 # Uniswap V3 價格限制套利案例分析
 
 > **來源**: [@BoxMrChen](https://x.com/BoxMrChen/status/1921449158826684682)

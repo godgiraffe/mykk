@@ -1,3 +1,23 @@
+---
+title: "Web3 交互空投農耕指南：用手機就夠了"
+date: "2023-04-22"
+tags: 
+  - "空投農耕"
+  - "Web3 交互"
+  - "手機錢包"
+summary: "做 Web3 交互博空投用手機就夠了。如果我們可以一起把一件枯燥的事情堅持做 40 週，那大毛到來之日，必有我們的一份！"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xzhaozhao/status/1649769824170696704"
+  externalUrl: "https://twitter.com/0xzhaozhao/status/1649769824170696704/photo/1"
+  authorUsername: "0xzhaozhao"
+---
+
 # Web3 交互空投農耕指南：用手機就夠了
 
 > **來源**: [@0xzhaozhao](https://x.com/0xzhaozhao/status/1649769824170696704) | [原文連結](https://twitter.com/0xzhaozhao/status/1649769824170696704/photo/1)

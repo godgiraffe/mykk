@@ -1,3 +1,23 @@
+---
+title: "Claude 上下文視窗管理與持續執行"
+date: "2025-11-23"
+tags: 
+  - "Claude Code"
+  - "Prompt工程"
+  - "上下文管理"
+summary: "在 Claude Code 的系統提示詞中加入這段話，可以解鎖跨無限上下文的持續執行能力："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/kieranklaassen/status/1992478858025820469"
+  externalUrl: "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices"
+  authorUsername: "kieranklaassen"
+---
+
 # Claude 上下文視窗管理與持續執行
 
 > **來源**: [@kieranklaassen](https://x.com/kieranklaassen/status/1992478858025820469) | [原文連結](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)

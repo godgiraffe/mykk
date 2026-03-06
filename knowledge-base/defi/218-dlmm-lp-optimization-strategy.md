@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性池收益優化策略"
+date: ">"
+tags: 
+  - "DLMM"
+  - "LP策略"
+  - "風險管理"
+summary: "隨著今天的一波上漲,我的 CHILLYGUY/SOL DLMM 池子成功漲出區間。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1861327688444846319"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 流動性池收益優化策略
 
 > **來源**: [@gm365](https://x.com/gm365/status/1861327688444846319)

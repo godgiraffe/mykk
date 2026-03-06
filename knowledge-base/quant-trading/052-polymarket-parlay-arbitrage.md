@@ -1,3 +1,23 @@
+---
+title: "Polymarket 聯合市場套利策略"
+date: "2025-11-26"
+tags: 
+  - "聯合市場"
+  - "預測市場套利"
+  - "相關性定價"
+summary: "Polymarket 的聯合市場（Parlays）是由協議構建的，透過 Discord 投票決定。這些市場可以像其他市場一樣下注（Yes 或 No），但其解決標準要求多個事件**全部解決為 Yes 或全部解決為 No**。大多數情況下，每個組成事件都有自己的現貨市場。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xtaetaehoho/status/1993756626269163913"
+  externalUrl: "https://x.com/i/article/1991603317177479170"
+  authorUsername: "0xtaetaehoho"
+---
+
 # Polymarket 聯合市場套利策略
 
 > **來源**: [@0xtaetaehoho](https://x.com/0xtaetaehoho/status/1993756626269163913) | [原文連結](https://x.com/i/article/1991603317177479170)

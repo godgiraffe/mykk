@@ -1,3 +1,25 @@
+---
+title: "Paradex 刷量策略與積分分配"
+date: "2026-01-17"
+tags: 
+  - "Paradex"
+  - "刷量"
+  - "DeFi"
+  - "積分"
+  - "女巫攻擊"
+summary: "本文整理自 @LumaoDoggie (撸毛小狗) 在 Paradex 上刷量策略的分享，重點包含："
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/2012470548878758274"
+  externalUrl: "https://x.com/LumaoDoggie/status/2006742759621931026"
+  authorUsername: "LumaoDoggie"
+---
+
 # Paradex 刷量策略與積分分配
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/2012470548878758274) | [原文連結](https://x.com/LumaoDoggie/status/2006742759621931026)

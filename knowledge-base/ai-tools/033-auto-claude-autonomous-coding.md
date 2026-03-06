@@ -1,3 +1,23 @@
+---
+title: "Auto Claude：自主多階段 AI 編程框架"
+date: "2025-12-21"
+tags: 
+  - "AI 編程"
+  - "自動化開發"
+  - "多智能體"
+summary: "Auto Claude 是一個自主多智能體編程框架，能夠自動規劃、編寫和驗證軟體。它將 AI 編程提升到自動化層次，開發者只需描述目標，系統就會處理規劃、實作和驗證全流程。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/rudrank/status/2002730622457122942"
+  externalUrl: "https://github.com/AndyMik90/Auto-Claude"
+  authorUsername: "rudrank"
+---
+
 # Auto Claude：自主多階段 AI 編程框架
 
 > **來源**: [@rudrank](https://x.com/rudrank/status/2002730622457122942) | [原文連結](https://github.com/AndyMik90/Auto-Claude)

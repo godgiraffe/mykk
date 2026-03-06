@@ -1,3 +1,23 @@
+---
+title: "Polymarket BTC 15分鐘盤口套利機器人策略分析"
+date: "2025-12-19"
+tags: 
+  - "量化交易"
+  - "價差套利"
+  - "預測市場"
+summary: "2024年10月21日，Polymarket 上線了「15分鐘 BTC 漲跌盤」功能。8天後，一個機器人地址開始以小倉位試水。52天後，該機器人以2000美元本金累計獲利30.5萬美元，回報率達150倍。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/linwanwan823/status/2001932533177721161"
+  externalUrl: null
+  authorUsername: "linwanwan823"
+---
+
 # Polymarket BTC 15分鐘盤口套利機器人策略分析
 
 > **來源**: [@linwanwan823](https://x.com/linwanwan823/status/2001932533177721161)

@@ -1,3 +1,23 @@
+---
+title: "OKX Boost 第二季交易賽教學與多開策略指南"
+date: "2025-09-12"
+tags: 
+  - "OKX Boost"
+  - "交易賽"
+  - "多開技巧"
+summary: "### 1. 瀏覽器多開技術 **Google 瀏覽器多開教程**：批量多開 Google 瀏覽器並相互獨立的詳細教學 **YouTube 影片教學**：視覺化教學影片，適合初學者 **Windows 多窗口管理教程**：Windows 系統下的窗口管理技巧 **Mac 多窗口管理**：macOS 系統下的窗口管理方法"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/WY_mask/status/1966554907684532396"
+  externalUrl: "https://paragraph.com/@qiujunyu/W8ZPcjwNK8k0SIR9D5qG"
+  authorUsername: "WY_mask"
+---
+
 # OKX Boost 第二季交易賽教學與多開策略指南
 
 > **來源**: [@WY_mask](https://x.com/WY_mask/status/1966554907684532396) | [原文連結](https://paragraph.com/@qiujunyu/W8ZPcjwNK8k0SIR9D5qG)

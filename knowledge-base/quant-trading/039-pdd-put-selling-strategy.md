@@ -1,3 +1,23 @@
+---
+title: "PDD 賣空期權策略：雙贏的保險公司套利"
+date: "2025-12-14"
+tags: 
+  - "期權售賣"
+  - "現金擔保看跌期權"
+  - "套利策略"
+summary: "本週 PDD 因小作文導致股價下跌，作者趁機賣出 2026 年 12 月 18 日到期的看跌期權（Put Options），建立一個雙向獲利的策略結構。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/WinForKakei/status/2000137075228889474"
+  externalUrl: null
+  authorUsername: "WinForKakei"
+---
+
 # PDD 賣空期權策略：雙贏的保險公司套利
 
 > **來源**: [@WinForKakei](https://x.com/WinForKakei/status/2000137075228889474)

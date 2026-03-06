@@ -1,3 +1,23 @@
+---
+title: "小資族加密投資策略：Sybil 農場領空投"
+date: "2025-10-20"
+tags: 
+  - "Sybil農場"
+  - "空投獵取"
+  - "小資族策略"
+summary: "1. **找一份工作** — 增加本金來源 2. **不要買垃圾山寨幣** — 風險回報比極差 3. **運行 Sybil 農場** — 透過多錢包空投策略獲取收益"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1980409438679781415"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # 小資族加密投資策略：Sybil 農場領空投
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1980409438679781415)

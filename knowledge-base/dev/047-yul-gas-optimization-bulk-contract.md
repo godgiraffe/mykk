@@ -1,3 +1,23 @@
+---
+title: "Yul 純手工實現：1000 個號批量交易僅花 12937574 gas 的合約優化"
+date: "2025-06-23"
+tags: 
+  - "Yul"
+  - "Gas 優化"
+  - "智能合約"
+summary: "作者成功將 1000 個帳號的歸集和賣出交易，僅花費 **12937574 gas**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CryptoNyaRu/status/1937103386522042703"
+  externalUrl: "https://bscscan.com/tx/0x03975c906b85d18871c3b73be00cf99867f210dfe034213235eaff65ba30b2e3"
+  authorUsername: "CryptoNyaRu"
+---
+
 # Yul 純手工實現：1000 個號批量交易僅花 12937574 gas 的合約優化
 
 > **來源**: [@CryptoNyaRu](https://x.com/CryptoNyaRu/status/1937103386522042703) | [原文連結](https://bscscan.com/tx/0x03975c906b85d18871c3b73be00cf99867f210dfe034213235eaff65ba30b2e3)

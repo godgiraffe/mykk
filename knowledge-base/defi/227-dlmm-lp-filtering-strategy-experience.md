@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性提供者篩選策略與心態管理分享"
+date: "2024-10-19"
+tags: 
+  - "DLMM"
+  - "篩選標準"
+  - "風險管理"
+summary: "打完遊戲回來發現多了一堆粉絲... 感謝 @gm365，並不是什麼大佬，只是在 Meteora 玩的時間久點，多點經驗。最近在踐行 @weremeow 提的 #PPP，也是利他，平時發帖比較少，這些過來的朋友肯定是對 DLMM 感興趣，線程分享一些工具用來輔助做 DLMM LP，希望都有所得。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/feikerwu/status/1847606205042348479"
+  externalUrl: null
+  authorUsername: "feikerwu"
+---
+
 # DLMM 流動性提供者篩選策略與心態管理分享
 
 > **來源**: [@feikerwu](https://x.com/feikerwu/status/1847606205042348479)

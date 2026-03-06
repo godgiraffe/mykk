@@ -1,3 +1,23 @@
+---
+title: "ENA S3 空投套利實戰記錄 — 3M 美元收益分析"
+date: "2025-05-03"
+tags: 
+  - "套利策略"
+  - "空投挖礦"
+  - "風險管理"
+summary: "得益於分了快 200 個號，所以鎖倉的只有 30 來萬個。這是入圈 4 年的巔峰之戰了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/liguagua/status/1918682746073039317"
+  externalUrl: null
+  authorUsername: "liguagua"
+---
+
 # ENA S3 空投套利實戰記錄 — 3M 美元收益分析
 
 > **來源**: [@liguagua](https://x.com/liguagua/status/1918682746073039317)

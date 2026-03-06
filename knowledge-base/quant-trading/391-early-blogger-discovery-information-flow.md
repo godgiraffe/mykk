@@ -1,3 +1,23 @@
+---
+title: "早期部落客發現方法 - 建立高效資訊流"
+date: "2024-10-23"
+tags: 
+  - "資訊流篩選"
+  - "部落客追蹤"
+  - "市場研究"
+summary: "以 duck 為例，有效早期資訊元素是對應網址，而不是 CA（每個項目自己過濾一下核心關鍵詞）。所以對應關鍵詞是 duck.bond 這個網站。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/scuptone/status/1849167532089126956"
+  externalUrl: null
+  authorUsername: "scuptone"
+---
+
 # 早期部落客發現方法 - 建立高效資訊流
 
 > **來源**: [@scuptone](https://x.com/scuptone/status/1849167532089126956)

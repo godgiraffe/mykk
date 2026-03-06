@@ -1,3 +1,23 @@
+---
+title: "DLMM 低風險 LP 策略：Bid-Ask 加單邊池自動止損"
+date: ">"
+tags: 
+  - "DLMM"
+  - "LP策略"
+  - "風險管理"
+summary: "這是一個較低風險的 DLMM LP 策略，利用 Bid-Ask 機制配合 SOL 單邊池來實現自動抄底與風險控制。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/QuantVela/status/1910332091210006875"
+  externalUrl: "https://twitter.com/QuantVela/status/1910332091210006875/photo/1"
+  authorUsername: "QuantVela"
+---
+
 # DLMM 低風險 LP 策略：Bid-Ask 加單邊池自動止損
 
 > **來源**: [@QuantVela](https://x.com/QuantVela/status/1910332091210006875) | [原文連結](https://twitter.com/QuantVela/status/1910332091210006875/photo/1)

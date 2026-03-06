@@ -1,3 +1,23 @@
+---
+title: "新手搬磚套利的四次失敗經歷與教訓"
+date: ">"
+tags: 
+  - "搬磚套利"
+  - "風險管理"
+  - "交易所風險"
+summary: "純交易新手 + 0 程式碼經驗研究搬磚套利，看了很多大佬（@rnmumu3 @zhamomo666 @lnkybtc）的過往帖子後，想著大幹一場。以下是我的四次失敗經歷與教訓總結。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Hollow2077/status/1933011307533644140"
+  externalUrl: null
+  authorUsername: "Hollow2077"
+---
+
 # 新手搬磚套利的四次失敗經歷與教訓
 
 > **來源**: [@Hollow2077](https://x.com/Hollow2077/status/1933011307533644140)

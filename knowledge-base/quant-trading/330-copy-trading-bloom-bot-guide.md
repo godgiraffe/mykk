@@ -1,3 +1,23 @@
+---
+title: "Solana 跟單流完整指南：聰明錢篩選與 Bloom Bot 實戰"
+date: "2025-01-06"
+tags: 
+  - "跟單交易"
+  - "Solana"
+  - "交易機器人"
+summary: "作者因私訊詢問過多，統一回答關於 Solana 跟單流的常見問題，並分享自己的實戰經驗。作者本人 30 顆 SOL 起步，三個月打到 600 顆左右；另有學弟 10 顆 SOL 起步，一個半月速通至 1400 顆 SOL（A8）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x542121/status/1876301391704347034"
+  externalUrl: "https://t.me/BloomSolana_bot?start=ref_AFXLWYTQO5"
+  authorUsername: "0x542121"
+---
+
 # Solana 跟單流完整指南：聰明錢篩選與 Bloom Bot 實戰
 
 > **來源**: [@0x542121](https://x.com/0x542121/status/1876301391704347034) | [原文連結](https://t.me/BloomSolana_bot?start=ref_AFXLWYTQO5)

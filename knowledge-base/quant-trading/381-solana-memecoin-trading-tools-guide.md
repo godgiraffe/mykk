@@ -1,3 +1,23 @@
+---
+title: "鏈上打狗工具推薦 — Solana、Sui、Ton 多鏈掃鏈平台"
+date: ">"
+tags: 
+  - "掃鏈工具"
+  - "Solana交易"
+  - "聰明錢監控"
+summary: "ABOT 即將關門,雖然只用了兩三個月但還是挺難受的。作者主要使用手機打狗,所以影響相對不大。以下推薦一些各鏈相對好用的工具。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x515151/status/1851881267987648540"
+  externalUrl: "https://t.me/CashCash_trade_bot?start=ref_5390c96a-c"
+  authorUsername: "0x515151"
+---
+
 # 鏈上打狗工具推薦 — Solana、Sui、Ton 多鏈掃鏈平台
 
 > **來源**: [@0x515151](https://x.com/0x515151/status/1851881267987648540) | [原文連結](https://t.me/CashCash_trade_bot?start=ref_5390c96a-c)

@@ -1,3 +1,23 @@
+---
+title: "世界級代理工程師的修煉指南"
+date: ">"
+tags: 
+  - "AI 代理"
+  - "Claude Code"
+  - "Context 管理"
+summary: "你是一名開發者。你正在使用 Claude 和 Codex CLI，每天都在想自己是否已經充分榨取了 Claude 或 Codex 的所有能力。偶爾你會看到它做一些極其愚蠢的事情，而你無法理解為什麼外面有一群人似乎在建造虛擬火箭，而你卻在努力堆疊兩塊石頭。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/systematicls/status/2028814227004395561"
+  externalUrl: "https://x.com/i/article/2028694727600623616"
+  authorUsername: "systematicls"
+---
+
 # 世界級代理工程師的修煉指南
 
 > **來源**: [@systematicls](https://x.com/systematicls/status/2028814227004395561) | [原文連結](https://x.com/i/article/2028694727600623616)

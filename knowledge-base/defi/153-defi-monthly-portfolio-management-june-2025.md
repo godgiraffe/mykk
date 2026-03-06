@@ -1,3 +1,23 @@
+---
+title: "DeFi 投資組合月度進展：六月目標與持續挖礦策略"
+date: "2025-06-01"
+tags: 
+  - "投資組合管理"
+  - "DeFi 挖礦"
+  - "空投策略"
+summary: "通過 @cookiedotfun 發現，在研究和社區大戶的提醒後成為了重點 玩法簡單：通過 Pendle 存幣就好 傳言回報 300%+ 空投與操作建議：https://t.co/93zy9YqxyR"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BitHappy/status/1929043341263647182"
+  externalUrl: "https://x.com/BitHappyX/status/1927279753679065542"
+  authorUsername: "BitHappy"
+---
+
 # DeFi 投資組合月度進展：六月目標與持續挖礦策略
 
 > **來源**: [@BitHappy](https://x.com/BitHappy/status/1929043341263647182) | [原文連結](https://x.com/BitHappyX/status/1927279753679065542)

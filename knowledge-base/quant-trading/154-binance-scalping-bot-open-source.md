@@ -1,3 +1,23 @@
+---
+title: "Binance 現貨剝頭皮交易機器人開源"
+date: "2025-08-04"
+tags: 
+  - "剝頭皮交易"
+  - "網格交易"
+  - "Binance API"
+summary: "剝頭皮交易是一種超短線交易策略，通過在極短時間內（幾秒到幾分鐘）頻繁進出市場，賺取極小的價格波動或價差來獲利。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1952268897995882713"
+  externalUrl: "https://github.com/your-quantguy/binance-scalping"
+  authorUsername: "yourQuantGuy"
+---
+
 # Binance 現貨剝頭皮交易機器人開源
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1952268897995882713) | [原文連結](https://github.com/your-quantguy/binance-scalping)

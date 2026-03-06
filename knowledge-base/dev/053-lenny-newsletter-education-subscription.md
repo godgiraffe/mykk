@@ -1,3 +1,23 @@
+---
+title: "Lenny's Newsletter 教育優惠訂閱方案"
+date: "2025-04-16"
+tags: 
+  - "開發工具"
+  - "教育資源"
+  - "優惠方案"
+summary: "Lenny's Newsletter 提供教育優惠訂閱方案,使用教育信箱訂閱一年只需 **100 美元**,即可獲得多達 10 個開發工具的專業版訂閱,總價值超過 13,000 美元。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xNaiXi/status/1912482301394768180"
+  externalUrl: "https://www.lennysnewsletter.com/subscribe?coupon=a29ec9b5"
+  authorUsername: "0xNaiXi"
+---
+
 # Lenny's Newsletter 教育優惠訂閱方案
 
 > **來源**: [@0xNaiXi](https://x.com/0xNaiXi/status/1912482301394768180) | [原文連結](https://www.lennysnewsletter.com/subscribe?coupon=a29ec9b5)

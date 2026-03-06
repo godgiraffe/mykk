@@ -1,3 +1,23 @@
+---
+title: "GENIUS Act 穩定幣法案過關：美國首個穩定幣專法解析"
+date: ">"
+tags: 
+  - "穩定幣"
+  - "監管政策"
+  - "USDC"
+summary: "GENIUS Act 在今天正式通過美國參議院，下一步是「眾議院」，接著提交 Trump 簽字。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/MaxCryptoSpace/status/1935122789184229442"
+  externalUrl: null
+  authorUsername: "MaxCryptoSpace"
+---
+
 # GENIUS Act 穩定幣法案過關：美國首個穩定幣專法解析
 
 > **來源**: [@MaxCryptoSpace](https://x.com/MaxCryptoSpace/status/1935122789184229442)

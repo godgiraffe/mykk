@@ -1,3 +1,23 @@
+---
+title: "交易所套利策略：價差套利詳解"
+date: ">"
+tags: 
+  - "套利"
+  - "交易所"
+  - "交易策略"
+summary: "不同交易所，同一代幣的價差，比如 BTC/USDT 在幣安和 OKX 的價格不同。我們通過一買一賣的方式套利。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 50
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jiang_xiaoran/status/1669251927513927681"
+  externalUrl: null
+  authorUsername: "jiang_xiaoran"
+---
+
 # 交易所套利策略：價差套利詳解
 
 > **來源**: [@jiang_xiaoran](https://x.com/jiang_xiaoran/status/1669251927513927681)

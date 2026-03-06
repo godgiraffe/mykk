@@ -1,3 +1,23 @@
+---
+title: "為什麼普通人總是買在頂點？"
+date: "2025-08-20"
+tags: 
+  - "行為金融學"
+  - "市場心理"
+  - "投資陷阱"
+summary: "又是一篇針對小白的文章，炒股的朋友大概率都經歷過這種場景：行情火得不行，身邊人都在聊某只股票，抖音、朋友圈、財經博主全在喊多。你一咬牙進去了，結果剛買完，股價就掉頭往下。最後只能尷尬地安慰自己一句：是不是我買的姿勢不對？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/RichTerry123/status/1958097779928223753"
+  externalUrl: "https://x.com/i/article/1958076788862849024"
+  authorUsername: "RichTerry123"
+---
+
 # 為什麼普通人總是買在頂點？
 
 > **來源**: [@RichTerry123](https://x.com/RichTerry123/status/1958097779928223753) | [原文連結](https://x.com/i/article/1958076788862849024)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code 驅動的 AI 程式員工作流：提升 10 倍效率的實踐方法"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "AI 工作流"
+  - "開發效率"
+summary: "1. **需求定義**：使用 AI 撰寫 PRD（產品需求文件） 2. **任務切分**：透過 Task Manager 將專案拆分成具體任務 3. **設計階段**：使用 Claude Code 定義 3 個 UI 設計師 4. **環境隔離**：用 git worktree 切分工作環境，避免影響原有內容 5. **方案產出**：開始產出設計，三個方案中總能選出一個進行優化"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Yangyixxxx/status/1940769397989367897"
+  externalUrl: null
+  authorUsername: "Yangyixxxx"
+---
+
 # Claude Code 驅動的 AI 程式員工作流：提升 10 倍效率的實踐方法
 
 > **來源**: [@Yangyixxxx](https://x.com/Yangyixxxx/status/1940769397989367897)

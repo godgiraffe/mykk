@@ -1,3 +1,23 @@
+---
+title: "Aster-Backpack 對沖交易機器人教程"
+date: ">"
+tags: 
+  - "對沖套利"
+  - "自動化交易"
+  - "ASTER空投"
+summary: "★ Insight ───────────────────────────────────── 本文檔來自開源項目，涵蓋現貨與合約雙對沖策略 作者是專業工具開發者，提供完整的 Python 自動化腳本 核心亮點：BP 限價 + Aster 市價的雙交易所對沖，可吃 2 倍積分 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ddazmon/status/1970524428758065228"
+  externalUrl: "https://github.com/Dazmon00/aster-bp-bot"
+  authorUsername: "ddazmon"
+---
+
 # Aster-Backpack 對沖交易機器人教程
 
 > **來源**: [@ddazmon](https://x.com/ddazmon/status/1970524428758065228) | [原文連結](https://github.com/Dazmon00/aster-bp-bot)

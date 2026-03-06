@@ -1,3 +1,23 @@
+---
+title: "2025 年區塊鏈市場分析：十月風波與各主鏈前景"
+date: "2025-10-18"
+tags: 
+  - "市場分析"
+  - "杠杆清算"
+  - "生態展望"
+summary: "好的，我現在將這篇內容整理成 markdown 格式的知識庫文章。讓我先確認一些資訊："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/RR_hodl/status/1979577101440438373"
+  externalUrl: "https://pump.fun/"
+  authorUsername: "RR_hodl"
+---
+
 # 2025 年區塊鏈市場分析：十月風波與各主鏈前景
 
 > **來源**: [@RR_hodl](https://x.com/RR_hodl/status/1979577101440438373) | [原文連結](https://pump.fun/)

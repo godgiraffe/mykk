@@ -1,3 +1,23 @@
+---
+title: "Chain.fm 鏈上信號過濾與大戶追蹤教程"
+date: "2025-01-24"
+tags: 
+  - "鏈上數據"
+  - "信號篩選"
+  - "大戶追蹤"
+summary: "Chain.fm 是一個鏈上數據監測與信號推送平台，提供比特幣和以太坊事件的鏈上訂閱服務。以下整理了幾篇實用教程："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/supezen/status/1882683452434337903"
+  externalUrl: "https://chain.fm/"
+  authorUsername: "supezen"
+---
+
 # Chain.fm 鏈上信號過濾與大戶追蹤教程
 
 > **來源**: [@supezen](https://x.com/supezen/status/1882683452434337903) | [原文連結](https://chain.fm/)

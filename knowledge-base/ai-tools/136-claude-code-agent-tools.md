@@ -1,3 +1,23 @@
+---
+title: "Claude Code 開發經驗談：代理設計與工具系統的藝術"
+date: "2026-02-27"
+tags: 
+  - "Claude Code"
+  - "Agent 設計"
+  - "工具整合"
+summary: "構建 Claude Code 最困難的部分之一是建構其動作空間（action space）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/trq212/status/2027463795355095314"
+  externalUrl: "https://x.com/i/article/2027446899310313472"
+  authorUsername: "trq212"
+---
+
 # Claude Code 開發經驗談：代理設計與工具系統的藝術
 
 > **來源**: [@trq212](https://x.com/trq212/status/2027463795355095314) | [原文連結](https://x.com/i/article/2027446899310313472)

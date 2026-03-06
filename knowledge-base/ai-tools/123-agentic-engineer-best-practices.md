@@ -1,3 +1,23 @@
+---
+title: "世界級 Agentic Engineer 的工程實踐"
+date: ">"
+tags: 
+  - "Claude Agent"
+  - "上下文管理"
+  - "Prompt 工程"
+summary: "大多數人陷入了「工具崇拜」的誤區：以為安裝越多的插件、harness、記憶系統，就能讓 Agent 更強。實際上，這些外部依賴帶來的是上下文污染，Agent 表現反而下降。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/2028833958230933729"
+  externalUrl: null
+  authorUsername: "shao__meng"
+---
+
 # 世界級 Agentic Engineer 的工程實踐
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/2028833958230933729)

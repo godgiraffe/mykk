@@ -1,3 +1,23 @@
+---
+title: "Meme 幣交易策略：PVP 盤 vs 莊盤判斷與操作指南"
+date: ">"
+tags: 
+  - "Meme 幣"
+  - "盤子分析"
+  - "錢包追蹤"
+summary: "麥總長篇 Meme 教學第一篇：你在決定衝一個 meme 幣之前，你最最最最最先需要問自己的問題是：這個盤子是什麼盤？是 PVP 盤還是莊盤？這件事是你衝任何 meme 之前一定要回答的問題，如果這都不了解就瞎衝，那你就不可能長期在這場遊戲裡獲勝，所以我把這個當作 Meme 教學長篇連載的第一篇。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1863902813241426237"
+  externalUrl: "https://gmgn.ai/"
+  authorUsername: "Michael_Liu93"
+---
+
 # Meme 幣交易策略：PVP 盤 vs 莊盤判斷與操作指南
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1863902813241426237) | [原文連結](https://gmgn.ai/)

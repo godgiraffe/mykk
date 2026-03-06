@@ -11,6 +11,8 @@ bun install                  # 安裝依賴
 bun run docs:dev             # 開發伺服器 http://localhost:5173/mykk/
 bun run docs:build           # 建置靜態網站 → knowledge-base/.vitepress/dist/
 bun run docs:preview         # 預覽建置結果
+bun run curation:apply ./path/to/curation-export.json
+bun run curation:backfill
 ```
 
 **x-bookmark-sync（X 書籤同步工具）**：
@@ -33,28 +35,26 @@ bun run sync --reset                # 清除進度重新開始
 
 **資料層**：`.vitepress/data/articles.data.ts`
 - 用 `createContentLoader("**/*.md")` 掃描所有文章，Build time 執行
-- 資料結構：`{ title, url, category, categoryName, number }`，`number` 從檔名流水號提取
-- 排序：`number 降序 → category 字母序`（各分類獨立編號，不跨分類比較）
+- 資料結構已擴充為 curation-aware article record，含 `summary`、`curationStatus`、`priorityScore`
+- 舊文章沒有 frontmatter 時，會做 fallback parsing 與 heuristic scoring
 
 **側邊欄**：`.vitepress/sidebar.ts`
 - 掃描分類目錄，從各 MD 第一行 `#` 標題提取文章名稱，`collapsed: true`
 
-**主題元件**（全域註冊於 `theme/index.ts`，`doc-after` 插槽自動插入 `ArticleReaction`）：
+**主題元件**（全域註冊於 `theme/index.ts`，`doc-after` 插槽自動插入 `ArticleCuration`）：
 
 | 元件 | 職責 |
 |------|------|
-| `LatestArticles` | 首頁最新文章，每分類取 2 篇（兩段式遍歷，確保共 12 篇） |
-| `CategoryList` | 首頁分類總覽表，動態計算各分類篇數，右上角顯示全站總篇數 |
-| `ArticleList` | 分類首頁文章列表 |
-| `ArticleReaction` | 每篇文章底部 👍👎，寫入 localStorage，監聽 URL 變化 |
-| `ReactionArticles` | 共用，接受 `reaction: "like" | "dislike"` prop，按分類分組顯示 |
-| `LikedArticles` | 薄殼：`<ReactionArticles reaction="like" />` |
-| `DislikedArticles` | 薄殼：`<ReactionArticles reaction="dislike" />` |
+| `LatestArticles` | 首頁精選優先，若尚未精選則顯示高 priority 待審文章 |
+| `CategoryList` | 首頁分類總覽表，顯示精選 / 待審 / 封存分布 |
+| `ArticleList` | 分類首頁文章列表，顯示 curation 狀態與 priority |
+| `ArticleCuration` | 每篇文章底部 triage 控制：待審 / 精選 / 封存 |
+| `CurationWorkspace` | review / curated / archive 共用工作區，支援本地覆寫與匯出 JSON |
 
-**反應系統**（`theme/composables/useReactions.ts`）：
-- `STORAGE_KEY = "article-reactions"`
-- `getReactions()` → `Record<string, "like" | "dislike">`（含 SSR guard 與 runtime 型別驗證）
-- Key 格式：`/category/NNN-slug.html`（與 `createContentLoader` 回傳的 URL 一致）
+**Curation 系統**（`theme/composables/useCuration.ts`）：
+- `CURATION_STORAGE_KEY = "article-curation"`
+- localStorage 儲存的是瀏覽器本地 override，正式狀態仍以文章 frontmatter 為準
+- 匯出 JSON 後可用 `bun run curation:apply` 回寫 repo metadata
 
 ### x-bookmark-sync/ — X 書籤自動歸檔工具
 
@@ -63,8 +63,8 @@ bun run sync --reset                # 清除進度重新開始
 ```
 fetchAllBookmarks()          # bird CLI 抓取 X 書籤
   → processBookmarkContent() # 解析 t.co 短連結，取完整內容（bird read / fetch）
-  → classifyAndSummarize()   # Claude Haiku 分類 → { category, slug, title, tags, summary }
-  → generateArticle()        # 下載圖片 → Claude Sonnet 生成正文 → 寫入 MD
+  → classifyAndSummarize()   # Claude Haiku 分類 → { category, slug, title, tags, summary, scores... }
+  → generateArticle()        # 下載圖片 → Claude Sonnet 生成正文 → 寫入 MD + frontmatter
   → markProcessed()          # 記錄進度到 .sync-progress.json
   → deleteBookmark()         # 從 X 移除書籤
   → gitCommitAndPush()       # 自動 commit + push
@@ -76,8 +76,9 @@ fetchAllBookmarks()          # bird CLI 抓取 X 書籤
 |------|------|
 | `fetch-bookmarks.ts` | `bunx @steipete/bird` CLI 抓書籤；轉換 Bookmark 結構；支援刪除 |
 | `process-content.ts` | t.co 短連結解析；X 內部用 bird read，外部用 fetch |
-| `classify-article.ts` | Claude Haiku 分類，六個固定分類，回傳 slug/title/tags |
-| `generate-markdown.ts` | 計算流水號、下載圖片、Claude Sonnet 生成文章、寫 MD |
+| `classify-article.ts` | Claude Haiku 分類，回傳 slug/title/tags/summary/curation scores |
+| `generate-markdown.ts` | 計算流水號、下載圖片、Claude Sonnet 生成文章、寫入含 frontmatter 的 MD |
+| `curation-frontmatter.ts` | frontmatter builder / parser，供同步器與 curation scripts 共用 |
 | `claude-ai.ts` | `claude -p --model` CLI wrapper，支援 haiku/sonnet，3 次重試 |
 | `progress.ts` | `.sync-progress.json` 進度追蹤，支援斷點續傳 |
 

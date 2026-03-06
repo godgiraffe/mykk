@@ -1,3 +1,23 @@
+---
+title: "USDC 跨鏈無損橋接技巧 — Circle 官方 API"
+date: "2025-01-20"
+tags: 
+  - "跨鏈橋"
+  - "USDC"
+  - "Circle"
+summary: "★ Insight ───────────────────────────────────── • 本文介紹如何使用 Circle 官方 API 進行 USDC 跨鏈轉帳,避免中心化交易所提幣限制 • Circle 採用「一端銷毀、另一端鑄造」機制,而非傳統跨鏈橋的鎖定/釋放模型 • EVM 鏈之間可無損秒到,EVM 到 Solana 約 18 分鐘,不受其他橋接協議擁堵影響 ──────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wildrose_one/status/1881151786746269883"
+  externalUrl: "https://twitter.com/Robertzoux/status/1881151786746269883/photo/1"
+  authorUsername: "wildrose_one"
+---
+
 # USDC 跨鏈無損橋接技巧 — Circle 官方 API
 
 > **來源**: [@wildrose_one](https://x.com/wildrose_one/status/1881151786746269883) | [原文連結](https://twitter.com/Robertzoux/status/1881151786746269883/photo/1)

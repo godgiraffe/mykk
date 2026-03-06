@@ -1,3 +1,23 @@
+---
+title: "盤前合約交易策略：只上合約無現貨時的做多機制"
+date: "2025-10-31"
+tags: 
+  - "盤前合約"
+  - "做多策略"
+  - "風險管理"
+summary: "今天剛上線盤前合約的 $CC 看見一些朋友做空了，本來自己也躍躍欲試，但和二級大神 @007sjzt 討論後他調研發現盤前合約如下奧秘："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/nemoyue0607/status/1984303380072898919"
+  externalUrl: null
+  authorUsername: "nemoyue0607"
+---
+
 # 盤前合約交易策略：只上合約無現貨時的做多機制
 
 > **來源**: [@nemoyue0607](https://x.com/nemoyue0607/status/1984303380072898919)

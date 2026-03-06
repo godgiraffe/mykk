@@ -1,3 +1,23 @@
+---
+title: "山寨幣是零和遊戲：幣圈 PVP 市場的財富轉移邏輯"
+date: ">"
+tags: 
+  - "山寨幣"
+  - "市場週期"
+  - "風險管理"
+summary: "首先，這個圈子是一個絕對的負和市場，絕大多數山寨不產生任何價值，所以財富都是靠圈外資金進來產生的。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dotyyds1234/status/1980590784547353047"
+  externalUrl: null
+  authorUsername: "dotyyds1234"
+---
+
 # 山寨幣是零和遊戲：幣圈 PVP 市場的財富轉移邏輯
 
 > **來源**: [@dotyyds1234](https://x.com/dotyyds1234/status/1980590784547353047)

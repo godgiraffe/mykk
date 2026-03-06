@@ -1,3 +1,23 @@
+---
+title: "Pendle sENA LP池高收益持續性分析"
+date: "2024-10-13"
+tags: 
+  - "Pendle協議"
+  - "LP策略"
+  - "收益農場"
+summary: "新上架的 @ethena $sENA LP 池能在幾乎零 $PENDLE 排放的情況下做到 63% 年化，並且日後池子年化下週將再次爆發。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ViNc2453/status/1845419927878107316"
+  externalUrl: null
+  authorUsername: "ViNc2453"
+---
+
 # Pendle sENA LP池高收益持續性分析
 
 > **來源**: [@ViNc2453](https://x.com/ViNc2453/status/1845419927878107316)

@@ -1,3 +1,23 @@
+---
+title: "Polymarket 交易機器人參數最適化研究"
+date: "2025-12-29"
+tags: 
+  - "機器人交易"
+  - "參數優化"
+  - "回測框架"
+summary: "★ Insight ───────────────────────────────────── • 這篇文章深入探討了量化交易中的「回測基礎設施」議題——當市場數據 API 不可靠時，如何自建錄製系統來驗證策略 • 展示了參數最適化的重要性：同樣的策略邏輯，保守參數達 86% ROI，激進參數卻虧損 50% • 揭示了回測與實盤交易的落差來源：滑價、市場衝擊、訂單深度等現實因素無法完美模擬 ───────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/the_smart_ape/status/2005576087875527082"
+  externalUrl: "https://x.com/i/article/2003897399928897536"
+  authorUsername: "the_smart_ape"
+---
+
 # Polymarket 交易機器人參數最適化研究
 
 > **來源**: [@the_smart_ape](https://x.com/the_smart_ape/status/2005576087875527082) | [原文連結](https://x.com/i/article/2003897399928897536)

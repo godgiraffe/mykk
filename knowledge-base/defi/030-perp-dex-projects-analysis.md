@@ -1,3 +1,23 @@
+---
+title: "永續 DEX 生態盤點與投研分析"
+date: ">"
+tags: 
+  - "永續交易所"
+  - "DeFi 機會"
+  - "項目評估"
+summary: "根據您提供的內容，這是一篇關於永續 DEX 賽道的投研分析。以下是整理好的正文內容："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yunknkn2/status/2001476875307356166"
+  externalUrl: null
+  authorUsername: "yunknkn2"
+---
+
 # 永續 DEX 生態盤點與投研分析
 
 > **來源**: [@yunknkn2](https://x.com/yunknkn2/status/2001476875307356166)

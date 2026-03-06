@@ -1,3 +1,26 @@
+---
+title: "個人 AI 系統升級到第二代：架構全公開"
+date: "2026-02-15"
+tags: 
+  - "Claude Code"
+  - "AI系統"
+  - "記憶架構"
+  - "TELOS"
+  - "自我迭代"
+  - "工作流"
+summary: "不久前我發了一篇《如何用 Claude Code 在 3 分鐘搭建一套可迭代的永續 AI 工作系統》。收穫將近百萬閱讀。很多人照著做了。"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Roland_WayneOZ/status/2022850233861075105"
+  externalUrl: null
+  authorUsername: "Roland_WayneOZ"
+---
+
 # 個人 AI 系統升級到第二代：架構全公開
 
 > **來源**: [@Roland_WayneOZ](https://x.com/Roland_WayneOZ/status/2022850233861075105)

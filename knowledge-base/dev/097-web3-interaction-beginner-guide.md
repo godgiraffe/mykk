@@ -1,3 +1,23 @@
+---
+title: "Web3 零基礎交互完整教學合集"
+date: "2023-03-25"
+tags: 
+  - "Web3 教學"
+  - "撸毛筆記"
+  - "初學者指南"
+summary: "非常好！我已經成功抓取到這個 Notion 頁面的完整內容。這是一個關於 Web3 零基礎交互的完整教學合集。讓我整理成知識庫文章："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xzhaozhao/status/1639666114421743619"
+  externalUrl: "https://dust-saffron-ac0.notion.site/0xzhaozhao-WEB3-808423977dae4dcaaff0ea436efceb18"
+  authorUsername: "0xzhaozhao"
+---
+
 # Web3 零基礎交互完整教學合集
 
 > **來源**: [@0xzhaozhao](https://x.com/0xzhaozhao/status/1639666114421743619) | [原文連結](https://dust-saffron-ac0.notion.site/0xzhaozhao-WEB3-808423977dae4dcaaff0ea436efceb18)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code 進階工作流程完全指南"
+date: "2026-01-21"
+tags: 
+  - "Claude Code"
+  - "工作流程優化"
+  - "提示工程"
+summary: "在「Claude Code 完全指南速查版」中，我介紹了基礎設定：skills 和 commands、hooks、subagents、MCPs、plugins，以及構成有效 Claude Code 工作流程的配置模式。那是一份設定指南和基礎架構。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/affaanmustafa/status/2014040193557471352"
+  externalUrl: "https://x.com/i/article/2013394667602354176"
+  authorUsername: "affaanmustafa"
+---
+
 # Claude Code 進階工作流程完全指南
 
 > **來源**: [@affaanmustafa](https://x.com/affaanmustafa/status/2014040193557471352) | [原文連結](https://x.com/i/article/2013394667602354176)

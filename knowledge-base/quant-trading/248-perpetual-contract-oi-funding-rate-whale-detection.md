@@ -1,3 +1,24 @@
+---
+title: "永續合約持倉量與資金費率：捕捉莊家動作的實戰指南"
+date: "2025-04-26"
+tags: 
+  - "持倉量分析"
+  - "資金費率"
+  - "莊家識別"
+  - "合約交易"
+summary: "麥總 @Michael_Liu93 這篇寫得真的很好,看完讓我想起了很多次被莊支配的恐懼😇。借這個機會說說我的一些思路,大家可以參考一下。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xTZ_DeFi/status/1916176833269387478"
+  externalUrl: null
+  authorUsername: "0xTZ_DeFi"
+---
+
 # 永續合約持倉量與資金費率：捕捉莊家動作的實戰指南
 
 > **來源**: [@0xTZ_DeFi](https://x.com/0xTZ_DeFi/status/1916176833269387478)

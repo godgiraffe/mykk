@@ -1,3 +1,23 @@
+---
+title: "AAVE PT 抵押演算法分析：風險與效率平衡"
+date: "2025-05-21"
+tags: 
+  - "AAVE"
+  - "PT抵押"
+  - "風險管理"
+summary: "寫的真好,但是有點戛然而止啊。我覺得 AAVE 改變的演算法並沒有提高 PT 的風險,相反是提高了 PT 的抵押率。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cody_DeFi/status/1925198003901763865"
+  externalUrl: null
+  authorUsername: "Cody_DeFi"
+---
+
 # AAVE PT 抵押演算法分析：風險與效率平衡
 
 > **來源**: [@Cody_DeFi](https://x.com/Cody_DeFi/status/1925198003901763865)

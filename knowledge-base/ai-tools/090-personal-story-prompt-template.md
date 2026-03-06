@@ -1,3 +1,23 @@
+---
+title: "萬能提示詞｜個人故事共情類推文"
+date: "2025-07-28"
+tags: 
+  - "Prompt工程"
+  - "內容創作"
+  - "文案寫作"
+summary: "幫我寫一條風格類似下面這類內容的推文，用第一人稱敘述一個真實轉變的故事（如辭職、搬家、開啟副業、逃離大城市、遇到某個關鍵人物等）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cellinlab/status/1949662017155223798"
+  externalUrl: null
+  authorUsername: "cellinlab"
+---
+
 # 萬能提示詞｜個人故事共情類推文
 
 > **來源**: [@cellinlab](https://x.com/cellinlab/status/1949662017155223798)

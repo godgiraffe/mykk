@@ -1,3 +1,23 @@
+---
+title: "大學生幣圈一年真實賬單：從撸毛到套利的復盤"
+date: "2025-12-14"
+tags: 
+  - "心態管理"
+  - "交易策略"
+  - "風險控制"
+summary: "項目 說明 ------ ------ **總結論** 知識和認知才是幣圈穩定賺錢的關鍵，合約交易是送錢陷阱 **資金規模** 小本金起步（幾萬-小幾十萬） **最大教訓** 合約交易兩次歸零，單次套利失誤虧損十幾萬 **成功策略** 鏈上機制研究、打新策略、DeFi 套利 **時間軸** 一年七個階段，從新手到技術覺醒"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/fivepointwater5/status/2000140228233953448"
+  externalUrl: null
+  authorUsername: "fivepointwater5"
+---
+
 # 大學生幣圈一年真實賬單：從撸毛到套利的復盤
 
 > **來源**: [@fivepointwater5](https://x.com/fivepointwater5/status/2000140228233953448)

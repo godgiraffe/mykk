@@ -1,3 +1,23 @@
+---
+title: "空投獵人進階指南：高效信息篩選策略"
+date: "2024-03-24"
+tags: 
+  - "空投狩獵"
+  - "信息來源"
+  - "項目篩選"
+summary: "1. **不要去翻 Kol 的信息**：看的越多，心裡就越亂，這個也按頭擼，那個也按腳做，到最後毛都沒擼到。 2. **只盯著一個最有價值、信息含量最高的地方**：去一個個新項目研究，保證你得到的信息是一手的，而不是 Kol 的三手信息！ 3. **關注 Foresightnews 兩個板塊**： - 第一：空投板塊 - 第二：潛在空投板塊 - 不夠還可以加 RootData 的熱門板塊，用這幾個就可以看到最新的空投消息，然後自己過濾，"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Yizhimao_super/status/1771846054457303186"
+  externalUrl: "https://foresightnews.pro/"
+  authorUsername: "Yizhimao_super"
+---
+
 # 空投獵人進階指南：高效信息篩選策略
 
 > **來源**: [@Yizhimao_super](https://x.com/Yizhimao_super/status/1771846054457303186) | [原文連結](https://foresightnews.pro/)

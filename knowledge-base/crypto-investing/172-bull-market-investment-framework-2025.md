@@ -1,3 +1,23 @@
+---
+title: "2025 牛市投資框架 - AI、合規、美國三大主軸"
+date: "2024-12-29"
+tags: 
+  - "投資策略"
+  - "牛市佈局"
+  - "選幣原則"
+summary: "之前一直認為我的投資分析不成體系，所以從未有過公開的分享。但是隨著過去幾年的 點→線→面→體 的積累，我在幣圈的投資也小有盈利。再加上最近我提前佈局的一些 token 也都逐漸地被市場驗證，被更多大 V 喊單，因此今天也粗淺地分享一下我寫的一個牛市清單。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xkookoo/status/1873295483885719940"
+  externalUrl: "https://t.me/+IN1lZva5dLkzY2E1"
+  authorUsername: "0xkookoo"
+---
+
 # 2025 牛市投資框架 - AI、合規、美國三大主軸
 
 > **來源**: [@0xkookoo](https://x.com/0xkookoo/status/1873295483885719940) | [原文連結](https://t.me/+IN1lZva5dLkzY2E1)

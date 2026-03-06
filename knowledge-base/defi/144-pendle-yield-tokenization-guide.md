@@ -1,3 +1,23 @@
+---
+title: "Pendle 收益代幣化協議完全指南"
+date: ">"
+tags: 
+  - "Pendle"
+  - "收益交易"
+  - "DeFi 策略"
+summary: "Pendle 是一個創新的 DeFi 協議，專注於**收益代幣化（Yield Tokenization）**和**收益交易（Yield Trading）**，也可以理解為一種「收益期貨市場」。簡單來說，Pendle 允許用戶將其質押資產未來的收益分離出來進行交易，從而實現更靈活的收益管理和投機。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Dapp_Learning/status/1934884944859549993"
+  externalUrl: "https://hackmd.io/ED2ceL7zT5-tP94JlEXmWg"
+  authorUsername: "Dapp_Learning"
+---
+
 # Pendle 收益代幣化協議完全指南
 
 > **來源**: [@Dapp_Learning](https://x.com/Dapp_Learning/status/1934884944859549993) | [原文連結](https://hackmd.io/ED2ceL7zT5-tP94JlEXmWg)

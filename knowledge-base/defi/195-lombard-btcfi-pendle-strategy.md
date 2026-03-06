@@ -1,3 +1,23 @@
+---
+title: "Lombard BTCfi 龍頭地位與 Pendle YT-LBTC 投資策略分析"
+date: "2025-01-27"
+tags: 
+  - "BTCfi"
+  - "Pendle"
+  - "流動性挖礦"
+summary: "最近完全被 @_kaitoai 洗版，有點意外看到 AttentionFi 居然這麼熱。來聊聊目前排名第四的 Lombard，它究竟有什麼機會值得關注？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jimcurrywang/status/1883682114153128382"
+  externalUrl: null
+  authorUsername: "jimcurrywang"
+---
+
 # Lombard BTCfi 龍頭地位與 Pendle YT-LBTC 投資策略分析
 
 > **來源**: [@jimcurrywang](https://x.com/jimcurrywang/status/1883682114153128382)

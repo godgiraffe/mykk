@@ -1,3 +1,26 @@
+---
+title: "Variational.io 黃金懶人掛機策略分析"
+date: "2026-01-21"
+tags: 
+  - "Variational.io"
+  - "DeFi"
+  - "黃金"
+  - "掛機策略"
+  - "對沖"
+  - "積分"
+summary: "本篇文章整理了 @xinggao7 (八哥毁币) 分享的 Variational.io 黃金懶人掛機策略。此策略旨在透過對沖方式降低爆倉風險，並透過積分累積獲利，適合資金較少的用戶。重點是低成本投入，以時間換取收益。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/xinggao7/status/2013833511946592733"
+  externalUrl: null
+  authorUsername: "xinggao7"
+---
+
 # Variational.io 黃金懶人掛機策略分析
 
 > **來源**: [@xinggao7](https://x.com/xinggao7/status/2013833511946592733)

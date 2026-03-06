@@ -1,3 +1,23 @@
+---
+title: "USD AI ICO 成本與 ROI 分析：積分倍率調整後的機會評估"
+date: "2025-11-19"
+tags: 
+  - "USD AI"
+  - "套利機會"
+  - "LP 策略"
+summary: "**基礎數據**： 1000u = 29653 YT 每日積分收入：296,530 到期可獲積分：35,287,070（35.28m） **1m 積分成本 = 28.344u**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/beiyue66/status/1991079172803097009"
+  externalUrl: "https://app.usd.ai/rewards?code=ng7yz&tab=team"
+  authorUsername: "beiyue66"
+---
+
 # USD AI ICO 成本與 ROI 分析：積分倍率調整後的機會評估
 
 > **來源**: [@beiyue66](https://x.com/beiyue66/status/1991079172803097009) | [原文連結](https://app.usd.ai/rewards?code=ng7yz&tab=team)

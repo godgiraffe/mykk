@@ -1,3 +1,23 @@
+---
+title: "交易者心態：深度驗證與去噪思考"
+date: "2025-07-18"
+tags: 
+  - "交易心態"
+  - "市場洞見"
+  - "自我驗證"
+summary: "第一次點開這個合集時，我覺得必須要分享：https://t.co/bklS4r5cfT"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Wilsonchen1101/status/1946235484453351889"
+  externalUrl: "https://medium.com/@at.43a6/43a6-x-5d65417fde27"
+  authorUsername: "Wilsonchen1101"
+---
+
 # 交易者心態：深度驗證與去噪思考
 
 > **來源**: [@Wilsonchen1101](https://x.com/Wilsonchen1101/status/1946235484453351889) | [原文連結](https://medium.com/@at.43a6/43a6-x-5d65417fde27)

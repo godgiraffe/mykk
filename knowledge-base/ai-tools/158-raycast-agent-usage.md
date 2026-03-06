@@ -1,3 +1,23 @@
+---
+title: "Raycast Agent Usage：AI 訂閱餘額查看工具"
+date: "2026-02-21"
+tags: 
+  - "Raycast"
+  - "AI 訂閱管理"
+  - "效率工具"
+summary: "CodexBar 有點重，還要瀏覽器權限。作者最初的想法是把 Amp 每日餘額用完，不需要實時監控用量。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/spikeinthemood/status/2025122837141614775"
+  externalUrl: "https://twitter.com/spikeinthemood/status/2025122837141614775/photo/1"
+  authorUsername: "spikeinthemood"
+---
+
 # Raycast Agent Usage：AI 訂閱餘額查看工具
 
 > **來源**: [@spikeinthemood](https://x.com/spikeinthemood/status/2025122837141614775) | [原文連結](https://twitter.com/spikeinthemood/status/2025122837141614775/photo/1)

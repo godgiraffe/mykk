@@ -1,3 +1,23 @@
+---
+title: "我目前的所有賺錢路徑"
+date: "2025-06-13"
+tags: 
+  - "投資組合"
+  - "收入多元化"
+  - "策略迭代"
+summary: "看起來這個推文頁面無法直接訪問（可能需要登入或已被刪除）。讓我換個方式，直接根據你提供的原始內容來整理。不過我注意到原文提到「都在這裡了」並附了一張圖片連結，但我們沒有圖片的實際內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1933366970965242196"
+  externalUrl: "https://twitter.com/gch_enbsbxbs/status/1933366970965242196/photo/1"
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 我目前的所有賺錢路徑
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1933366970965242196) | [原文連結](https://twitter.com/gch_enbsbxbs/status/1933366970965242196/photo/1)

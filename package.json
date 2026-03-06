@@ -5,7 +5,9 @@
   "scripts": {
     "docs:dev": "vitepress dev knowledge-base",
     "docs:build": "vitepress build knowledge-base",
-    "docs:preview": "vitepress preview knowledge-base"
+    "docs:preview": "vitepress preview knowledge-base",
+    "curation:apply": "bun run scripts/apply-curation-export.ts",
+    "curation:backfill": "bun run scripts/backfill-curation-frontmatter.ts"
   },
   "devDependencies": {
     "vitepress": "^1.6.4"

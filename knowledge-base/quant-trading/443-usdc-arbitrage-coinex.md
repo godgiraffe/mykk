@@ -1,3 +1,23 @@
+---
+title: "我對 USDC 進行了套利：沒人注意到的故事"
+date: "2025-12-24"
+tags: 
+  - "套利策略"
+  - "交易所優化"
+  - "市場微觀結構"
+summary: "大家好，聖誕快樂！今天我收到了 CoinEx 的 8 週年紀念禮物，因為我一直在那裡擔任做市商，這讓我想起了一個我等了很久才揭露的故事，今天就是那一天！"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Armv7lFx/status/2003855473641156788"
+  externalUrl: "https://armv7l.substack.com/p/i-arbitraged-usdc-no-one-noticed"
+  authorUsername: "Armv7lFx"
+---
+
 # 我對 USDC 進行了套利：沒人注意到的故事
 
 > **來源**: [@Armv7lFx](https://x.com/Armv7lFx/status/2003855473641156788) | [原文連結](https://armv7l.substack.com/p/i-arbitraged-usdc-no-one-noticed)

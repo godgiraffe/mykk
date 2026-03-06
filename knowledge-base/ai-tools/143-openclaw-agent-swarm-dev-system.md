@@ -1,3 +1,23 @@
+---
+title: "AI 代理編排系統：一人開發團隊的完整工作流程"
+date: "2026-02-23"
+tags: 
+  - "Claude Code"
+  - "AI 代理編排"
+  - "開發自動化"
+summary: "## OpenClaw + Codex/Claude Code Agent Swarm：一人開發團隊的完整設置"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/elvissun/status/2025920521871716562"
+  externalUrl: "https://x.com/i/article/2025654698590748672"
+  authorUsername: "elvissun"
+---
+
 # AI 代理編排系統：一人開發團隊的完整工作流程
 
 > **來源**: [@elvissun](https://x.com/elvissun/status/2025920521871716562) | [原文連結](https://x.com/i/article/2025654698590748672)

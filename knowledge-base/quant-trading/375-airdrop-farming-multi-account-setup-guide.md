@@ -1,3 +1,23 @@
+---
+title: "批量撸空投多帳號設置完全指南"
+date: "2024-11-09"
+tags: 
+  - "空投農民"
+  - "反女巫檢測"
+  - "多帳號管理"
+summary: "服了自己守著這麼大的密碼庫還去別人那裡翻教程，來吧來吧分享給大家，新手小白看過來👀"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/pcobidco/status/1855267419947975005"
+  externalUrl: "https://medium.com/@ltq201206/%E6%89%B9%E9%87%8F%E6%92%B8%E7%8C%AB%E6%89%AB%E7%9B%B2-%E6%8C%87%E7%BA%B9-ip-%E4%B8%89%E4%BB%B6%E5%A5%97%E4%BD%BF%E7%94%A8-f34f0d5fecc"
+  authorUsername: "pcobidco"
+---
+
 # 批量撸空投多帳號設置完全指南
 
 > **來源**: [@pcobidco](https://x.com/pcobidco/status/1855267419947975005) | [原文連結](https://medium.com/@ltq201206/%E6%89%B9%E9%87%8F%E6%92%B8%E7%8C%AB%E6%89%AB%E7%9B%B2-%E6%8C%87%E7%BA%B9-ip-%E4%B8%89%E4%BB%B6%E5%A5%97%E4%BD%BF%E7%94%A8-f34f0d5fecc)

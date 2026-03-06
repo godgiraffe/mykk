@@ -1,3 +1,23 @@
+---
+title: "牛市換仓思路：從持幣等待到主動出擊"
+date: ">"
+tags: 
+  - "換仓策略"
+  - "心態管理"
+  - "資金配置"
+summary: "突然悟了，牛市賺不到錢，真的都是思路問題。拿了一些不漲的主流幣等待，錯過整個牛市，鏈上、交易所都有很多優質標的值得上的。昨晚終於邁出了第一步，後續開始調整了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lijiuer1/status/1856891219831587287"
+  externalUrl: null
+  authorUsername: "lijiuer1"
+---
+
 # 牛市換仓思路：從持幣等待到主動出擊
 
 > **來源**: [@lijiuer1](https://x.com/lijiuer1/status/1856891219831587287)

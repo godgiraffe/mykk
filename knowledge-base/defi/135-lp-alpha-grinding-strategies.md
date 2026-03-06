@@ -1,3 +1,23 @@
+---
+title: "LP 與交易者的 Alpha 對抗：印鈔機策略與刷量 PVP 技巧"
+date: "2025-07-25"
+tags: 
+  - "流動性挖礦"
+  - "無常損失"
+  - "高頻再平衡"
+summary: "### 印鈔機策略 **單 bin 集中流動性**：高效率資金利用 **高頻 rebalance**：動態調整倉位 **無常損失規避**：降低 LP 風險"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Clon298363/status/1948669959099613476"
+  externalUrl: "https://twitter.com/i/spaces/1OwxWXYLDqqKQ"
+  authorUsername: "Clon298363"
+---
+
 # LP 與交易者的 Alpha 對抗：印鈔機策略與刷量 PVP 技巧
 
 > **來源**: [@Clon298363](https://x.com/Clon298363/status/1948669959099613476) | [原文連結](https://twitter.com/i/spaces/1OwxWXYLDqqKQ)

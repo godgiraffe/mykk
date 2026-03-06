@@ -1,3 +1,23 @@
+---
+title: "USDE 脫錨套利實戰復盤：千分之一手續費的改命機會"
+date: "2025-10-11"
+tags: 
+  - "脫錨套利"
+  - "風險管理"
+  - "黑天鵝機遇"
+summary: "昨天的行情刺激到極點。最開始看到 BTC 跌到 $117,000，當時人還躺在床上刷手機。過了一會兒，警報又響了——BTC 跌到了 $114,000。立馬去看推特,發現川普宣布對中國實施 100% 關稅反制。心想：完了，今晚不太平。正準備繼續睡的時候，再看一眼，BTC 已經跌破了 11 萬。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/926_sol/status/1976985550046294172"
+  externalUrl: null
+  authorUsername: "926_sol"
+---
+
 # USDE 脫錨套利實戰復盤：千分之一手續費的改命機會
 
 > **來源**: [@926_sol](https://x.com/926_sol/status/1976985550046294172)

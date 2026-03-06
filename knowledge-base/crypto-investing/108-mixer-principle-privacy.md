@@ -1,3 +1,23 @@
+---
+title: "混幣器原理解析 — 隱私技術專業講解"
+date: ">"
+tags: 
+  - "隱私技術"
+  - "混幣器"
+  - "區塊鏈隱私"
+summary: "本文來源為一則 Twitter 推文，作者 @0xphiloA (PP) 分享了一支關於混幣器原理的專業講解影片。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xphiloA/status/1961169760542232984"
+  externalUrl: "https://twitter.com/0xphiloA/status/1961169760542232984/video/1"
+  authorUsername: "0xphiloA"
+---
+
 # 混幣器原理解析 — 隱私技術專業講解
 
 > **來源**: [@0xphiloA](https://x.com/0xphiloA/status/1961169760542232984) | [原文連結](https://twitter.com/0xphiloA/status/1961169760542232984/video/1)

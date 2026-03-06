@@ -1,3 +1,23 @@
+---
+title: "Hyperliquid 生態工具完整指南"
+date: "2024-12-21"
+tags: 
+  - "Hyperliquid"
+  - "交易工具"
+  - "生態導覽"
+summary: "這是目前最全的 Hyperliquid 生態工具整理帖。在深度調研了 Hyperliquid 生態後,發現了很多實用工具和網站。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xcryptoHowe/status/1870445977619804654"
+  externalUrl: null
+  authorUsername: "0xcryptoHowe"
+---
+
 # Hyperliquid 生態工具完整指南
 
 > **來源**: [@0xcryptoHowe](https://x.com/0xcryptoHowe/status/1870445977619804654)

@@ -1,3 +1,23 @@
+---
+title: "AI Agent 工程化實踐：從懷疑到精通的六個階段"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "Agent 工程化"
+  - "工作流優化"
+summary: "我用任何一款有分量的工具，基本都會經歷三個階段：一開始效率反而變低，然後慢慢用得順手，最後才真正發現它能改變工作方式甚至生活方式。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hongming731/status/2028832793761820889"
+  externalUrl: "https://x.com/i/article/2028827397043499008"
+  authorUsername: "hongming731"
+---
+
 # AI Agent 工程化實踐：從懷疑到精通的六個階段
 
 > **來源**: [@hongming731](https://x.com/hongming731/status/2028832793761820889) | [原文連結](https://x.com/i/article/2028827397043499008)

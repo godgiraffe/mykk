@@ -1,3 +1,26 @@
+---
+title: "O1 Exchange 空投保姆級教程：Coinbase投資BASE鏈DEX刷流動性策略"
+date: ">"
+tags: 
+  - "O1 Exchange"
+  - "空投"
+  - "BASE鏈"
+  - "DEX"
+  - "流動性挖礦"
+  - "ZORA"
+summary: "## O1 Exchange 空投保姆級教程：Coinbase 投資 BASE 鏈 DEX 刷流動性策略"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/web3a99/status/2011658212702076988"
+  externalUrl: "https://x.com/i/article/2011410206715232257"
+  authorUsername: "web3a99"
+---
+
 # O1 Exchange 空投保姆級教程：Coinbase投資BASE鏈DEX刷流動性策略
 
 > **來源**: [@web3a99](https://x.com/web3a99/status/2011658212702076988) | [原文連結](https://x.com/i/article/2011410206715232257)

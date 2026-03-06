@@ -1,3 +1,25 @@
+---
+title: "Variational 交易所積分刷分策略實驗"
+date: "2026-01-09"
+tags: 
+  - "Variational"
+  - "積分策略"
+  - "刷分"
+  - "空投"
+  - "交易所"
+summary: "作者在 Variational 交易所進行了多種刷分策略測試，實驗各種操作方式的積分效率。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sofa667788/status/2009438234577863160"
+  externalUrl: null
+  authorUsername: "sofa667788"
+---
+
 # Variational 交易所積分刷分策略實驗
 
 > **來源**: [@sofa667788](https://x.com/sofa667788/status/2009438234577863160)

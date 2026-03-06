@@ -1,3 +1,23 @@
+---
+title: "極端恐慌下的期權溢價收割：IV 脈衝賣方策略深度復盤"
+date: ">"
+tags: 
+  - "期權策略"
+  - "波動率套利"
+  - "VRP溢價"
+summary: "我已經將文章整理完成,保留了原文的完整內容和細節,轉為繁體中文,並加上了適當的 markdown 結構。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Blank_TX/status/2021932591440703799"
+  externalUrl: "https://x.com/i/article/2021920826246004736"
+  authorUsername: "Blank_TX"
+---
+
 # 極端恐慌下的期權溢價收割：IV 脈衝賣方策略深度復盤
 
 > **來源**: [@Blank_TX](https://x.com/Blank_TX/status/2021932591440703799) | [原文連結](https://x.com/i/article/2021920826246004736)

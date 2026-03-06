@@ -1,3 +1,23 @@
+---
+title: "中性策略實踐：BTC 跨所套利與合約價差放大"
+date: ">"
+tags: 
+  - "跨所套利"
+  - "合約套利"
+  - "資金費率"
+summary: "過去兩週，我在跑的三個中性策略整體年化收益約 136%，也就是 5.2% 的 ROI（實際收益更高，因為一週前我加了 50% 的資金，但年化計算是按目前的資金量來算的），已扣除所有手續費，包含策略本身的套利收益、返佣以及資金費。現在基本把能從幣圈挪出來的資金都投進去了，包括百萬 DeFi 帳戶裡的 $35 萬，所以現在暫時是「65萬DeFi記錄」了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1950903551523189038"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # 中性策略實踐：BTC 跨所套利與合約價差放大
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1950903551523189038)

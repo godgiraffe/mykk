@@ -1,3 +1,23 @@
+---
+title: "多幣種積分農耕策略測試"
+date: "2025-12-26"
+tags: 
+  - "積分農耕"
+  - "多幣種持倉"
+  - "交易量"
+summary: "交易者 @Dex_Jiufeite 分享了在 Variational.io 平台上進行**多幣種持倉積分農耕**的初步測試結果。策略特點如下："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 60
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Dex_Jiufeite/status/2004409679078994425"
+  externalUrl: "https://twitter.com/Dex_Jiufeite/status/2004409679078994425/photo/1"
+  authorUsername: "Dex_Jiufeite"
+---
+
 # 多幣種積分農耕策略測試
 
 > **來源**: [@Dex_Jiufeite](https://x.com/Dex_Jiufeite/status/2004409679078994425) | [原文連結](https://twitter.com/Dex_Jiufeite/status/2004409679078994425/photo/1)

@@ -1,3 +1,24 @@
+---
+title: "高頻交易中的 6 個盤口因子"
+date: "2025-12-02"
+tags: 
+  - "HFT"
+  - "Order Book"
+  - "Market Microstructure"
+  - "盤口因子"
+summary: "符號 說明 ------ ------ bid1_t / ask1_t 買一價 / 賣一價 bidVol1_t / askVol1_t 買一 / 賣一掛單量 mid_t 中間價 = (bid1_t + ask1_t) / 2 spread_t 價差 = ask1_t - bid1_t VWAP_t 成交量加權成交價（短窗口）"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xyucry/status/1995775488149860748"
+  externalUrl: null
+  authorUsername: "0xyucry"
+---
+
 # 高頻交易中的 6 個盤口因子
 
 > **來源**: [@0xYuCry](https://x.com/0xyucry/status/1995775488149860748)

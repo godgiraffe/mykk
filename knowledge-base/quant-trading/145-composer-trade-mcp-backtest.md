@@ -1,3 +1,23 @@
+---
+title: "Composer Trade MCP：AI 量化策略回測與自動化投資工具"
+date: "2025-08-22"
+tags: 
+  - "MCP工具"
+  - "策略回測"
+  - "自動化交易"
+summary: "Composer Trade MCP 是 Composer 官方提供的 Model Context Protocol (MCP) 伺服器,讓支援 MCP 的 LLM(如 Claude、Cursor)能夠驗證投資想法、執行回測,甚至自動交易多個策略(稱為「symphonies」)並比較其即時表現。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1958860048232599661"
+  externalUrl: "https://github.com/invest-composer/composer-trade-mcp"
+  authorUsername: "0xKaKa03"
+---
+
 # Composer Trade MCP：AI 量化策略回測與自動化投資工具
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1958860048232599661) | [原文連結](https://github.com/invest-composer/composer-trade-mcp)

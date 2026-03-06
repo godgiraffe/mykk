@@ -1,3 +1,23 @@
+---
+title: "潛伏期套利策略研究：基於雙交易所報價延遲的量化交易模型"
+date: "2025-07-13"
+tags: 
+  - "套利"
+  - "市場微觀結構"
+  - "高頻交易"
+summary: "潛伏期套利（Latency Arbitrage）是一種基於雙交易所報價延遲的量化交易模型。本研究探討如何利用交易所之間的報價時間差進行套利，包括策略原理、實施方法和風險控制。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Wayne145591/status/1944386125981982962"
+  externalUrl: null
+  authorUsername: "Wayne145591"
+---
+
 # 潛伏期套利策略研究：基於雙交易所報價延遲的量化交易模型
 
 > **來源**: [@Wayne145591](https://x.com/Wayne145591/status/1944386125981982962)

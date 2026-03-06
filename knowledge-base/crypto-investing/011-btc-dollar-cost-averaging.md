@@ -1,3 +1,24 @@
+---
+title: "比特幣分批買入策略"
+date: "2026-02-08"
+tags: 
+  - "比特幣"
+  - "投資策略"
+  - "分批買入"
+  - "風險管理"
+summary: "本文章整理自 @CryptoV_Alpha (CryptoV) 的建議，核心觀點是透過分批買入的方式降低投資比特幣的平均成本，減少一次性投入的心理壓力。具體策略為從 $70,000 美元開始，每下跌 $10,000 美元就投入 20% 的資金買入 Bitcoin (大餅)，總共買五次。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 50
+evergreenScore: 53
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/CryptoV_Alpha/status/2020320466695790627"
+  externalUrl: null
+  authorUsername: "CryptoV_Alpha"
+---
+
 # 比特幣分批買入策略
 
 > **來源**: [@CryptoV_Alpha](https://x.com/CryptoV_Alpha/status/2020320466695790627)

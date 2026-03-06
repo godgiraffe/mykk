@@ -1,3 +1,23 @@
+---
+title: "Rindexer：基於 Rust 的高效 EVM 數據索引工具"
+date: "2025-07-27"
+tags: 
+  - "EVM"
+  - "數據索引"
+  - "開源工具"
+summary: "Rindexer 是一個基於 Rust 開發的開源 EVM 數據索引工具，支援任何 EVM 兼容鏈。使用者可以透過簡單的 YAML 配置檔快速索引鏈上事件，無需編寫任何程式碼。對於有數據分析需求的開發者來說是一個高效的解決方案。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1949383498936332625"
+  externalUrl: "https://github.com/joshstevens19/rindexer"
+  authorUsername: "0xKaKa03"
+---
+
 # Rindexer：基於 Rust 的高效 EVM 數據索引工具
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1949383498936332625) | [原文連結](https://github.com/joshstevens19/rindexer)

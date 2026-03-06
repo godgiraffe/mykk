@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 時機工具 - Falcon Finance 策略"
+date: "2025-08-18"
+tags: 
+  - "Pendle"
+  - "YT 時機"
+  - "DeFi 工具"
+summary: "在一年前，我製作了一個基於 @GoogleColab 的工具，用來分享在 @pendle_fi 上購買 YT 的時機。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/quant_sheep/status/1957384638302978370"
+  externalUrl: "https://quantsheep.com/"
+  authorUsername: "quant_sheep"
+---
+
 # Pendle YT 時機工具 - Falcon Finance 策略
 
 > **來源**: [@quant_sheep](https://x.com/quant_sheep/status/1957384638302978370) | [原文連結](https://quantsheep.com/)

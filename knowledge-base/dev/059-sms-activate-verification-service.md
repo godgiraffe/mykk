@@ -1,3 +1,23 @@
+---
+title: "SMS-Activate 接碼平台 — 多國簡訊驗證服務"
+date: ">"
+tags: 
+  - "接碼平台"
+  - "驗證碼"
+  - "Google郵箱驗證"
+summary: "**重要更新**：SMS-Activate 已於 2024 年 12 月 22 日完全停止營運,結束了 10 年的服務。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/chiroukyc/status/1900235434317537641"
+  externalUrl: "https://sms-activate.org/cn"
+  authorUsername: "chiroukyc"
+---
+
 # SMS-Activate 接碼平台 — 多國簡訊驗證服務
 
 > **來源**: [@chiroukyc](https://x.com/chiroukyc/status/1900235434317537641) | [原文連結](https://sms-activate.org/cn)

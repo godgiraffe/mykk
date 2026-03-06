@@ -1,3 +1,23 @@
+---
+title: "Solana Memecoin 交易工具完整指南"
+date: "2025-02-05"
+tags: 
+  - "交易工具"
+  - "Memecoin"
+  - "Solana"
+summary: "本文整理了 Solana memecoin 交易的完整工具清單，涵蓋交易、掃鏈、程式檢查、熱度分析、錢包追蹤等各個面向。❤️ 標記代表作者最常用的工具。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CryptoCharming/status/1887081483460120844"
+  externalUrl: "https://pro.xxyy.io/?ref=Charming1"
+  authorUsername: "CryptoCharming"
+---
+
 # Solana Memecoin 交易工具完整指南
 
 > **來源**: [@CryptoCharming](https://x.com/CryptoCharming/status/1887081483460120844) | [原文連結](https://pro.xxyy.io/?ref=Charming1)

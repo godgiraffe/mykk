@@ -1,3 +1,23 @@
+---
+title: "Hourglass Stable 預存款 KYC Vault 事件分析"
+date: ">"
+tags: 
+  - "智能合約風險"
+  - "預售機制設計"
+  - "資金安全"
+summary: "由於 Hourglass 網站使用免費的 Alchemy RPC 節點，在大量用戶湧入時承受不住負載，導致即使用戶在錢包中簽署了服務條款（Terms of Service），簽署仍無法正常運作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yieldsandmore/status/1986447875870441952"
+  externalUrl: "https://etherscan.io/token/0xd9b2cb2fbad204fc548787ef56b918c845fcce40?a=0xd9b2cb2fbad204fc548787ef56b918c845fcce40#code"
+  authorUsername: "yieldsandmore"
+---
+
 # Hourglass Stable 預存款 KYC Vault 事件分析
 
 > **來源**: [@yieldsandmore](https://x.com/yieldsandmore/status/1986447875870441952) | [原文連結](https://etherscan.io/token/0xd9b2cb2fbad204fc548787ef56b918c845fcce40?a=0xd9b2cb2fbad204fc548787ef56b918c845fcce40#code)

@@ -1,3 +1,23 @@
+---
+title: "jrUSDe 在 Pendle 負年化機制解析"
+date: "2025-10-18"
+tags: 
+  - "Pendle"
+  - "jrUSDe"
+  - "負年化"
+summary: "在 Pendle 中，代幣分為兩種： **PT (Principal Token)**：本金代幣 **YT (Yield Token)**：權益代幣"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1979391393916424562"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # jrUSDe 在 Pendle 負年化機制解析
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1979391393916424562)

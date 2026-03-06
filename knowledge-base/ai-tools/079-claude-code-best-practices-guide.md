@@ -1,3 +1,23 @@
+---
+title: "Claude Code 最佳實踐指南"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "開發工作流"
+  - "AI 開發工具"
+summary: "我已經整理好文章內容了，準備寫入 079-claude-code-best-practices-guide.md。這篇文章："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1957834828818293200"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "0xKaKa03"
+---
+
 # Claude Code 最佳實踐指南
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1957834828818293200) | [原文連結](https://code.claude.com/docs)

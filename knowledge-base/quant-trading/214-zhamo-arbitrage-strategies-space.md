@@ -1,3 +1,23 @@
+---
+title: "爱套利的渣沫沫套利策略語音直播"
+date: ">"
+tags: 
+  - "套利策略"
+  - "量化交易"
+  - "語音直播"
+summary: "很抱歉，這個連結指向的是 **X Spaces 語音直播錄音**，而不是文字內容。從瀏覽器擷取的資訊顯示："
+curationStatus: "archive"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1930594432451301380"
+  externalUrl: "https://twitter.com/i/spaces/1ZkKzYNndEDxv"
+  authorUsername: "zhamomo666"
+---
+
 # 爱套利的渣沫沫套利策略語音直播
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1930594432451301380) | [原文連結](https://twitter.com/i/spaces/1ZkKzYNndEDxv)

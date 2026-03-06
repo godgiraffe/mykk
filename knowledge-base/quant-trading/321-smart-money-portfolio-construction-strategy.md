@@ -1,3 +1,23 @@
+---
+title: "聰明錢庫構建策略 — 交易風格定位與監控方法"
+date: "2025-01-15"
+tags: 
+  - "聰明錢跟單"
+  - "交易風格分類"
+  - "投資組合構建"
+summary: "構建聰明錢包庫的核心原則：**交易筆數/單筆盈利/勝率 屬於不可能三角**（不太可能三種同時兼顧）。所以需要先明確自己是哪種風格的,然後找相應的聰明錢去使用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/chat022511/status/1879398171421667554"
+  externalUrl: "https://chain.fm/"
+  authorUsername: "chat022511"
+---
+
 # 聰明錢庫構建策略 — 交易風格定位與監控方法
 
 > **來源**: [@chat022511](https://x.com/chat022511/status/1879398171421667554) | [原文連結](https://chain.fm/)

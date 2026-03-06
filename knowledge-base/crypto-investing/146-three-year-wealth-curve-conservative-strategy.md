@@ -1,3 +1,23 @@
+---
+title: "三年資產增值曲線：保守策略的風險管理"
+date: "2025-04-26"
+tags: 
+  - "資產管理"
+  - "風險控制"
+  - "投資哲學"
+summary: "**大資金**:只做穩定幣理財和大餅 (BTC) **小資金**:搏大機會,輸了就止損跑"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xYond/status/1916007049978384577"
+  externalUrl: null
+  authorUsername: "0xYond"
+---
+
 # 三年資產增值曲線：保守策略的風險管理
 
 > **來源**: [@0xYond](https://x.com/0xYond/status/1916007049978384577)

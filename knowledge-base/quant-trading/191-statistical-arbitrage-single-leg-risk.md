@@ -1,3 +1,23 @@
+---
+title: "統計套利配對交易中的單腿風險處理"
+date: "2025-07-07"
+tags: 
+  - "統計套利"
+  - "配對交易"
+  - "風險管理"
+summary: "拋開延遲帶來的不確定性，cross spread 去吃對面的掛單付出的顯性成本包括："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cryptoxfeng/status/1942137730840047815"
+  externalUrl: "https://www.zhihu.com/question/58031732"
+  authorUsername: "cryptoxfeng"
+---
+
 # 統計套利配對交易中的單腿風險處理
 
 > **來源**: [@cryptoxfeng](https://x.com/cryptoxfeng/status/1942137730840047815) | [原文連結](https://www.zhihu.com/question/58031732)

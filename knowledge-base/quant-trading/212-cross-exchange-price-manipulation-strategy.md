@@ -1,3 +1,23 @@
+---
+title: "跨所價格操控策略：DEX-CEX 聯動套利技巧"
+date: "2025-06-06"
+tags: 
+  - "價格操控"
+  - "跨所套利"
+  - "做市商"
+summary: "正如我原先說的，這個策略還一直有效，GATE 這次的事件，花 5000U 能盈利幾十萬 U 沒問題。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1930997584212140042"
+  externalUrl: null
+  authorUsername: "Boywus"
+---
+
 # 跨所價格操控策略：DEX-CEX 聯動套利技巧
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1930997584212140042)

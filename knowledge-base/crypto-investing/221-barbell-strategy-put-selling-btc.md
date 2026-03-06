@@ -1,3 +1,23 @@
+---
+title: "杠鈴策略 vs 分批賣 Put：年回報 25% 的 BTC 投資策略對比"
+date: ">"
+tags: 
+  - "杠鈴策略"
+  - "Put期權"
+  - "投資回測"
+summary: "現在大家都認識到全倉無腦賣 Put 不可行，所以衍生出了分批賣 Put，如果被擊中就當分批抄底的策略。這個策略確實聽上去更合理。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/leifuchen/status/2028835776742490517"
+  externalUrl: "https://x.com/i/article/2027807795060334592"
+  authorUsername: "leifuchen"
+---
+
 # 杠鈴策略 vs 分批賣 Put：年回報 25% 的 BTC 投資策略對比
 
 > **來源**: [@leifuchen](https://x.com/leifuchen/status/2028835776742490517) | [原文連結](https://x.com/i/article/2027807795060334592)

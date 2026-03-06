@@ -1,3 +1,23 @@
+---
+title: "Pendle Resolv 第二季 YT 策略估值分析"
+date: ">"
+tags: 
+  - "Pendle"
+  - "YT 策略"
+  - "RESOLV"
+summary: "作者計算了 @ResolvLabs 第二季的 YT 策略，目前 Pendle 上的 YT 策略對應的 $RESOLV FDV 估值大概在 $300~400M 這個範圍。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/DeFi_Bean/status/1923031848046776588"
+  externalUrl: "https://twitter.com/0xCoumarin/status/1923031848046776588/photo/1"
+  authorUsername: "DeFi_Bean"
+---
+
 # Pendle Resolv 第二季 YT 策略估值分析
 
 > **來源**: [@DeFi_Bean](https://x.com/DeFi_Bean/status/1923031848046776588) | [原文連結](https://twitter.com/0xCoumarin/status/1923031848046776588/photo/1)

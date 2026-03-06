@@ -1,3 +1,23 @@
+---
+title: "LayerZero (L0) 空投策略全方面分析"
+date: ">"
+tags: 
+  - "空投機制"
+  - "LayerZero"
+  - "項目評估"
+summary: "研究了半個月的 L0 了，看了上百篇「重複」「低質量」的教程，那麼，我們到底該如何去交互 L0 呢？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xweiqigaoshou/status/1645780713294405636"
+  externalUrl: "https://twitter.com/Said46807236/status/1645780713294405636/photo/1"
+  authorUsername: "0xweiqigaoshou"
+---
+
 # LayerZero (L0) 空投策略全方面分析
 
 > **來源**: [@0xweiqigaoshou](https://x.com/0xweiqigaoshou/status/1645780713294405636) | [原文連結](https://twitter.com/Said46807236/status/1645780713294405636/photo/1)

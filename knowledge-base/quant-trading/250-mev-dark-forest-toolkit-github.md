@@ -1,3 +1,23 @@
+---
+title: "MEV 黑暗森林工具包 - 區塊鏈最大可提取價值資源集合"
+date: "2025-04-25"
+tags: 
+  - "MEV"
+  - "套利策略"
+  - "區塊鏈"
+summary: "**MEV（Maximal Extractable Value，最大可提取價值）** 涵蓋區塊生產供應鏈中參與方產生的利潤。對於搜尋者（searchers）來說，這些收益可以來自於："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/litangsongyx/status/1915660395064283203"
+  externalUrl: "https://github.com/cypherpunk-symposium/dark-forest-toolkit"
+  authorUsername: "litangsongyx"
+---
+
 # MEV 黑暗森林工具包 - 區塊鏈最大可提取價值資源集合
 
 > **來源**: [@litangsongyx](https://x.com/litangsongyx/status/1915660395064283203) | [原文連結](https://github.com/cypherpunk-symposium/dark-forest-toolkit)

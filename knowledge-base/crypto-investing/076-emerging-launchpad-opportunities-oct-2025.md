@@ -1,3 +1,23 @@
+---
+title: "冷門小眾打新機會分享：Ink 生態、FightID、Perpdex、ZKPass"
+date: ">"
+tags: 
+  - "新幣發射"
+  - "打新策略"
+  - "流動性挖礦"
+summary: "都在說 Stable、MegaETH、MMT，沒其他打新了？以下分享一些冷門小眾的機會："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xblockma/status/1981343945222463755"
+  externalUrl: null
+  authorUsername: "0xblockma"
+---
+
 # 冷門小眾打新機會分享：Ink 生態、FightID、Perpdex、ZKPass
 
 > **來源**: [@0xblockma](https://x.com/0xblockma/status/1981343945222463755)

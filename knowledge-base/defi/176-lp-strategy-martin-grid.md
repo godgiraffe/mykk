@@ -1,3 +1,23 @@
+---
+title: "LP 進階策略：馬丁+網格組合在頭部幣上的低風險操作"
+date: "2025-04-23"
+tags: 
+  - "LP流動性挖礦"
+  - "馬丁格爾策略"
+  - "網格交易"
+summary: "這是一個低風險、可持續賺取被動收入的 LP 組合策略，適合頭部幣種（如 SOL）。核心思路是結合**馬丁策略**（跌越多買越多）與**網格交易**（低買高賣），在 Meteora 等支援 DLMM 模式的平台上操作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1915026825765654712"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # LP 進階策略：馬丁+網格組合在頭部幣上的低風險操作
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1915026825765654712)

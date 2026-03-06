@@ -1,3 +1,23 @@
+---
+title: "Falcon Finance $FF 質押 80 倍積分分析：USDf YT 可能被高估"
+date: "2025-09-28"
+tags: 
+  - "Pendle"
+  - "積分挖礦"
+  - "穩定幣收益"
+summary: "$FF 代幣的 80 倍積分，導致 USDf YT 和 sUSDf YT 可能被高估，可以考慮賣出。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1972325387368841614"
+  externalUrl: "https://x.com/awesomeHunter_z/status/1971120186439934288"
+  authorUsername: "LumaoDoggie"
+---
+
 # Falcon Finance $FF 質押 80 倍積分分析：USDf YT 可能被高估
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1972325387368841614) | [原文連結](https://x.com/awesomeHunter_z/status/1971120186439934288)

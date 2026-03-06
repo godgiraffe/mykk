@@ -1,3 +1,23 @@
+---
+title: "Pendle 機制詳解：PT、YT、LP 與 Implied APY"
+date: ">"
+tags: 
+  - "Pendle"
+  - "流動性挖礦"
+  - "收益農業"
+summary: "最近因為 @falconfinance 的火熱，@pendle_fi 的討論度也大增，9/25 到期的 $susdf 池子每天都幾千萬交易量,甚至突破一億大關。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1967969280605274486"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # Pendle 機制詳解：PT、YT、LP 與 Implied APY
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1967969280605274486)

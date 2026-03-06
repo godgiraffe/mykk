@@ -1,3 +1,23 @@
+---
+title: "MEV 套利公式推導─雙幣循環套利與三四角套利"
+date: "2024-11-20"
+tags: 
+  - "套利"
+  - "MEV"
+  - "公式推導"
+summary: "這條套利推文的火熱程度超乎想像。知道真想做 MEV 套利的人想看什麼，我也曾這麼全網搜羅過。那就再多放一點點硬核乾貨：雙幣循環套利兩個池子利潤公式推導，基於 Uniswap V2 類型的流動池，使用 Python 實現。三角套利和四角套利同理。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BitDanceUp/status/1859195922783379875"
+  externalUrl: null
+  authorUsername: "BitDanceUp"
+---
+
 # MEV 套利公式推導─雙幣循環套利與三四角套利
 
 > **來源**: [@BitDanceUp](https://x.com/BitDanceUp/status/1859195922783379875)

@@ -1,3 +1,23 @@
+---
+title: "Falcon sUSDF PT 槓桿耕作策略：13天70%確定性收益"
+date: ">"
+tags: 
+  - "槓桿耕作"
+  - "Pendle PT"
+  - "DeFi套利"
+summary: "**利益揭露**：本文不是廣告，也沒有參加 Kaito 嘴擼，本人與項目利益無關。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1966046025480835075"
+  externalUrl: "https://app.pendle.finance/trade/pools/0x45f163e583d34b8e276445dd3da9ae077d137d72/zap/in?chain=ethereum"
+  authorUsername: "LumaoDoggie"
+---
+
 # Falcon sUSDF PT 槓桿耕作策略：13天70%確定性收益
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1966046025480835075) | [原文連結](https://app.pendle.finance/trade/pools/0x45f163e583d34b8e276445dd3da9ae077d137d72/zap/in?chain=ethereum)

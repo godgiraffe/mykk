@@ -1,3 +1,23 @@
+---
+title: "Fragmetric / Backpack & Drift / RateX 四吃積分套利策略"
+date: "2025-06-11"
+tags: 
+  - "積分套利"
+  - "DeFi 收益"
+  - "白嫖策略"
+summary: "Fragmetric 臨近 TGE，旗艦產品是 FragSOL 和 FragBTC。在不持有 BTC/SOL 頭寸的情況下，透過借貸交互可賺取多平台積分，基本屬於白嫖策略。"
+curationStatus: "archive"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/AWonchain/status/1932722946772259194"
+  externalUrl: "https://app.rate-x.io/referral?ref=1a5rt7yK"
+  authorUsername: "AWonchain"
+---
+
 # Fragmetric / Backpack & Drift / RateX 四吃積分套利策略
 
 > **來源**: [@AWonchain](https://x.com/AWonchain/status/1932722946772259194) | [原文連結](https://app.rate-x.io/referral?ref=1a5rt7yK)

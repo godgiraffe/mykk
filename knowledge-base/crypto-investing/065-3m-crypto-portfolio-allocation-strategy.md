@@ -1,3 +1,23 @@
+---
+title: "300 萬美金加密貨幣投資組合配置策略"
+date: "2025-10-27"
+tags: 
+  - "投資策略"
+  - "風險管理"
+  - "資金配置"
+summary: "將 100 萬美金的穩定幣存入 DeFi（透過 USDT Plasma Vault 獲得 8-9% 年化收益）來支付日常開支。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1982780421189271660"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # 300 萬美金加密貨幣投資組合配置策略
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1982780421189271660)

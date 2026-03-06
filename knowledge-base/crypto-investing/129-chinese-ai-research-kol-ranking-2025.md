@@ -1,3 +1,23 @@
+---
+title: "2025年中文加密AI投研頂級KOL排名"
+date: "2025-06-23"
+tags: 
+  - "AI投研"
+  - "KOL影響力"
+  - "趨勢洞察"
+summary: "基於 @xhunt_ai KOL 能力模型的 AI 領域得分，綜合考慮了 KOL 撰寫 AI 相關推文的以下五個維度："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BiteyeCN/status/1937083899815072112"
+  externalUrl: null
+  authorUsername: "BiteyeCN"
+---
+
 # 2025年中文加密AI投研頂級KOL排名
 
 > **來源**: [@BiteyeCN](https://x.com/BiteyeCN/status/1937083899815072112)

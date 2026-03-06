@@ -1,3 +1,23 @@
+---
+title: "幣安 Alpha 交易工具生態全覽"
+date: "2025-06-07"
+tags: 
+  - "交易工具"
+  - "數據分析"
+  - "收益統計"
+summary: "**https://t.co/EfkLg4kkp2** 查看統計交易量 預估 gas 消耗"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/toupaiwang/status/1931317484683976792"
+  externalUrl: "https://www.bn-alpha.site/"
+  authorUsername: "toupaiwang"
+---
+
 # 幣安 Alpha 交易工具生態全覽
 
 > **來源**: [@toupaiwang](https://x.com/toupaiwang/status/1931317484683976792) | [原文連結](https://www.bn-alpha.site/)

@@ -1,3 +1,23 @@
+---
+title: "Bonkfun 遷移狙擊機器人：Raydium CPMM 套利工具"
+date: "2025-08-13"
+tags: 
+  - "MEV"
+  - "套利"
+  - "Solana"
+summary: "這是一個 Bonkfun 遷移狙擊機器人（又稱 Cupsey sandwicher），用於在代幣從 Bonkfun 遷移到 Raydium CPMM 的過程中進行套利交易。該機器人曾經是速度最快的狙擊機器人之一，現已開源。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Fried_rice/status/1955754921669877951"
+  externalUrl: "https://github.com/fuzzland/bonkfun-sniper?src=x"
+  authorUsername: "Fried_rice"
+---
+
 # Bonkfun 遷移狙擊機器人：Raydium CPMM 套利工具
 
 > **來源**: [@Fried_rice](https://x.com/Fried_rice/status/1955754921669877951) | [原文連結](https://github.com/fuzzland/bonkfun-sniper?src=x)

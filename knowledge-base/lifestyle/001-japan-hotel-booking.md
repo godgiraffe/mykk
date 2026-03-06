@@ -1,3 +1,25 @@
+---
+title: "日本訂房四大攻略"
+date: "2026-01-30"
+tags: 
+  - "日本"
+  - "訂房"
+  - "旅遊"
+  - "信用卡"
+  - "點數"
+summary: "日本訂房平台，主打中高端旅館 均價約 **¥14,600/晚** 適合追求日式旅館體驗的旅客 有些房源是其他平台找不到的獨家物件"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptowilson_/status/2016814315605537135"
+  externalUrl: null
+  authorUsername: "cryptowilson_"
+---
+
 # 日本訂房四大攻略
 
 > **來源**: [cryptowilson (@cryptowilson_)](https://x.com/cryptowilson_/status/2016814315605537135)

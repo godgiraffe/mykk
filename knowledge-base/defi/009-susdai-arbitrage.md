@@ -1,3 +1,24 @@
+---
+title: "susdai 套利機會"
+date: "2026-02-02"
+tags: 
+  - "susdai"
+  - "USDC"
+  - "套利"
+  - "DeFi"
+summary: "本篇文章介紹一個由 Nomad 分享的關於 susdai 的套利機會。該機會利用 susdai 每月初可按淨值贖回成 usdai，以及 usdai 可快速贖回 USDC 的特性，構建 susdai -> usdai -> USDC 的套利路徑。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Nomad02887202/status/2018191612514603121"
+  externalUrl: null
+  authorUsername: "Nomad02887202"
+---
+
 # susdai 套利機會
 
 > **來源**: [@Nomad02887202](https://x.com/Nomad02887202/status/2018191612514603121)

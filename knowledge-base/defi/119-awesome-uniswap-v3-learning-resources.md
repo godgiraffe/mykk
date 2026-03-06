@@ -1,3 +1,23 @@
+---
+title: "Awesome Uniswap V3 學習資源匯總"
+date: "2025-08-16"
+tags: 
+  - "Uniswap V3"
+  - "流動性提供"
+  - "DEX"
+summary: "Awesome-Uniswap-v3 是一個由社群驅動的專案,旨在幫助人們熟悉 Uniswap v3。這是一份精選的 Uniswap v3 資源列表,涵蓋從基礎教程、工具、儀表板、模擬器到專案的一站式解決方案。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1956746877539692821"
+  externalUrl: "https://github.com/GammaStrategies/awesome-uniswap-v3"
+  authorUsername: "0xKaKa03"
+---
+
 # Awesome Uniswap V3 學習資源匯總
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1956746877539692821) | [原文連結](https://github.com/GammaStrategies/awesome-uniswap-v3)

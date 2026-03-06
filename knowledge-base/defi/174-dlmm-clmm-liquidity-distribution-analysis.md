@@ -1,3 +1,23 @@
+---
+title: "DLMM 與 CLMM 流動性分布數學建模對比分析"
+date: "2025-04-25"
+tags: 
+  - "流動性管理"
+  - "Meteora"
+  - "Raydium"
+summary: "潛心研究看了幾天 CLMM 白皮書和論文，把 DLMM 和 CLMM 流動性分布數學建模畫出來了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 42
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ospopen/status/1915656729456791558"
+  externalUrl: "https://twitter.com/ospopen/status/1915656729456791558/photo/1"
+  authorUsername: "ospopen"
+---
+
 # DLMM 與 CLMM 流動性分布數學建模對比分析
 
 > **來源**: [@ospopen](https://x.com/ospopen/status/1915656729456791558) | [原文連結](https://twitter.com/ospopen/status/1915656729456791558/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "Sui 套利機器人開源：MoveVM 模擬器與跨 DEX 套利策略"
+date: "2025-04-02"
+tags: 
+  - "Sui"
+  - "套利交易"
+  - "開源工具"
+summary: "這是一個開源的 Sui 套利機器人專案，已實現超過 $200k 的套利收益。該機器人支援跨多個去中心化交易所（DEX）進行套利操作，並包含一個用 Rust 編寫的 MoveVM 模擬器，可以 fork 鏈並更快速地模擬交易。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Fried_rice/status/1907510713251426455"
+  externalUrl: "https://github.com/fuzzland/sui-mev?id=1"
+  authorUsername: "Fried_rice"
+---
+
 # Sui 套利機器人開源：MoveVM 模擬器與跨 DEX 套利策略
 
 > **來源**: [@Fried_rice](https://x.com/Fried_rice/status/1907510713251426455) | [原文連結](https://github.com/fuzzland/sui-mev?id=1)

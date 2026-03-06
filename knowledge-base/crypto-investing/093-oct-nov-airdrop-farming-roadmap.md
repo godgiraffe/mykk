@@ -1,3 +1,23 @@
+---
+title: "十月十一月空投撸毛與打新計劃"
+date: "2025-10-13"
+tags: 
+  - "空投日程"
+  - "撸毛策略"
+  - "DeFi 打新"
+summary: "根據 git status 中的檔案列表，我可以看到知識庫的文章格式。讓我直接整理這篇文章："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/lxx794/status/1977572168432296364"
+  externalUrl: "https://x.com/i/article/1977560181811879936"
+  authorUsername: "lxx794"
+---
+
 # 十月十一月空投撸毛與打新計劃
 
 > **來源**: [@lxx794](https://x.com/lxx794/status/1977572168432296364) | [原文連結](https://x.com/i/article/1977560181811879936)

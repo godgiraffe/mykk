@@ -1,3 +1,23 @@
+---
+title: "Claude Code 工作流：規劃優先的開發完全指南"
+date: "2026-03-04"
+tags: 
+  - "Claude Code"
+  - "工作流程"
+  - "規劃驗證"
+summary: "九個月使用 Claude Code 作為主力開發工具後，Boris Tane（前 Cloudflare 工程師，現在做 nominal.dev，要把所有 on-call 的工程師都解放出來）分享了他提煉出來的完整工作流。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/2028998826699415561"
+  externalUrl: "https://research.md/"
+  authorUsername: "shao__meng"
+---
+
 # Claude Code 工作流：規劃優先的開發完全指南
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/2028998826699415561) | [原文連結](https://research.md/)

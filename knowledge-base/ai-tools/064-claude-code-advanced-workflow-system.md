@@ -1,3 +1,23 @@
+---
+title: "Claude Code 高效工作流系統 — 6 個月進階使用技巧"
+date: "2025-10-29"
+tags: 
+  - "Claude Code"
+  - "工作流優化"
+  - "Skills 自動化"
+summary: "**免責聲明**：這篇文章分享的是我個人在 Claude Code 使用六個月後的經驗和設定，並非唯一正確的做法。希望能啟發你改善自己的 AI 程式開發工作流程。我只是個普通人，這只是我的個人意見。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dickson_tsai/status/1983552367971979278"
+  externalUrl: "https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/"
+  authorUsername: "dickson_tsai"
+---
+
 # Claude Code 高效工作流系統 — 6 個月進階使用技巧
 
 > **來源**: [@dickson_tsai](https://x.com/dickson_tsai/status/1983552367971979278) | [原文連結](https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/)

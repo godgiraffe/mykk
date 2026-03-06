@@ -1,3 +1,23 @@
+---
+title: "OKX Boost 交易策略指南：小白版視頻教程"
+date: ">"
+tags: 
+  - "OKX Boost"
+  - "交易策略"
+  - "手續費優化"
+summary: "OKX Boost 是 OKX 交易所推出的積分獎勵機制，透過交易特定交易對累積積分。本文提供快速刷分的實戰參數與成本估算。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/tyw1984/status/1966100951875596625"
+  externalUrl: "https://www.youtube.com/watch?v=5XafE4mBc6U&feature=youtu.be"
+  authorUsername: "tyw1984"
+---
+
 # OKX Boost 交易策略指南：小白版視頻教程
 
 > **來源**: [@tyw1984](https://x.com/tyw1984/status/1966100951875596625) | [原文連結](https://www.youtube.com/watch?v=5XafE4mBc6U&feature=youtu.be)

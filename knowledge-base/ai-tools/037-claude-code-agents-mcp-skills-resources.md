@@ -1,3 +1,23 @@
+---
+title: "Claude Code 實用資源：Agents、MCP 和 Skills 彙總"
+date: "2025-12-10"
+tags: 
+  - "Claude Code"
+  - "Agents"
+  - "MCP"
+summary: "Claude Code 用戶的必備資源，以下兩個網站系統化地彙總了實用的 Agents、MCP、Skills 和 Commands："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Pluvio9yte/status/1998773230790914529"
+  externalUrl: "https://twitter.com/Pluvio9yte/status/1998773230790914529/photo/1"
+  authorUsername: "Pluvio9yte"
+---
+
 # Claude Code 實用資源：Agents、MCP 和 Skills 彙總
 
 > **來源**: [@Pluvio9yte](https://x.com/Pluvio9yte/status/1998773230790914529) | [原文連結](https://twitter.com/Pluvio9yte/status/1998773230790914529/photo/1)

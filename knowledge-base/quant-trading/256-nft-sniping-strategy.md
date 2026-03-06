@@ -1,3 +1,23 @@
+---
+title: "NFT 盲盒狙擊套利策略回憶錄"
+date: "2025-04-21"
+tags: 
+  - "NFT狙擊"
+  - "區塊鏈套利"
+  - "智能合約"
+summary: "2022 年，是 NFT 大火的一年，是 Ethereum 轉型 PoS 的一年，是我入行區塊鏈的第二年。那一年，我透過狙擊 NFT 盲盒，賺到了幾十個 ETH，並購買了一個 CryptoPunk。本文將回憶當時的一些細節和巧妙策略，不會透露具體的程式碼實現。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/aliez_ren/status/1914315088154264056"
+  externalUrl: "https://quaily.com/taoli/p/nft-sniping"
+  authorUsername: "aliez_ren"
+---
+
 # NFT 盲盒狙擊套利策略回憶錄
 
 > **來源**: [@aliez_ren](https://x.com/aliez_ren/status/1914315088154264056) | [原文連結](https://quaily.com/taoli/p/nft-sniping)

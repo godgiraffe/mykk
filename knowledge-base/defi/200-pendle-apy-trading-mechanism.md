@@ -1,3 +1,23 @@
+---
+title: "Pendle 利率交易所 — APY 交易邏輯詳解"
+date: "2024-12-28"
+tags: 
+  - "Pendle協議"
+  - "利率交易"
+  - "衍生品"
+summary: "相比於 Binance 交易的是幣價，Pendle 交易的是「APY」（年化收益率）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Miaofaoude/status/1872820257313964244"
+  externalUrl: null
+  authorUsername: "Miaofaoude"
+---
+
 # Pendle 利率交易所 — APY 交易邏輯詳解
 
 > **來源**: [@Miaofaoude](https://x.com/Miaofaoude/status/1872820257313964244)

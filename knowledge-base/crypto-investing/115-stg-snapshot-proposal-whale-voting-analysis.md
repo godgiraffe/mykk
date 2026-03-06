@@ -1,3 +1,23 @@
+---
+title: "STG 快照提案：大戶投票權分析與決策預測"
+date: ">"
+tags: 
+  - "治理"
+  - "鯨魚持倉"
+  - "提案分析"
+summary: "最終決定權仍在 $veSTG 大戶手中。從快照數據可以得出結論：**這個提案只要前三名大戶都同意就會通過**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cryptogator1121/status/1955210961079730395"
+  externalUrl: "https://snapshot.box/#/s:stgdao.eth/delegates"
+  authorUsername: "cryptogator1121"
+---
+
 # STG 快照提案：大戶投票權分析與決策預測
 
 > **來源**: [@cryptogator1121](https://x.com/cryptogator1121/status/1955210961079730395) | [原文連結](https://snapshot.box/#/s:stgdao.eth/delegates)

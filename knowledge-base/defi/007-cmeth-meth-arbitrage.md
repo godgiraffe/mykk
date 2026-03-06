@@ -1,3 +1,25 @@
+---
+title: "利用 cmeth/meth 的 DeFi 套利策略"
+date: "2026-02-04"
+tags: 
+  - "DeFi"
+  - "套利"
+  - "cmeth"
+  - "meth"
+  - "量化交易"
+summary: "本文介紹了一個在 Mantle 鏈上利用 cmeth 和 meth 進行套利的策略。該策略主要透過監控交易所內 cmeth/meth 的匯率差異，並結合鏈上操作進行搬磚套利。雖然作者透過此策略在兩個月內獲利超過 1 wu，但也提醒讀者注意潛在的項目方風險和交易風險。"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/2018909160751173903"
+  externalUrl: null
+  authorUsername: "dan326714"
+---
+
 # 利用 cmeth/meth 的 DeFi 套利策略
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/2018909160751173903)

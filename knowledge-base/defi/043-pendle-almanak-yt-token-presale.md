@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 認購 Almanak 代幣——以 0.107 價格打新的機會"
+date: "2025-11-12"
+tags: 
+  - "Pendle"
+  - "Almanak"
+  - "YT 認購"
+summary: "現在購買 YT-alUSD，相當於以 **0.107** 的價格認購 Almanak 的代幣。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/beiyue66/status/1988626554398937408"
+  externalUrl: "https://pendle-moonshot-calculator.netlify.app/"
+  authorUsername: "beiyue66"
+---
+
 # Pendle YT 認購 Almanak 代幣——以 0.107 價格打新的機會
 
 > **來源**: [@beiyue66](https://x.com/beiyue66/status/1988626554398937408) | [原文連結](https://pendle-moonshot-calculator.netlify.app/)

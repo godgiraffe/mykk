@@ -1,3 +1,23 @@
+---
+title: "MEV 入門完全指南：術語、策略與 Bot 開發"
+date: ">"
+tags: 
+  - "MEV"
+  - "套利機制"
+  - "區塊鏈交易"
+summary: "這是 Flashbots 社群大佬撰寫的 MEV 入門完全指南《I'm new to MEV》，涵蓋 MEV 介紹、術語解釋、常見策略區別、如何開始寫 MEV Bot、推薦工具和學習資源等內容。適合初學者了解 MEV 領域的基礎知識和社群文化。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1957849403907272936"
+  externalUrl: "https://mteam.space/posts/im-new-to-mev/"
+  authorUsername: "0xKaKa03"
+---
+
 # MEV 入門完全指南：術語、策略與 Bot 開發
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1957849403907272936) | [原文連結](https://mteam.space/posts/im-new-to-mev/)

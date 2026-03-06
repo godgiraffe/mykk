@@ -1,3 +1,23 @@
+---
+title: "oRPC：端到端類型安全的 API 框架"
+date: "2025-12-08"
+tags: 
+  - "TypeScript"
+  - "API 開發"
+  - "類型安全"
+summary: "oRPC 是一個結合 **RPC (Remote Procedure Call)** 和 **OpenAPI** 的強大框架，旨在構建端到端類型安全且符合 OpenAPI 標準的 API。官方網站：orpc.dev"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Manjusaka_Lee/status/1998030917961666632"
+  externalUrl: "https://github.com/unnoq/orpc"
+  authorUsername: "Manjusaka_Lee"
+---
+
 # oRPC：端到端類型安全的 API 框架
 
 > **來源**: [@Manjusaka_Lee](https://x.com/Manjusaka_Lee/status/1998030917961666632) | [原文連結](https://github.com/unnoq/orpc)

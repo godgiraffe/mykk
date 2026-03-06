@@ -1,3 +1,23 @@
+---
+title: "加密項目進展更新：STABLE、MegaETH、FightID 策略調整"
+date: ">"
+tags: 
+  - "項目追蹤"
+  - "投資策略"
+  - "風險管理"
+summary: "昨天原本想關注 Pendle 開 STABLE/USDT，看看二級市場有沒有機會，但這幾天沒休息好太累了。果然昨晚有個 40M 的大戶砸盤，STABLE/USDT 最低跌到 1.05，這個價格接盤性價比非常高。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/AndyJYGood68/status/1983690581152034872"
+  externalUrl: null
+  authorUsername: "AndyJYGood68"
+---
+
 # 加密項目進展更新：STABLE、MegaETH、FightID 策略調整
 
 > **來源**: [@AndyJYGood68](https://x.com/AndyJYGood68/status/1983690581152034872)

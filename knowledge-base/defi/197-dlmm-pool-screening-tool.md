@@ -1,3 +1,23 @@
+---
+title: "DLMM 池子篩選工具"
+date: "2025-01-19"
+tags: 
+  - "DLMM"
+  - "LP流動性挖礦"
+  - "做市策略"
+summary: "$TRUMP 選擇在 meteora 平台上線,一天幾十億美元的交易額,不但讓很多 LPer 賺到了豐厚做市手續費收入,也讓更多好奇的人想來這裡淘金。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1880851025109905767"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 池子篩選工具
 
 > **來源**: [@gm365](https://x.com/gm365/status/1880851025109905767)

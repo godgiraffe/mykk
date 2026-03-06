@@ -1,3 +1,23 @@
+---
+title: "五個最流行的做市策略運作方式"
+date: "2025-11-22"
+tags: 
+  - "做市策略"
+  - "量化交易"
+  - "市場微觀結構"
+summary: "1. **基礎做市策略 (Basic Market Making)** 2. **Avellaneda-Stoikov 策略** 3. **庫存管理策略 (Inventory Management)** 4. **跨交易所做市 (Cross-Exchange Market Making)** 5. **純粹做市 + 對沖 (Pure Market Making + Hedging)**"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1992059859916018146"
+  externalUrl: "https://twitter.com/wquguru/status/1992059859916018146/photo/1"
+  authorUsername: "wquguru"
+---
+
 # 五個最流行的做市策略運作方式
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1992059859916018146) | [原文連結](https://twitter.com/wquguru/status/1992059859916018146/photo/1)

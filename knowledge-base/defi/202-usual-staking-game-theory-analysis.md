@@ -1,3 +1,23 @@
+---
+title: "USUALx 遊戲論分析：staking 機制與長期激勵設計"
+date: "2024-12-30"
+tags: 
+  - "DeFi 協議"
+  - "staking 機制"
+  - "遊戲論"
+summary: "USUALx 是 USUAL 的質押版本（Liquid Staking Token），類似 veToken 機制，提供治理權與經濟權利，並自動複利原生 USUAL 的發行獎勵。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xbrak/status/1873651466906587615"
+  externalUrl: "https://usual.money/blog/introduction-to-usualx-and-its-game-theory"
+  authorUsername: "0xbrak"
+---
+
 # USUALx 遊戲論分析：staking 機制與長期激勵設計
 
 > **來源**: [@0xbrak](https://x.com/0xbrak/status/1873651466906587615) | [原文連結](https://usual.money/blog/introduction-to-usualx-and-its-game-theory)

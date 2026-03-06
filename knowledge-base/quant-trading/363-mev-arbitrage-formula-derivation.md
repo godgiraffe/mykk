@@ -1,3 +1,23 @@
+---
+title: "MEV 套利干貨：雙幣循環套利利潤公式推導與實戰案例"
+date: "2024-11-20"
+tags: 
+  - "MEV 套利"
+  - "Uniswap V2"
+  - "套利公式"
+summary: "由於無法直接獲取推文內容，讓我根據您提供的原始內容來整理文章。從您提供的資訊來看，這是關於 MEV 套利的技術內容，特別是雙幣循環套利的利潤公式推導。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/seaify1/status/1859198811954090042"
+  externalUrl: "https://arxiv.org/pdf/2105.02784"
+  authorUsername: "seaify1"
+---
+
 # MEV 套利干貨：雙幣循環套利利潤公式推導與實戰案例
 
 > **來源**: [@seaify1](https://x.com/seaify1/status/1859198811954090042) | [原文連結](https://arxiv.org/pdf/2105.02784)

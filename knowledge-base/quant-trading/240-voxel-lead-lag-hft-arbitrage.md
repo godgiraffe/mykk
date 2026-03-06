@@ -1,3 +1,23 @@
+---
+title: "VOXEL 事件中的高頻印鈔算法：Lead-Lag 套利策略深度解析"
+date: "2025-05-04"
+tags: 
+  - "高頻交易"
+  - "跨交易所套利"
+  - "做市商風險"
+summary: "本文以 BITGET 的 VOXEL/USDT 事件為例，說明一個在該事件中獲利上千萬美元的高頻交易算法。這個策略完全屬於市場正常交易，並非系統 BUG。事實上，當天只需要把程式啟動，不需要特別複雜的參數，BITGET 的做市商就主動開啟了印鈔機會，並且撒給了全市場。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1918941848728658129"
+  externalUrl: null
+  authorUsername: "Boywus"
+---
+
 # VOXEL 事件中的高頻印鈔算法：Lead-Lag 套利策略深度解析
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1918941848728658129)

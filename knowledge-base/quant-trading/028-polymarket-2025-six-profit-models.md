@@ -1,3 +1,23 @@
+---
+title: "Polymarket 2025 六大賺錢模型深度報告"
+date: "2025-12-26"
+tags: 
+  - "預測市場"
+  - "交易策略"
+  - "套利"
+summary: "★ Insight ───────────────────────────────────── **零和博弈本質**: Polymarket 僅 0.51% 錢包實現超過 $1000 盈利 **頂尖交易者特徵**: 不是預測能力，而是捕捉定價錯誤 + 嚴格風險管理 + 信息優勢 **六大驗證策略**: 從法國鯨魚的 $8500 萬到年化 1800% 債券策略 ───────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/linwanwan823/status/2004380260121694645"
+  externalUrl: "https://x.com/i/article/2004241547236462593"
+  authorUsername: "linwanwan823"
+---
+
 # Polymarket 2025 六大賺錢模型深度報告
 
 > **來源**: [@linwanwan823](https://x.com/linwanwan823/status/2004380260121694645) | [原文連結](https://x.com/i/article/2004241547236462593)

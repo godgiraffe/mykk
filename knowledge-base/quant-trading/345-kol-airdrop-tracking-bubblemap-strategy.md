@@ -1,3 +1,23 @@
+---
+title: "KOL 空投追蹤策略：透過 BubbleMap 識別免費籌碼地址"
+date: "2024-12-04"
+tags: 
+  - "空投跟蹤"
+  - "KOL 分析"
+  - "鏈上偵測"
+summary: "有沒有發現有時候 BubbleMap 會呈現出異常集中的分佈形態？這種情況背後通常代表項目方透過單一地址向多個 KOL 或陰謀集團分發免費籌碼（也可能是給交易所或其他合作方的支出）。如果項目方不懂如何防止地址關聯，直接用一個地址發送給所有人，BubbleMap 就會呈現這種異常的集中分佈。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1864233096348094856"
+  externalUrl: null
+  authorUsername: "Michael_Liu93"
+---
+
 # KOL 空投追蹤策略：透過 BubbleMap 識別免費籌碼地址
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1864233096348094856)

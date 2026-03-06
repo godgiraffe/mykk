@@ -1,3 +1,23 @@
+---
+title: "套利風險盤點與規避策略 SOP"
+date: "2025-08-10"
+tags: 
+  - "套利"
+  - "風險管理"
+  - "資產安全"
+summary: "根據我從推文和截圖中獲得的資訊，這是一個關於套利風險的影片教學。由於無法直接提取影片內容的完整文字，我只能根據推文本身的描述和截圖中看到的心智圖結構來整理。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/haogege999/status/1954395116514230326"
+  externalUrl: "https://twitter.com/haogege999/status/1954395116514230326/video/1"
+  authorUsername: "haogege999"
+---
+
 # 套利風險盤點與規避策略 SOP
 
 > **來源**: [@haogege999](https://x.com/haogege999/status/1954395116514230326) | [原文連結](https://twitter.com/haogege999/status/1954395116514230326/video/1)

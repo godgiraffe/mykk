@@ -1,3 +1,23 @@
+---
+title: "Variational 積分增長黑客匯總：資金費率套利與低OI長持策略"
+date: "2026-01-05"
+tags: 
+  - "資金費率套利"
+  - "低OI交易策略"
+  - "點值優化"
+summary: "以下整理 Variational 平台 10+ 個實測積分增長策略，核心原則為：**低 OI altcoins + 長持倉 + 資金費率套利 + 有機交易**，可實現低成本甚至正收益的積分農耕。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/tiger_web3/status/2008220094615482673"
+  externalUrl: "https://omni.variational.io/?ref=OMNI9X3XZ1K0"
+  authorUsername: "tiger_web3"
+---
+
 # Variational 積分增長黑客匯總：資金費率套利與低OI長持策略
 
 > **來源**: [@tiger_web3](https://x.com/tiger_web3/status/2008220094615482673) | [原文連結](https://omni.variational.io/?ref=OMNI9X3XZ1K0)

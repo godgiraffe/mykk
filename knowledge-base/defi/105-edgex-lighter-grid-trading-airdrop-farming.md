@@ -1,3 +1,23 @@
+---
+title: "EdgeX 與 Lighter 網格對沖策略：零損耗空投刷分指南"
+date: "2025-09-05"
+tags: 
+  - "網格交易"
+  - "空投農耕"
+  - "對沖策略"
+summary: "這是一個利用 EdgeX 和 Lighter 兩個 DEX 平台進行**零損耗空投刷分**的網格對沖策略。核心思路是利用 Lighter 目前沒有開倉手續費的特性，透過主號與多個小號之間的限價單對沖，實現低成本刷取積分。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/web3a99/status/1963776840394551363"
+  externalUrl: "https://pro.edgex.exchange/referral/XIAO"
+  authorUsername: "web3a99"
+---
+
 # EdgeX 與 Lighter 網格對沖策略：零損耗空投刷分指南
 
 > **來源**: [@web3a99](https://x.com/web3a99/status/1963776840394551363) | [原文連結](https://pro.edgex.exchange/referral/XIAO)

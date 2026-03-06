@@ -1,3 +1,23 @@
+---
+title: "長期持有好資產與賣飛後重倉策略"
+date: ">"
+tags: 
+  - "倉位管理"
+  - "心理建設"
+  - "資產認知"
+summary: "最近行情漲勢不錯,如何長期持有好資產?賣飛後如何再重倉?值得再次討論,也期待嘉賓們可以從通過自己的行業經驗來交流討論。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/E2mResearch/status/1858778711119810578"
+  externalUrl: null
+  authorUsername: "E2mResearch"
+---
+
 # 長期持有好資產與賣飛後重倉策略
 
 > **來源**: [@E2mResearch](https://x.com/E2mResearch/status/1858778711119810578)

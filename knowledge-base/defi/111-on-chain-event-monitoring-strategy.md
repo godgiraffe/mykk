@@ -1,3 +1,23 @@
+---
+title: "鏈上事件監聽策略：搶先獲取信息的方法"
+date: "2025-08-22"
+tags: 
+  - "事件監聽"
+  - "信息優勢"
+  - "DeFi 交易"
+summary: "鏈上交易最重要的就是信息獲取快人一步了，監聽鏈上事件的方法絕對比監聽項目方發推快。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/oliver_lx0/status/1958866622837563438"
+  externalUrl: null
+  authorUsername: "oliver_lx0"
+---
+
 # 鏈上事件監聽策略：搶先獲取信息的方法
 
 > **來源**: [@oliver_lx0](https://x.com/oliver_lx0/status/1958866622837563438)

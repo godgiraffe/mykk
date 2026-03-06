@@ -1,3 +1,23 @@
+---
+title: "Claude Code 對話可視化工具 - Show Me The Talk"
+date: "2025-06-29"
+tags: 
+  - "Claude Code"
+  - "開發工具"
+  - "開源"
+summary: "臥槽,剛發現一個 Claude Code 的增強工具!讓 Claude Code 對話完全可視化!"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gasikaramada/status/1939385040481190012"
+  externalUrl: null
+  authorUsername: "gasikaramada"
+---
+
 # Claude Code 對話可視化工具 - Show Me The Talk
 
 > **來源**: [@gasikaramada](https://x.com/gasikaramada/status/1939385040481190012)

@@ -1,3 +1,23 @@
+---
+title: "BROCCOLI714 駭客事件套利復盤：100 萬美元交易記錄"
+date: "2025-12-31"
+tags: 
+  - "現貨合約套利"
+  - "市場異常監測"
+  - "風險管理"
+summary: "項目 數據 ------ ------ 總收益 100 萬美元 初始持倉 20 萬美元（0.016 成本） 套利倉位 50 萬美元（開倉均價 0.015） 執行時間 數分鐘內 套利類型 現貨合約價差 + 資金費率套利"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Vida_BWE/status/2006476958360809930"
+  externalUrl: null
+  authorUsername: "Vida_BWE"
+---
+
 # BROCCOLI714 駭客事件套利復盤：100 萬美元交易記錄
 
 > **來源**: [@Vida_BWE](https://x.com/Vida_BWE/status/2006476958360809930)

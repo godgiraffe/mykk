@@ -1,3 +1,24 @@
+---
+title: "AI Skills推薦：提升開發、設計、寫作與規劃效率"
+date: "2026-02-09"
+tags: 
+  - "AI工具"
+  - "Skills"
+  - "效率提升"
+  - "生產力"
+summary: "Skill 名稱 適用場景 功能簡述 連結 ------------------------- -------------------------------------- --------------------------------------------------------------- ------------------------------------------ baoyu-skills 小紅書圖文、PPT、漫畫生"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/guishou_56/status/2020703609457869241"
+  externalUrl: null
+  authorUsername: "guishou_56"
+---
+
 # AI Skills推薦：提升開發、設計、寫作與規劃效率
 
 > **來源**: [@guishou_56](https://x.com/guishou_56/status/2020703609457869241)

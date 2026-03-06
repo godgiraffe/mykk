@@ -1,3 +1,23 @@
+---
+title: "小刷子打碼服務 - 自建驗證碼解決方案"
+date: ">"
+tags: 
+  - "驗證碼破解"
+  - "開源工具"
+  - "分布式架構"
+summary: "brush-captcha 是基於 Camoufox 指紋偽裝方案的自建打碼平台,包含前端頁面、後端 API 服務和分散式打碼客戶端,支援多實例並行運行。完全按照 Capsolver 介面實現,能完美相容小刷子 Capsolver 打碼。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xbrush_bots/status/1912837119313322058"
+  externalUrl: "https://github.com/Brush-Bot/brush-captcha"
+  authorUsername: "0xbrush_bots"
+---
+
 # 小刷子打碼服務 - 自建驗證碼解決方案
 
 > **來源**: [@0xbrush_bots](https://x.com/0xbrush_bots/status/1912837119313322058) | [原文連結](https://github.com/Brush-Bot/brush-captcha)

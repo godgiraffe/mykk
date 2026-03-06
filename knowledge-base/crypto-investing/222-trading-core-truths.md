@@ -1,3 +1,23 @@
+---
+title: "交易的5個核心真相"
+date: "2026-03-01"
+tags: 
+  - "交易心態"
+  - "仓位管理"
+  - "風險控制"
+summary: "## 交易的五條核心真相 **第一：暴利來自回撤控制，不是勝率** 虧一次大的，前面十次盈利全白費。 **第二：高手不預測行情，只處理行情** 不猜頂底，只執行規則。 **第三：穩定盈利的三要素** 就是簡單系統加極度自律加長期重複執行。越複雜越虧錢，越簡單越長久。 **第五：心態不是練出來的，是倉位管出來的** 倉位適中加止損，心態自然穩。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 45
+evergreenScore: 50
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/xtony1314/status/2028007720822141369"
+  externalUrl: null
+  authorUsername: "xtony1314"
+---
+
 # 交易的5個核心真相
 
 > **來源**: [@xtony1314](https://x.com/xtony1314/status/2028007720822141369)

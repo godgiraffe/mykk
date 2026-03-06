@@ -1,3 +1,28 @@
+---
+title: "BTC 幣本位鏈上搬磚手冊"
+date: "2026-01-20"
+tags: 
+  - "BTC"
+  - "搬磚"
+  - "跨鏈"
+  - "套利"
+  - "WBTC"
+  - "cbBTC"
+  - "TBTC"
+  - "LBTC"
+summary: "利用不同鏈上的 BTC 包裝代幣（Wrapped BTC）之間的價差進行套利。目標是**幣本位增長**：用 1 BTC 搬出 1.00x BTC。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/somBTC/status/2012085918421631374"
+  externalUrl: null
+  authorUsername: "somBTC"
+---
+
 # BTC 幣本位鏈上搬磚手冊
 
 > **來源**: [somBTC (@somBTC)](https://x.com/somBTC/status/2012085918421631374)

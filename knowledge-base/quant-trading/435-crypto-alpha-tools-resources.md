@@ -1,3 +1,23 @@
+---
+title: "加密領域最佳 Alpha 工具與資源指南"
+date: ">"
+tags: 
+  - "交易工具"
+  - "監控系統"
+  - "Alpha 策略"
+summary: "原始推文僅包含引言部分，完整的工具列表和監控方法介紹在後續 Thread 中。建議追蹤原作者 @ChaunceyCrypto 的完整 Thread 以獲取詳細內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 63
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ChaunceyCrypto/status/1726781520592220327"
+  externalUrl: null
+  authorUsername: "ChaunceyCrypto"
+---
+
 # 加密領域最佳 Alpha 工具與資源指南
 
 > **來源**: [@ChaunceyCrypto](https://x.com/ChaunceyCrypto/status/1726781520592220327)

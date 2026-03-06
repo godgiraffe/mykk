@@ -1,3 +1,23 @@
+---
+title: "Falcon Finance 空投策略與無損槓桿耕作心路歷程"
+date: ">"
+tags: 
+  - "DeFi 套利"
+  - "積分耕作"
+  - "槓桿策略"
+summary: "我已經整理好文章內容,等待你的授權後會建立文件 086-falcon-finance-airdrop-strategy.md。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1972953055844028773"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # Falcon Finance 空投策略與無損槓桿耕作心路歷程
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1972953055844028773)

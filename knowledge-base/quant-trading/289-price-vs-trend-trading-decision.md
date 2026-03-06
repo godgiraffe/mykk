@@ -1,3 +1,23 @@
+---
+title: "價格 vs 走勢：交易決策的本質區別"
+date: ">"
+tags: 
+  - "交易心態"
+  - "市場行為"
+  - "資金管理"
+summary: "許多人會因為「價格便宜」而進場，但當走勢轉弱時又選擇出場，這種看似矛盾衝突的行為，背後其實代表著一個深層邏輯問題——我們到底在依靠什麼做決策？價格，還是走勢？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/b66ny/status/1904400039960883296"
+  externalUrl: null
+  authorUsername: "b66ny"
+---
+
 # 價格 vs 走勢：交易決策的本質區別
 
 > **來源**: [@b66ny](https://x.com/b66ny/status/1904400039960883296)

@@ -1,3 +1,23 @@
+---
+title: "林氏初心者投資人 44 條交易法則"
+date: "2024-12-09"
+tags: 
+  - "交易紀律"
+  - "風險管理"
+  - "心態管理"
+summary: "1. 永遠不要買進第四階段下降趨勢的股票 2. 永遠不要買低於 200 日移動平均線的股票 3. 專注於領先者，而不是落後者 4. 圖表不會說謊 5. 關注創出新高的股票；新高就是資金所在 6. 不看底部，不看頂部"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Daniel_Chang411/status/1865935305989308767"
+  externalUrl: null
+  authorUsername: "Daniel_Chang411"
+---
+
 # 林氏初心者投資人 44 條交易法則
 
 > **來源**: [@Daniel_Chang411](https://x.com/Daniel_Chang411/status/1865935305989308767)

@@ -1,3 +1,23 @@
+---
+title: "OKX Boost 二期參與策略與成本收益測算"
+date: "2025-09-13"
+tags: 
+  - "交易競賽"
+  - "流動性挖礦"
+  - "套利策略"
+summary: "OKX Boost 一魚雙吃策略總共刷 1920 美元左右交易額，成本大約 32 美元，預測收益 56 美元，收益率 75%。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/AirdropAlchemis/status/1966698905141412038"
+  externalUrl: "https://x.com/i/article/1966684776490037249"
+  authorUsername: "AirdropAlchemis"
+---
+
 # OKX Boost 二期參與策略與成本收益測算
 
 > **來源**: [@AirdropAlchemis](https://x.com/AirdropAlchemis/status/1966698905141412038) | [原文連結](https://x.com/i/article/1966684776490037249)

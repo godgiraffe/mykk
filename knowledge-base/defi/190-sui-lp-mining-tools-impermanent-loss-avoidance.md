@@ -1,3 +1,23 @@
+---
+title: "SUI LP 挖礦工具：科學避免無常損失策略"
+date: "2025-02-05"
+tags: 
+  - "SUI"
+  - "LP策略"
+  - "無常損失"
+summary: "1. **快速組合與拆解**: 組建 LP（流動性池）後，間隔數秒即刻解除 2. **規避無常損失**: 透過極短的持有時間，大幅降低因價格波動造成的無常損失風險 3. **賺取補貼收益**: 在短暫的 LP 持有期間內仍可獲得平台補貼獎勵"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LNPANDY/status/1887167199250637052"
+  externalUrl: null
+  authorUsername: "LNPANDY"
+---
+
 # SUI LP 挖礦工具：科學避免無常損失策略
 
 > **來源**: [@LNPANDY](https://x.com/LNPANDY/status/1887167199250637052)

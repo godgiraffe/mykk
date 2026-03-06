@@ -1,3 +1,23 @@
+---
+title: "Variational 與 Lighter 資金費率套利策略"
+date: "2025-11-19"
+tags: 
+  - "資金費率套利"
+  - "跨交所對沖"
+  - "前端自動化腳本"
+summary: "一直玩 @variational_io 和 @Lighter_xyz 的兄弟肯定會發現，@variational_io 的資金費率是 8 小時結算一次，@Lighter_xyz 的資金費率是 1 小時結算一次，並且 @variational_io 的資金費率明顯比 @Lighter_xyz 的低。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ddazmon/status/1991056561830343074"
+  externalUrl: null
+  authorUsername: "ddazmon"
+---
+
 # Variational 與 Lighter 資金費率套利策略
 
 > **來源**: [@ddazmon](https://x.com/ddazmon/status/1991056561830343074)

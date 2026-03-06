@@ -1,3 +1,23 @@
+---
+title: "edgeX Post-Only 無損掛單網格交易策略"
+date: ">"
+tags: 
+  - "網格交易"
+  - "無損交易"
+  - "手續費返佣"
+summary: "使用新的 forked Python SDK，並加入 requirements.txt 修復了 Partial Filled 關倉時沒有止盈的 bug 因為使用了官方的 Python SDK，原來導出在 csv 裡的交易記錄暫時不支持了"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1965362391195033995"
+  externalUrl: "https://pro.edgex.exchange/referral/QUANT"
+  authorUsername: "yourQuantGuy"
+---
+
 # edgeX Post-Only 無損掛單網格交易策略
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1965362391195033995) | [原文連結](https://pro.edgex.exchange/referral/QUANT)

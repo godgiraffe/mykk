@@ -1,3 +1,23 @@
+---
+title: "小資金一級市場存活指南（50U起步）"
+date: "2024-10-04"
+tags: 
+  - "小資金策略"
+  - "風險管理"
+  - "滾倉埋伏"
+summary: "因為之前投票讓大家選擇小資金，大部分選的 50U，所以就以 50U 作為例子來起步。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmagnolia/status/1842064940791955602"
+  externalUrl: null
+  authorUsername: "0xmagnolia"
+---
+
 # 小資金一級市場存活指南（50U起步）
 
 > **來源**: [@0xmagnolia](https://x.com/0xmagnolia/status/1842064940791955602)

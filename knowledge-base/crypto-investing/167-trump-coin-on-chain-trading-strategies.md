@@ -1,3 +1,23 @@
+---
+title: "Trump 幣鏈上交易策略與心理素質建設"
+date: "2025-01-19"
+tags: 
+  - "鏈上交易"
+  - "心態管理"
+  - "交易策略"
+summary: "1. **內盤** 2. **外盤一段** 3. **外盤二段** 4. **準上所標的**"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xcryptowizard/status/1880841816502849550"
+  externalUrl: null
+  authorUsername: "0xcryptowizard"
+---
+
 # Trump 幣鏈上交易策略與心理素質建設
 
 > **來源**: [@0xcryptowizard](https://x.com/0xcryptowizard/status/1880841816502849550)

@@ -1,3 +1,23 @@
+---
+title: "交易完成度分析：從錯過到完美執行"
+date: "2024-12-04"
+tags: 
+  - "投資心態"
+  - "交易執行"
+  - "風險管理"
+summary: "階段 完成度 說明 ------ -------- ------ **錯過** -10 完全沒意識到機會的存在 **事後知道** -1 機會過後才發現「早知道就好了」 **事前知道** 1 預見到機會但沒有行動 **計劃** 10 有明確的交易計劃 **完美執行** 70 按計劃完美執行交易 **運氣** 100 時機、價格、幅度都完美的理想狀態"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/taresky/status/1864162825150845235"
+  externalUrl: null
+  authorUsername: "taresky"
+---
+
 # 交易完成度分析：從錯過到完美執行
 
 > **來源**: [@taresky](https://x.com/taresky/status/1864162825150845235)

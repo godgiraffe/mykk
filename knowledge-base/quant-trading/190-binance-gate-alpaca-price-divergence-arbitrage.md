@@ -1,3 +1,23 @@
+---
+title: "Binance vs Gate 下架時差套利：ALPACA 價差發散策略分析"
+date: ">"
+tags: 
+  - "套利"
+  - "價差發散"
+  - "交易所差異"
+summary: "Binance 宣布下架 ALPACA → 所有合約倉位必須按照指數價清算 Gate 沒有宣布 → 市場還在自由交易，情緒驅動價格"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xYuCry/status/1942583883658043598"
+  externalUrl: null
+  authorUsername: "0xYuCry"
+---
+
 # Binance vs Gate 下架時差套利：ALPACA 價差發散策略分析
 
 > **來源**: [@0xYuCry](https://x.com/0xYuCry/status/1942583883658043598)

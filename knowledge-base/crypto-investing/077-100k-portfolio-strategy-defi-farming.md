@@ -1,3 +1,23 @@
+---
+title: "$100k 加密貨幣投資組合策略：專注 DeFi 農場與 ICO"
+date: ">"
+tags: 
+  - "投資策略"
+  - "DeFi 農場"
+  - "ICO 交易"
+summary: "使用多個帳戶全倉參與 @megaeth 的 ICO，並在代幣生成事件（TGE）後 72 小時內賣出。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1981291076443926550"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # $100k 加密貨幣投資組合策略：專注 DeFi 農場與 ICO
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1981291076443926550)

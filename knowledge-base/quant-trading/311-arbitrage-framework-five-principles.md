@@ -1,3 +1,23 @@
+---
+title: "套利框架：五點核心認知"
+date: ">"
+tags: 
+  - "套利策略"
+  - "風險管理"
+  - "邊際效應"
+summary: "前兩天看了 @ZLiao3 分析套利的文章，想以歸納的方式，整理自己關於套利/半固定收益的認知，歡迎討論交流。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/trader_alvin/status/1884834922017481018"
+  externalUrl: null
+  authorUsername: "trader_alvin"
+---
+
 # 套利框架：五點核心認知
 
 > **來源**: [@trader_alvin](https://x.com/trader_alvin/status/1884834922017481018)

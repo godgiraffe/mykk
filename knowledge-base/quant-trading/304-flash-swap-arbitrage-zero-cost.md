@@ -1,3 +1,23 @@
+---
+title: "閃電交換套利零成本策略：9天獲利14個ETH案例分析"
+date: ">"
+tags: 
+  - "閃電交換"
+  - "套利策略"
+  - "零成本交易"
+summary: "地址 0xf276108fd52a959d761af3ddc5f3a8d34ce2e37e 在 9 天內透過閃電交換（Flash Swap）套利獲利 14 個 ETH，特點是幾乎所有交易都是零成本操作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BofkUR/status/1891776051539312799"
+  externalUrl: "https://twitter.com/BofkUR/status/1891776051539312799/photo/1"
+  authorUsername: "BofkUR"
+---
+
 # 閃電交換套利零成本策略：9天獲利14個ETH案例分析
 
 > **來源**: [@BofkUR](https://x.com/BofkUR/status/1891776051539312799) | [原文連結](https://twitter.com/BofkUR/status/1891776051539312799/photo/1)

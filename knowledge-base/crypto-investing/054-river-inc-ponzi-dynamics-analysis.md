@@ -1,3 +1,23 @@
+---
+title: "River Inc 龐氏動態分析：項目方控盤套路與風險識別"
+date: "2025-11-09"
+tags: 
+  - "項目方控盤"
+  - "龐氏陷阱"
+  - "套保挖礦"
+summary: "River pts 套利機制這裡不詳細介紹了，可以自己去搜其他博主的文章。簡單來說就是一個大概 10 天回本、日化 3% 的砍頭礦。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dotyyds1234/status/1987523525679395021"
+  externalUrl: null
+  authorUsername: "dotyyds1234"
+---
+
 # River Inc 龐氏動態分析：項目方控盤套路與風險識別
 
 > **來源**: [@dotyyds1234](https://x.com/dotyyds1234/status/1987523525679395021)

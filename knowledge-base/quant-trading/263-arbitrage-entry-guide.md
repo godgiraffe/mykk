@@ -1,3 +1,23 @@
+---
+title: "套利入門經歷分享：從二級交易虧損到代碼套利的轉變"
+date: "2025-04-18"
+tags: 
+  - "套利"
+  - "量化交易"
+  - "交易心態"
+summary: "首先介紹兩個大佬，給過我很多幫助： @longteac @chainbird_eth"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/lofy22479013/status/1913109507133301105"
+  externalUrl: null
+  authorUsername: "lofy22479013"
+---
+
 # 套利入門經歷分享：從二級交易虧損到代碼套利的轉變
 
 > **來源**: [@lofy22479013](https://x.com/lofy22479013/status/1913109507133301105)

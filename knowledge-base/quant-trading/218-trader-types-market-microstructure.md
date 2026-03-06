@@ -1,3 +1,23 @@
+---
+title: "交易者類型與市場微觀結構"
+date: "2025-06-02"
+tags: 
+  - "交易者分類"
+  - "流動性提供"
+  - "市場機制"
+summary: "《交易與交易所》一書中的圖 8.1 非常具有啟發性。該圖展示了市場內所有交易者的類型，並在每一個類型交易者的專題章節中詳細介紹了："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 50
+priorityScore: 56
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1929387161377505670"
+  externalUrl: "https://twitter.com/wong_ssh/status/1929387161377505670/photo/1"
+  authorUsername: "wong_ssh"
+---
+
 # 交易者類型與市場微觀結構
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1929387161377505670) | [原文連結](https://twitter.com/wong_ssh/status/1929387161377505670/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "Amms-rs：EVM 區塊鏈上的 Rust AMM 工具包"
+date: "2025-11-17"
+tags: 
+  - "Rust工具"
+  - "DeFi開發"
+  - "AMM協議"
+summary: "Amms-rs 是一個用於在 EVM 相容區塊鏈上與自動化做市商（AMMs）互動的 Rust 工具包。它的前身是 cfmms-rs，也是一個非常知名、非常強大的函式庫！"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1990431073201959238"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # Amms-rs：EVM 區塊鏈上的 Rust AMM 工具包
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1990431073201959238)

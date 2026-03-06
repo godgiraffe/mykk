@@ -1,3 +1,23 @@
+---
+title: "Claude Code v1.0.33 逆向工程分析 - 多智能體架構與安全機制解密"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "系統架構"
+  - "安全機制"
+summary: "Anthropic 的 Claude Code v1.0.33 版本代碼遭安全研究人員逆向工程分析。shareAI-lab 團隊成功解析超過五萬行混淆源碼,完整揭露其技術架構與實現機制,並在 GitHub 上開源分析資料。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/glow1n/status/1945795531802071160"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "glow1n"
+---
+
 # Claude Code v1.0.33 逆向工程分析 - 多智能體架構與安全機制解密
 
 > **來源**: [@glow1n](https://x.com/glow1n/status/1945795531802071160) | [原文連結](https://code.claude.com/docs)

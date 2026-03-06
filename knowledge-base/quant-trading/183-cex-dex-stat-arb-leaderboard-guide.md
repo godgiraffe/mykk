@@ -1,3 +1,23 @@
+---
+title: "CEX-DEX 統計套利登頂指南：從零到一的機器人構建之旅"
+date: "2025-07-12"
+tags: 
+  - "統計套利"
+  - "高頻交易"
+  - "市場微觀結構"
+summary: "我已經將這篇 CEX-DEX 統計套利的技術長文整理完成，編號為 184-cex-dex-stat-arb-bot-implementation-guide.md。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKaKa03/status/1944104168802988150"
+  externalUrl: "https://www.ddmckinnon.com/2024/01/25/on-climbing-the-stat-arb-cex-dex-leaderboard-comparative-advantage-and-careers-and-my-future-in-crypto/"
+  authorUsername: "0xKaKa03"
+---
+
 # CEX-DEX 統計套利登頂指南：從零到一的機器人構建之旅
 
 > **來源**: [@0xKaKa03](https://x.com/0xKaKa03/status/1944104168802988150) | [原文連結](https://www.ddmckinnon.com/2024/01/25/on-climbing-the-stat-arb-cex-dex-leaderboard-comparative-advantage-and-careers-and-my-future-in-crypto/)

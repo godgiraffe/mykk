@@ -1,3 +1,23 @@
+---
+title: "Perp DEX 被動收益農耕策略對比（Ethereal、GRVT、VAR、Paradex、背包）"
+date: "2025-12-24"
+tags: 
+  - "永續合約"
+  - "被動收益"
+  - "積分農耕"
+summary: "平台 本金門檻 年化收益 積分獎勵 操作難度 特色 ------ --------- --------- --------- --------- ------ **Ethereal** 無限制 27.2% 有 低 最高現金年化 + USDe 基礎利息 **GRVT** 10萬U/帳戶 10% 有 低 本金限制但穩定，週分紅 **VAR** 20萬U (雙帳戶) 50%+ 有 中 退款機制高收益，需每日操作 **Paradex** 無限制"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/liudao888/status/2003797863525150737"
+  externalUrl: "https://app.ethereal.trade/?ref=CAU5MNVNYCUW"
+  authorUsername: "liudao888"
+---
+
 # Perp DEX 被動收益農耕策略對比（Ethereal、GRVT、VAR、Paradex、背包）
 
 > **來源**: [@liudao888](https://x.com/liudao888/status/2003797863525150737) | [原文連結](https://app.ethereal.trade/?ref=CAU5MNVNYCUW)

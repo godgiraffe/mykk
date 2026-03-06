@@ -1,3 +1,23 @@
+---
+title: "低成本批量挖小礦：Windows 11 極致優化與機器配置指南"
+date: "2024-08-31"
+tags: 
+  - "礦渣機器"
+  - "系統優化"
+  - "DePIN挖礦"
+summary: "本文介紹如何低成本批量起機器挖小型 DePIN 礦，主要針對使用礦渣機器（上一代挖礦機器）進行批量部署的方案。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/scuptone/status/1829789033540763898"
+  externalUrl: "https://github.com/ntdevlabs/tiny11builder?tab=readme-ov-file"
+  authorUsername: "scuptone"
+---
+
 # 低成本批量挖小礦：Windows 11 極致優化與機器配置指南
 
 > **來源**: [@scuptone](https://x.com/scuptone/status/1829789033540763898) | [原文連結](https://github.com/ntdevlabs/tiny11builder?tab=readme-ov-file)

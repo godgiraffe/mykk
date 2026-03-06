@@ -1,3 +1,23 @@
+---
+title: "無許可市場 vs 治理許可市場：DeFi 借貸協議的架構差異"
+date: ">"
+tags: 
+  - "DeFi協議"
+  - "風險管理"
+  - "市場結構"
+summary: "很多朋友不懂 @MorphoLabs、@eulerfinance 等協議和 @aave 的區別,在 xUSD 脫錨中遭受損失,以下做個科普："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/liu_web3/status/1986285507698135344"
+  externalUrl: null
+  authorUsername: "liu_web3"
+---
+
 # 無許可市場 vs 治理許可市場：DeFi 借貸協議的架構差異
 
 > **來源**: [@liu_web3](https://x.com/liu_web3/status/1986285507698135344)

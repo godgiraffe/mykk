@@ -1,3 +1,23 @@
+---
+title: "鏈上高手薯條哥：透明看穿莊家動作"
+date: "2025-04-12"
+tags: 
+  - "鏈上分析"
+  - "莊家動作"
+  - "案例教學"
+summary: "推薦關注隱藏的鏈上高手薯條哥 @0xCryptoFries，莊家的鏈上動作在他面前就是透明的，還經常出案例教學手把手教你。唯一的小問題是頭像有點幼稚。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 52
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/QuantVela/status/1910893981116121313"
+  externalUrl: "https://twitter.com/QuantVela/status/1910893981116121313/photo/1"
+  authorUsername: "QuantVela"
+---
+
 # 鏈上高手薯條哥：透明看穿莊家動作
 
 > **來源**: [@QuantVela](https://x.com/QuantVela/status/1910893981116121313) | [原文連結](https://twitter.com/QuantVela/status/1910893981116121313/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "智能體編碼：AI 時代軟體工程的新計算方式"
+date: "2025-10-29"
+tags: 
+  - "AI 輔助編程"
+  - "軟體工程實踐"
+  - "CI/CD 流程"
+summary: "Joe Magerramov（Amazon 工程師）與他的資深工程師團隊，過去三個月借助 Coding Agent，代碼產出效率達到普通高效團隊的 10 倍。但他並非來宣揚「人類程式設計師將被取代」，反而是用親身經歷說明：**當速度提升 10 倍時，風險和瓶頸也可能放大 10 倍**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dotey/status/1983385425860333599"
+  externalUrl: "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html"
+  authorUsername: "dotey"
+---
+
 # 智能體編碼：AI 時代軟體工程的新計算方式
 
 > **來源**: [@dotey](https://x.com/dotey/status/1983385425860333599) | [原文連結](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)

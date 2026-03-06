@@ -1,3 +1,23 @@
+---
+title: "財富密碼：加密交易與投資秘訣"
+date: ">"
+tags: 
+  - "投資策略"
+  - "交易技巧"
+  - "密碼學"
+summary: "1. **直接貼上推文內容**（包含文字和圖片） 2. **提供推文截圖** 3. **授權我使用 agent-browser 工具**自動抓取推文內容"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 63
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xcryptowizard/status/1863873046928658934"
+  externalUrl: "https://twitter.com/0xcryptowizard/status/1863873046928658934/photo/1"
+  authorUsername: "0xcryptowizard"
+---
+
 # 財富密碼：加密交易與投資秘訣
 
 > **來源**: [@0xcryptowizard](https://x.com/0xcryptowizard/status/1863873046928658934) | [原文連結](https://twitter.com/0xcryptowizard/status/1863873046928658934/photo/1)

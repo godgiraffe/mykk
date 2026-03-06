@@ -1,3 +1,23 @@
+---
+title: "Pump 幣賺到就該跑？項目方 5 億預售到手的宿命論"
+date: "2025-07-12"
+tags: 
+  - "Pump 幣"
+  - "套保策略"
+  - "項目方心態"
+summary: "1. **監控 pump 什麼時候開轉移** 2. **監控交易所的上幣公告，尤其是 upbit** 3. **打到的可以慢慢套保了**，慢慢歸零是 pump 的宿命。現在能拉盤只是因為大戶手裡都沒拿到貨 + 虛空套保殺了一堆套利黨"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1944109859680792814"
+  externalUrl: null
+  authorUsername: "richrichardoz"
+---
+
 # Pump 幣賺到就該跑？項目方 5 億預售到手的宿命論
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1944109859680792814)

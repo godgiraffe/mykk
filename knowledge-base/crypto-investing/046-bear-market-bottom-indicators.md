@@ -1,3 +1,23 @@
+---
+title: "深熊抄底四大神器：PSIP、RUP、RP 與 Cointime Price"
+date: "2025-11-19"
+tags: 
+  - "抄底策略"
+  - "技術指標"
+  - "風險管理"
+summary: "但即便如此，依然有很多朋友對於「深熊」感到恐懼，並且對於深熊的底部目標區域感到好奇。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/market_beggar/status/1990959747517067753"
+  externalUrl: "https://x.com/market_beggar/status/1868924708852580858"
+  authorUsername: "market_beggar"
+---
+
 # 深熊抄底四大神器：PSIP、RUP、RP 與 Cointime Price
 
 > **來源**: [@market_beggar](https://x.com/market_beggar/status/1990959747517067753) | [原文連結](https://x.com/market_beggar/status/1868924708852580858)

@@ -1,3 +1,25 @@
+---
+title: "為什麼你應該拿掉槓桿：用期權取代合約"
+date: "2026-02-04"
+tags: 
+  - "槓桿"
+  - "期權"
+  - "風險管理"
+  - "比特幣"
+  - "交易策略"
+summary: "策略 最大回撤 結果 ------ ---------- ------ 0x（現貨） 正常波動 穩健成長 3x 槓桿（小綠） ~90% 僥倖存活 5x 槓桿（小黃） -98.9% 幾乎歸零 10x 槓桿（小紅） -100% 第一年爆倉 期權替代方案 有限虧損 無爆倉風險，可達 ~26x 槓桿效果"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Yanakz3/status/2019063143599882252"
+  externalUrl: "https://x.com/i/article/2018681743264391168"
+  authorUsername: "Yanakz3"
+---
+
 # 為什麼你應該拿掉槓桿：用期權取代合約
 
 > **來源**: [@Yanakz3 (BitCow)](https://x.com/Yanakz3/status/2019063143599882252) | [原文連結](https://x.com/i/article/2018681743264391168)

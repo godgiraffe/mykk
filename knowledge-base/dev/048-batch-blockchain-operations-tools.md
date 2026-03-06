@@ -1,3 +1,23 @@
+---
+title: "批量區塊鏈操作工具集"
+date: "2025-06-20"
+tags: 
+  - "批量操作"
+  - "地址生成"
+  - "智能合約"
+summary: "序號 工具 連結 ------ ------ ------ 1 批量生成地址 https://t.co/Kwz5iPpHW4 2 批量轉帳 https://t.co/a5RZA7lPUM 3 批量授權 https://t.co/FdX81UfjKA 4 批量交互 https://t.co/hamI8YMjKZ 5 批量歸集 https://t.co/14IKxwXf09"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/chainbird_eth/status/1935940247516581983"
+  externalUrl: "https://www.greenbird.pro/toolbox/gen-address"
+  authorUsername: "chainbird_eth"
+---
+
 # 批量區塊鏈操作工具集
 
 > **來源**: [@chainbird_eth](https://x.com/chainbird_eth/status/1935940247516581983) | [原文連結](https://www.greenbird.pro/toolbox/gen-address)

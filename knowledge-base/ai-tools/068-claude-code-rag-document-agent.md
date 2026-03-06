@@ -1,3 +1,23 @@
+---
+title: "使用 Claude Code 搭建 RAG 文件智能體"
+date: "2025-10-06"
+tags: 
+  - "Claude Code"
+  - "RAG"
+  - "Agent SDK"
+summary: "受到寶哥帖子的啟發，花 10 分鐘實驗了 chat2website 當作 RAG 使用的流程。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LinearUncle/status/1975104961311646181"
+  externalUrl: null
+  authorUsername: "LinearUncle"
+---
+
 # 使用 Claude Code 搭建 RAG 文件智能體
 
 > **來源**: [@LinearUncle](https://x.com/LinearUncle/status/1975104961311646181)

@@ -1,3 +1,24 @@
+---
+title: "Strata 產品策略指南：srUSDe vs jrUSDe 風險分層解析"
+date: ">"
+tags: 
+  - "收益策略"
+  - "風險分層"
+  - "Strata"
+  - "sUSDe"
+summary: "### srUSDe（Senior USDe - 高級風險分層） 超額抵押、可產生收益的美元資產，由 USDe 支撐 提供保底的最低收益（Sky Saving Rate，目前 4.75%） 受保護但無上限的潛在報酬 年化收益區間：Sky Ecosystem 年化 ～ sUSDe 年化之間，波動較穩定 積分：60x Strata + 40x Ethena + 穩定利息"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1977998123722236235"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # Strata 產品策略指南：srUSDe vs jrUSDe 風險分層解析
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1977998123722236235)

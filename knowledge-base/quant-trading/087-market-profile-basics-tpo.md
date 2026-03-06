@@ -1,3 +1,23 @@
+---
+title: "市場結構系列第一篇：市場時價分析基礎"
+date: "2025-10-27"
+tags: 
+  - "市場結構"
+  - "時價機會"
+  - "交易邊緣"
+summary: "市場時價分析（Market Profile）是最能提供交易優勢的工具之一。本文提供基礎知識，幫助你學會如何閱讀市場時價圖表，為日後更複雜的應用打下基礎。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/crypto_mazino/status/1982674588950798572"
+  externalUrl: "https://x.com/i/article/1982664776498225152"
+  authorUsername: "crypto_mazino"
+---
+
 # 市場結構系列第一篇：市場時價分析基礎
 
 > **來源**: [@crypto_mazino](https://x.com/crypto_mazino/status/1982674588950798572) | [原文連結](https://x.com/i/article/1982664776498225152)

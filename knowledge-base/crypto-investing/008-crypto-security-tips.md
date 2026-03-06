@@ -1,3 +1,25 @@
+---
+title: "加密貨幣安全與風險防範經驗分享"
+date: "2026-02-13"
+tags: 
+  - "安全"
+  - "風險管理"
+  - "投資"
+  - "經驗分享"
+  - "防騙"
+summary: "主題 風險 防範措施 --------------- ------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/2022289019137376649"
+  externalUrl: null
+  authorUsername: "zhamomo666"
+---
+
 # 加密貨幣安全與風險防範經驗分享
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/2022289019137376649)

@@ -1,3 +1,23 @@
+---
+title: "Pump 盤割韭菜識別策略"
+date: "2024-10-04"
+tags: 
+  - "盤口分析"
+  - "風險管理"
+  - "項目篩選"
+summary: "Pump 平台上有一種盤面，看一眼就能判斷不需要參與。關鍵特徵是：**前排持有者的餘額幾乎都一樣**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 63
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/angel_0x13/status/1842211567846531252"
+  externalUrl: "https://twitter.com/angel_0x13/status/1842211567846531252/photo/1"
+  authorUsername: "angel_0x13"
+---
+
 # Pump 盤割韭菜識別策略
 
 > **來源**: [@angel_0x13](https://x.com/angel_0x13/status/1842211567846531252) | [原文連結](https://twitter.com/angel_0x13/status/1842211567846531252/photo/1)

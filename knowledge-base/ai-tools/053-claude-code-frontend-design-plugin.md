@@ -1,3 +1,23 @@
+---
+title: "Claude Code 前端設計外掛：用 AI 快速建立高品質介面"
+date: "2025-11-26"
+tags: 
+  - "Claude Code"
+  - "設計工具"
+  - "AI開發"
+summary: "4. **啟用 Plan Mode** - 按 shift+tab 直到看到 plan mode"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/EricBuess/status/1993803743733928214"
+  externalUrl: null
+  authorUsername: "EricBuess"
+---
+
 # Claude Code 前端設計外掛：用 AI 快速建立高品質介面
 
 > **來源**: [@EricBuess](https://x.com/EricBuess/status/1993803743733928214)

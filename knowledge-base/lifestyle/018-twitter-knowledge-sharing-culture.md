@@ -1,3 +1,23 @@
+---
+title: "推特知識分享文化 — 珍惜大佬們的分享欲"
+date: "2025-11-23"
+tags: 
+  - "社群學習"
+  - "知識分享"
+  - "投資心態"
+summary: "整理了 @lnkybtc 散人大佬的 Twitter 分享內容，要珍惜大佬們的分享欲。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/jeff_run_faster/status/1992588073323135047"
+  externalUrl: "https://vzs0d2h6xz.feishu.cn/wiki/CbpLwhRm9i2ceFkozxJc9Xg9nZd?from=from_copylink"
+  authorUsername: "jeff_run_faster"
+---
+
 # 推特知識分享文化 — 珍惜大佬們的分享欲
 
 > **來源**: [@jeff_run_faster](https://x.com/jeff_run_faster/status/1992588073323135047) | [原文連結](https://vzs0d2h6xz.feishu.cn/wiki/CbpLwhRm9i2ceFkozxJc9Xg9nZd?from=from_copylink)

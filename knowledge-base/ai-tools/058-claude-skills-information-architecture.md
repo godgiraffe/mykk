@@ -1,3 +1,23 @@
+---
+title: "Claude Skills 的信息分層設計與按需加載機制"
+date: "2025-11-14"
+tags: 
+  - "Claude Skills"
+  - "Agent 能力擴展"
+  - "信息架構"
+summary: "Claude Skills 是一種「通過文件系統擴展 Agent 能力」的機制。它實現了三個關鍵設計："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/feltanimalworld/status/1989338470456631674"
+  externalUrl: "https://agentskills.io/home"
+  authorUsername: "feltanimalworld"
+---
+
 # Claude Skills 的信息分層設計與按需加載機制
 
 > **來源**: [@feltanimalworld](https://x.com/feltanimalworld/status/1989338470456631674) | [原文連結](https://agentskills.io/home)

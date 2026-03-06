@@ -1,3 +1,23 @@
+---
+title: "Uniswap 區間流動性提供的金融工程分析"
+date: "2024-12-08"
+tags: 
+  - "LP策略"
+  - "區間流動性"
+  - "金融工程"
+summary: "對於區間流動性提供的 LP，之前讀過一系列十分精彩的文章。這些文章是在 Uniswap 基金會支持下由 @CK_2049 編寫的。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1865629032722882676"
+  externalUrl: "https://medium.com/@med456789d"
+  authorUsername: "wong_ssh"
+---
+
 # Uniswap 區間流動性提供的金融工程分析
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1865629032722882676) | [原文連結](https://medium.com/@med456789d)

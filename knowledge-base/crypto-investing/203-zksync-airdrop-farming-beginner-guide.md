@@ -1,3 +1,23 @@
+---
+title: "zkSync 空投撸毛新手從零到精通教程"
+date: "2023-04-26"
+tags: 
+  - "空投撸毛"
+  - "zkSync"
+  - "新手指南"
+summary: "Kevin的撸毛日記是一檔專門為新手量身打造的節目，從新手的視角切入到撸毛的整個操作過程。今年撸毛的新人很多，大家都是從 Arbitrum 的天量空投吸引而來，覺得零撸還能賺幾千U，但是又不知道現在該撸什麼。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xKevin00/status/1651182588273516544"
+  externalUrl: "https://paragraph.com/@0xkevin-2/SFRi1Z4xNjSukoq12fNF"
+  authorUsername: "0xKevin00"
+---
+
 # zkSync 空投撸毛新手從零到精通教程
 
 > **來源**: [@0xKevin00](https://x.com/0xKevin00/status/1651182588273516544) | [原文連結](https://paragraph.com/@0xkevin-2/SFRi1Z4xNjSukoq12fNF)

@@ -1,3 +1,23 @@
+---
+title: "MeshChain AI 批量註冊掛機工具框架更新"
+date: "2024-11-30"
+tags: 
+  - "自動化指令碼"
+  - "批量操作"
+  - "開源工具"
+summary: "MeshChain AI 推出獨家空投計畫，旨在增強社區能力並擴大去中心化計算能力的訪問。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Micahcsnson54/status/1862837267309670702"
+  externalUrl: "https://gitee.com/a203400698/meshchain-ai1"
+  authorUsername: "Micahcsnson54"
+---
+
 # MeshChain AI 批量註冊掛機工具框架更新
 
 > **來源**: [@Micahcsnson54](https://x.com/Micahcsnson54/status/1862837267309670702) | [原文連結](https://gitee.com/a203400698/meshchain-ai1)

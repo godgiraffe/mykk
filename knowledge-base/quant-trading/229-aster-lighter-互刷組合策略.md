@@ -1,3 +1,23 @@
+---
+title: "Aster + Lighter 互刷組合策略：穩定累積空投積分"
+date: "2025-05-18"
+tags: 
+  - "互刷策略"
+  - "空投farming"
+  - "風險管理"
+summary: "最近開始玩 Aster + Lighter 的互刷組合，這套操作目前感覺蠻舒服的，有點像牛市裡的定存機槍塔，穩穩嚕分數。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ivan01681108/status/1924149035075866907"
+  externalUrl: "https://www.asterdex.com/zh-TW/trade/pro/futures/BTCUSDT?ref=579C58"
+  authorUsername: "ivan01681108"
+---
+
 # Aster + Lighter 互刷組合策略：穩定累積空投積分
 
 > **來源**: [@ivan01681108](https://x.com/ivan01681108/status/1924149035075866907) | [原文連結](https://www.asterdex.com/zh-TW/trade/pro/futures/BTCUSDT?ref=579C58)

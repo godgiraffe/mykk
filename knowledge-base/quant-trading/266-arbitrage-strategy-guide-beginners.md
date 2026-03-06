@@ -1,3 +1,23 @@
+---
+title: "套利與搬磚策略完全指南：從入門到實戰"
+date: "2025-04-16"
+tags: 
+  - "套利"
+  - "搬磚"
+  - "交易策略"
+summary: "繼續寫一點,幫助新手梳理下思路和理解。前兩篇我們講了一點點策略和 $OM 的實操,所以在這裡我就分享一下關於搬磚和套利我的思路和大家一起頭腦風暴一下,一步步拆解。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xPoseidon_sol/status/1912425306260140133"
+  externalUrl: null
+  authorUsername: "0xPoseidon_sol"
+---
+
 # 套利與搬磚策略完全指南：從入門到實戰
 
 > **來源**: [@0xPoseidon_sol](https://x.com/0xPoseidon_sol/status/1912425306260140133)

@@ -1,3 +1,24 @@
+---
+title: "Claude 計畫模式優化技巧"
+date: "2026-01-14"
+tags: 
+  - "Claude"
+  - "提示工程"
+  - "效率提升"
+  - "Plan Mode"
+summary: "本文章整理自 @bozhou_ai (泊舟) 分享的 Claude 計畫模式優化規則，該規則源自 Matt Pocock 的觀點，旨在提升 Claude 在計畫模式下的效率，使其產出更簡潔實用的計畫，並加速問題解決。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bozhou_ai/status/2011421879391715645"
+  externalUrl: null
+  authorUsername: "bozhou_ai"
+---
+
 # Claude 計畫模式優化技巧
 
 > **來源**: [@bozhou_ai](https://x.com/bozhou_ai/status/2011421879391715645)

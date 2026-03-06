@@ -1,3 +1,23 @@
+---
+title: "Opinion 預測市場開放交易 - 無註冊限制"
+date: ">"
+tags: 
+  - "預測市場"
+  - "Opinion"
+  - "交易工具"
+summary: "**Opinion 交易終端**: https://t.co/9Hkomoc7rX **opinion-node-sdk**: https://t.co/Czh1rYZbxY **Opinion 實時撮合日誌**: https://t.co/ejRe8zRLZJ"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 66
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xdizz/status/1985688754628038918"
+  externalUrl: "https://x.com/0xdizz/status/1982914905687896404"
+  authorUsername: "0xdizz"
+---
+
 # Opinion 預測市場開放交易 - 無註冊限制
 
 > **來源**: [@0xdizz](https://x.com/0xdizz/status/1985688754628038918) | [原文連結](https://x.com/0xdizz/status/1982914905687896404)

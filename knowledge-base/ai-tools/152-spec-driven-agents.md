@@ -1,3 +1,23 @@
+---
+title: "規格驅動開發在 AI 時代的新方向：讓代理自動維護計劃"
+date: "2026-02-23"
+tags: 
+  - "AI編程代理"
+  - "規格驅動開發"
+  - "開發實踐"
+summary: "讓書面文件與不斷變化的系統保持同步是一項持續性成本，而工程師習慣的是爆發式工作。寫完文件、交付功能、繼續前進。更新文件這部分是看不見的工作，它與其他所有事情競爭，而且幾乎每次都會輸。我們嘗試過流程、嘗試過工具、嘗試過把它變成團隊價值觀。這些都不管用，因為我們一直在要求人類去做一件人類可靠地不會做的事情。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/augmentcode/status/2025993446633492725"
+  externalUrl: "https://x.com/i/article/2025992983758393344"
+  authorUsername: "augmentcode"
+---
+
 # 規格驅動開發在 AI 時代的新方向：讓代理自動維護計劃
 
 > **來源**: [@augmentcode](https://x.com/augmentcode/status/2025993446633492725) | [原文連結](https://x.com/i/article/2025992983758393344)

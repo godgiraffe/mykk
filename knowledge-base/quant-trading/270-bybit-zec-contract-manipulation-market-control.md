@@ -1,3 +1,23 @@
+---
+title: "Bybit ZEC 合約參數操控事件——交易所誠信危機分析"
+date: "2025-04-14"
+tags: 
+  - "交易所風險"
+  - "合約參數操控"
+  - "市場操縱"
+summary: "作為一個長期在 Bybit 上交易的 V5 忠實客戶，我個人長期在 Bybit 帳戶裡有 200-300 萬 U 的資金做交易，加上團隊小夥伴的資金總量超過 800 萬 U。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/sunlc_crypto/status/1911724055461519679"
+  externalUrl: null
+  authorUsername: "sunlc_crypto"
+---
+
 # Bybit ZEC 合約參數操控事件——交易所誠信危機分析
 
 > **來源**: [@sunlc_crypto](https://x.com/sunlc_crypto/status/1911724055461519679)

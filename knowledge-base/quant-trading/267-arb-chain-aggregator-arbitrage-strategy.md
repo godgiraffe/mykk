@@ -1,3 +1,23 @@
+---
+title: "ARB 鏈聚合器對沖套利策略分析"
+date: ">"
+tags: 
+  - "套利"
+  - "鏈上交易所"
+  - "風險對沖"
+summary: "**觀摩地址**: 0x1ebb95218e9492767f778bf3912bb1bc62771cb1"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zhamomo666/status/1911969430072111487"
+  externalUrl: "https://twitter.com/zhamomo666/status/1911969430072111487/photo/1"
+  authorUsername: "zhamomo666"
+---
+
 # ARB 鏈聚合器對沖套利策略分析
 
 > **來源**: [@zhamomo666](https://x.com/zhamomo666/status/1911969430072111487) | [原文連結](https://twitter.com/zhamomo666/status/1911969430072111487/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "山寨幣軋空策略：用 AI Prompt 編寫監控機器人"
+date: "2025-04-19"
+tags: 
+  - "軋空信號"
+  - "永續合約"
+  - "資金費率"
+summary: "好的，讓我直接整理這篇文章。根據內容分析，這是一篇關於山寨幣軋空策略的技術文章，應該歸類到 quant-trading 分類。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xScottBTC/status/1913545821691482469"
+  externalUrl: "https://developers.binance.com/docs/derivatives"
+  authorUsername: "0xScottBTC"
+---
+
 # 山寨幣軋空策略：用 AI Prompt 編寫監控機器人
 
 > **來源**: [@0xScottBTC](https://x.com/0xScottBTC/status/1913545821691482469) | [原文連結](https://developers.binance.com/docs/derivatives)

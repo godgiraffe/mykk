@@ -1,3 +1,23 @@
+---
+title: "Solana 迷因幣交易工具指南 — 聰明錢信號、持倉分析、風險評估"
+date: "2025-01-26"
+tags: 
+  - "交易工具"
+  - "迷因幣"
+  - "風險管理"
+summary: "SOL 經驗分享貼第四彈。年前趁著休息更新一下，前三彈經驗貼在亮點中，需要的自己查看即可。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xNoNo_1/status/1883389697847972064"
+  externalUrl: "https://debot.ai/?inviteCode=17"
+  authorUsername: "0xNoNo_1"
+---
+
 # Solana 迷因幣交易工具指南 — 聰明錢信號、持倉分析、風險評估
 
 > **來源**: [@0xNoNo_1](https://x.com/0xNoNo_1/status/1883389697847972064) | [原文連結](https://debot.ai/?inviteCode=17)

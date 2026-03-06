@@ -1,3 +1,23 @@
+---
+title: "edgeX 跨所價差套利：60 天賺 20 萬美元的程序化交易實戰"
+date: ">"
+tags: 
+  - "跨所套利"
+  - "程序化交易"
+  - "風險管理"
+summary: "作者的啟蒙源於十年前在紐約地鐵上讀到的一篇 Medium 文章，標題類似「How I Made a Million Trading Crypto with a Bot」。雖然那篇文章內容空泛，僅有模糊的背景介紹和一張向右上延伸的 PnL 圖表，幾乎沒有乾貨，但仍給了作者啟發：既然在金融行業工作又會寫代碼，為什麼不嘗試程序化交易？"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1988178533936468077"
+  externalUrl: "https://x.com/i/article/1987850782318702592"
+  authorUsername: "yourQuantGuy"
+---
+
 # edgeX 跨所價差套利：60 天賺 20 萬美元的程序化交易實戰
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1988178533936468077) | [原文連結](https://x.com/i/article/1987850782318702592)

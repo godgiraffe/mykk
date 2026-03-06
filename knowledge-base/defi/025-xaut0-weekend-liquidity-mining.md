@@ -1,3 +1,23 @@
+---
+title: "黃金週末流動性挖礦教程：70% 以上 APR 的低風險套利"
+date: "2026-01-03"
+tags: 
+  - "流動性挖礦"
+  - "現貨套利"
+  - "Byreal"
+summary: "★ Insight ───────────────────────────────────── 這是一個利用市場時間差的套利策略： 黃金週末休市導致價格波動極小 集中流動性池允許設置極窄價格區間 平台激勵疊加低風險特性創造套利機會 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BitHappy/status/2007358259590807568"
+  externalUrl: "https://x.com/i/article/2007344182252449793"
+  authorUsername: "BitHappy"
+---
+
 # 黃金週末流動性挖礦教程：70% 以上 APR 的低風險套利
 
 > **來源**: [@BitHappy](https://x.com/BitHappy/status/2007358259590807568) | [原文連結](https://x.com/i/article/2007344182252449793)

@@ -1,3 +1,23 @@
+---
+title: "空投代幣價格走勢分析：供應量分配的影響"
+date: "2024-10-28"
+tags: 
+  - "空投代幣"
+  - "價格表現"
+  - "供應量分配"
+summary: "空投幣在 15、30 和 90 天內的價格走勢表現，受到代幣總供應量分配比例的顯著影響。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/scuptone/status/1851003054717546567"
+  externalUrl: null
+  authorUsername: "scuptone"
+---
+
 # 空投代幣價格走勢分析：供應量分配的影響
 
 > **來源**: [@scuptone](https://x.com/scuptone/status/1851003054717546567)

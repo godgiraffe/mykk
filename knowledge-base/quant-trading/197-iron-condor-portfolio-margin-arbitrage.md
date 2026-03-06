@@ -1,3 +1,23 @@
+---
+title: "完美套利案例：META 鐵蝶期權策略與投資組合保證金"
+date: ">"
+tags: 
+  - "鐵蝶策略"
+  - "投資組合保證金"
+  - "期權套利"
+summary: "套利的思維就像一種病毒，一旦入腦，看到什麼都忍不住想想有沒有無風險或低風險的機會。以下分享去年在美股上做過最完美的一筆套利。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1937554377868210500"
+  externalUrl: null
+  authorUsername: "yourQuantGuy"
+---
+
 # 完美套利案例：META 鐵蝶期權策略與投資組合保證金
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1937554377868210500)

@@ -1,3 +1,23 @@
+---
+title: "黃金期貨套利對沖：利用費率差異的週末套費率交易"
+date: "2026-02-28"
+tags: 
+  - "商品套利"
+  - "費率套利"
+  - "對沖策略"
+summary: "關於 XAU 和 XAG 的費率機制，簡單來說就是： **週末漲了就是正費率** **週末跌了就是負費率**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/devilcatbtc/status/2027671182754124245"
+  externalUrl: null
+  authorUsername: "devilcatbtc"
+---
+
 # 黃金期貨套利對沖：利用費率差異的週末套費率交易
 
 > **來源**: [@devilcatbtc](https://x.com/devilcatbtc/status/2027671182754124245)

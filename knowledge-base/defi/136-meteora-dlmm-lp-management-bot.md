@@ -1,3 +1,23 @@
+---
+title: "Meteora DLMM 串聯池流動性自動化管理系統"
+date: "2025-07-25"
+tags: 
+  - "DLMM流動性管理"
+  - "自動化策略"
+  - "Solana"
+summary: "★ Insight ───────────────────────────────────── 這是 Meteora DLMM 串聯池流動性自動化管理系統的開源專案 核心是實現 BidAsk 模型：價格上方流動性升序、下方降序，自動調整不符合的頭寸 技術亮點：微服務架構 + 依賴注入 + REST API，26 個自定義參數，超過 10 萬行代碼 ─────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1948733203566789056"
+  externalUrl: "https://github.com/cryptocj520/meteora"
+  authorUsername: "gch_enbsbxbs"
+---
+
 # Meteora DLMM 串聯池流動性自動化管理系統
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1948733203566789056) | [原文連結](https://github.com/cryptocj520/meteora)

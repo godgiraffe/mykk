@@ -1,3 +1,23 @@
+---
+title: "一級交易經驗大全：新手必知的陷阱與教訓"
+date: "2024-09-21"
+tags: 
+  - "新手入門"
+  - "經驗主義"
+  - "交易心態"
+summary: "開篇持續連載超長的「一級經驗大全」。之前把一級的工具和新手入門講清楚了，但一級有太多經驗主義的細節是小白只有交了學費才會知道的，希望這篇帖可以讓小白少走彎路，至少在交了學費之後能回過頭來看我這篇帖子，理解清楚為什麼交了學費。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 64
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1837365817010442351"
+  externalUrl: null
+  authorUsername: "Michael_Liu93"
+---
+
 # 一級交易經驗大全：新手必知的陷阱與教訓
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1837365817010442351)

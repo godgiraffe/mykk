@@ -1,3 +1,23 @@
+---
+title: "Quantopian 量化交易系列教程合集"
+date: "2025-07-23"
+tags: 
+  - "量化交易"
+  - "教育資源"
+  - "入門教程"
+summary: "1. **量化金融播客**：隨時隨地學量化 2. **Quantopian 量化分析 56 講**：最專業的入門教程 3. **Quantopian 量化分析實戰**：由淺入深實踐，完成後不愁 offer"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1947828384438095892"
+  externalUrl: "https://twitter.com/wquguru/status/1947828384438095892/photo/1"
+  authorUsername: "wquguru"
+---
+
 # Quantopian 量化交易系列教程合集
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1947828384438095892) | [原文連結](https://twitter.com/wquguru/status/1947828384438095892/photo/1)

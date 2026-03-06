@@ -1,3 +1,23 @@
+---
+title: "MegaETH 27號公售關鍵資訊與常見問答"
+date: "2025-10-25"
+tags: 
+  - "代幣公售"
+  - "英式拍賣"
+  - "項目參與"
+summary: "**一句話總結**：註冊並完成 KYC → 出價（≥$2,650）→ 可選 1 年鎖倉享折扣或不鎖 → 等待拍賣結束與清算分配退回資金"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/tyw1984/status/1981951612890558477"
+  externalUrl: "https://x.com/naersxd/status/1981602048496795778"
+  authorUsername: "tyw1984"
+---
+
 # MegaETH 27號公售關鍵資訊與常見問答
 
 > **來源**: [@tyw1984](https://x.com/tyw1984/status/1981951612890558477) | [原文連結](https://x.com/naersxd/status/1981602048496795778)

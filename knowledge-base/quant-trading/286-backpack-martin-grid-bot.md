@@ -1,3 +1,23 @@
+---
+title: "Backpack 全自動現貨馬丁策略交易機器人"
+date: "2025-03-26"
+tags: 
+  - "馬丁策略"
+  - "自動交易"
+  - "現貨交易"
+summary: "從 git status 可以看到最新的量化交易文章是 285，所以下一篇應該是 286。讓我整理這篇文章："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1904821594951999952"
+  externalUrl: "https://github.com/cryptocj520/backpack2"
+  authorUsername: "gch_enbsbxbs"
+---
+
 # Backpack 全自動現貨馬丁策略交易機器人
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1904821594951999952) | [原文連結](https://github.com/cryptocj520/backpack2)

@@ -1,3 +1,23 @@
+---
+title: "一二級加密貨幣交易工具全盤點"
+date: "2024-09-13"
+tags: 
+  - "交易工具"
+  - "鏈上分析"
+  - "memecoin狙擊"
+summary: "★ Insight ───────────────────────────────────── 這是一份完整的加密貨幣交易工具清單，涵蓋一級市場（鏈上交易）和二級市場（CEX 交易） 工具分類清楚，從監控、分析、交易執行到風險管理都有涵蓋 特別值得注意的是「聰明錢追蹤」和「老鼠倉檢測」工具，這些是鏈上交易的核心優勢 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1834568338690933048"
+  externalUrl: "https://www.tradingview.com/"
+  authorUsername: "Michael_Liu93"
+---
+
 # 一二級加密貨幣交易工具全盤點
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1834568338690933048) | [原文連結](https://www.tradingview.com/)

@@ -1,3 +1,23 @@
+---
+title: "Solana Memecoin 全鏈交易 — GMGN 掃鏈入門指南"
+date: "2024-10-25"
+tags: 
+  - "Solana Memecoin"
+  - "GMGN 工具"
+  - "掃鏈交易"
+summary: "這是一篇關於使用 GMGN 工具進行 Solana Memecoin 全鏈交易的入門教學。原作者分享了來自 @xixikawaii 的詳細教學連結，並評價其教學非常詳細，幾乎是手把手教學等級。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xgangWhat/status/1849661469409017877"
+  externalUrl: null
+  authorUsername: "0xgangWhat"
+---
+
 # Solana Memecoin 全鏈交易 — GMGN 掃鏈入門指南
 
 > **來源**: [@0xgangWhat](https://x.com/0xgangWhat/status/1849661469409017877)

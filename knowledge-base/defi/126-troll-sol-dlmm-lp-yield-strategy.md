@@ -1,3 +1,23 @@
+---
+title: "$TROLL-$SOL DLMM 流動性池位策略與收益分析"
+date: "2025-08-06"
+tags: 
+  - "DLMM流動性池"
+  - "收益farming"
+  - "Meteora"
+summary: "在 $TROLL-$SOL 100/2% DLMM 流動性池中，選擇配置 40 個 bins，而非完整的 69 bins。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 51
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/IClaimThings/status/1953229696134431137"
+  externalUrl: "https://twitter.com/IClaimThings/status/1953229696134431137/photo/1"
+  authorUsername: "IClaimThings"
+---
+
 # $TROLL-$SOL DLMM 流動性池位策略與收益分析
 
 > **來源**: [@IClaimThings](https://x.com/IClaimThings/status/1953229696134431137) | [原文連結](https://twitter.com/IClaimThings/status/1953229696134431137/photo/1)

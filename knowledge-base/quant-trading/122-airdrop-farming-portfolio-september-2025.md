@@ -1,3 +1,23 @@
+---
+title: "9月空投農場與持倉組合紀錄"
+date: "2025-09-17"
+tags: 
+  - "空投農場"
+  - "收益策略"
+  - "持倉管理"
+summary: "### 1. BuidlPad 生態代幣 項目：@buidlpad 代幣：$FF、$bard 操作：搞了 10 多個號"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LOONAweb3/status/1968426670869856764"
+  externalUrl: null
+  authorUsername: "LOONAweb3"
+---
+
 # 9月空投農場與持倉組合紀錄
 
 > **來源**: [@LOONAweb3](https://x.com/LOONAweb3/status/1968426670869856764)

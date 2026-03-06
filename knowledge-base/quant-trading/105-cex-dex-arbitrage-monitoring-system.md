@@ -1,3 +1,23 @@
+---
+title: "合格套利選手的監控系統：跨所跨鏈差價套利指南"
+date: "2025-10-11"
+tags: 
+  - "跨所套利"
+  - "差價監控"
+  - "實時告警"
+summary: "針對 FDV 大於 5000 萬的幣種，對比各個 CEX 的價格，當差價高於 5% 時發出告警通知。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1976974900754829610"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # 合格套利選手的監控系統：跨所跨鏈差價套利指南
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1976974900754829610)

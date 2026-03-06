@@ -1,3 +1,23 @@
+---
+title: "React 複雜狀態管理：useReducer 勝過 useState"
+date: "2023-12-18"
+tags: 
+  - "React"
+  - "狀態管理"
+  - "最佳實踐"
+summary: "在 React 中處理複雜狀態管理時，應避免使用 useState()，改用 useReducer()。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/_georgemoller/status/1736720417081929934"
+  externalUrl: "https://twitter.com/_georgemoller/status/1736720417081929934/video/1"
+  authorUsername: "_georgemoller"
+---
+
 # React 複雜狀態管理：useReducer 勝過 useState
 
 > **來源**: [@_georgemoller](https://x.com/_georgemoller/status/1736720417081929934) | [原文連結](https://twitter.com/_georgemoller/status/1736720417081929934/video/1)

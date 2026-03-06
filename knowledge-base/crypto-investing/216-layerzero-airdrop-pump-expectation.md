@@ -1,3 +1,23 @@
+---
+title: "LayerZero 上市謠言與空投套路分析"
+date: "2023-04-12"
+tags: 
+  - "空投農耕"
+  - "市場周期"
+  - "風險管理"
+summary: "今天又有不少說 LayerZero (@LayerZero_Labs) 要上市的消息。有意思的是除了紐交所的恭喜圖片外，還有不少群友的 P 圖（為什麼要 P 呢？）你細品，當然是為了更少的人卷！"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 42
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xweiqigaoshou/status/1646078660045340672"
+  externalUrl: "https://twitter.com/Said46807236/status/1646078660045340672/photo/1"
+  authorUsername: "0xweiqigaoshou"
+---
+
 # LayerZero 上市謠言與空投套路分析
 
 > **來源**: [@0xweiqigaoshou](https://x.com/0xweiqigaoshou/status/1646078660045340672) | [原文連結](https://twitter.com/Said46807236/status/1646078660045340672/photo/1)

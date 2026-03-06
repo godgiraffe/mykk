@@ -1,3 +1,23 @@
+---
+title: "散戶套利風險完全指南：DEX-CEX 搬磚到期現套利的陷阱"
+date: "2025-06-21"
+tags: 
+  - "套利風險"
+  - "期現套利"
+  - "資金管理"
+summary: "★ Insight ───────────────────────────────────── 本次任務重點： 1. 簡體中文→繁體中文翻譯，保留原作者語氣和完整細節 2. 將推文串的條列式內容轉換為清晰的 markdown 結構 3. 專有名詞（DEX、CEX、LP、資金費率等）保留原文或英文縮寫 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Hollow2077/status/1936363602862289130"
+  externalUrl: null
+  authorUsername: "Hollow2077"
+---
+
 # 散戶套利風險完全指南：DEX-CEX 搬磚到期現套利的陷阱
 
 > **來源**: [@Hollow2077](https://x.com/Hollow2077/status/1936363602862289130)

@@ -1,3 +1,24 @@
+---
+title: "Claude Code 高級技巧"
+date: ">"
+tags: 
+  - "Claude"
+  - "AI"
+  - "編程"
+  - "技巧"
+summary: "本筆記整理自 @op7418 (歸藏(guizang.ai)) 分享的 Claude Code 高級技巧。目的是方便快速查閱，並提供實用的參考資訊。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/op7418/status/2019405093498679689"
+  externalUrl: null
+  authorUsername: "op7418"
+---
+
 # Claude Code 高級技巧
 
 > **來源**: [@op7418](https://x.com/op7418/status/2019405093498679689)

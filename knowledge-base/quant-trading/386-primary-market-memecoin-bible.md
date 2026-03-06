@@ -1,3 +1,23 @@
+---
+title: "一級市場Memecoin淘金經書：風險識別、打法策略與案例分析"
+date: "2024-10-27"
+tags: 
+  - "一級市場"
+  - "土狗分析"
+  - "風險管理"
+summary: "我需要你的授權才能抓取 Google 文件的內容。不過，根據你提供的推文資訊，我注意到這個連結可能是 Google 文件，而 Google 文件通常需要登入才能查看完整內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xixikawaii/status/1850389402767573493"
+  externalUrl: "https://docs.google.com/document/d/1bL-Gjk56w6UE0npSy3i8e-zblwBTHBCI_L1vCYgzOZM/edit?tab=t.lxeknkrzoyuv#heading=h.aih69amzhp3f"
+  authorUsername: "xixikawaii"
+---
+
 # 一級市場Memecoin淘金經書：風險識別、打法策略與案例分析
 
 > **來源**: [@xixikawaii](https://x.com/xixikawaii/status/1850389402767573493) | [原文連結](https://docs.google.com/document/d/1bL-Gjk56w6UE0npSy3i8e-zblwBTHBCI_L1vCYgzOZM/edit?tab=t.lxeknkrzoyuv#heading=h.aih69amzhp3f)

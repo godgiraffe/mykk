@@ -1,3 +1,23 @@
+---
+title: "FlyingTulip：AC 打造的下一代 DeFi 平台與創新"
+date: "2025-03-12"
+tags: 
+  - "DeFi 創新"
+  - "AMM 機制"
+  - "借貸協議"
+summary: "1. **推文摘要** - 列出 6 個值得關注的新專案 2. **FlyingTulip 產品概述** - AC 打造的一站式 DeFi 平台 3. **兩個創新技術**： - 自適應曲線 AMM（動態調整流動性分佈） - 基於 AMM 的 LTV 模型（動態調整借貸比例） 4. **下一代 DeFi 的願景** - 降低門檻、提升安全性、合規整合 5. **兩個核心挑戰** - 預言機穩定性、生態飛輪效應"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xWendy99/status/1899740250718789739"
+  externalUrl: "https://www.theblockbeats.info/news/57238"
+  authorUsername: "0xWendy99"
+---
+
 # FlyingTulip：AC 打造的下一代 DeFi 平台與創新
 
 > **來源**: [@0xWendy99](https://x.com/0xWendy99/status/1899740250718789739) | [原文連結](https://www.theblockbeats.info/news/57238)

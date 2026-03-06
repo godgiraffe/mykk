@@ -1,3 +1,23 @@
+---
+title: "做市商如何賺錢：散戶成為做市商的指南"
+date: ">"
+tags: 
+  - "做市商"
+  - "市場微觀結構"
+  - "交易策略"
+summary: "作為散戶，做市商就是操控市場和賺大錢的代言詞。雖然經常刷到罵做市商的，但很少能看到教你怎麼做市的教程。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xError__/status/1938244362523054374"
+  externalUrl: null
+  authorUsername: "0xError__"
+---
+
 # 做市商如何賺錢：散戶成為做市商的指南
 
 > **來源**: [@0xError__](https://x.com/0xError__/status/1938244362523054374)

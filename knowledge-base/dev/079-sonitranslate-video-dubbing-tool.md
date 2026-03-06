@@ -1,3 +1,23 @@
+---
+title: "SoniTranslate：開源影片翻譯與配音工具"
+date: "2024-10-26"
+tags: 
+  - "影片翻譯"
+  - "自動配音"
+  - "開源工具"
+summary: "SoniTranslate 是一款強大的開源影片翻譯工具，能將影片和音訊翻譯成數十種語言，並提供 TTS（文字轉語音）功能。使用者只需上傳檔案、選擇目標語言和 TTS 音色，即可獲得翻譯後的新影片。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ilovek8s/status/1850154848593105262"
+  externalUrl: "https://github.com/R3gm/SoniTranslate"
+  authorUsername: "ilovek8s"
+---
+
 # SoniTranslate：開源影片翻譯與配音工具
 
 > **來源**: [@ilovek8s](https://x.com/ilovek8s/status/1850154848593105262) | [原文連結](https://github.com/R3gm/SoniTranslate)

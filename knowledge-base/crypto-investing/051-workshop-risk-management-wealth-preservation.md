@@ -1,3 +1,23 @@
+---
+title: "工作室內部分享：加密套利中的財富保護與風險管理"
+date: "2025-11-12"
+tags: 
+  - "風險管理"
+  - "財富心態"
+  - "套利策略"
+summary: "我搭檔他哥，差不多半年賺了 7-8 萬 U，對於大哥們不是很多，但是對於他是一筆巨款了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/1988484778488897863"
+  externalUrl: null
+  authorUsername: "dan326714"
+---
+
 # 工作室內部分享：加密套利中的財富保護與風險管理
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/1988484778488897863)

@@ -1,3 +1,25 @@
+---
+title: "Superpowers：Claude 代理的技能框架與軟體開發方法論"
+date: "2026-01-09"
+tags: 
+  - "Claude"
+  - "AI工具"
+  - "軟體開發工作流"
+  - "技能框架"
+  - "開發方法論"
+summary: "★ Insight ───────────────────────────────────── • agent-browser 是個瀏覽器自動化技能，但此任務只需抓取靜態內容 • 推文提供的連結已包含完整 GitHub README，無需額外抓取 • 直接整理原始內容更高效，符合 YAGNI 原則 ─────────────────────────────────────────────────"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 71
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/vista8/status/2009673263442735252"
+  externalUrl: "https://github.com/obra/superpowers"
+  authorUsername: "vista8"
+---
+
 # Superpowers：Claude 代理的技能框架與軟體開發方法論
 
 > **來源**: [@vista8](https://x.com/vista8/status/2009673263442735252) | [原文連結](https://github.com/obra/superpowers)

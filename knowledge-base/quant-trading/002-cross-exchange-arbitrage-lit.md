@@ -1,3 +1,25 @@
+---
+title: "$LIT 跨所套利交易復盤"
+date: "2026-02-06"
+tags: 
+  - "套利"
+  - "跨所套利"
+  - "期現套利"
+  - "TGE"
+  - "LP"
+summary: "35 億盤前市值相對協議收入遠超預期 → 決定部分套保 **風險**：精神壓力巨大，幣價稍漲 3-5% 就坐立不安 **教訓**：完全喪失掌控力的焦慮感不值得，下次不再做"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Metabape/status/2019688735324139723"
+  externalUrl: null
+  authorUsername: "Metabape"
+---
+
 # $LIT 跨所套利交易復盤
 
 > **來源**: [Meta 猿 (@Metabape)](https://x.com/Metabape/status/2019688735324139723)

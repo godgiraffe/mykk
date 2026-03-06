@@ -1,3 +1,24 @@
+---
+title: "Sonic 和 Berachain 生態優質研究者推薦"
+date: ">"
+tags: 
+  - "生態導航"
+  - "項目研究"
+  - "社群"
+  - "alpha發掘"
+summary: "昨天說 $Sonic 和 $Bera 要起飛，還挺多人互動的。那今天分享一下這兩個鏈我關注的寶藏帳號吧。（做這個也是為了拋磚引玉，如果有你認為很好但是我沒關注到的帳號也歡迎分享）"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/nbblock/status/1905133003652964464"
+  externalUrl: null
+  authorUsername: "nbblock"
+---
+
 # Sonic 和 Berachain 生態優質研究者推薦
 
 > **來源**: [@nbblock](https://x.com/nbblock/status/1905133003652964464)

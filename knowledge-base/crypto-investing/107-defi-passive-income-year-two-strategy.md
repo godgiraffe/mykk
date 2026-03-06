@@ -1,3 +1,23 @@
+---
+title: "DeFi 被動收入第二年：策略調整與套現計畫"
+date: "2025-08-31"
+tags: 
+  - "被動收入"
+  - "投資策略"
+  - "風險管理"
+summary: "項目 收益（美元） ------ ------------- Concentrator $219.86 Votium $681.67 LSD $2,222.36 SAAS $3,618 L2 鏈上 LP 挖礦 $0 **總計** **$6,741**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/darkforesttri/status/1962052683130601700"
+  externalUrl: null
+  authorUsername: "darkforesttri"
+---
+
 # DeFi 被動收入第二年：策略調整與套現計畫
 
 > **來源**: [@darkforesttri](https://x.com/darkforesttri/status/1962052683130601700)

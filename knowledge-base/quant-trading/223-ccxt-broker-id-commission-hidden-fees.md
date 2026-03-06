@@ -1,3 +1,23 @@
+---
+title: "CCXT 隱藏 Broker ID 返傭問題 — 開源工具的隱性成本"
+date: "2025-05-28"
+tags: 
+  - "量化交易"
+  - "API 返傭"
+  - "開源漏洞"
+summary: "當我們透過交易所 API 進行程式交易時，可以夾帶不同的參數，包括幣種、價格、訂單種類等。其中有一個欄位就可以填入 **broker id**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/traderwanwan/status/1927711506424078452"
+  externalUrl: null
+  authorUsername: "traderwanwan"
+---
+
 # CCXT 隱藏 Broker ID 返傭問題 — 開源工具的隱性成本
 
 > **來源**: [@traderwanwan](https://x.com/traderwanwan/status/1927711506424078452)

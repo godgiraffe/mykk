@@ -1,3 +1,23 @@
+---
+title: "Artemis - Rust MEV 機器人框架與 Trait 動態分法實踐"
+date: ">"
+tags: 
+  - "Rust"
+  - "MEV"
+  - "框架設計"
+summary: "在閱讀 MEV 框架 Artemis 時，修復了一些過時的套件依賴，同時學習到 Rust 程式設計的關鍵知識點。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1938291521713017013"
+  externalUrl: "https://github.com/paradigmxyz/artemis"
+  authorUsername: "0xLogicLog"
+---
+
 # Artemis - Rust MEV 機器人框架與 Trait 動態分法實踐
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1938291521713017013) | [原文連結](https://github.com/paradigmxyz/artemis)

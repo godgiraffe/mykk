@@ -1,3 +1,23 @@
+---
+title: "配對交易與統計套利：相關性 vs 協整性"
+date: ">"
+tags: 
+  - "配對交易"
+  - "協整性"
+  - "統計套利"
+summary: "配對交易（Pairs Trading）和統計套利（Stat Arb）中，大多數人會嘗試相關性分析，但往往誤解了其真正意義。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/2023779412395938028"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 配對交易與統計套利：相關性 vs 協整性
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/2023779412395938028)

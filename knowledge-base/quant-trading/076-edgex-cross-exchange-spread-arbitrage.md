@@ -1,3 +1,23 @@
+---
+title: "在 edgeX 透過跨所價差套利賺取 $200k 的方法（下篇）"
+date: "2025-11-15"
+tags: 
+  - "跨所套利"
+  - "價差交易"
+  - "程序化交易"
+summary: "我目前在 x-bookmark-sync 子目錄，無法直接訪問 knowledge-base 目錄。讓我先幫你整理好文章內容，然後告訴你如何儲存到正確的位置。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1989511712186278020"
+  externalUrl: "https://x.com/i/article/1989080425822875648"
+  authorUsername: "yourQuantGuy"
+---
+
 # 在 edgeX 透過跨所價差套利賺取 $200k 的方法（下篇）
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1989511712186278020) | [原文連結](https://x.com/i/article/1989080425822875648)

@@ -1,3 +1,23 @@
+---
+title: "Dune 快速抓取地址小工具使用教程"
+date: "2025-01-04"
+tags: 
+  - "鏈上數據"
+  - "Dune分析"
+  - "工具教程"
+summary: "如圖所示，設置篩選條件： 開始時間：2024-12-31 06:00 結束時間：2025-01-25 00:00"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cryptoxfeng/status/1875489053279449427"
+  externalUrl: "https://dune.com/test_as121/playground"
+  authorUsername: "cryptoxfeng"
+---
+
 # Dune 快速抓取地址小工具使用教程
 
 > **來源**: [@cryptoxfeng](https://x.com/cryptoxfeng/status/1875489053279449427) | [原文連結](https://dune.com/test_as121/playground)

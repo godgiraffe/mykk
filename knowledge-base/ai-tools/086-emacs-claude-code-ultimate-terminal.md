@@ -1,3 +1,23 @@
+---
+title: "Emacs、Claude Code 與終極終端：認知操作系統的未來"
+date: "2025-08-03"
+tags: 
+  - "Claude Code"
+  - "Emacs 哲學"
+  - "認知增強"
+summary: "這篇文章探討了 Emacs 的設計哲學與現代 AI 工具（如 Claude Code）的結合可能性,展望未來「認知操作系統」的願景。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/blackanger/status/1952073655930011974"
+  externalUrl: null
+  authorUsername: "blackanger"
+---
+
 # Emacs、Claude Code 與終極終端：認知操作系統的未來
 
 > **來源**: [@blackanger](https://x.com/blackanger/status/1952073655930011974)

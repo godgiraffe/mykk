@@ -1,3 +1,23 @@
+---
+title: "加密貨幣出金策略：建立穩定的提現路徑"
+date: "2025-04-04"
+tags: 
+  - "出金提現"
+  - "法幣轉換"
+  - "風險管理"
+summary: "**穩定時長**：已穩定使用一年 **單次金額**：3-5 萬 RMB **總體損耗**：約 1% **到帳時間**：大約 10 小時（主要時間耗在海妖出到 iFast 的環節） **優點**：安全、不用求人、足夠日常生活使用"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zeroibtc/status/1908069397497000073"
+  externalUrl: null
+  authorUsername: "zeroibtc"
+---
+
 # 加密貨幣出金策略：建立穩定的提現路徑
 
 > **來源**: [@zeroibtc](https://x.com/zeroibtc/status/1908069397497000073)

@@ -1,3 +1,23 @@
+---
+title: "Phalcon：鏈上套利機器人的調試與模擬工具"
+date: ">"
+tags: 
+  - "套利機器人"
+  - "交易模擬"
+  - "鏈上開發"
+summary: "Phalcon 是 BlockSec 推出的免費鏈上套利 Bot 開發與調試工具，相較於常用的 Tenderly，Phalcon 提供了更靈活的交易模擬與調試功能，特別適合學習與開發鏈上 Bot 使用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1999147873825591388"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # Phalcon：鏈上套利機器人的調試與模擬工具
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1999147873825591388)

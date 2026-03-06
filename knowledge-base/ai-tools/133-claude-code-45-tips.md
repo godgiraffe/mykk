@@ -1,3 +1,23 @@
+---
+title: "45 個 Claude Code 小技巧：從入門到精通"
+date: "2026-02-28"
+tags: 
+  - "Claude Code"
+  - "開發技巧"
+  - "工作流程"
+summary: "不如看看這種：45 個 Claude Code 小技巧：從入門到精通，雖然標題也很唬人，但是真有東西。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dingyi/status/2027715159373058296"
+  externalUrl: "https://github.com/ykdojo/claude-code-tips"
+  authorUsername: "dingyi"
+---
+
 # 45 個 Claude Code 小技巧：從入門到精通
 
 > **來源**: [@dingyi](https://x.com/dingyi/status/2027715159373058296) | [原文連結](https://github.com/ykdojo/claude-code-tips)

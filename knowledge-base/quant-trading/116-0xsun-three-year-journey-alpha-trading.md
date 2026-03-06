@@ -1,3 +1,23 @@
+---
+title: "0xSun 三年幣圈交易心法與高光操作復盤"
+date: "2025-09-28"
+tags: 
+  - "交易心法"
+  - "風險管理"
+  - "Meme幣策略"
+summary: "這段時間重新翻看了自己的推文,把其中我覺得比較精華的內容和一些高光操作整理了出來,雖然市場狀況一直在變化,具體的方法未必適用了,但是如何尋找 alpha、怎麼將認知與實踐相結合,這些思維依然是有共性的,希望能對大家有所幫助。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xSunNFT/status/1972110389120045299"
+  externalUrl: "https://x.com/0xSunNFT/status/1517468623207424003"
+  authorUsername: "0xSunNFT"
+---
+
 # 0xSun 三年幣圈交易心法與高光操作復盤
 
 > **來源**: [@0xSunNFT](https://x.com/0xSunNFT/status/1972110389120045299) | [原文連結](https://x.com/0xSunNFT/status/1517468623207424003)

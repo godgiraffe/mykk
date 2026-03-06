@@ -1,3 +1,23 @@
+---
+title: "DEX 套利學習筆記 ④ 交換路徑與路徑管理"
+date: "2025-07-27"
+tags: 
+  - "套利算法"
+  - "DEX交易"
+  - "圖論應用"
+summary: "在玩 DEX-DEX 套利的時候,計算和管理 Swap 的路徑極為複雜。我們在同步獲取到 Uniswap 各個交易對 Pool 之後,如何將池子之間路徑連接起來形成路徑,也是一門需要不斷學習探索的步驟。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1949292154767237250"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # DEX 套利學習筆記 ④ 交換路徑與路徑管理
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1949292154767237250)

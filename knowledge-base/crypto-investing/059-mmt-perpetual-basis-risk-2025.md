@@ -1,3 +1,23 @@
+---
+title: "MMT 合約大幅正溢價現象分析與風控提醒"
+date: ">"
+tags: 
+  - "合約基差"
+  - "機構風控"
+  - "市場異常"
+summary: "這次應該是 10.11 機構死絕了，活下來的風控也應該拉滿了。這種新幣，對於籌碼不明確的，不會隨便套價差。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dotyyds1234/status/1985837446798672127"
+  externalUrl: null
+  authorUsername: "dotyyds1234"
+---
+
 # MMT 合約大幅正溢價現象分析與風控提醒
 
 > **來源**: [@dotyyds1234](https://x.com/dotyyds1234/status/1985837446798672127)

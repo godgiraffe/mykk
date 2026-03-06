@@ -1,3 +1,23 @@
+---
+title: "SUI 低估分析：鎖倉量與市值對比研究"
+date: "2024-01-12"
+tags: 
+  - "項目估值"
+  - "技術分析"
+  - "生態對比"
+summary: "但是 11 月初的時候,其實有一個團隊成員有推薦我買,可惜我沒聽勸。今天在回看他當時發我的買入理由,覺得其中的邏輯還是值得參考的,也分享給大家。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jianshubiji/status/1745721249484186096"
+  externalUrl: null
+  authorUsername: "jianshubiji"
+---
+
 # SUI 低估分析：鎖倉量與市值對比研究
 
 > **來源**: [@jianshubiji](https://x.com/jianshubiji/status/1745721249484186096)

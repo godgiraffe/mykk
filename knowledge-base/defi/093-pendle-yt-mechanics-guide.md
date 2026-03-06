@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 概念圖解與迷思破解"
+date: "2025-09-20"
+tags: 
+  - "Pendle"
+  - "YT 策略"
+  - "積分優化"
+summary: "在購買 YT 時，實際上是**按照 Implied APY 租借底層資產**，持續到到期日為止，保留所有持有期間的權益。到期日時租借費用付完，資產還回，YT 價值歸零。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xlemoneth/status/1969334453500854408"
+  externalUrl: null
+  authorUsername: "0xlemoneth"
+---
+
 # Pendle YT 概念圖解與迷思破解
 
 > **來源**: [@0xlemoneth](https://x.com/0xlemoneth/status/1969334453500854408)

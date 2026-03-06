@@ -1,3 +1,23 @@
+---
+title: "付費 AI 工具棧：Claude、Cursor 等必備工具評測"
+date: "2024-11-23"
+tags: 
+  - "AI工具"
+  - "生產力"
+  - "開發工具"
+summary: "### 4. Napkin 生成圖表，搭配 Gamma 做展示。目前還是免費，作者建議趕快訂閱。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/leeoxiang/status/1860239191080395039"
+  externalUrl: null
+  authorUsername: "leeoxiang"
+---
+
 # 付費 AI 工具棧：Claude、Cursor 等必備工具評測
 
 > **來源**: [@leeoxiang](https://x.com/leeoxiang/status/1860239191080395039)

@@ -1,3 +1,28 @@
+---
+title: "USDC 無損兌換 USDG 搬磚套利"
+date: ">"
+tags: 
+  - "USDC"
+  - "USDG"
+  - "Kraken"
+  - "OKX"
+  - "搬磚"
+  - "套利"
+  - "加密貨幣"
+  - "美股"
+summary: "交易所 操作 手續費 備註 ------- ---------------------- ------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/2011860176694051274"
+  externalUrl: null
+  authorUsername: "richrichardoz"
+---
+
 # USDC 無損兌換 USDG 搬磚套利
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/2011860176694051274)

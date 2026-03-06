@@ -1,3 +1,23 @@
+---
+title: "MEV 套利學習資源整理 — EigenPhi、Circular、Jito、Flashbots"
+date: "2025-11-22"
+tags: 
+  - "MEV"
+  - "套利"
+  - "學習資源"
+summary: "### 1. EigenPhi (@EigenPhi) 實時監控以太坊主網上的各種套利、MEV、清算交易。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/richengfeng03/status/1992064115091939814"
+  externalUrl: "https://twitter.com/richengfeng03/status/1992064115091939814/photo/1"
+  authorUsername: "richengfeng03"
+---
+
 # MEV 套利學習資源整理 — EigenPhi、Circular、Jito、Flashbots
 
 > **來源**: [@richengfeng03](https://x.com/richengfeng03/status/1992064115091939814) | [原文連結](https://twitter.com/richengfeng03/status/1992064115091939814/photo/1)

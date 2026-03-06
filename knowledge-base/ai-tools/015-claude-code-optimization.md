@@ -1,3 +1,24 @@
+---
+title: "Claude Code 協助優化技能"
+date: "2026-01-09"
+tags: 
+  - "Claude Code"
+  - "AI Agents"
+  - "技能優化"
+  - "自動化"
+summary: "本文探討 Claude Code 在技能優化方面的潛力。作者 @LotusDecoder 認為 Claude Code 的強大能力使其能夠加速技能的迭代和優化。文章重點在於："
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LotusDecoder/status/2009536648154108023"
+  externalUrl: null
+  authorUsername: "LotusDecoder"
+---
+
 # Claude Code 協助優化技能
 
 > **來源**: [@LotusDecoder](https://x.com/LotusDecoder/status/2009536648154108023)

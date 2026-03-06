@@ -1,3 +1,23 @@
+---
+title: "空投獵人管理表格模板：五份工作簿完整指南"
+date: ">"
+tags: 
+  - "空投管理"
+  - "表格工具"
+  - "進度追蹤"
+summary: "1. **三件套管理範本** 2. **錢包管理 + 餘額範本** 3. **生態表資料庫範本** 4. **單個生態任務進度表範本** 5. **總任務進度表一欄範本**"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Ray80230/status/1638217129605615616"
+  externalUrl: "https://twitter.com/Ray80230/status/1638217129605615616/photo/1"
+  authorUsername: "Ray80230"
+---
+
 # 空投獵人管理表格模板：五份工作簿完整指南
 
 > **來源**: [@Ray80230](https://x.com/Ray80230/status/1638217129605615616) | [原文連結](https://twitter.com/Ray80230/status/1638217129605615616/photo/1)

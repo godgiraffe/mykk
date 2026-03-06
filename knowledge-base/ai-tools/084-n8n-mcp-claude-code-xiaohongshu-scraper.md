@@ -1,3 +1,23 @@
+---
+title: "N8N MCP + Claude Code：小紅書筆記數據自動採集與 AI 仿寫 Agent"
+date: "2025-08-08"
+tags: 
+  - "Claude Code"
+  - "N8N 工作流"
+  - "AI Agent"
+summary: "本週發布的課程《N8N MCP + Claude Code：開發一個小紅書筆記數據自動採集 + AI 仿寫 Agent》已上線到知識庫。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yihui_indie/status/1953762048334344551"
+  externalUrl: "https://flowus.cn/yihui/share/0043e8ec-c23f-4762-be6e-b4642750c5a4?code=F22VHQ"
+  authorUsername: "yihui_indie"
+---
+
 # N8N MCP + Claude Code：小紅書筆記數據自動採集與 AI 仿寫 Agent
 
 > **來源**: [@yihui_indie](https://x.com/yihui_indie/status/1953762048334344551) | [原文連結](https://flowus.cn/yihui/share/0043e8ec-c23f-4762-be6e-b4642750c5a4?code=F22VHQ)

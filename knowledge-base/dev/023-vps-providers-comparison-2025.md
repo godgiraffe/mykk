@@ -1,3 +1,23 @@
+---
+title: "VPS 服務商推薦與價格比較指南"
+date: ">"
+tags: 
+  - "VPS"
+  - "伺服器"
+  - "開發工具"
+summary: "工欲善其事，必先利其器。想當科學家，沒有好的服務器怎麼能行呢？以下分享幾家親測使用過、覺得比較好用的 VPS 服務商。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/discountifu/status/1988821491216187521"
+  externalUrl: "https://lightsail.aws.amazon.com/ls/webapp"
+  authorUsername: "discountifu"
+---
+
 # VPS 服務商推薦與價格比較指南
 
 > **來源**: [@discountifu](https://x.com/discountifu/status/1988821491216187521) | [原文連結](https://lightsail.aws.amazon.com/ls/webapp)

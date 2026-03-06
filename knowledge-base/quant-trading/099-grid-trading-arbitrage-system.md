@@ -1,3 +1,23 @@
+---
+title: "網格交易與套利模組系統架構"
+date: ">"
+tags: 
+  - "網格系統"
+  - "套利模組"
+  - "量化交易"
+summary: "這套系統是一個一整套的綜合性交易系統，基礎架構已經搭建完成。目前包含了套利模組，進度大約完成 60%。如果僅僅只是網格交易系統，不可能有這麼多檔案。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1978800290272002498"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 網格交易與套利模組系統架構
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1978800290272002498)

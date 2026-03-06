@@ -1,3 +1,24 @@
+---
+title: "市場週期預測：萬姨發文與牛市的關聯"
+date: ">"
+tags: 
+  - "加密貨幣投資"
+  - "市場週期"
+  - "牛市"
+  - "Dovey Wan"
+summary: "本文基於 @0xLoki_Zeng (0xLoki) 的觀察，探討 Dovey Wan（萬姨）發布長文與加密貨幣市場週期之間的潛在關聯性。作者指出，過去萬姨發布長文之後，市場曾迎來為期數年的牛市，暗示這次發文可能同樣預示著市場的類似走向，值得後續持續觀察。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLoki_Zeng/status/2011072241891754156"
+  externalUrl: null
+  authorUsername: "0xLoki_Zeng"
+---
+
 # 市場週期預測：萬姨發文與牛市的關聯
 
 > **來源**: [@0xLoki_Zeng](https://x.com/0xLoki_Zeng/status/2011072241891754156)

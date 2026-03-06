@@ -1,3 +1,25 @@
+---
+title: "BP DeFi 套利策略：無風險年化 15-20%?"
+date: "2026-01-11"
+tags: 
+  - "BP"
+  - "DeFi"
+  - "套利"
+  - "借貸"
+  - "年化收益"
+summary: "**策略：** 透過 BP (名稱待考) 上的 U (穩定幣) 和 SOL (Solana) 的借貸利率差異進行套利。 **潛在收益：** 作者 @Eno19988 聲稱此策略理論上可實現 15-20% 的年化收益率，但根據最新測試，實際收益率約為 9-11%。 **風險：** 儘管作者聲稱是「無風險」，但DeFi套利存在波動性，收益率並非固定。 **參考：** 作者分享了使用 6000U 在 BP 開出 54000U 倉位的收益率截圖"
+curationStatus: "archive"
+usefulnessScore: 80
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 71
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Eno19988/status/2010343333483417822"
+  externalUrl: "https://twitter.com/Eno19988/status/2010343333483417822/photo/1"
+  authorUsername: "Eno19988"
+---
+
 # BP DeFi 套利策略：無風險年化 15-20%?
 
 > **來源**: [@Eno19988](https://x.com/Eno19988/status/2010343333483417822) | [原文連結](https://twitter.com/Eno19988/status/2010343333483417822/photo/1)

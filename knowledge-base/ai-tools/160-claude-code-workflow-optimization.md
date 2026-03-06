@@ -1,3 +1,23 @@
+---
+title: "Claude Code 5 個進階工作流優化技巧"
+date: "2026-02-20"
+tags: 
+  - "Claude Code"
+  - "工作流優化"
+  - "自動化"
+summary: "再次推薦 @DellAnnaLuca 的 5 個 Claude Code 進階技巧："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2024721426755047813"
+  externalUrl: "https://code.claude.com/docs"
+  authorUsername: "runes_leo"
+---
+
 # Claude Code 5 個進階工作流優化技巧
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2024721426755047813) | [原文連結](https://code.claude.com/docs)

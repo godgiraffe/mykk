@@ -1,3 +1,23 @@
+---
+title: "不要等著被餵飯 - 交易資訊主動獲取策略"
+date: ">"
+tags: 
+  - "資訊獲取"
+  - "交易心態"
+  - "社群媒體"
+summary: "作者指出當前社群存在一種「等待被動餵養資訊」的現象。他強調了主動獲取資訊的重要性，並提醒讀者應該自己翻閱歷史內容，而不是等待別人重複推送。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/minglaugodel/status/1872089662615163216"
+  externalUrl: "https://twitter.com/minglaugodel/status/1872089662615163216/photo/1"
+  authorUsername: "minglaugodel"
+---
+
 # 不要等著被餵飯 - 交易資訊主動獲取策略
 
 > **來源**: [@minglaugodel](https://x.com/minglaugodel/status/1872089662615163216) | [原文連結](https://twitter.com/minglaugodel/status/1872089662615163216/photo/1)

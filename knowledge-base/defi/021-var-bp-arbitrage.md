@@ -1,3 +1,25 @@
+---
+title: "VAR 與 Backpack 的 SOL 資費套利策略"
+date: "2026-01-10"
+tags: 
+  - "VAR"
+  - "Backpack"
+  - "SOL"
+  - "套利"
+  - "積分"
+summary: "本文整理了 @0Xlynn03 (邻山Lynn) 的 SOL 資費套利策略，主要利用 VAR 和 Backpack 兩個平台，透過現貨買入和合約做空的策略，賺取利息收益並積累積分。重點如下："
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0Xlynn03/status/2009834492954046719"
+  externalUrl: null
+  authorUsername: "0Xlynn03"
+---
+
 # VAR 與 Backpack 的 SOL 資費套利策略
 
 > **來源**: [@0Xlynn03](https://x.com/0Xlynn03/status/2009834492954046719)

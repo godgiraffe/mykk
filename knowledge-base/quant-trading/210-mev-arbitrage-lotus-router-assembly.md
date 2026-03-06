@@ -1,3 +1,23 @@
+---
+title: "MEV 套利黑科技：Lotus Router 的內聯彙編優化"
+date: "2025-06-09"
+tags: 
+  - "MEV套利"
+  - "Lotus Router"
+  - "彙編優化"
+summary: "Dapp-Learning 分享了 @wong_ssh 關於 MEV 套利技術的深度講解，主題為「Lotus Router 的內聯彙編魔法」，介紹如何透過內聯彙編優化合約來提升 MEV 套利效率。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Dapp_Learning/status/1931931143508754884"
+  externalUrl: "https://www.youtube.com/watch?v=lRnAxXkZyM4&feature=youtu.be"
+  authorUsername: "Dapp_Learning"
+---
+
 # MEV 套利黑科技：Lotus Router 的內聯彙編優化
 
 > **來源**: [@Dapp_Learning](https://x.com/Dapp_Learning/status/1931931143508754884) | [原文連結](https://www.youtube.com/watch?v=lRnAxXkZyM4&feature=youtu.be)

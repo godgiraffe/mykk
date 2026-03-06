@@ -1,3 +1,23 @@
+---
+title: "預言機故障導致 193 億美元清算災難 — 五年教訓被忽視"
+date: "2025-10-12"
+tags: 
+  - "預言機安全"
+  - "閃電貸攻擊"
+  - "清算機制"
+summary: "2025 年 10 月 10 日至 11 日，一場價值 6,000 萬美元的市場拋售摧毀了 193 億美元的價值。這不是通過市場崩潰造成的，也不是通過對實際受損頭寸進行級聯追加保證金導致的，而是通過預言機故障。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1977447031322107954"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # 預言機故障導致 193 億美元清算災難 — 五年教訓被忽視
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1977447031322107954)

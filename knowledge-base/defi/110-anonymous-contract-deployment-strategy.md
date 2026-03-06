@@ -1,3 +1,23 @@
+---
+title: "盤主養成課：匿名部署合約資金來源方案"
+date: "2025-08-23"
+tags: 
+  - "匿名部署"
+  - "智能合約"
+  - "資金隱匿"
+summary: "### 3. 流動性好的跨鏈橋 利用具有良好流動性的跨鏈橋來轉移資金,增加追蹤難度。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 54
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xphiloA/status/1959166348464177222"
+  externalUrl: "https://twitter.com/0xphiloA/status/1959166348464177222/video/1"
+  authorUsername: "0xphiloA"
+---
+
 # 盤主養成課：匿名部署合約資金來源方案
 
 > **來源**: [@0xphiloA](https://x.com/0xphiloA/status/1959166348464177222) | [原文連結](https://twitter.com/0xphiloA/status/1959166348464177222/video/1)

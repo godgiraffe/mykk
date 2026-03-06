@@ -1,3 +1,23 @@
+---
+title: "Cloudflare 宕機時的套利機會意識"
+date: "2025-11-19"
+tags: 
+  - "套利"
+  - "鏈故障"
+  - "市場微觀結構"
+summary: "昨晚 Cloudflare 掛掉的時候，相信大部分人是在吃瓜的心態，但是往往最優秀的選手，這時候會像禿鷲一樣，尋找機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/LumaoDoggie/status/1991030084786913423"
+  externalUrl: null
+  authorUsername: "LumaoDoggie"
+---
+
 # Cloudflare 宕機時的套利機會意識
 
 > **來源**: [@LumaoDoggie](https://x.com/LumaoDoggie/status/1991030084786913423)

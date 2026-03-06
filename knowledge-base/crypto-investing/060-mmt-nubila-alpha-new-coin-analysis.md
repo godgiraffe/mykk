@@ -1,3 +1,23 @@
+---
+title: "MMT 與 Nubila 新幣預售分析 - 打新策略評估"
+date: "2025-10-31"
+tags: 
+  - "Alpha新幣"
+  - "打新策略"
+  - "基本面分析"
+summary: "**代幣**: $MMT (@MMTFinance) **鏈**: BSC **合約地址**: 暫未公布 **預售時間**: 17:00 開始，19:00 結束 **Alpha 開盤**: 11.4 18:00"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xcryptoHowe/status/1984182974607499442"
+  externalUrl: "https://x.com/0xcryptoHowe/status/1978762981912834064"
+  authorUsername: "0xcryptoHowe"
+---
+
 # MMT 與 Nubila 新幣預售分析 - 打新策略評估
 
 > **來源**: [@0xcryptoHowe](https://x.com/0xcryptoHowe/status/1984182974607499442) | [原文連結](https://x.com/0xcryptoHowe/status/1978762981912834064)

@@ -1,3 +1,23 @@
+---
+title: "Miku 金狗交易時段分析"
+date: "2024-12-13"
+tags: 
+  - "交易時段"
+  - "加密貨幣"
+  - "市場微觀結構"
+summary: "**時段**: 凌晨 4~5 點（UTC+8） **類型**: 金狗（高潛力 memecoin） **建議**: 保持清醒監控盤面"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CryptoDevinL/status/1867686314440897019"
+  externalUrl: "https://twitter.com/CryptoDevinL/status/1867686314440897019/photo/1"
+  authorUsername: "CryptoDevinL"
+---
+
 # Miku 金狗交易時段分析
 
 > **來源**: [@CryptoDevinL](https://x.com/CryptoDevinL/status/1867686314440897019) | [原文連結](https://twitter.com/CryptoDevinL/status/1867686314440897019/photo/1)

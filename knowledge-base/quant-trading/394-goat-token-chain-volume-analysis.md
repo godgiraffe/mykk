@@ -1,3 +1,23 @@
+---
+title: "$GOAT 代幣鏈上一小時成交量分析"
+date: "2024-10-16"
+tags: 
+  - "代幣成交量"
+  - "鏈上數據"
+  - "市場微觀結構"
+summary: "$GOAT 代幣鏈上一小時成交量高達 20M（2000 萬美元），這個成交量數據非常驚人。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/szu_jason/status/1846466846385754228"
+  externalUrl: "https://twitter.com/szu_jason/status/1846466846385754228/photo/1"
+  authorUsername: "szu_jason"
+---
+
 # $GOAT 代幣鏈上一小時成交量分析
 
 > **來源**: [@szu_jason](https://x.com/szu_jason/status/1846466846385754228) | [原文連結](https://twitter.com/szu_jason/status/1846466846385754228/photo/1)

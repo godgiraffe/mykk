@@ -1,3 +1,23 @@
+---
+title: "Euler/Lista 救援開源腳本：自動監測提取與換倉工具"
+date: ">"
+tags: 
+  - "DeFi 風險管理"
+  - "清算防護"
+  - "自動化工具"
+summary: "開源 Python 腳本用於 Euler/Lista 協議救援，已成功挽救 $26k 資金。腳本持續監測 Lista 金庫餘額，一旦檢測到資金即自動執行提款操作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hklst4r/status/1986467704904069284"
+  externalUrl: "https://x.com/hklst4r/status/1986419422316134482"
+  authorUsername: "hklst4r"
+---
+
 # Euler/Lista 救援開源腳本：自動監測提取與換倉工具
 
 > **來源**: [@hklst4r](https://x.com/hklst4r/status/1986467704904069284) | [原文連結](https://x.com/hklst4r/status/1986419422316134482)

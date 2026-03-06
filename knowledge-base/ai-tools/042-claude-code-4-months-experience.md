@@ -1,3 +1,23 @@
+---
+title: "Claude Code 使用小記 2：四個月高強度開發實戰"
+date: "2025-12-07"
+tags: 
+  - "Claude Code"
+  - "AI 輔助編程"
+  - "開發工作流"
+summary: "**近 30 天消耗**: $743 Token **主要項目**: 從零到一構建 Swift 原生音視頻 APP（已接近上架階段） **團隊規模**: 數位前端和後端工程師協作 **訂閱方案**: Claude Code Max ($100/月，公司報銷)"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/_cosine_x/status/1997610174044098666"
+  externalUrl: "https://blog.cosine.ren/post/my-claude-code-record-2"
+  authorUsername: "_cosine_x"
+---
+
 # Claude Code 使用小記 2：四個月高強度開發實戰
 
 > **來源**: [@_cosine_x](https://x.com/_cosine_x/status/1997610174044098666) | [原文連結](https://blog.cosine.ren/post/my-claude-code-record-2)

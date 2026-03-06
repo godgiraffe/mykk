@@ -1,3 +1,23 @@
+---
+title: "交易所公告套利策略：利用幣種上線和差價機會"
+date: "2024-12-11"
+tags: 
+  - "公告套利"
+  - "交易所機制"
+  - "虧損厭惡交易法"
+summary: "牛市中不依賴賭博也能穩定賺錢的策略有很多。例如直接觀察價格和交易所公告來執行套利操作。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1866673509809918410"
+  externalUrl: null
+  authorUsername: "richrichardoz"
+---
+
 # 交易所公告套利策略：利用幣種上線和差價機會
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1866673509809918410)

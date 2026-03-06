@@ -1,3 +1,23 @@
+---
+title: "Ethena S4 空投領取指南 - HyENA 平台操作教程"
+date: "2026-01-07"
+tags: 
+  - "空投領取"
+  - "DeFi 協議"
+  - "Ethena"
+summary: "項目 說明 ------ ------ **領取平台** HyENA（Hyperliquid EVM） **資格查詢** Sablier Airdrop 頁面 **解鎖進度** S4 賽季已解鎖 2.5%，近期將再解鎖 1% **領取條件** <2 億積分：無條件領取<br>≥2 億積分：需存 USDe 兩週 **存款比例** 每 200 萬 ENA 積分需存 1 USDe **後續機會** S5 賽季空投仍可參與"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/web3a99/status/2008767048588136950"
+  externalUrl: "https://app.sablier.com/airdrops/campaign/0xed5fbc25e730d5fba6949721d98fc444d4d36e1d-999"
+  authorUsername: "web3a99"
+---
+
 # Ethena S4 空投領取指南 - HyENA 平台操作教程
 
 > **來源**: [@web3a99](https://x.com/web3a99/status/2008767048588136950) | [原文連結](https://app.sablier.com/airdrops/campaign/0xed5fbc25e730d5fba6949721d98fc444d4d36e1d-999)

@@ -1,3 +1,23 @@
+---
+title: "長期複利致富：40% 年化收益率的加密貨幣投資策略"
+date: "2025-06-25"
+tags: 
+  - "複利"
+  - "長期投資"
+  - "心態管理"
+summary: "這麼來看,這位老鐵定下的目標:2030 年,個人資產一億刀,似乎並非遙不可及(雖然我不知道他現在資產多少)。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1937756086075019722"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # 長期複利致富：40% 年化收益率的加密貨幣投資策略
 
 > **來源**: [@gm365](https://x.com/gm365/status/1937756086075019722)

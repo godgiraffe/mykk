@@ -1,3 +1,23 @@
+---
+title: "高質量KOL頻道導航：精選加密交易與分析師"
+date: ">"
+tags: 
+  - "KOL推薦"
+  - "交易頻道"
+  - "市場信號"
+summary: "分享高質量 KOL 頻道清單，涵蓋市場熱點、鏈上 ICT 分析、Binance Alpha 數據、DeFi 策略等領域的專業交易員與分析師。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xdizai/status/1978736451660726579"
+  externalUrl: "https://t.me/au_call"
+  authorUsername: "0xdizai"
+---
+
 # 高質量KOL頻道導航：精選加密交易與分析師
 
 > **來源**: [@0xdizai](https://x.com/0xdizai/status/1978736451660726579) | [原文連結](https://t.me/au_call)

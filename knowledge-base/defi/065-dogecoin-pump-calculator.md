@@ -1,3 +1,23 @@
+---
+title: "狗幣庄拉盤計算器 - DeFi 池子分析工具"
+date: "2025-10-10"
+tags: 
+  - "DeFi池子"
+  - "拉盤計算"
+  - "流動性分析"
+summary: "根據 @wsjack_eth 之前的帖子，開發了一個自動撈池子計算的狗幣莊拉盤計算器。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 42
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/aezaumi/status/1976604636577702072"
+  externalUrl: "https://x.com/wsjack_eth/status/1898233695523553410"
+  authorUsername: "aezaumi"
+---
+
 # 狗幣庄拉盤計算器 - DeFi 池子分析工具
 
 > **來源**: [@aezaumi](https://x.com/aezaumi/status/1976604636577702072) | [原文連結](https://x.com/wsjack_eth/status/1898233695523553410)

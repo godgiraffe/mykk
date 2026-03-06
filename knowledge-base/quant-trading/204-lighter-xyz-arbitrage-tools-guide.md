@@ -1,3 +1,23 @@
+---
+title: "Lighter.xyz 套利工具與對沖刷量策略指南"
+date: "2025-06-11"
+tags: 
+  - "零知識證明"
+  - "訂單簿交易"
+  - "套利機會"
+summary: "近期可以嚕毛的好方式就是 @Lighter_xyz @Backpack 對沖刷量（或是搭配 Ourbit 轉盤來刷）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/shawnchen_eth/status/1932883971647721625"
+  externalUrl: "https://lighter.xyz/"
+  authorUsername: "shawnchen_eth"
+---
+
 # Lighter.xyz 套利工具與對沖刷量策略指南
 
 > **來源**: [@shawnchen_eth](https://x.com/shawnchen_eth/status/1932883971647721625) | [原文連結](https://lighter.xyz/)

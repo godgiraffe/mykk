@@ -1,3 +1,23 @@
+---
+title: "SLERF 合約現貨套利案例：鏈上池子大小與價格不對稱分析"
+date: "2025-10-18"
+tags: 
+  - "合約現貨套利"
+  - "市場微觀結構"
+  - "單機幣交易"
+summary: "這個 SLERF 一開始我們看是垃圾。真得感謝 @dotyyds1234 龍王眼光毒辣。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/thankUcrypto/status/1979424217964908641"
+  externalUrl: null
+  authorUsername: "thankUcrypto"
+---
+
 # SLERF 合約現貨套利案例：鏈上池子大小與價格不對稱分析
 
 > **來源**: [@thankUcrypto](https://x.com/thankUcrypto/status/1979424217964908641)

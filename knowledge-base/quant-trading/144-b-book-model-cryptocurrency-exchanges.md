@@ -1,3 +1,23 @@
+---
+title: "加密貨幣交易所的 B-Book 模型：機制、套利機會與系統風險"
+date: "2025-08-23"
+tags: 
+  - "市場微觀結構"
+  - "交易所機制"
+  - "套利"
+summary: "B-Book 模型是加密貨幣交易所常見的營運模式之一。與傳統 A-Book（將訂單直接送往流動性提供者）不同，B-Book 模型中交易所會成為客戶的對手方，透過內部對沖、客戶虧損、價差收益等方式獲利。本文探討 B-Book 模型的運作機制、交易所如何從中套利，以及這種模式帶來的系統性風險。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Wayne145591/status/1959263049363447981"
+  externalUrl: null
+  authorUsername: "Wayne145591"
+---
+
 # 加密貨幣交易所的 B-Book 模型：機制、套利機會與系統風險
 
 > **來源**: [@Wayne145591](https://x.com/Wayne145591/status/1959263049363447981)

@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性做市 30 日經驗分享"
+date: "2024-11-18"
+tags: 
+  - "DLMM"
+  - "Solana Meme"
+  - "LP 策略"
+summary: "最近一個月，基本上屬於高強度參與了 Solana 鏈上 meme 的 DLMM（LP 做市）"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1858414756753010866"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 流動性做市 30 日經驗分享
 
 > **來源**: [@gm365](https://x.com/gm365/status/1858414756753010866)

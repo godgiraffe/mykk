@@ -1,3 +1,23 @@
+---
+title: "Pendle vs Penpie vs Equilibrium：DeFi 收益策略對比分析"
+date: "2025-06-01"
+tags: 
+  - "Pendle"
+  - "收益優化"
+  - "DeFi 策略"
+summary: "玩轉 Pendle，P 家（Penpie）和 E 家（Equilibrium）哪家更強？"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Eason_2099/status/1929102109687050456"
+  externalUrl: "https://x.com/ViNc2453/status/1927659687928856908"
+  authorUsername: "Eason_2099"
+---
+
 # Pendle vs Penpie vs Equilibrium：DeFi 收益策略對比分析
 
 > **來源**: [@Eason_2099](https://x.com/Eason_2099/status/1929102109687050456) | [原文連結](https://x.com/ViNc2453/status/1927659687928856908)

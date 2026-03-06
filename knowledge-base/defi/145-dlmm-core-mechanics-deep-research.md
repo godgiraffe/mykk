@@ -1,3 +1,23 @@
+---
+title: "DLMM 核心機制深度解析：三大 AI 模型對比研究"
+date: "2025-06-16"
+tags: 
+  - "DLMM"
+  - "流動性提供"
+  - "做市策略"
+summary: "就像絕大多數人相信都會騎自行車，但真要解釋自行車為什麼不會倒，這個問題科學界花了 100 多年還在給出不同的解釋。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1934486762413519284"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 核心機制深度解析：三大 AI 模型對比研究
 
 > **來源**: [@gm365](https://x.com/gm365/status/1934486762413519284)

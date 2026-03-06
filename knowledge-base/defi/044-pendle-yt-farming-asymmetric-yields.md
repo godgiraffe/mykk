@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 代幣高槓桿農場策略"
+date: "2025-11-03"
+tags: 
+  - "Pendle"
+  - "固定收益"
+  - "非常規玩法"
+summary: "如果我在加密貨幣領域有六位數資金,我會花數小時研究 Pendle 協議上的各種池子。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1985150079632629853"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # Pendle YT 代幣高槓桿農場策略
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1985150079632629853)

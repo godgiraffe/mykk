@@ -1,3 +1,23 @@
+---
+title: "2025 年度投資組合規劃與資產配置策略"
+date: "2025-01-04"
+tags: 
+  - "投資組合配置"
+  - "週期策略"
+  - "風險管理"
+summary: "1. 比特幣的持續新高 2. 山寨幣的集體新高 3. MEME/AI 類阿爾法幣的爆炸性上漲"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1875400115604828170"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # 2025 年度投資組合規劃與資產配置策略
 
 > **來源**: [@gm365](https://x.com/gm365/status/1875400115604828170)

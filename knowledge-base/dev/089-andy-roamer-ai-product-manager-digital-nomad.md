@@ -1,3 +1,23 @@
+---
+title: "從百度離職到四海為家：產品經理的 AI 時代創業故事"
+date: "2024-07-15"
+tags: 
+  - "AI工具開發"
+  - "數字游民"
+  - "產品經理"
+summary: "根據原文內容，我來整理這篇文章。這是一個產品經理分享他離職後做數字遊民、用 AI 工具創業的故事。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/AndyRoamer/status/1812775032688709640"
+  externalUrl: "https://v0.dev/"
+  authorUsername: "AndyRoamer"
+---
+
 # 從百度離職到四海為家：產品經理的 AI 時代創業故事
 
 > **來源**: [@AndyRoamer](https://x.com/AndyRoamer/status/1812775032688709640) | [原文連結](https://v0.dev/)

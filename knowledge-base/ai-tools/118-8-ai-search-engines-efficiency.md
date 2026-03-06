@@ -1,3 +1,23 @@
+---
+title: "8 個高效能 AI 搜尋引擎推薦"
+date: "2024-07-01"
+tags: 
+  - "AI搜尋"
+  - "搜尋工具"
+  - "效率提升"
+summary: "### 1. perplexity.ai 搜索 AI 的標桿,利用生成式 AI 回答你的問題。提供準確、簡潔的解答。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/knowledgefxg/status/1807790520749748408"
+  externalUrl: "https://twitter.com/knowledgefxg/status/1807790520749748408/photo/1"
+  authorUsername: "knowledgefxg"
+---
+
 # 8 個高效能 AI 搜尋引擎推薦
 
 > **來源**: [@knowledgefxg](https://x.com/knowledgefxg/status/1807790520749748408) | [原文連結](https://twitter.com/knowledgefxg/status/1807790520749748408/photo/1)

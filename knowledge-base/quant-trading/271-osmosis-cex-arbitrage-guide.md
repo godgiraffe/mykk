@@ -1,3 +1,23 @@
+---
+title: "CEX 與 Osmosis 短期套利操作指南"
+date: "2025-04-14"
+tags: 
+  - "跨交易所套利"
+  - "現貨合約對沖"
+  - "交易執行技巧"
+summary: "今天 OSMO 在 CEX 和 Osmosis 之間出現了短暫的套利空間。所有人都知道它要割，只是不知道什麼時候割，今天給了答案。不過池子不大，窗口期太短，撸不了太多的錢。手速快的話幾千刀還是沒什麼壓力的。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1911623206076907999"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # CEX 與 Osmosis 短期套利操作指南
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1911623206076907999)

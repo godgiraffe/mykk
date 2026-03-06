@@ -1,3 +1,23 @@
+---
+title: "幣安 Alpha 無磨損刷分教程大集合"
+date: "2025-05-30"
+tags: 
+  - "Alpha 刷分"
+  - "幣安積分"
+  - "實戰策略"
+summary: "幣安 Alpha 無磨損刷分教程大集合。現在刷分的教程非常多，以下整理了幾個比較簡單易懂、偏實戰派的內容分享。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/monkeyjiang/status/1928318667814752454"
+  externalUrl: "https://x.com/Cryptowushi/status/1922894024840708239"
+  authorUsername: "monkeyjiang"
+---
+
 # 幣安 Alpha 無磨損刷分教程大集合
 
 > **來源**: [@monkeyjiang](https://x.com/monkeyjiang/status/1928318667814752454) | [原文連結](https://x.com/Cryptowushi/status/1922894024840708239)

@@ -1,3 +1,23 @@
+---
+title: "無空投情況下透過 LP 做市賺取高收益的策略"
+date: "2025-04-23"
+tags: 
+  - "LP做市"
+  - "DEX套利"
+  - "新幣上線"
+summary: "1. 相對比較熱門的項目方發的幣 2. 先在 DEX 上線 3. 最好是有盤前期貨價或者場外 OTC 價作為參考"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gch_enbsbxbs/status/1914933717157777419"
+  externalUrl: null
+  authorUsername: "gch_enbsbxbs"
+---
+
 # 無空投情況下透過 LP 做市賺取高收益的策略
 
 > **來源**: [@gch_enbsbxbs](https://x.com/gch_enbsbxbs/status/1914933717157777419)

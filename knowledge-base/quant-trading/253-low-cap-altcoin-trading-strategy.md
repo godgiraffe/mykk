@@ -1,3 +1,23 @@
+---
+title: "小市值代幣交易策略與市場觀察"
+date: "2025-04-23"
+tags: 
+  - "小市值"
+  - "交易策略"
+  - "市場微觀結構"
+summary: "舉個例子，當初我和方程式討論的時候，moodeng 20M 你去看 K 線，估的很精準的，我們玩的多的會有自己的估計方式。但對於參與經驗少的玩家來說，買什麼、哪裡買、買多少、要被洗多久、能不能拿到大反彈都是問題。只能靠個人總結觀察了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/daidaibtc/status/1914925370174022015"
+  externalUrl: null
+  authorUsername: "daidaibtc"
+---
+
 # 小市值代幣交易策略與市場觀察
 
 > **來源**: [@daidaibtc](https://x.com/daidaibtc/status/1914925370174022015)

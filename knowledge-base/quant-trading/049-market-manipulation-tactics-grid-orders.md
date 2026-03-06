@@ -1,3 +1,23 @@
+---
+title: "市場主力操盤技巧：網格託單與謊騙單模式"
+date: "2025-11-29"
+tags: 
+  - "盤口分析"
+  - "主力操盤"
+  - "謊騙單"
+summary: "市價推出區間的資金和掛單的也可以是一個人，這樣左手倒右手推盤只浪費點市價手續費而已。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hazenlee/status/1994754041302450406"
+  externalUrl: null
+  authorUsername: "hazenlee"
+---
+
 # 市場主力操盤技巧：網格託單與謊騙單模式
 
 > **來源**: [@hazenlee](https://x.com/hazenlee/status/1994754041302450406)

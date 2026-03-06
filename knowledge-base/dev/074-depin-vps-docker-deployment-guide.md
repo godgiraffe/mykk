@@ -1,3 +1,23 @@
+---
+title: "DePIN 全家桶一鍵部署：6個項目 Docker 鏡像教學"
+date: ">"
+tags: 
+  - "DePIN"
+  - "Docker"
+  - "VPS部署"
+summary: "分享一個打包好的 DePIN 全家桶 Docker 鏡像，一條命令即可用極少資源部署 6 個 DePIN 項目，非常適合手裡有 VPS 的朋友。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Pow2wer/status/1854473190011261213"
+  externalUrl: "https://x.com/i/article/1854434674313162752"
+  authorUsername: "Pow2wer"
+---
+
 # DePIN 全家桶一鍵部署：6個項目 Docker 鏡像教學
 
 > **來源**: [@Pow2wer](https://x.com/Pow2wer/status/1854473190011261213) | [原文連結](https://x.com/i/article/1854434674313162752)

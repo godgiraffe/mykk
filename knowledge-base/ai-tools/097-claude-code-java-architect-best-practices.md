@@ -1,3 +1,23 @@
+---
+title: "Java 架構師使用 Claude Code 一個月的最佳實踐"
+date: "2025-07-16"
+tags: 
+  - "Claude Code"
+  - "開發工作流程"
+  - "團隊規範"
+summary: "手動完善 CLAUDE.md，加入團隊特定規範： Lombok 使用約定（如優先用 @Data、@Builder） Google 程式碼風格（2 空格縮排） DDD 架構模式說明 自訂異常處理模式 測試規範（Given-When-Then 模式、80% 覆蓋率要求）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BadUncleX/status/1945316833458053542"
+  externalUrl: null
+  authorUsername: "BadUncleX"
+---
+
 # Java 架構師使用 Claude Code 一個月的最佳實踐
 
 > **來源**: [@BadUncleX](https://x.com/BadUncleX/status/1945316833458053542)

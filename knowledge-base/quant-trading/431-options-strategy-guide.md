@@ -1,3 +1,23 @@
+---
+title: "期權策略完整指南"
+date: "2024-06-10"
+tags: 
+  - "期權交易"
+  - "投資策略"
+  - "基礎知識"
+summary: "由於我無法直接訪問該 GitMind 連結的內容（需要權限），我無法為你整理文章。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 66
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Wayne145591/status/1800071699947471080"
+  externalUrl: "https://gitmind.com/app/docs/mf61hjk6"
+  authorUsername: "Wayne145591"
+---
+
 # 期權策略完整指南
 
 > **來源**: [@Wayne145591](https://x.com/Wayne145591/status/1800071699947471080) | [原文連結](https://gitmind.com/app/docs/mf61hjk6)

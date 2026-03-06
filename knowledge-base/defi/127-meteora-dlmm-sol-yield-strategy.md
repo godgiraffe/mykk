@@ -1,3 +1,23 @@
+---
+title: "Meteora DLMM 一週內 121% 收益策略分享"
+date: ">"
+tags: 
+  - "Meteora"
+  - "DLMM流動性挖礦"
+  - "SOL收益"
+summary: "項目 數值 ------ ------ 初始資金 100 SOL 最終資金 221.89 SOL 收益 121.89 SOL 收益率 121.89% 時間 不到一週"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xMrBeefman/status/1952757659905446276"
+  externalUrl: "https://twitter.com/0xMrBeefman/status/1952757659905446276/photo/1"
+  authorUsername: "0xMrBeefman"
+---
+
 # Meteora DLMM 一週內 121% 收益策略分享
 
 > **來源**: [@0xMrBeefman](https://x.com/0xMrBeefman/status/1952757659905446276) | [原文連結](https://twitter.com/0xMrBeefman/status/1952757659905446276/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code 零基礎完全指南：框架流程與高頻操作"
+date: "2025-11-07"
+tags: 
+  - "Claude Code"
+  - "工作流"
+  - "開發效率"
+summary: "本文用通俗易懂的方式講解 Claude Code（CC）的完整使用方法，適合零基礎或剛接觸的使用者快速了解 CC 的完整鏈路及技巧。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/noisepoint_agi/status/1986683674188828695"
+  externalUrl: null
+  authorUsername: "noisepoint_agi"
+---
+
 # Claude Code 零基礎完全指南：框架流程與高頻操作
 
 > **來源**: [@noisepoint_agi](https://x.com/noisepoint_agi/status/1986683674188828695)

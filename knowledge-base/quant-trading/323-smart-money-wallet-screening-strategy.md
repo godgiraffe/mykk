@@ -1,3 +1,23 @@
+---
+title: "聰明錢地址篩選策略：如何找到優質跟單對象"
+date: "2025-01-11"
+tags: 
+  - "聰明錢追蹤"
+  - "地址篩選"
+  - "跟單策略"
+summary: "勝率表面雖高，但細看收益九成是 +20% +30%，很可能是跑策略的 Bot。跟這種加上時間差，容易虧錢。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0x542121/status/1878098663513432357"
+  externalUrl: null
+  authorUsername: "0x542121"
+---
+
 # 聰明錢地址篩選策略：如何找到優質跟單對象
 
 > **來源**: [@0x542121](https://x.com/0x542121/status/1878098663513432357)

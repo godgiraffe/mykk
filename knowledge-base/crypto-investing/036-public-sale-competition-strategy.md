@@ -1,3 +1,23 @@
+---
+title: "普通人對抗科學家包場的公售策略"
+date: ">"
+tags: 
+  - "公開銷售"
+  - "錢包配置"
+  - "交易優化"
+summary: "要素 推薦配置 說明 ------ ---------- ------ 錢包 Jupiter Wallet + 3-5個多錢包 官方聲稱簽名提交速度優於 Phantom RPC 節點 Helius、ERPC、QuickNode 避免使用公共 RPC，提升交易速度 Gas 費 調至最高檔或手動提升 確保交易優先被打包"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/DGYC999/status/1996468503948431853"
+  externalUrl: null
+  authorUsername: "DGYC999"
+---
+
 # 普通人對抗科學家包場的公售策略
 
 > **來源**: [@DGYC999](https://x.com/DGYC999/status/1996468503948431853)

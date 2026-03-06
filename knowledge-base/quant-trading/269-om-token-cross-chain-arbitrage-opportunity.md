@@ -1,3 +1,23 @@
+---
+title: "OM Token 跨鏈套利機會復盤：CEX-DEX 價差與流動性策略"
+date: "2025-04-13"
+tags: 
+  - "跨鏈套利"
+  - "價格監控"
+  - "流動性管理"
+summary: "剛才 $OM 在 CEX 和 DEX 出現了短暫價差，發現時 CEX 已經跌到 2 美元，但鏈上仍是 4 美元。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xPoseidon_sol/status/1911536203658379645"
+  externalUrl: null
+  authorUsername: "0xPoseidon_sol"
+---
+
 # OM Token 跨鏈套利機會復盤：CEX-DEX 價差與流動性策略
 
 > **來源**: [@0xPoseidon_sol](https://x.com/0xPoseidon_sol/status/1911536203658379645)

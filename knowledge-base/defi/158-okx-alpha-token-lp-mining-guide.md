@@ -1,3 +1,23 @@
+---
+title: "OKX Alpha 代幣 LP 挖礦指南與 Huma 預售套利機會"
+date: ">"
+tags: 
+  - "LP挖礦"
+  - "高收益"
+  - "DeFi套利"
+summary: "聽說給 Alpha 代幣加池子很賺錢？年化 5000%+？以下說明如何查看年化收益、如何加池子獲取收益、以及如何退出。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BitHappy/status/1924690522784071991"
+  externalUrl: null
+  authorUsername: "BitHappy"
+---
+
 # OKX Alpha 代幣 LP 挖礦指南與 Huma 預售套利機會
 
 > **來源**: [@BitHappy](https://x.com/BitHappy/status/1924690522784071991)

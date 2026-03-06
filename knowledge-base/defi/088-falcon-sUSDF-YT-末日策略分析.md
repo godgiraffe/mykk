@@ -1,3 +1,23 @@
+---
+title: "Falcon sUSDF YT 末日倒計時：150% APY 的機會與風險"
+date: "2025-09-24"
+tags: 
+  - "Pendle YT"
+  - "Falcon Finance"
+  - "積分農耕"
+summary: "Falcon 的 sUSDF YT(2025/9/25) 進入最後 10 小時倒計時。由於 Falcon 的 TGE 在即，加上昨日 Falcon 在 Buildpad 上超募 28 倍，創造 BuildlPad 上超募和募資金額新記錄，大家對於 Falcon 的估值都比較看好，YT 的買盤依然強勁。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Eason_2099/status/1970852932758413538"
+  externalUrl: null
+  authorUsername: "Eason_2099"
+---
+
 # Falcon sUSDF YT 末日倒計時：150% APY 的機會與風險
 
 > **來源**: [@Eason_2099](https://x.com/Eason_2099/status/1970852932758413538)

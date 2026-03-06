@@ -1,3 +1,23 @@
+---
+title: "LA 代幣套利機會分析 - 多鏈流動性割裂的套利策略"
+date: ">"
+tags: 
+  - "套利"
+  - "多鏈部署"
+  - "流動性挖礦"
+summary: "雖然我不知道 @lagrangedev 是幹嘛的（退出擼毛圈很久了 lol），但項目方展現出極強的操盤能力，這其中也蘊含著巨大的套利機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xanonnnn/status/1930464832681324917"
+  externalUrl: null
+  authorUsername: "0xanonnnn"
+---
+
 # LA 代幣套利機會分析 - 多鏈流動性割裂的套利策略
 
 > **來源**: [@0xanonnnn](https://x.com/0xanonnnn/status/1930464832681324917)

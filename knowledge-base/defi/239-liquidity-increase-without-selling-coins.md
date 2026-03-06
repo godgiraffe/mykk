@@ -1,3 +1,23 @@
+---
+title: "不賣幣增加流動性教程：抵押借貸與現貨合約策略"
+date: "2024-03-02"
+tags: 
+  - "流動性管理"
+  - "抵押借貸"
+  - "資金管理"
+summary: "基本上現在大部分的人手上都是幣，沒有 u，那如果出現比如說幣安 launchpool、OKX jumpstart 或是鏈上那種非常吃流動性的該怎麼辦？"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hank06171/status/1763755402284662978"
+  externalUrl: null
+  authorUsername: "hank06171"
+---
+
 # 不賣幣增加流動性教程：抵押借貸與現貨合約策略
 
 > **來源**: [@hank06171](https://x.com/hank06171/status/1763755402284662978)

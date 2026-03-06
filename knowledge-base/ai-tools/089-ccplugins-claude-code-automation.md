@@ -1,3 +1,23 @@
+---
+title: "CCPlugins：Claude Code 自動化開發工具集"
+date: "2025-07-28"
+tags: 
+  - "Claude Code"
+  - "開發工具"
+  - "自動化"
+summary: "**/cleanproject**：清理專案中的「垃圾檔案」，比如臨時測試檔案、除錯日誌、備份檔案等 **/commit**：自動分析程式碼改動，生成規範的 Git 提交訊息，省去你絞盡腦汁寫 commit message 的痛苦 **/format**：自動偵測並執行專案程式碼格式化工具，保持程式碼整潔 **/test**：執行測試並自動修復簡單的失敗案例，減少手動除錯的時間"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/shao__meng/status/1949809844732710931"
+  externalUrl: null
+  authorUsername: "shao__meng"
+---
+
 # CCPlugins：Claude Code 自動化開發工具集
 
 > **來源**: [@shao__meng](https://x.com/shao__meng/status/1949809844732710931)

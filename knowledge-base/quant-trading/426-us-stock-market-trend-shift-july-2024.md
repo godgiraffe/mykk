@@ -1,3 +1,23 @@
+---
+title: "美股趨勢轉折徵兆：從漲停到寬幅震盪"
+date: ">"
+tags: 
+  - "趨勢轉折"
+  - "風險管理"
+  - "市場週期"
+summary: "原本內心是一直預期八月才會開始上演鬼故事序幕、九月才會來個大修正，但市場似乎節奏加速了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/AlvinWu_TW/status/1811442111163908452"
+  externalUrl: null
+  authorUsername: "AlvinWu_TW"
+---
+
 # 美股趨勢轉折徵兆：從漲停到寬幅震盪
 
 > **來源**: [@AlvinWu_TW](https://x.com/AlvinWu_TW/status/1811442111163908452)

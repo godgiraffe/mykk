@@ -1,3 +1,23 @@
+---
+title: "zkSync 空投低 Gas 成本策略與自部署合約優化"
+date: "2023-05-20"
+tags: 
+  - "zkSync"
+  - "空投農場"
+  - "Gas 優化"
+summary: "在 zkSync 主網上自行部署合約進行交互，Gas 成本約 0.16U 左右，相比一般方式更加經濟。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xc_kobe/status/1659822157654786048"
+  externalUrl: "https://twitter.com/cr7_hacker/status/1659822157654786048/photo/1"
+  authorUsername: "xc_kobe"
+---
+
 # zkSync 空投低 Gas 成本策略與自部署合約優化
 
 > **來源**: [@xc_kobe](https://x.com/xc_kobe/status/1659822157654786048) | [原文連結](https://twitter.com/cr7_hacker/status/1659822157654786048/photo/1)

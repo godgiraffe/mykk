@@ -1,3 +1,23 @@
+---
+title: "Vibe Coding 教程：用 Opus 4.5 開發加密策略監控飛書機器人"
+date: "2025-12-03"
+tags: 
+  - "Claude Opus"
+  - "Web3 開發"
+  - "自動化工具"
+summary: "新一期的 Vibe Coding 教程：《Web3 項目：用 Opus 4.5 開發 Crypto 策略監控飛書機器人》"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 64
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yihui_indie/status/1996013770611851639"
+  externalUrl: "https://twitter.com/yihui_indie/status/1996013770611851639/video/1"
+  authorUsername: "yihui_indie"
+---
+
 # Vibe Coding 教程：用 Opus 4.5 開發加密策略監控飛書機器人
 
 > **來源**: [@yihui_indie](https://x.com/yihui_indie/status/1996013770611851639) | [原文連結](https://twitter.com/yihui_indie/status/1996013770611851639/video/1)

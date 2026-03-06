@@ -1,3 +1,23 @@
+---
+title: "Protocol FX 鏈上收益分析 - 從第一天就賦能協議的代幣設計"
+date: "2024-10-11"
+tags: 
+  - "DeFi協議"
+  - "鏈上數據分析"
+  - "代幣經濟學"
+summary: "**總收益**：約一年內捕獲超過 1,000 $ETH **分配給 $veFXN 持有者**：超過 750 ETH"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/taowang1/status/1844632646560907756"
+  externalUrl: null
+  authorUsername: "taowang1"
+---
+
 # Protocol FX 鏈上收益分析 - 從第一天就賦能協議的代幣設計
 
 > **來源**: [@taowang1](https://x.com/taowang1/status/1844632646560907756)

@@ -1,3 +1,23 @@
+---
+title: "DePIN 帶寬挖礦項目批量掛機指南——7 個項目一鱼多吃"
+date: "2024-11-02"
+tags: 
+  - "DePIN 挖礦"
+  - "帶寬項目"
+  - "批量掛機"
+summary: "Grass 小草暴富案例引發關注，有工作室擼了幾百萬，也有人找代掛被騙 4 萬 U。本文分享如何解決 DePIN 帶寬挖礦項目批量掛機的設備、代理 IP、腳本、註冊等問題，以及 7 個可以同時掛機的項目，一魚多吃，瓜分未來 10 億美金空投。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/NFTCPS/status/1852676802197815358"
+  externalUrl: "https://www.hubstudio.cn/register/index.html?ref=n7GqIwRJ"
+  authorUsername: "NFTCPS"
+---
+
 # DePIN 帶寬挖礦項目批量掛機指南——7 個項目一鱼多吃
 
 > **來源**: [@NFTCPS](https://x.com/NFTCPS/status/1852676802197815358) | [原文連結](https://www.hubstudio.cn/register/index.html?ref=n7GqIwRJ)

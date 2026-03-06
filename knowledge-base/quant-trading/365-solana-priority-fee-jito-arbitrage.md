@@ -1,3 +1,23 @@
+---
+title: "Solana 優先費用與 Jito 加速機制——套利交易快速上鏈指南"
+date: ">"
+tags: 
+  - "Solana 優先費用"
+  - "Jito 小費機制"
+  - "套利交易上鏈"
+summary: "我已經整理好這篇文章的 markdown 內容。這篇文章詳細說明了 Solana 交易加速的技術細節："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ospopen/status/1858921916503142457"
+  externalUrl: "https://soldev.cn/topics/103"
+  authorUsername: "ospopen"
+---
+
 # Solana 優先費用與 Jito 加速機制——套利交易快速上鏈指南
 
 > **來源**: [@ospopen](https://x.com/ospopen/status/1858921916503142457) | [原文連結](https://soldev.cn/topics/103)

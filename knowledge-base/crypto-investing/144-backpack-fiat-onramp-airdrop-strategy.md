@@ -1,3 +1,23 @@
+---
+title: "Backpack 合規出入金通道與積分計畫策略"
+date: "2025-04-28"
+tags: 
+  - "出入金"
+  - "交易所"
+  - "空投積分"
+summary: "每個人都應該去 @Backpack @Backpack_CN 開一個幣圈無損出入金的通道。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Cody_DeFi/status/1916888719879188575"
+  externalUrl: "https://discord.com/invite/backpack"
+  authorUsername: "Cody_DeFi"
+---
+
 # Backpack 合規出入金通道與積分計畫策略
 
 > **來源**: [@Cody_DeFi](https://x.com/Cody_DeFi/status/1916888719879188575) | [原文連結](https://discord.com/invite/backpack)

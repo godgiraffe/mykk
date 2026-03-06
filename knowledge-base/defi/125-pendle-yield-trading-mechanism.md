@@ -1,3 +1,23 @@
+---
+title: "Pendle 收益交易協議深度解析：機制、價值與正外部性"
+date: "2025-08-08"
+tags: 
+  - "收益交易"
+  - "DeFi基礎設施"
+  - "正外部性"
+summary: "Pendle 是一個交易「收益」（Yield Trading）的協議,是本輪周期崛起的最成功 DeFi 協議。它將可收益資產用統一的代幣標準包裝為標準收益代幣（Standardized Yield，簡稱 SY），再拆分為本金代幣（Principal Token，簡稱 PT）和收益代幣（Yield Token，簡稱 YT）並設立期限，使一定期限內的「收益」可被交易。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/liu_web3/status/1953652735536210292"
+  externalUrl: "https://x.com/i/article/1953649575081963520"
+  authorUsername: "liu_web3"
+---
+
 # Pendle 收益交易協議深度解析：機制、價值與正外部性
 
 > **來源**: [@liu_web3](https://x.com/liu_web3/status/1953652735536210292) | [原文連結](https://x.com/i/article/1953649575081963520)

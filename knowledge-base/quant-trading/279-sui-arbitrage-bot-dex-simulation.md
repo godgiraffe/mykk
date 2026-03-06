@@ -1,3 +1,23 @@
+---
+title: "Sui 套利機器人開源實現：跨 DEX 套利與鏈模擬"
+date: ">"
+tags: 
+  - "套利"
+  - "Sui"
+  - "去中心化交易所"
+summary: "這是一個開源的 Sui 套利機器人實現，曾經獲利超過 20 萬美元。該機器人支援在多個 DEX 之間進行套利，包括 Cetus Protocol、Navi Protocol、Aftermath、DeepBook、Turbos Finance 和 Kriya DEX。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/JasonZhao404/status/1907640990032343519"
+  externalUrl: null
+  authorUsername: "JasonZhao404"
+---
+
 # Sui 套利機器人開源實現：跨 DEX 套利與鏈模擬
 
 > **來源**: [@JasonZhao404](https://x.com/JasonZhao404/status/1907640990032343519)

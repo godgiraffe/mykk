@@ -1,3 +1,23 @@
+---
+title: "做市商交易策略：如何透過訂單簿控制市場"
+date: "2025-08-31"
+tags: 
+  - "做市商"
+  - "價差管理"
+  - "市場微觀結構"
+summary: "**1. 溫和市場（無趨勢無波動）** 設置非常小的價差（spread） 薄利多銷策略"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1961954842508980432"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 做市商交易策略：如何透過訂單簿控制市場
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1961954842508980432)

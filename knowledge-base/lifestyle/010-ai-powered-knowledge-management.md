@@ -1,3 +1,26 @@
+---
+title: "利用 AI 自動整理推特書籤與 Telegram 對話紀錄"
+date: "2026-01-28"
+tags: 
+  - "AI"
+  - "知識管理"
+  - "自動化"
+  - "生產力"
+  - "Twitter書籤"
+  - "Telegram"
+summary: "佐哥分享了如何運用 AI 工具 (Jarvis/Moltbot) 自動整理推特書籤，將其轉化為結構化的筆記並儲存到知識庫中。同時，他也分享了如何透過讓 AI 讀取 Telegram 對話紀錄來解決 AI 失憶的問題，從而提高工作效率。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/zohanlin/status/2016518279913943223"
+  externalUrl: null
+  authorUsername: "zohanlin"
+---
+
 # 利用 AI 自動整理推特書籤與 Telegram 對話紀錄
 
 > **來源**: [@zohanlin](https://x.com/zohanlin/status/2016518279913943223)

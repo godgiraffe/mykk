@@ -1,3 +1,23 @@
+---
+title: "聰明錢包篩選方法：交易勝率與利潤分析"
+date: "2025-02-03"
+tags: 
+  - "錢包分析"
+  - "交易篩選"
+  - "利潤評估"
+summary: "**交易數量**：30 日交易數在 100~4000 之間，確保近一個月活躍但不能太活躍 **利潤率**：總利潤率（總盈利/總交易量）> 0.2 或 30 日利潤率 > 0.2 **排序方式**：按照總利潤排行"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cryptoxfeng/status/1886418415373754595"
+  externalUrl: null
+  authorUsername: "cryptoxfeng"
+---
+
 # 聰明錢包篩選方法：交易勝率與利潤分析
 
 > **來源**: [@cryptoxfeng](https://x.com/cryptoxfeng/status/1886418415373754595)

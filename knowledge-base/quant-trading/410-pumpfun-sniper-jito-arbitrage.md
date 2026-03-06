@@ -1,3 +1,23 @@
+---
+title: "自製 Pump Fun 狙擊槍：Solana 鏈上 PvP 交易指南"
+date: "2024-10-11"
+tags: 
+  - "狙擊交易"
+  - "Pump Fun"
+  - "Jito MEV"
+summary: "本文教學如何開發一個 Pump.fun 狙擊機器人，在 Solana 鏈上進行極致的 PvP 交易。主要實作內容包括："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/InkyWang/status/1844770938577182736"
+  externalUrl: "https://chainbuff.com/d/12"
+  authorUsername: "InkyWang"
+---
+
 # 自製 Pump Fun 狙擊槍：Solana 鏈上 PvP 交易指南
 
 > **來源**: [@InkyWang](https://x.com/InkyWang/status/1844770938577182736) | [原文連結](https://chainbuff.com/d/12)

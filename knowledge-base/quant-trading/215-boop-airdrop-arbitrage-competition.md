@@ -1,3 +1,23 @@
+---
+title: "BOOP 空投套利的獨木橋：市場微觀結構與搶跑優勢"
+date: ">"
+tags: 
+  - "套利競爭"
+  - "時機優勢"
+  - "鏈上數據分析"
+summary: "比如每次發現一個稍微有利潤空間的標的，前排赫然都有一個地址，而且人家早幾天前都過來霸佔好了位置。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1930544011888210404"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # BOOP 空投套利的獨木橋：市場微觀結構與搶跑優勢
 
 > **來源**: [@gm365](https://x.com/gm365/status/1930544011888210404)

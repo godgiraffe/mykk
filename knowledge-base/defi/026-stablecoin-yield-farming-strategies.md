@@ -1,3 +1,23 @@
+---
+title: "穩定幣理財進階策略 - 安全與高收益並存"
+date: ">"
+tags: 
+  - "穩定幣收益"
+  - "DeFi 協議"
+  - "風險管理"
+summary: "★ Insight ───────────────────────────────────── 這是一篇實戰導向的 DeFi 收益策略整理，作者以真實持倉為基礎分享經驗 文章按風險/收益/流動性需求分層，從無腦安全到需要主動監控的高收益機會 涵蓋中心化平台（幣安）與去中心化協議（Morpho、Kamino 等），適合不同資金規模的用戶 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dov_wo/status/2004160545046634859"
+  externalUrl: null
+  authorUsername: "dov_wo"
+---
+
 # 穩定幣理財進階策略 - 安全與高收益並存
 
 > **來源**: [@dov_wo](https://x.com/dov_wo/status/2004160545046634859)

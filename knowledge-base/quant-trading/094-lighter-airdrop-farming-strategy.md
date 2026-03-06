@@ -1,3 +1,23 @@
+---
+title: "Lighter 空投刷分策略與女巫檢測規則"
+date: "2025-10-18"
+tags: 
+  - "空投刷分"
+  - "對沖策略"
+  - "風控"
+summary: "★ Insight ───────────────────────────────────── 這是一篇關於 Lighter 空投刷分的實戰策略分享，包含大量操作細節 需要保留所有數據（分數、金額、交易量）和具體策略，這些是核心價值 內容涉及女巫檢測規則，需要完整保留規避方法和技術細節 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/tujie5678/status/1979401570061275382"
+  externalUrl: null
+  authorUsername: "tujie5678"
+---
+
 # Lighter 空投刷分策略與女巫檢測規則
 
 > **來源**: [@tujie5678](https://x.com/tujie5678/status/1979401570061275382)

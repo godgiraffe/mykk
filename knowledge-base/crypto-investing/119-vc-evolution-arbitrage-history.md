@@ -1,3 +1,23 @@
+---
+title: "VC 進化三部曲：套利編年史"
+date: "2025-07-18"
+tags: 
+  - "VC 策略"
+  - "市場心態"
+  - "信息套利"
+summary: "彼時傳統市場剛經歷了一場空前的金融危機,中本聰藉此暗示比特幣的出現是對傳統金融體系(尤其是政府對銀行的救助政策)的一種回應或抗議。他希望創建一種去中心化、不受政府操控的貨幣體系。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xcryptoHowe/status/1946044797736939565"
+  externalUrl: "https://x.com/i/article/1945887427136245760"
+  authorUsername: "0xcryptoHowe"
+---
+
 # VC 進化三部曲：套利編年史
 
 > **來源**: [@0xcryptoHowe](https://x.com/0xcryptoHowe/status/1946044797736939565) | [原文連結](https://x.com/i/article/1945887427136245760)

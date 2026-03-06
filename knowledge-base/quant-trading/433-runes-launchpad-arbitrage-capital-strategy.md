@@ -1,3 +1,23 @@
+---
+title: "Runes 打新與搬磚策略完整教程"
+date: "2024-06-01"
+tags: 
+  - "Runes打新"
+  - "套利策略"
+  - "資金管理"
+summary: "目前使用 bc1p（Taproot）和 bc1q（Native SegWit）這兩種交易腳本，實際成本差別不大。雖然有人說 bc1q 更便宜,但這主要是大量打新時成本差異才會明顯。實務上更重要的是觀察資產打新通常發生在哪種交易協議的地址,然後針對性地做資金留存。建議兩種協議都預留資金使用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xquqi/status/1796834089145921932"
+  externalUrl: "https://x.com/i/article/1796807582704951296"
+  authorUsername: "0xquqi"
+---
+
 # Runes 打新與搬磚策略完整教程
 
 > **來源**: [@0xquqi](https://x.com/0xquqi/status/1796834089145921932) | [原文連結](https://x.com/i/article/1796807582704951296)

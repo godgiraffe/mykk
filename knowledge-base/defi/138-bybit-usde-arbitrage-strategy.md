@@ -1,3 +1,23 @@
+---
+title: "Bybit USDe 套利策略：借 USDC 賺取 USDe 收益"
+date: "2025-07-21"
+tags: 
+  - "套利"
+  - "穩定幣"
+  - "借貸策略"
+summary: "Bybit USDe 套利策略是一種利用穩定幣之間利差的循環套利方法。核心原理是：以較低利率借入 USDC（6%），兌換成 USDe 後賺取更高的收益率（10%），從中獲取利差收益。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Route2FI/status/1947408751985615113"
+  externalUrl: "https://x.com/i/article/1946845672352673792"
+  authorUsername: "Route2FI"
+---
+
 # Bybit USDe 套利策略：借 USDC 賺取 USDe 收益
 
 > **來源**: [@Route2FI](https://x.com/Route2FI/status/1947408751985615113) | [原文連結](https://x.com/i/article/1946845672352673792)

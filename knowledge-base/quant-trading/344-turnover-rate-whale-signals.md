@@ -1,3 +1,23 @@
+---
+title: "高換手率與主力派發：迷因幣籌碼流動分析"
+date: "2024-12-06"
+tags: 
+  - "換手率"
+  - "籌碼派發"
+  - "主力行為"
+summary: "如果價格在短時間內快速拉升並伴隨高換手率，很可能是主力在拉高過程中逐步派發籌碼。此時主力利用市場情緒和追高資金,將籌碼高位賣給追漲的散戶。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BensonTWN/status/1865055948894801989"
+  externalUrl: null
+  authorUsername: "BensonTWN"
+---
+
 # 高換手率與主力派發：迷因幣籌碼流動分析
 
 > **來源**: [@BensonTWN](https://x.com/BensonTWN/status/1865055948894801989)

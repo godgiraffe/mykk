@@ -1,3 +1,23 @@
+---
+title: "各大交易所合約算法對比解析"
+date: ">"
+tags: 
+  - "合約算法"
+  - "交易所"
+  - "市場微觀結構"
+summary: "本文整理了各大中心化交易所的合約算法設計思路與特點對比,內容來自 @agintender 老師的「合約算法鐮刀」系列精華文章。涵蓋 Binance、OKX、Hyperliquid、Bybit、Bitget 等主流平台的合約機制。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/msfew_eth/status/1944939981098901779"
+  externalUrl: "https://twitter.com/msfew_eth/status/1944939981098901779/photo/1"
+  authorUsername: "msfew_eth"
+---
+
 # 各大交易所合約算法對比解析
 
 > **來源**: [@msfew_eth](https://x.com/msfew_eth/status/1944939981098901779) | [原文連結](https://twitter.com/msfew_eth/status/1944939981098901779/photo/1)

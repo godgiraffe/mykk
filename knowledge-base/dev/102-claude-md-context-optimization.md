@@ -1,3 +1,23 @@
+---
+title: "Claude 上下文優化：目錄索引知識管理策略"
+date: "2026-02-25"
+tags: 
+  - "Claude Code"
+  - "知識管理"
+  - "上下文優化"
+summary: "CLAUDE.md 只放無法被刪除的核心內容，通過目錄索引的方式找到子 CLAUDE.md 或關聯文檔，大幅減少上下文的占用。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hongming731/status/2026572039717531838"
+  externalUrl: "https://twitter.com/hongming731/status/2026572039717531838/photo/1"
+  authorUsername: "hongming731"
+---
+
 # Claude 上下文優化：目錄索引知識管理策略
 
 > **來源**: [@hongming731](https://x.com/hongming731/status/2026572039717531838) | [原文連結](https://twitter.com/hongming731/status/2026572039717531838/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "回測過擬合診斷：量化策略實盤失效的根本原因"
+date: "2025-05-18"
+tags: 
+  - "過擬合"
+  - "模型診斷"
+  - "實盤驗證"
+summary: "為何超過 70% 的量化交易策略在實盤中表現不如回測？關鍵在於回測過擬合問題以及缺乏標準化的模型診斷流程。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1923923953690812491"
+  externalUrl: null
+  authorUsername: "wquguru"
+---
+
 # 回測過擬合診斷：量化策略實盤失效的根本原因
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1923923953690812491)

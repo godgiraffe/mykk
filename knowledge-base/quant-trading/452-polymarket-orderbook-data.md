@@ -1,3 +1,23 @@
+---
+title: "Polymarket 完整訂單簿數據公開發布"
+date: ">"
+tags: 
+  - "訂單簿數據"
+  - "量化分析"
+  - "預測市場"
+summary: "作者發布了來自 Polymarket 的完整訂單簿數據轉儲（data dump）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/martkiro/status/2026327582627545548"
+  externalUrl: null
+  authorUsername: "martkiro"
+---
+
 # Polymarket 完整訂單簿數據公開發布
 
 > **來源**: [@martkiro](https://x.com/martkiro/status/2026327582627545548)

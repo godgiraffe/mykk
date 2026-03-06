@@ -1,3 +1,23 @@
+---
+title: "永續合約訂單簿機制深度學習"
+date: ">"
+tags: 
+  - "永續合約"
+  - "訂單簿"
+  - "期貨機制"
+summary: "詳細學習永續合約的規則後發現，以前的理解很淺，沒意識到永續合約本質上是**訂單簿機制**。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1945117968654008632"
+  externalUrl: "https://twitter.com/safety/unsafe_link_warning?unsafe_link=https://blog-blockchain.xyz/finance/cex-perp/"
+  authorUsername: "0xLogicLog"
+---
+
 # 永續合約訂單簿機制深度學習
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1945117968654008632) | [原文連結](https://twitter.com/safety/unsafe_link_warning?unsafe_link=https://blog-blockchain.xyz/finance/cex-perp/)

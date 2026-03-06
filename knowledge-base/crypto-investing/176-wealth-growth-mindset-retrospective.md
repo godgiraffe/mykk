@@ -1,3 +1,23 @@
+---
+title: "財富覺醒與成長反思：10個人生關鍵認知"
+date: "2024-12-07"
+tags: 
+  - "心態管理"
+  - "財富累積"
+  - "自我提升"
+summary: "年末了復盤這幾年自己成長過程中的不足，從投資到創業，如果能回到過去，我希望自己能早認清以下幾點。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Crypto_neil_/status/1865440850278543398"
+  externalUrl: null
+  authorUsername: "Crypto_neil_"
+---
+
 # 財富覺醒與成長反思：10個人生關鍵認知
 
 > **來源**: [@Crypto_neil_](https://x.com/Crypto_neil_/status/1865440850278543398)

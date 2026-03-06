@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性提供策略經驗分享 — Meteora 上的 Meme 牛市 LP 實戰"
+date: "2024-10-14"
+tags: 
+  - "DLMM"
+  - "流動性挖礦"
+  - "Meme 牛市"
+summary: "meme 行情井噴，鏈上 PVP 熱鬧非凡。但礙於年紀大了、體力不好，也只能換個方式參與 meme 熱潮：LP"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1845700782588620889"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 流動性提供策略經驗分享 — Meteora 上的 Meme 牛市 LP 實戰
 
 > **來源**: [@gm365](https://x.com/gm365/status/1845700782588620889)

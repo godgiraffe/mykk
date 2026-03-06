@@ -1,3 +1,23 @@
+---
+title: "DEX 平台對比與交易策略指南"
+date: "2025-09-20"
+tags: 
+  - "DEX交易"
+  - "套利對沖"
+  - "項目評估"
+summary: "**檔案名稱**：119-dex-platform-comparison-strategy.md **分類**：quant-trading（量化交易）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/web3a99/status/1969209916561977375"
+  externalUrl: "https://standx.com/referral?code=yush"
+  authorUsername: "web3a99"
+---
+
 # DEX 平台對比與交易策略指南
 
 > **來源**: [@web3a99](https://x.com/web3a99/status/1969209916561977375) | [原文連結](https://standx.com/referral?code=yush)

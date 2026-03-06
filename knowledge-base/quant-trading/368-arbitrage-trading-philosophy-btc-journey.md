@@ -1,3 +1,23 @@
+---
+title: "套利交易哲學 — 從 2 萬美元到 9 萬美元的技術修行"
+date: "2024-11-18"
+tags: 
+  - "套利"
+  - "市場心態"
+  - "技術交易"
+summary: "套利是個技術活，之前比特幣 2 萬美元的時候就在看這些內容，現在比特幣 9 萬美元了，還是在看這些內容。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/BitDanceUp/status/1858504640473792612"
+  externalUrl: "https://twitter.com/BitDanceUp/status/1858504640473792612/photo/1"
+  authorUsername: "BitDanceUp"
+---
+
 # 套利交易哲學 — 從 2 萬美元到 9 萬美元的技術修行
 
 > **來源**: [@BitDanceUp](https://x.com/BitDanceUp/status/1858504640473792612) | [原文連結](https://twitter.com/BitDanceUp/status/1858504640473792612/photo/1)

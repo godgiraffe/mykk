@@ -1,3 +1,23 @@
+---
+title: "低市值代幣篩選策略：70-500 萬市值的高角度機會"
+date: "2024-11-15"
+tags: 
+  - "代幣篩選"
+  - "市值策略"
+  - "風險管理"
+summary: "之前的想法是只玩篩選 Solana 上 2000 萬市值左右的代幣就好，後來玩了幾次發現 2000 萬市值代幣其實也很容易往下雪崩。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/cishanjia/status/1857299158090338665"
+  externalUrl: "https://twitter.com/cryptocishanjia/status/1857299158090338665/photo/1"
+  authorUsername: "cishanjia"
+---
+
 # 低市值代幣篩選策略：70-500 萬市值的高角度機會
 
 > **來源**: [@cishanjia](https://x.com/cishanjia/status/1857299158090338665) | [原文連結](https://twitter.com/cryptocishanjia/status/1857299158090338665/photo/1)

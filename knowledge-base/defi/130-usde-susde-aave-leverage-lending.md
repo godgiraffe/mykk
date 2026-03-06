@@ -1,3 +1,23 @@
+---
+title: "USDE/sUSDe 槓桿借貸策略與多鏈 DeFi 部位調整"
+date: "2025-08-03"
+tags: 
+  - "槓桿借貸"
+  - "穩定幣策略"
+  - "收益優化"
+summary: "這週操作非常多。貸了 4 萬 U,年化 3% 等於送錢🐶。總共理財部分達到 18.5 萬 U。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/cishangjia19674/status/1952028063921037740"
+  externalUrl: null
+  authorUsername: "cishangjia19674"
+---
+
 # USDE/sUSDe 槓桿借貸策略與多鏈 DeFi 部位調整
 
 > **來源**: [@cishangjia19674](https://x.com/cishangjia19674/status/1952028063921037740)

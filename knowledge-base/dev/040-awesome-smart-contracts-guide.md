@@ -1,3 +1,23 @@
+---
+title: "優秀智能合約專案學習指南"
+date: ">"
+tags: 
+  - "智能合約"
+  - "DeFi協議"
+  - "程式碼學習"
+summary: "這份清單整理了最優秀的智能合約專案代碼，包括 Aave、Compound、Curve 等 DeFi 協議，Art Gobblers 等 NFT 專案，以及 Synthetix 等衍生品專案。每個專案都提供了代碼倉庫和文檔連結，方便開發者學習和使用。還包括了 snekmate、Solady、Solmate 等智能合約函式庫。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/UpchainDAO/status/1950171104628396543"
+  externalUrl: "https://learnblockchain.cn/article/19077"
+  authorUsername: "UpchainDAO"
+---
+
 # 優秀智能合約專案學習指南
 
 > **來源**: [@UpchainDAO](https://x.com/UpchainDAO/status/1950171104628396543) | [原文連結](https://learnblockchain.cn/article/19077)

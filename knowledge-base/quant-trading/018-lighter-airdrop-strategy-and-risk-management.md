@@ -1,3 +1,23 @@
+---
+title: "Lighter 空投撸毛策略與風控實踐"
+date: "2026-01-02"
+tags: 
+  - "套利策略"
+  - "風險管理"
+  - "女巫防護"
+summary: "作者從 2024 年 8 月開始參與 Lighter 空投活動，初期隨意操作後暫停，11 月正式投入並將成本控制在 10u/分。整個策略開發歷時半個月，包含策略設計、風控機制與女巫防護三大核心。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/crazytidy/status/2006906248663294297"
+  externalUrl: null
+  authorUsername: "crazytidy"
+---
+
 # Lighter 空投撸毛策略與風控實踐
 
 > **來源**: [@crazytidy](https://x.com/crazytidy/status/2006906248663294297)

@@ -1,3 +1,23 @@
+---
+title: "GMX V1 重入漏洞攻擊事件分析：全球空頭平均價格操纵"
+date: "2025-07-18"
+tags: 
+  - "智能合約安全"
+  - "重入漏洞"
+  - "永續合約"
+summary: "2025 年 7 月 9 日，GMX V1 遭受黑客攻擊，損失約 4200 萬美元資產。攻擊者利用 executeDecreaseOrder 函數發送 ETH 的行為進行重入，繞過 enableLeverage 檢查和 globalShortAveragePrices 的更新進行開倉，從而操縱全局空頭平均價格（globalShortAveragePrices），抬高 GLP 代幣的價值。最後將 GLP 以池內資產（BTC、ETH、USD"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ACai_sec/status/1946137401279270923"
+  externalUrl: "https://www.cnblogs.com/ACaiGarden/p/18991716"
+  authorUsername: "ACai_sec"
+---
+
 # GMX V1 重入漏洞攻擊事件分析：全球空頭平均價格操纵
 
 > **來源**: [@ACai_sec](https://x.com/ACai_sec/status/1946137401279270923) | [原文連結](https://www.cnblogs.com/ACaiGarden/p/18991716)

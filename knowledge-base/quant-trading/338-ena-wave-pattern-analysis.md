@@ -1,3 +1,23 @@
+---
+title: "ENA 波段規律分析與交易實戰"
+date: "2024-12-21"
+tags: 
+  - "波段交易"
+  - "技術分析"
+  - "風險管理"
+summary: "瓜哥的拳擊教練說過一個故事，他關注的一個拳手，喜歡先讓對手打，在持續的防守中，觀察對手的出拳節奏，找到規律以後，幾下子就把對手打崩了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/liguagua/status/1870286315914441107"
+  externalUrl: null
+  authorUsername: "liguagua"
+---
+
 # ENA 波段規律分析與交易實戰
 
 > **來源**: [@liguagua](https://x.com/liguagua/status/1870286315914441107)

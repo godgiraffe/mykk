@@ -1,3 +1,23 @@
+---
+title: "DEX 曲線結合 LP 與 CEX 條件委託套利策略"
+date: "2025-11-28"
+tags: 
+  - "套利"
+  - "流動性提供"
+  - "波動率管理"
+summary: "有一條 DEX 的曲線，用分倉頭寸 LP + CEX 條件委託的形式，能幾乎完美契合做到幾乎穩賺手續費。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 50
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0Xweaksheep/status/1994475318745468961"
+  externalUrl: null
+  authorUsername: "0Xweaksheep"
+---
+
 # DEX 曲線結合 LP 與 CEX 條件委託套利策略
 
 > **來源**: [@0Xweaksheep](https://x.com/0Xweaksheep/status/1994475318745468961)

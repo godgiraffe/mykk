@@ -1,3 +1,23 @@
+---
+title: "PublicNode：102 條區塊鏈的免費公開 RPC 端點服務"
+date: "2025-10-31"
+tags: 
+  - "RPC服務"
+  - "區塊鏈基礎設施"
+  - "開發工具"
+summary: "與區塊鏈直接互動需要 RPC（Remote Procedure Call）端點。以下介紹兩個提供公開免費且全面的 RPC URL 網站，非常適合用於撰寫測試範例，或硬編碼到程式碼中。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1984251989111472217"
+  externalUrl: "https://publicnode.com/"
+  authorUsername: "0xLogicLog"
+---
+
 # PublicNode：102 條區塊鏈的免費公開 RPC 端點服務
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1984251989111472217) | [原文連結](https://publicnode.com/)

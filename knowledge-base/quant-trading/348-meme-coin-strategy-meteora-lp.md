@@ -1,3 +1,23 @@
+---
+title: "Meme 幣交易策略：用 Meteora LP 玩轉 Meme"
+date: "2024-11-04"
+tags: 
+  - "Meme幣"
+  - "Meteora"
+  - "LP策略"
+summary: "這是我入圈以來寫的第一篇比較系統的文章，簡單地做個自我介紹：入圈很早，分幣不賺，主打陪伴。剛畢業做了 3 個月的產品經理，然後就裸辭全職幣圈了。做過各種各樣東西，擼毛套利博空投炒 Meme，什麼都會什麼都不精。我個人的總體思路是偏保守型的，畢竟我想做一個一直留在牌桌上的人。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xPoseidon_sol/status/1853475079235191013"
+  externalUrl: "https://paragraph.com/@0x-33/xo1K3lD744LsVGglI6nn"
+  authorUsername: "0xPoseidon_sol"
+---
+
 # Meme 幣交易策略：用 Meteora LP 玩轉 Meme
 
 > **來源**: [@0xPoseidon_sol](https://x.com/0xPoseidon_sol/status/1853475079235191013) | [原文連結](https://paragraph.com/@0x-33/xo1K3lD744LsVGglI6nn)

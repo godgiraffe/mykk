@@ -1,3 +1,23 @@
+---
+title: "Unichain 年化 1000% UNI 套利：補貼杠杆與快照機制攻略"
+date: ">"
+tags: 
+  - "UNI 補貼"
+  - "流動性挖礦"
+  - "套利策略"
+summary: "薅來的 UNI 賣出去了,有時間複盤一下我是如何擼到年化 1000% 的 UNI 了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/DefiFarmerYue/status/1920453853763477955"
+  externalUrl: "https://uniscan.xyz/address/0xCcB6DA699b37a3fd76a6857cfA72019C86b6B15e#tokentxns"
+  authorUsername: "DefiFarmerYue"
+---
+
 # Unichain 年化 1000% UNI 套利：補貼杠杆與快照機制攻略
 
 > **來源**: [@DefiFarmerYue](https://x.com/DefiFarmerYue/status/1920453853763477955) | [原文連結](https://uniscan.xyz/address/0xCcB6DA699b37a3fd76a6857cfA72019C86b6B15e#tokentxns)

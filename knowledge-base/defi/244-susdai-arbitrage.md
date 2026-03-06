@@ -1,3 +1,23 @@
+---
+title: "sUSDai 跨協議套利策略 - 15 天 11% APY"
+date: ">"
+tags: 
+  - "DeFi套利"
+  - "Curve交換"
+  - "跨鏈橋接"
+summary: "**APY**: 11% **ROI**: +0.4% **期限**: 15 天 **流動性**: 500k 美元"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cryptophileee/status/2024372291510132786"
+  externalUrl: null
+  authorUsername: "Cryptophileee"
+---
+
 # sUSDai 跨協議套利策略 - 15 天 11% APY
 
 > **來源**: [@Cryptophileee](https://x.com/Cryptophileee/status/2024372291510132786)

@@ -1,3 +1,23 @@
+---
+title: "Claude Skills Marketplace — 3455 個開源技能市集"
+date: "2025-11-10"
+tags: 
+  - "Claude Skills"
+  - "工作流自動化"
+  - "開發工具"
+summary: "**Claude Skills Marketplace** 是一個 Claude Skills 開源技能市集，目前收錄了 **3455 個** Claude Skills。這些技能涵蓋開發、研究、內容創作等多種用途。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gkxspace/status/1987885651086233747"
+  externalUrl: "https://skillsmp.com/"
+  authorUsername: "gkxspace"
+---
+
 # Claude Skills Marketplace — 3455 個開源技能市集
 
 > **來源**: [@gkxspace](https://x.com/gkxspace/status/1987885651086233747) | [原文連結](https://skillsmp.com/)

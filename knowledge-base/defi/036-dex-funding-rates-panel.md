@@ -1,3 +1,23 @@
+---
+title: "DEX 資金費率監控面板"
+date: "2025-11-29"
+tags: 
+  - "資金費率"
+  - "套利機會"
+  - "DEX 聚合"
+summary: "聚合多個 DEX 的資金費率 自動換算成統一的 APY 計算跨平台的最大資金費路徑 實時更新，並把潛在套利機會標出來"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xYuCry/status/1994655465410891961"
+  externalUrl: "https://twitter.com/safety/unsafe_link_warning?unsafe_link=http://nova-btc.xyz"
+  authorUsername: "0xYuCry"
+---
+
 # DEX 資金費率監控面板
 
 > **來源**: [@0xYuCry](https://x.com/0xYuCry/status/1994655465410891961) | [原文連結](https://twitter.com/safety/unsafe_link_warning?unsafe_link=http://nova-btc.xyz)

@@ -1,3 +1,23 @@
+---
+title: "2024 年度空投撸毛總結：Infinex、HyperLiquid、ZK 項目經驗分享"
+date: "2024-12-06"
+tags: 
+  - "空投農耕"
+  - "項目選擇"
+  - "收益率分析"
+summary: "hyperliquid 發了 40 億美元，舉例來說有個 48k 分的大佬玩了 5 億 u 交易量合約，虧了 36 萬 u，居然能給價值 360 萬 u 的空投？你敢信。呃，結果他沒簽名……沒吃上。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ZKSgu/status/1865144406652977518"
+  externalUrl: "https://x.com/i/article/1865142234343165953"
+  authorUsername: "ZKSgu"
+---
+
 # 2024 年度空投撸毛總結：Infinex、HyperLiquid、ZK 項目經驗分享
 
 > **來源**: [@ZKSgu](https://x.com/ZKSgu/status/1865144406652977518) | [原文連結](https://x.com/i/article/1865142234343165953)

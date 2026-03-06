@@ -1,3 +1,23 @@
+---
+title: "使用 Cursor/Claude Code 復現 Kiro 的 Spec 工作流"
+date: "2025-07-16"
+tags: 
+  - "Claude Code"
+  - "軟體工程流程"
+  - "AI 工作流程"
+summary: "使用 Cursor/Claude Code 復現 Kiro 的 Spec 工作流，讓 AI 按照軟體工程的方式來工作："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/being99/status/1945432092441272656"
+  externalUrl: null
+  authorUsername: "being99"
+---
+
 # 使用 Cursor/Claude Code 復現 Kiro 的 Spec 工作流
 
 > **來源**: [@being99](https://x.com/being99/status/1945432092441272656)

@@ -1,3 +1,23 @@
+---
+title: "統計套利原理與風險評估方法"
+date: "2025-05-04"
+tags: 
+  - "統計套利"
+  - "風險管理"
+  - "均值回歸"
+summary: "真正意義上完全無風險的套利機會在現在這種相對高效的市場裡是很少見並且轉瞬即逝的(某圈是例外),理解基於統計的套利原理(如均值回歸套利、風險平價套利)和風險評估方法(如半方差、索提諾比率/Sortino Ratio),並且思考:"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1919040696591532125"
+  externalUrl: null
+  authorUsername: "wquguru"
+---
+
 # 統計套利原理與風險評估方法
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1919040696591532125)

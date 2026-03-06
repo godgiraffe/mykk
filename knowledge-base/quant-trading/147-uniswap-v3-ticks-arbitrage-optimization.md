@@ -1,3 +1,23 @@
+---
+title: "Uniswap V3 Tick 資料快速獲取與套利最佳化"
+date: "2025-08-20"
+tags: 
+  - "Uniswap V3"
+  - "Tick 資料"
+  - "套利優化"
+summary: "在進行 V3 pool 的代幣交換計算時，需要考慮池子的 tick 資料以及當前 tick 的流動性狀態。過去參照大佬 Zacholme7/PoolSync 使用從歷史區塊同步的方法來獲取池子的 ticks 狀態，但實際使用中只需要當前池子的 ticks 資料，並不需要知道歷史的變化。查閱文檔和資料後發現有更好的方法。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmomonifty/status/1958100154839691687"
+  externalUrl: null
+  authorUsername: "0xmomonifty"
+---
+
 # Uniswap V3 Tick 資料快速獲取與套利最佳化
 
 > **來源**: [@0xmomonifty](https://x.com/0xmomonifty/status/1958100154839691687)

@@ -1,3 +1,23 @@
+---
+title: "OKX DEX Router EVM 開源合約指南"
+date: "2025-12-13"
+tags: 
+  - "路由合約"
+  - "DEX聚合"
+  - "鏈上套利"
+summary: "★ Insight ───────────────────────────────────── 1. OKX 開源策略：繼 Solana Router 後再次開源 EVM 版本，顯示其在 DEX 聚合器領域的技術實力 2. 生態影響：許多交易所和錢包的路由參考 OKX 實作，開源精神促進整個生態發展 3. 套利價值：80+ 適配器覆蓋主流 DEX，適合鏈上套利和交易機器人開發 ──────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xAA_Science/status/1999873173014430077"
+  externalUrl: "https://github.com/okxlabs/DEX-Router-EVM-V1"
+  authorUsername: "0xAA_Science"
+---
+
 # OKX DEX Router EVM 開源合約指南
 
 > **來源**: [@0xAA_Science](https://x.com/0xAA_Science/status/1999873173014430077) | [原文連結](https://github.com/okxlabs/DEX-Router-EVM-V1)

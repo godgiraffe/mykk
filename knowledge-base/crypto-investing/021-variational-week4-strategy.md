@@ -1,3 +1,23 @@
+---
+title: "Variational 第四週積分增長策略"
+date: "2026-01-07"
+tags: 
+  - "加密衍生品"
+  - "積分挖礦"
+  - "對沖策略"
+summary: "作者基於前三週的實踐經驗以及社群內的中外復盤，總結出 9 條 Variational 平台積分增長策略。核心觀點：**Variational 的積分將非常值錢，預計會達到 $30/分**。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/tiger_web3/status/2008907099149852963"
+  externalUrl: "https://x.com/tiger_web3/status/2008292159032893630"
+  authorUsername: "tiger_web3"
+---
+
 # Variational 第四週積分增長策略
 
 > **來源**: [@tiger_web3](https://x.com/tiger_web3/status/2008907099149852963) | [原文連結](https://x.com/tiger_web3/status/2008292159032893630)

@@ -1,3 +1,23 @@
+---
+title: "CodeX PR 審核迴圈自動化 Skill"
+date: ">"
+tags: 
+  - "GitHub自動化"
+  - "代碼審核"
+  - "Claude Code"
+summary: "這是一個針對 GitHub 綁定的 CodeX 帳號設計的自動化 PR 審核迴圈 Skill，能完整串接從修改程式碼到通過審核的整個流程。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/victor_wu/status/2008554986264031604"
+  externalUrl: "https://github.com/victorGPT/my_coding_agent_share/tree/main/codex-pr-review-loop"
+  authorUsername: "victor_wu"
+---
+
 # CodeX PR 審核迴圈自動化 Skill
 
 > **來源**: [@victor_wu](https://x.com/victor_wu/status/2008554986264031604) | [原文連結](https://github.com/victorGPT/my_coding_agent_share/tree/main/codex-pr-review-loop)

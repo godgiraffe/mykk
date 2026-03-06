@@ -1,3 +1,23 @@
+---
+title: "Google Gemini AI Pro 免費一年註冊指南"
+date: ">"
+tags: 
+  - "Gemini Pro"
+  - "免費試用"
+  - "學生帳戶"
+summary: "Google Gemini AI Pro 提供學生免費一年的方案，透過註冊 edu 學生郵箱即可完成驗證。整個流程約 5 分鐘，需要美國 IP 和一張可綁定的卡片（可使用 Bitget U 卡避免盜刷風險）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xStudy/status/1993133787971289120"
+  externalUrl: "https://accounts.psu.edu/create/new"
+  authorUsername: "0xStudy"
+---
+
 # Google Gemini AI Pro 免費一年註冊指南
 
 > **來源**: [@0xStudy](https://x.com/0xStudy/status/1993133787971289120) | [原文連結](https://accounts.psu.edu/create/new)

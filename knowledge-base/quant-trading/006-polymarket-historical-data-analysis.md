@@ -1,3 +1,24 @@
+---
+title: "Polymarket 全量歷史數據分析"
+date: "2026-02-11"
+tags: 
+  - "量化交易"
+  - "Polymarket"
+  - "數據分析"
+  - "市場微觀結構"
+summary: "**總覽：** 本文整理了關於 Polymarket 自 2020 年至今的全量歷史交易數據（超過 4 億筆交易）的相關資訊。作者 @runes_leo (Leo) 強調，透過深入研究這些數據，才能發掘真正的投資機會。許多基於地址追蹤的策略，經過回測後顯示其價值有限。在 AI 時代，數據分析能力至關重要。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2021600726112489627"
+  externalUrl: null
+  authorUsername: "runes_leo"
+---
+
 # Polymarket 全量歷史數據分析
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2021600726112489627)

@@ -1,3 +1,23 @@
+---
+title: "Pendle 穩定收益策略：以 ENA 為例的保護性買權套利"
+date: "2025-09-10"
+tags: 
+  - "Pendle"
+  - "覆蓋性買權"
+  - "空頭保護"
+summary: "七月 ENA 強勢上行後，我偏向 ENA 會有一波回調，於是一路從 ENA 0.69 空到 0.85，帳面浮虧 5k；多虧了 @pendle_fi @ethena 的 YT 機制，整體經過調倉還有些許盈餘。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Cryptorobber1/status/1965710943305994652"
+  externalUrl: "https://twitter.com/Cryptorobber1/status/1965710943305994652/photo/1"
+  authorUsername: "Cryptorobber1"
+---
+
 # Pendle 穩定收益策略：以 ENA 為例的保護性買權套利
 
 > **來源**: [@Cryptorobber1](https://x.com/Cryptorobber1/status/1965710943305994652) | [原文連結](https://twitter.com/Cryptorobber1/status/1965710943305994652/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "盤口微觀結構：高頻交易的 6 個因子模型"
+date: ">"
+tags: 
+  - "盤口分析"
+  - "高頻交易"
+  - "訂單流"
+summary: "每個人都知道市場總是往「阻力最小」的方向走，但在高頻中，這種「阻力」反而是最難描述的。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xYuCry/status/1995775488149860748"
+  externalUrl: "https://twitter.com/safety/unsafe_link_warning?unsafe_link=http://nova-btc.xyz"
+  authorUsername: "0xYuCry"
+---
+
 # 盤口微觀結構：高頻交易的 6 個因子模型
 
 > **來源**: [@0xYuCry](https://x.com/0xYuCry/status/1995775488149860748) | [原文連結](https://twitter.com/safety/unsafe_link_warning?unsafe_link=http://nova-btc.xyz)

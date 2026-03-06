@@ -1,3 +1,23 @@
+---
+title: "幣安 THE 與 OKX 三巨頭交易所拉盤策略對比"
+date: "2024-11-27"
+tags: 
+  - "交易所競爭"
+  - "市場拉盤"
+  - "牛市策略"
+summary: "幣安 $THE 與 OKX 三巨頭交易所在拉盤策略上的對比：交易所需要親自下場拉盤，否則即使在牛市中也會像熊市一樣表現低迷。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 51
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1861807926295593155"
+  externalUrl: "https://twitter.com/richrichardoz/status/1861807926295593155/photo/1"
+  authorUsername: "richrichardoz"
+---
+
 # 幣安 THE 與 OKX 三巨頭交易所拉盤策略對比
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1861807926295593155) | [原文連結](https://twitter.com/richrichardoz/status/1861807926295593155/photo/1)

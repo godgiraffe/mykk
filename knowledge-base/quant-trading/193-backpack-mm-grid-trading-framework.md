@@ -1,3 +1,23 @@
+---
+title: "Backpack 做市與網格交易框架"
+date: "2025-07-02"
+tags: 
+  - "做市策略"
+  - "多交易所"
+  - "量化交易"
+summary: "這是一個支援對沖與做市策略的加密貨幣交易框架，具備多交易所自助接入與自訂策略擴充能力。系統內建自動化做市功能，可透過維持買賣價差獲取穩定收益。使用邀請連結可獲得 10~35% 自返傭（由官方自動發放）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/practice_y11/status/1940418624155713758"
+  externalUrl: "https://github.com/yanowo/Backpack-MM-Simple"
+  authorUsername: "practice_y11"
+---
+
 # Backpack 做市與網格交易框架
 
 > **來源**: [@practice_y11](https://x.com/practice_y11/status/1940418624155713758) | [原文連結](https://github.com/yanowo/Backpack-MM-Simple)

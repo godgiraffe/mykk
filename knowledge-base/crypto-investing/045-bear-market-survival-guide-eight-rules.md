@@ -1,3 +1,23 @@
+---
+title: "熊市生存手冊：八項自救守則"
+date: ">"
+tags: 
+  - "熊市策略"
+  - "風險管理"
+  - "資產配置"
+summary: "寫篇「熊市生存手冊」，每個都是我自己吃過虧教過學費，到現在仍然記憶猶新的，做到這些至少會讓你避開大的坑，保證你活下來，希望你能謹記。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Michael_Liu93/status/1990763500994789565"
+  externalUrl: null
+  authorUsername: "Michael_Liu93"
+---
+
 # 熊市生存手冊：八項自救守則
 
 > **來源**: [@Michael_Liu93](https://x.com/Michael_Liu93/status/1990763500994789565)

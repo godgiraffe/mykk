@@ -1,3 +1,23 @@
+---
+title: "凸優化求解 AMM 最佳路由"
+date: ">"
+tags: 
+  - "AMM"
+  - "凸優化"
+  - "交易路由"
+summary: "凸優化求解 AMM 最佳路由不是很難的問題，上週末花時間把論文讀了一遍，今天下午約了清華數學大佬討論了我的筆記的一些疑問，今天晚上把筆記整理成了一篇博客。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wong_ssh/status/1973819246561144926"
+  externalUrl: "https://twitter.com/wong_ssh/status/1973819246561144926/photo/1"
+  authorUsername: "wong_ssh"
+---
+
 # 凸優化求解 AMM 最佳路由
 
 > **來源**: [@wong_ssh](https://x.com/wong_ssh/status/1973819246561144926) | [原文連結](https://twitter.com/wong_ssh/status/1973819246561144926/photo/1)

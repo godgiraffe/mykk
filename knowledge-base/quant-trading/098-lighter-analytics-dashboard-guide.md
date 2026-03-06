@@ -1,3 +1,23 @@
+---
+title: "Lighter 分析儀表板完整指南：查看交易員倉位、預估收入與空投"
+date: "2025-10-17"
+tags: 
+  - "Lighter協議"
+  - "交易分析工具"
+  - "空投預估"
+summary: "今天來介紹一個關於 @Lighter_xyz 由 @0xJaehaerys 製作的新網站：https://lighter.gelora.study"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/c_dylanber/status/1979002654291562599"
+  externalUrl: "https://lighter.gelora.study/"
+  authorUsername: "c_dylanber"
+---
+
 # Lighter 分析儀表板完整指南：查看交易員倉位、預估收入與空投
 
 > **來源**: [@c_dylanber](https://x.com/c_dylanber/status/1979002654291562599) | [原文連結](https://lighter.gelora.study/)

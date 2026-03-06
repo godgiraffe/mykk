@@ -1,3 +1,24 @@
+---
+title: "Pendle 到期 YT 進場機會"
+date: "> **標籤**: `Pendle` `YT` `DeFi` `收益耕作`"
+tags: 
+  - "Pendle"
+  - "YT"
+  - "DeFi"
+  - "收益耕作"
+summary: "本文整理自 @BTCLIN (Mr. Lin 霖先生 ｜Pendle Maxi) 的觀點，指出 Pendle 今天有大規模池子到期，是進場 YT 的好時機。文章推薦了 syzUSD、stcUSD 和 MidasRWA 在 Syrupfi 的池子，並分析了其中的收益機會。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BTCLIN/status/2016801483988332609"
+  externalUrl: null
+  authorUsername: "BTCLIN"
+---
+
 # Pendle 到期 YT 進場機會
 
 > **來源**: [@BTCLIN](https://x.com/BTCLIN/status/2016801483988332609)

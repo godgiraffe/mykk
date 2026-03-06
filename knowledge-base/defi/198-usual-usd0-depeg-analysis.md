@@ -1,3 +1,23 @@
+---
+title: "深度解析 Usual：USD0++ 脫錨與循環貸爆倉背後的真相"
+date: ">"
+tags: 
+  - "穩定幣設計"
+  - "DeFi 風險"
+  - "經濟模型崩潰"
+summary: "USD0 是一種等額抵押的穩定幣，使用 RWA 資產作抵押，所有的 USD0 都有等值的 RWA 資產作支撐。目前大部分 USD0 都是用 USYC 鑄造產生的，還有部分 USD0 使用了 M 作為抵押品（USYC 和 M 都是用美國短期國債作為擔保的 RWA 資產）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/godrealmx/status/1879727651855925250"
+  externalUrl: "https://x.com/i/article/1879722670549512192"
+  authorUsername: "godrealmx"
+---
+
 # 深度解析 Usual：USD0++ 脫錨與循環貸爆倉背後的真相
 
 > **來源**: [@godrealmx](https://x.com/godrealmx/status/1879727651855925250) | [原文連結](https://x.com/i/article/1879722670549512192)

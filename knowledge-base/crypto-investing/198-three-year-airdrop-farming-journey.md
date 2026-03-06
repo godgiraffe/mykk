@@ -1,3 +1,23 @@
+---
+title: "撸毛三年史：從 3000 元到 40 萬美金的空投致富經歷"
+date: ">"
+tags: 
+  - "空投撸毛"
+  - "執行力"
+  - "風險管理"
+summary: "師兄大概是 2021 年入圈，那年是加密貨幣動物幣狂熱的時期。他從最初被人安利 Shib，到後來壓中寶貝狗，3000 塊人民幣的本金，在各種土狗項目裡大殺四方，靠著那陣子的動物園狂熱，資產一度做到十萬。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/biteye_sister/status/1834163138478178626"
+  externalUrl: "https://x.com/i/article/1833373834436874241"
+  authorUsername: "biteye_sister"
+---
+
 # 撸毛三年史：從 3000 元到 40 萬美金的空投致富經歷
 
 > **來源**: [@biteye_sister](https://x.com/biteye_sister/status/1834163138478178626) | [原文連結](https://x.com/i/article/1833373834436874241)

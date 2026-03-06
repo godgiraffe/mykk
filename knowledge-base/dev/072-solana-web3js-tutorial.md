@@ -1,3 +1,23 @@
+---
+title: "Solana Web3.js 初學者教程"
+date: "2024-11-16"
+tags: 
+  - "Solana開發"
+  - "Web3.js"
+  - "區塊鏈開發"
+summary: "Solana Web3.js 函式庫是用於與 Solana 區塊鏈進行互動的 JavaScript 基礎庫。本教程由 Buff 社區成員編寫，每週更新 1-3 節，旨在透過簡單的範例幫助開發者快速上手 Solana 區塊鏈開發。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/InkyWang/status/1857759018015666478"
+  externalUrl: "https://github.com/ChainBuff/solana-web3js"
+  authorUsername: "InkyWang"
+---
+
 # Solana Web3.js 初學者教程
 
 > **來源**: [@InkyWang](https://x.com/InkyWang/status/1857759018015666478) | [原文連結](https://github.com/ChainBuff/solana-web3js)

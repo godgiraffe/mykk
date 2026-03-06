@@ -1,3 +1,23 @@
+---
+title: "度過熊市 共克時艱"
+date: ">"
+tags: 
+  - "熊市策略"
+  - "心態管理"
+  - "加密貨幣投資"
+summary: "**這是一個 X Spaces 音頻節目的錄音**，標題為「度過熊市 共克時艱」（簡體中文），已結束（ENDED - 3小時前）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/daidaibtc/status/1910309748903411735"
+  externalUrl: "https://twitter.com/i/spaces/1ynJOlPXPalxR"
+  authorUsername: "daidaibtc"
+---
+
 # 度過熊市 共克時艱
 
 > **來源**: [@daidaibtc](https://x.com/daidaibtc/status/1910309748903411735) | [原文連結](https://twitter.com/i/spaces/1ynJOlPXPalxR)

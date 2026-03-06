@@ -1,3 +1,23 @@
+---
+title: "鏈上內幕地址追蹤技巧 - GMGN 持有者分析法"
+date: "2024-10-11"
+tags: 
+  - "聰明錢追蹤"
+  - "持有者排序"
+  - "低成本地址"
+summary: "先確定一個你認為的內幕盤，或者一直在漲的牛逼盤。**注意這裡盡量選擇開盤 24 小時以內的項目**（後面有解釋原因）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/angel_0x13/status/1844660162856120361"
+  externalUrl: null
+  authorUsername: "angel_0x13"
+---
+
 # 鏈上內幕地址追蹤技巧 - GMGN 持有者分析法
 
 > **來源**: [@angel_0x13](https://x.com/angel_0x13/status/1844660162856120361)

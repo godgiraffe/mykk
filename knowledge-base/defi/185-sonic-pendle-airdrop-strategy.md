@@ -1,3 +1,23 @@
+---
+title: "Sonic×Pendle 指南：如何把空投放大 10 倍"
+date: ">"
+tags: 
+  - "Sonic"
+  - "Pendle"
+  - "流動性挖礦"
+summary: "這可能是你擼 @SonicLabs 最好的方式,根據 @BTW0205 的思路做了一張圖,結合我之前的推文方法,綜合 APY 收益 20%~150%。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/taolige666/status/1904351595263082537"
+  externalUrl: "https://twitter.com/taolige666/status/1904351595263082537/photo/1"
+  authorUsername: "taolige666"
+---
+
 # Sonic×Pendle 指南：如何把空投放大 10 倍
 
 > **來源**: [@taolige666](https://x.com/taolige666/status/1904351595263082537) | [原文連結](https://twitter.com/taolige666/status/1904351595263082537/photo/1)

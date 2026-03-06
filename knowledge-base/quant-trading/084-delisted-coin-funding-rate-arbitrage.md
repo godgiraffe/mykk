@@ -1,3 +1,23 @@
+---
+title: "下架幣合約套利策略：資金費率套利時機選擇"
+date: "2025-10-31"
+tags: 
+  - "資金費率"
+  - "套利"
+  - "下架幣"
+summary: "提供一個做下架幣套利的思路：某些平台幣種發布合約下架公告後，價格會出現輕微脫錨且不一定會收斂。去套下架前的正資金費率雖然盈利空間很大，但會有潛在的逼空風險。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/iBaiyun04/status/1984281375038636471"
+  externalUrl: null
+  authorUsername: "iBaiyun04"
+---
+
 # 下架幣合約套利策略：資金費率套利時機選擇
 
 > **來源**: [@iBaiyun04](https://x.com/iBaiyun04/status/1984281375038636471)

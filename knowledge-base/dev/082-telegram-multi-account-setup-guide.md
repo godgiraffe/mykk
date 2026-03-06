@@ -1,3 +1,23 @@
+---
+title: "Telegram 多開與防封教程整合指南"
+date: "2024-09-21"
+tags: 
+  - "多開工具"
+  - "Telegram"
+  - "帳號安全"
+summary: "### 1. 電腦版 ADS 多開教程 來源：PP @cryptohapip https://t.co/VRi8lzw8jO"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/WY_mask/status/1837564765344092527"
+  externalUrl: "https://x.com/cryptohapip/status/1836412895053386189"
+  authorUsername: "WY_mask"
+---
+
 # Telegram 多開與防封教程整合指南
 
 > **來源**: [@WY_mask](https://x.com/WY_mask/status/1837564765344092527) | [原文連結](https://x.com/cryptohapip/status/1836412895053386189)

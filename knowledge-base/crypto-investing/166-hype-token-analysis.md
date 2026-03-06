@@ -1,3 +1,23 @@
+---
+title: "HYPE 代幣分析"
+date: "2025-02-02"
+tags: 
+  - "代幣分析"
+  - "$HYPE"
+  - "投資機會"
+summary: "根據截圖內容，這是一則簡短的推文，內容為「$HYPE YYDS」加上一張 Hyperliquid 交易介面的截圖。以下是整理後的正文："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/aliez_ren/status/1885953991127028143"
+  externalUrl: "https://twitter.com/aliez_ren/status/1885953991127028143/video/1"
+  authorUsername: "aliez_ren"
+---
+
 # HYPE 代幣分析
 
 > **來源**: [@aliez_ren](https://x.com/aliez_ren/status/1885953991127028143) | [原文連結](https://twitter.com/aliez_ren/status/1885953991127028143/video/1)

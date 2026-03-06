@@ -1,3 +1,25 @@
+---
+title: "Uniswap LP 實戰策略分享"
+date: "2026-02-09"
+tags: 
+  - "DeFi"
+  - "LP"
+  - "Uniswap"
+  - "Liquidity Provision"
+  - "Impermanent Loss"
+summary: "指標 為什麼重要 ------ ----------- **鎖倉量大** 經過該池子的交易滑點低 **交易量大** 資金池裡手續費多"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/11dizhu/status/2020717219043475891"
+  externalUrl: null
+  authorUsername: "11dizhu"
+---
+
 # Uniswap LP 實戰策略分享
 
 > **來源**: [十一地主 (@11dizhu)](https://x.com/11dizhu/status/2020717219043475891)

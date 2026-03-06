@@ -1,3 +1,23 @@
+---
+title: "大猩猩市值配置原則討論 — Spaces 線上討論"
+date: ">"
+tags: 
+  - "投資組合配置"
+  - "宏觀策略"
+  - "加密資產"
+summary: "**嘉賓陣容**： Odyssey（@OdysseysEth） Zhen Dong（@zhendong2020） Peicai Li（@pcfli）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/E2mResearch/status/1976238909240799252"
+  externalUrl: "https://twitter.com/i/spaces/1mnxeNwrypRKX"
+  authorUsername: "E2mResearch"
+---
+
 # 大猩猩市值配置原則討論 — Spaces 線上討論
 
 > **來源**: [@E2mResearch](https://x.com/E2mResearch/status/1976238909240799252) | [原文連結](https://twitter.com/i/spaces/1mnxeNwrypRKX)

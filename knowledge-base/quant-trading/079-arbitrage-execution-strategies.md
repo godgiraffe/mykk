@@ -1,3 +1,23 @@
+---
+title: "套利交易執行策略與風險管理"
+date: "2025-11-12"
+tags: 
+  - "套利"
+  - "價差交易"
+  - "風控"
+summary: "就像 @rnmumu3 說的，套利就是高勝率、低盈虧比的交易；經典的價差交易的方向也是二選一：收斂或者發散。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1988483261182673312"
+  externalUrl: null
+  authorUsername: "Boywus"
+---
+
 # 套利交易執行策略與風險管理
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1988483261182673312)

@@ -1,3 +1,23 @@
+---
+title: "Runes 協議常用工具與生態指南"
+date: "2024-04-21"
+tags: 
+  - "Runes"
+  - "比特幣生態"
+  - "開發工具"
+summary: "**BRC20、Runes、STX 代幣資訊** https://t.co/y01RYUaPzg"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/maik2hello/status/1782078124404207864"
+  externalUrl: "https://twitter.com/RunesMarketCap"
+  authorUsername: "maik2hello"
+---
+
 # Runes 協議常用工具與生態指南
 
 > **來源**: [@maik2hello](https://x.com/maik2hello/status/1782078124404207864) | [原文連結](https://twitter.com/RunesMarketCap)

@@ -1,3 +1,23 @@
+---
+title: "Ethereum MEV 資源彙編與套利工具指南"
+date: ">"
+tags: 
+  - "MEV套利"
+  - "市場微觀結構"
+  - "DeFi開發"
+summary: "太好了！我已經成功抓取到完整的 MEV 資源列表。現在讓我整理成結構化的繁體中文文章："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/1996419977679863832"
+  externalUrl: "https://github.com/Zacholme7/Mev-aholic/blob/main/eth.md"
+  authorUsername: "dan326714"
+---
+
 # Ethereum MEV 資源彙編與套利工具指南
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/1996419977679863832) | [原文連結](https://github.com/Zacholme7/Mev-aholic/blob/main/eth.md)

@@ -1,3 +1,23 @@
+---
+title: "合約現貨 CVD 分析：識別莊家控盤與市場結構變化"
+date: "2024-10-11"
+tags: 
+  - "市場微觀結構"
+  - "合約分析"
+  - "莊家行為"
+summary: "對於主力控盤率高、喜歡在交易所進行「積極」市值管理的幣種，觀察合約和現貨的交易數據通常比技術分析更有效。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/banezh/status/1844833998679531832"
+  externalUrl: null
+  authorUsername: "banezh"
+---
+
 # 合約現貨 CVD 分析：識別莊家控盤與市場結構變化
 
 > **來源**: [@banezh](https://x.com/banezh/status/1844833998679531832)

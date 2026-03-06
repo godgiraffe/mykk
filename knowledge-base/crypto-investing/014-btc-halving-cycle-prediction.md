@@ -1,3 +1,26 @@
+---
+title: "BTC減半週期預測"
+date: ">"
+tags: 
+  - "BTC"
+  - "減半"
+  - "牛市"
+  - "熊市"
+  - "週期"
+  - "價格預測"
+summary: "預測項目 預測時間/數值 備註 --- --- --- 熊市見底時間 明年 (2025) 3月 熊市底部價格 約 38,000 美元 底部震盪區間 35,000 美元 ~ 47,000 美元 震盪幅度約 34.29%，發生於 2027 年一整年 下一次 BTC 減半時間 2028 年 4 月 20 日附近 預計減半後有 1.5 年牛市"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 51
+evergreenScore: 43
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmagnolia/status/2019376184564576581"
+  externalUrl: null
+  authorUsername: "0xmagnolia"
+---
+
 # BTC減半週期預測
 
 > **來源**: [@0xmagnolia](https://x.com/0xmagnolia/status/2019376184564576581)

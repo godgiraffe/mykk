@@ -1,3 +1,23 @@
+---
+title: "TX Graph - 交易視覺化工具"
+date: "2025-11-29"
+tags: 
+  - "區塊鏈工具"
+  - "交易分析"
+  - "可視化"
+summary: "根據我的查找，TX Graph 的原始連結已經失效，但這是一個**區塊鏈交易視覺化工具**的概念。由於原始連結無法訪問，我只能根據推文資訊和類似工具整理出簡短內容："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ProgrammerSmart/status/1994796882951115211"
+  externalUrl: "https://tx-graph-eight.vercel.app/"
+  authorUsername: "ProgrammerSmart"
+---
+
 # TX Graph - 交易視覺化工具
 
 > **來源**: [@ProgrammerSmart](https://x.com/ProgrammerSmart/status/1994796882951115211) | [原文連結](https://tx-graph-eight.vercel.app/)

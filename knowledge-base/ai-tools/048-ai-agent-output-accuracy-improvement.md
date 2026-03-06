@@ -1,3 +1,23 @@
+---
+title: "如何有效提升 AI Agent 輸出準確率：從 40% 到 90%"
+date: "2026-02-13"
+tags: 
+  - "Agent 規則"
+  - "Prompt 工程"
+  - "系統設計"
+summary: "★ Insight ───────────────────────────────────── 這是一篇關於 AI Agent 規則設計的深度實戰經驗。作者發現： 1. **抽象規則命中率只有 40%**，但「具體流程 + 真實失敗經驗」可達 90%+ 2. **Context Attention Budget**：規則文件超過 200 行，後半部分遵守率會大幅下降 3. **Markdown as Pseudo-Law**：把規則寫進"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 66
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xxx111god/status/2022352959133151433"
+  externalUrl: "https://x.com/i/article/2022346145557512195"
+  authorUsername: "xxx111god"
+---
+
 # 如何有效提升 AI Agent 輸出準確率：從 40% 到 90%
 
 > **來源**: [@xxx111god](https://x.com/xxx111god/status/2022352959133151433) | [原文連結](https://x.com/i/article/2022346145557512195)

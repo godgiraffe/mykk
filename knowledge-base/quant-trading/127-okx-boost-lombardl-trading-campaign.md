@@ -1,3 +1,23 @@
+---
+title: "OKX Boost 刷量攻略：交易對選擇、手續費折扣與風險提示"
+date: "2025-09-13"
+tags: 
+  - "OKX Boost"
+  - "刷量策略"
+  - "空投套利"
+summary: "OKX Boost 刷量攻略彙總。第一期 Linea 利潤是 1 積分 = 57U，收益可觀，前幾期大概率能吃肉。Boost 統計的是 15 天平均交易量，只要前幾天多刷一點，也能追上早刷的人。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xiaoyubtc/status/1966782690977604020"
+  externalUrl: "https://x.com/xiaoyubtc/status/1960161525743628667"
+  authorUsername: "xiaoyubtc"
+---
+
 # OKX Boost 刷量攻略：交易對選擇、手續費折扣與風險提示
 
 > **來源**: [@xiaoyubtc](https://x.com/xiaoyubtc/status/1966782690977604020) | [原文連結](https://x.com/xiaoyubtc/status/1960161525743628667)

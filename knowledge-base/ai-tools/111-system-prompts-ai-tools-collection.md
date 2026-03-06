@@ -1,3 +1,23 @@
+---
+title: "30000+ 行 AI 編碼工具系統提示詞完整集合"
+date: "2025-04-20"
+tags: 
+  - "系統提示詞"
+  - "AI 工程工具"
+  - "Prompt 工程"
+summary: "這是一個收錄超過 30,000 行 AI 編碼工具系統提示詞的開源集合，涵蓋市面上主流 AI 開發工具的完整 prompt 設定。專案旨在幫助開發者更好地使用這些 AI 工具，同時學習如何更清晰地表達需求。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/fetalkpodcast/status/1913988051254096094"
+  externalUrl: "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  authorUsername: "fetalkpodcast"
+---
+
 # 30000+ 行 AI 編碼工具系統提示詞完整集合
 
 > **來源**: [@fetalkpodcast](https://x.com/fetalkpodcast/status/1913988051254096094) | [原文連結](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)

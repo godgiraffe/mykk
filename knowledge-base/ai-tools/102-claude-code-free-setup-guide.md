@@ -1,3 +1,23 @@
+---
+title: "Claude Code 免費額度設置教程"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "API設置"
+  - "編程工具"
+summary: "本教程介紹如何免費獲得 $100 額度使用最新的 AI 編碼工具 Claude Code，特別針對幣圈小白不會編程的選手，實現嘴替自由。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dami16z/status/1942396085374443918"
+  externalUrl: "https://anyrouter.top/register?aff=2fjZ"
+  authorUsername: "dami16z"
+---
+
 # Claude Code 免費額度設置教程
 
 > **來源**: [@dami16z](https://x.com/dami16z/status/1942396085374443918) | [原文連結](https://anyrouter.top/register?aff=2fjZ)

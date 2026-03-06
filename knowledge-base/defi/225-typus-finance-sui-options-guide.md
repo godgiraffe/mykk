@@ -1,3 +1,23 @@
+---
+title: "Typus Finance 完整教學：Sui 鏈上期權平台入門"
+date: "2024-11-02"
+tags: 
+  - "期權交易"
+  - "Sui 生態"
+  - "DeFi 策略"
+summary: "Typus Finance 是 Sui 鏈上排名靠前的期權平台，預計於 11 月初進行 TGE（代幣生成事件）。平台提供多個功能板塊，包括 Safu、Yield、Bid、Tails 等模組。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/JYdmnLFG/status/1852543183034392674"
+  externalUrl: "https://www.youtube.com/watch?v=z-QPqKxPQQU&feature=youtu.be"
+  authorUsername: "JYdmnLFG"
+---
+
 # Typus Finance 完整教學：Sui 鏈上期權平台入門
 
 > **來源**: [@JYdmnLFG](https://x.com/JYdmnLFG/status/1852543183034392674) | [原文連結](https://www.youtube.com/watch?v=z-QPqKxPQQU&feature=youtu.be)

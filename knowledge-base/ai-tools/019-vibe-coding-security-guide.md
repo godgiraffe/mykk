@@ -1,3 +1,25 @@
+---
+title: "Vibe Coding 安全手冊：保護你的資產，避免被 AI 轉走"
+date: ">"
+tags: 
+  - "Vibe Coding"
+  - "AI安全"
+  - "提示注入"
+  - "沙箱"
+  - "權限管理"
+summary: "以下是根據提供的資料整理出的知識庫文章，目標是提供一個關於 Vibe Coding 安全使用的指南。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/YukerX/status/2010979912535195750"
+  externalUrl: "https://x.com/i/article/2010645662577184768"
+  authorUsername: "YukerX"
+---
+
 # Vibe Coding 安全手冊：保護你的資產，避免被 AI 轉走
 
 > **來源**: [@YukerX](https://x.com/YukerX/status/2010979912535195750) | [原文連結](https://x.com/i/article/2010645662577184768)

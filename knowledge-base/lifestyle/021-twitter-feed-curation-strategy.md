@@ -1,3 +1,23 @@
+---
+title: "Twitter 推文流清理策略 - 精準篩選感興趣的內容"
+date: ">"
+tags: 
+  - "社群媒體管理"
+  - "資訊篩選"
+  - "效率提升"
+summary: "具體怎麼清理的話，比如之前大熱的項目 aster 都在發，我就會點「不感興趣」不再推送類似的東西。不玩合約推送合約類就清理，大數據很好用。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 64
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1975467438948163727"
+  externalUrl: "https://twitter.com/0xleng1/status/1975467438948163727/photo/1"
+  authorUsername: "0xleng1"
+---
+
 # Twitter 推文流清理策略 - 精準篩選感興趣的內容
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1975467438948163727) | [原文連結](https://twitter.com/0xleng1/status/1975467438948163727/photo/1)

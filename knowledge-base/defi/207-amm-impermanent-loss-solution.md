@@ -1,3 +1,23 @@
+---
+title: "如何解決 AMM 中的無常損失問題"
+date: "2024-12-09"
+tags: 
+  - "無常損失"
+  - "AMM 協議"
+  - "流動性提供"
+summary: "無常損失一直是阻擋部分大資金進入 AMM 協議的重大阻礙之一，因為無常損失是資金的機會成本，資金越大，機會成本就越大，無常損失可能就越大。無常損失一直是所有 AMM 協議夢寐以求要解決的問題。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cyrus_G3/status/1866015728421519724"
+  externalUrl: null
+  authorUsername: "Cyrus_G3"
+---
+
 # 如何解決 AMM 中的無常損失問題
 
 > **來源**: [@Cyrus_G3](https://x.com/Cyrus_G3/status/1866015728421519724)

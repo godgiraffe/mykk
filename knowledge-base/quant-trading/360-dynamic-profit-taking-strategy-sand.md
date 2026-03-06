@@ -1,3 +1,23 @@
+---
+title: "動態止盈止損策略：分批獲利與趨勢跟蹤"
+date: "2024-11-24"
+tags: 
+  - "止盈策略"
+  - "趨勢交易"
+  - "風險管理"
+summary: "假如買入價為 0.2082,上漲 10% 後價格約為 0.2290,此時止盈部分倉位,同時保留繼續上漲的機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 52
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/CycleStudies/status/1860567089943314773"
+  externalUrl: null
+  authorUsername: "CycleStudies"
+---
+
 # 動態止盈止損策略：分批獲利與趨勢跟蹤
 
 > **來源**: [@CycleStudies](https://x.com/CycleStudies/status/1860567089943314773)

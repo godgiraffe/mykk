@@ -1,3 +1,23 @@
+---
+title: "Solana 鏈 MetaDAO 打新 Paystream 項目分析"
+date: "2025-10-25"
+tags: 
+  - "打新策略"
+  - "Solana 生態"
+  - "代幣經濟學"
+summary: "昨天 ZKLSOL 以 $0.0969 發售，目前 $0.0857，上線後一直低於打新價格，FDV 徘徊在 220 萬美元。這是 MetaDAO 打新首次出現破發情況。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/bclaobai/status/1981947895801909264"
+  externalUrl: null
+  authorUsername: "bclaobai"
+---
+
 # Solana 鏈 MetaDAO 打新 Paystream 項目分析
 
 > **來源**: [@bclaobai](https://x.com/bclaobai/status/1981947895801909264)

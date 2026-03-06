@@ -1,3 +1,23 @@
+---
+title: "AI Agent 記憶系統架構實踐指南"
+date: "2026-02-25"
+tags: 
+  - "AI Agent"
+  - "記憶系統"
+  - "系統設計"
+summary: "• Stanford Generative Agents 的 reflection 機制"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 67
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xxx111god/status/2026449632214020286"
+  externalUrl: "https://x.com/i/article/2026418317058256898"
+  authorUsername: "xxx111god"
+---
+
 # AI Agent 記憶系統架構實踐指南
 
 > **來源**: [@xxx111god](https://x.com/xxx111god/status/2026449632214020286) | [原文連結](https://x.com/i/article/2026418317058256898)

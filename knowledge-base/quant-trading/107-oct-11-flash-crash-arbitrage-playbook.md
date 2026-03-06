@@ -1,3 +1,23 @@
+---
+title: "10月11日閃崩套利實戰：巨鯨監控、流動性挖礦與風險管理"
+date: "2025-10-11"
+tags: 
+  - "閃崩套利"
+  - "Delta中性策略"
+  - "流動性危機"
+summary: "我已經整理好文章內容。根據內容主題（量化交易、套利策略、風險管理），這篇文章應歸類到 quant-trading 分類，檔名為 107-oct-11-flash-crash-arbitrage-playbook.md。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/nemoyue0607/status/1976839892672848096"
+  externalUrl: null
+  authorUsername: "nemoyue0607"
+---
+
 # 10月11日閃崩套利實戰：巨鯨監控、流動性挖礦與風險管理
 
 > **來源**: [@nemoyue0607](https://x.com/nemoyue0607/status/1976839892672848096)

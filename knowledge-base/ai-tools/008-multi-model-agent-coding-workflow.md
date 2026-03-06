@@ -1,3 +1,26 @@
+---
+title: "多模型多 Agent 編碼工作流（手動版）"
+date: "2026-01-18"
+tags: 
+  - "多模型"
+  - "Agent"
+  - "編碼工作流"
+  - "Claude Code"
+  - "Codex"
+  - "Gemini"
+summary: "階段 主要工具 目的 ------ ---------- ------ 1. 規劃 GPT Chat 從手動計畫擴展為詳細方案 2. 各階段編碼準備 Claude Code + Codex CLI + Gemini CLI 各自獨立產出方案 3. 審核與整合 Codex 審核三份產出，生成最終方案 4. 實作 Codex CLI 或 Claude Code 執行最終方案 5. 驗證 Claude Code / Codex / 人工 確認"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/2012810767436067087"
+  externalUrl: "https://x.com/i/article/2012810027359514624"
+  authorUsername: "wquguru"
+---
+
 # 多模型多 Agent 編碼工作流（手動版）
 
 > **來源**: [@wquguru (WquGuru)](https://x.com/wquguru/status/2012810767436067087) | [原文連結](https://x.com/i/article/2012810027359514624)

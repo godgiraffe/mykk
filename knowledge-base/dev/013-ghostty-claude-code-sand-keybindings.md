@@ -1,3 +1,23 @@
+---
+title: "Ghostty 配合 Claude Code 的 SAND 快鍵系統"
+date: "2026-02-15"
+tags: 
+  - "開發工具"
+  - "終端管理"
+  - "Claude Code工作流"
+summary: "在每天使用 Claude Code 數個月後，我發現自己幾乎不再使用 VSCode 或 Cursor，只用終端機和 git 面板，其他所有事情都由 Claude Code 處理。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dani_avila7/status/2023151176758268349"
+  externalUrl: "https://x.com/i/article/2022829598157795328"
+  authorUsername: "dani_avila7"
+---
+
 # Ghostty 配合 Claude Code 的 SAND 快鍵系統
 
 > **來源**: [@dani_avila7](https://x.com/dani_avila7/status/2023151176758268349) | [原文連結](https://x.com/i/article/2022829598157795328)

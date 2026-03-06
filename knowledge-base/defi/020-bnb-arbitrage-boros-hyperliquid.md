@@ -1,3 +1,25 @@
+---
+title: "利用 Boros 和 Hyperliquid 的 BNB 資金費率結構性利差套利策略"
+date: "2026-01-10"
+tags: 
+  - "BNB"
+  - "Boros"
+  - "Hyperliquid"
+  - "套利"
+  - "資金費率"
+summary: "## 利用 Boros 和 Hyperliquid 的 BNB 資金費率結構性利差套利策略"
+curationStatus: "curated"
+usefulnessScore: 80
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 70
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/hongkongdoll/status/2009987922498322559"
+  externalUrl: "https://www.binance.com/en/support/announcement/detail/c00588a7e8504b3eb28d02a2da00530b"
+  authorUsername: "hongkongdoll"
+---
+
 # 利用 Boros 和 Hyperliquid 的 BNB 資金費率結構性利差套利策略
 
 > **來源**: [@hongkongdoll](https://x.com/hongkongdoll/status/2009987922498322559) | [原文連結](https://www.binance.com/en/support/announcement/detail/c00588a7e8504b3eb28d02a2da00530b)

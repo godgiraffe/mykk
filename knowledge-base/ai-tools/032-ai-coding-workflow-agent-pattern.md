@@ -1,3 +1,23 @@
+---
+title: "AI 程式設計工作流：多 Agent 協作模式"
+date: "2025-12-22"
+tags: 
+  - "Agent工作流"
+  - "AI編程"
+  - "自動化開發"
+summary: "一套基於三角協作的 AI 輔助開發工作流，透過產品經理 Agent、編碼 Agent、審查 Agent 的角色分工，實現需求分析、編碼實作、程式碼審查的自動化循環。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/jolestar/status/2002918725125820839"
+  externalUrl: null
+  authorUsername: "jolestar"
+---
+
 # AI 程式設計工作流：多 Agent 協作模式
 
 > **來源**: [@jolestar](https://x.com/jolestar/status/2002918725125820839)

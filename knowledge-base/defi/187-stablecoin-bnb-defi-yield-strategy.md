@@ -1,3 +1,23 @@
+---
+title: "穩定幣 + BNB：解鎖 DeFi 高收益的實戰策略"
+date: "2025-03-05"
+tags: 
+  - "DeFi策略"
+  - "穩定幣"
+  - "BNB收益"
+summary: ""
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 45
+evergreenScore: 60
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Super4DeFi/status/1897268874514772209"
+  externalUrl: "https://twitter.com/i/spaces/1OwxWXBkDXnKQ"
+  authorUsername: "Super4DeFi"
+---
+
 # 穩定幣 + BNB：解鎖 DeFi 高收益的實戰策略
 
 > **來源**: [@Super4DeFi](https://x.com/Super4DeFi/status/1897268874514772209) | [原文連結](https://twitter.com/i/spaces/1OwxWXBkDXnKQ)

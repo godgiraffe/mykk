@@ -1,3 +1,23 @@
+---
+title: "$BAN 代幣交易復盤系統：K線、鏈上坐莊地址、市值錨定分析"
+date: "2024-10-26"
+tags: 
+  - "交易復盤"
+  - "小時線分析"
+  - "市值錨定"
+summary: "$ban 全程復盤前排提醒（必須給我形成自己的交易邏輯,每次不管你是賣飛還是虧錢賺錢,什麼幣都要給我復盤,從 K 線 ➕ 敘事邏輯 ➕ 鏈上坐莊地址 ➕ 推特熱度 ➕ 參照物市值對比,來錨定這個幣能走多遠。全部給我復盤）"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xmagnolia/status/1850234063317323975"
+  externalUrl: null
+  authorUsername: "0xmagnolia"
+---
+
 # $BAN 代幣交易復盤系統：K線、鏈上坐莊地址、市值錨定分析
 
 > **來源**: [@0xmagnolia](https://x.com/0xmagnolia/status/1850234063317323975)

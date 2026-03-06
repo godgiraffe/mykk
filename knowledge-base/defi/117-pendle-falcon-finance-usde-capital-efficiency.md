@@ -1,3 +1,23 @@
+---
+title: "Pendle Falcon Finance USDe 市場資本效率分析"
+date: "2025-08-16"
+tags: 
+  - "Pendle"
+  - "Falcon Finance"
+  - "資本效率"
+summary: "目前 Pendle Falcon @falconfinance 市場資本效率如下（都是以發文時 iAPY 和 uAPY 為準持有到期計算的）："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 55
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/craigyc_eth/status/1956709954183930286"
+  externalUrl: null
+  authorUsername: "craigyc_eth"
+---
+
 # Pendle Falcon Finance USDe 市場資本效率分析
 
 > **來源**: [@craigyc_eth](https://x.com/craigyc_eth/status/1956709954183930286)

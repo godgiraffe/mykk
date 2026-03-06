@@ -1,3 +1,23 @@
+---
+title: "Variational-Lighter 資金費率套利自動化對沖腳本"
+date: ">"
+tags: 
+  - "資金費率套利"
+  - "永續合約對沖"
+  - "自動交易腳本"
+summary: "在 Variational 和 Lighter 兩個交易所之間進行資金費率套利的自動化對沖腳本。核心策略是利用兩個交易所的資金費率結算時間差異，在 Variational 做多、Lighter 做空，並在特定時間點平倉以避開 Variational 的資金費率支付，從而賺取 Lighter 的資金費率收益。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ddazmon/status/1991426393083990141"
+  externalUrl: "https://github.com/Dazmon00/var-lighter-auto-tool/blob/main/var_lighter_rate.js"
+  authorUsername: "ddazmon"
+---
+
 # Variational-Lighter 資金費率套利自動化對沖腳本
 
 > **來源**: [@ddazmon](https://x.com/ddazmon/status/1991426393083990141) | [原文連結](https://github.com/Dazmon00/var-lighter-auto-tool/blob/main/var_lighter_rate.js)

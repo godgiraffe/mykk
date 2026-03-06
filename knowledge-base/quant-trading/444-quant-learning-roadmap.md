@@ -1,3 +1,23 @@
+---
+title: "成為量化交易員完全指南"
+date: ">"
+tags: 
+  - "量化交易"
+  - "學習路線"
+  - "衍生品定價"
+summary: "這條路就像電玩遊戲的關卡，你無法跳關。每個概念都建立在前一個概念之上。但如果你投入真正的努力——不是看那些無聊的 YouTube 金融影片浪費時間，而是真正的問題解決工作——你可以在大約 18 個月內從零基礎成為專業人士。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gemchange_ltd/status/2028904166895112617"
+  externalUrl: "https://x.com/i/article/2028762672343257088"
+  authorUsername: "gemchange_ltd"
+---
+
 # 成為量化交易員完全指南
 
 > **來源**: [@gemchange_ltd](https://x.com/gemchange_ltd/status/2028904166895112617) | [原文連結](https://x.com/i/article/2028762672343257088)

@@ -1,3 +1,23 @@
+---
+title: "消除內臟脂肪的世界最有效運動系統"
+date: "2026-02-14"
+tags: 
+  - "健身"
+  - "健康管理"
+  - "高效能表現"
+summary: "項目 內容 ------ ------ **系統組成** 高頻率肌力訓練 + 溫和散步 + 每週一次高強度訓練 **效果** 比傳統健身方式快 75% 消除內臟脂肪 **時間投入** 每週 3 次肌力訓練 + 每日散步 + 1 次衝刺 **90 天成果** 內臟脂肪降低 50-75% **關鍵認知** 運動只佔 50%，另外 50% 是飲食、壓力管理和身份認同"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 51
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/CoachDanGo/status/2022678514835521677"
+  externalUrl: "https://x.com/i/article/2022672418947379200"
+  authorUsername: "CoachDanGo"
+---
+
 # 消除內臟脂肪的世界最有效運動系統
 
 > **來源**: [@CoachDanGo](https://x.com/CoachDanGo/status/2022678514835521677) | [原文連結](https://x.com/i/article/2022672418947379200)

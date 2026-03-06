@@ -1,3 +1,23 @@
+---
+title: "ZTZZ 交易空間提醒"
+date: "2024-11-03"
+tags: 
+  - "交易分享"
+  - "社群互動"
+  - "實時討論"
+summary: "ZTZZ 在 Twitter 上發佈了一則交易空間（Twitter Space）活動提醒，邀請關注者設置提醒參與即將開始的語音討論。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 51
+priorityScore: 57
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ZTZZBTC/status/1853081178003431716"
+  externalUrl: "https://x.com/i/spaces/1vAxRONdEPzKl"
+  authorUsername: "ZTZZBTC"
+---
+
 # ZTZZ 交易空間提醒
 
 > **來源**: [@ZTZZBTC](https://x.com/ZTZZBTC/status/1853081178003431716) | [原文連結](https://x.com/i/spaces/1vAxRONdEPzKl)

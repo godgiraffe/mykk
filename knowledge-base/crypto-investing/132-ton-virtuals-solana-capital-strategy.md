@@ -1,3 +1,23 @@
+---
+title: "資金規模與技能匹配的區塊鏈投資策略"
+date: "2025-06-15"
+tags: 
+  - "資金配置"
+  - "投資階段"
+  - "風險管理"
+summary: "作者花了一週時間觀察 $TON 社區後，針對不同資金規模和技能水平的投資者，提出了對應的最優投資策略。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/RaccoonHKG/status/1934316479530614838"
+  externalUrl: null
+  authorUsername: "RaccoonHKG"
+---
+
 # 資金規模與技能匹配的區塊鏈投資策略
 
 > **來源**: [@RaccoonHKG](https://x.com/RaccoonHKG/status/1934316479530614838)

@@ -1,3 +1,23 @@
+---
+title: "Gate 交易機器人撤離分享"
+date: "2025-04-23"
+tags: 
+  - "交易機器人"
+  - "自動化交易"
+  - "代碼分享"
+summary: "作者分享了從 Gate.io 交易所撤離的交易機器人代碼和架構。由於程式採用半自動化設計,程式碼不會上傳至 Git (作者的 Git 帳號已被標記)。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dan326714/status/1915069863019913613"
+  externalUrl: "https://twitter.com/rnmumu3/status/1915069863019913613/photo/1"
+  authorUsername: "dan326714"
+---
+
 # Gate 交易機器人撤離分享
 
 > **來源**: [@dan326714](https://x.com/dan326714/status/1915069863019913613) | [原文連結](https://twitter.com/rnmumu3/status/1915069863019913613/photo/1)

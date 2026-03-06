@@ -1,3 +1,23 @@
+---
+title: "Megaeth 打新決策模型：用機會成本與風險比評估參與"
+date: ">"
+tags: 
+  - "打新策略"
+  - "機會成本分析"
+  - "風險評估"
+summary: "首先確定自己的機會成本——如果想投入 1M 進 Megaeth，假如不投，這 1M 會放在哪裡？"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/WinForKakei/status/1993402255073329319"
+  externalUrl: null
+  authorUsername: "WinForKakei"
+---
+
 # Megaeth 打新決策模型：用機會成本與風險比評估參與
 
 > **來源**: [@WinForKakei](https://x.com/WinForKakei/status/1993402255073329319)

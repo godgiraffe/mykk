@@ -1,3 +1,23 @@
+---
+title: "機構級風控框架：三層曝險管理策略"
+date: "2025-10-15"
+tags: 
+  - "風險管理"
+  - "永續合約"
+  - "倉位控制"
+summary: "我靠這套機構風控，在 10/11 那天撐過了極端行情。分享出來，讓大家檢查自己刷 perp dex 或者交易的策略，也許在未來黑天鵝時逃過爆倉命運。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/traderwanwan/status/1978337572456628480"
+  externalUrl: null
+  authorUsername: "traderwanwan"
+---
+
 # 機構級風控框架：三層曝險管理策略
 
 > **來源**: [@traderwanwan](https://x.com/traderwanwan/status/1978337572456628480)

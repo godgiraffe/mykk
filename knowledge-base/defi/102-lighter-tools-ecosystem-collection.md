@@ -1,3 +1,23 @@
+---
+title: "Lighter 生態工具大全：數據平台、交易工具與智能助手"
+date: "2025-09-12"
+tags: 
+  - "Lighter永續期貨"
+  - "交易工具"
+  - "DeFi數據"
+summary: "隨著 @Lighter_xyz 的持續發展，帶動了許多優質工具與數據網站的湧現。以下統一盤點 Lighter 生態的實用工具，方便隨時查閱。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 54
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/c_dylanber/status/1966317577355014561"
+  externalUrl: "https://www.perpetualpulse.xyz/"
+  authorUsername: "c_dylanber"
+---
+
 # Lighter 生態工具大全：數據平台、交易工具與智能助手
 
 > **來源**: [@c_dylanber](https://x.com/c_dylanber/status/1966317577355014561) | [原文連結](https://www.perpetualpulse.xyz/)

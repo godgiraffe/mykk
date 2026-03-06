@@ -1,3 +1,23 @@
+---
+title: "Solana 跟單交易：賄賂費與倉位比例的平衡"
+date: ">"
+tags: 
+  - "跟單交易"
+  - "MEV 賄賂費"
+  - "倉位管理"
+summary: "### Tip 成本 Buy Tip：0.02 SOL Sell Tip：0.02 SOL **總 Tip 成本**：0.04 SOL"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0x542121/status/1877249902193029164"
+  externalUrl: null
+  authorUsername: "0x542121"
+---
+
 # Solana 跟單交易：賄賂費與倉位比例的平衡
 
 > **來源**: [@0x542121](https://x.com/0x542121/status/1877249902193029164)

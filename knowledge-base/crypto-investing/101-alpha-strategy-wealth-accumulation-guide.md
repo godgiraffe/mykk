@@ -1,3 +1,23 @@
+---
+title: "普通人牛市致富指南：從 Alpha 策略到 A7 階段的資金滾雪球方法"
+date: "2025-09-28"
+tags: 
+  - "資金累積"
+  - "打新策略"
+  - "DeFi 理財"
+summary: "今年其實是最適合普通人的牛市，這篇文章講解普通人怎麼打破自己的認知到 A7（百萬美金級別），以及 A7 以後最簡單的策略。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1972125481031160130"
+  externalUrl: "https://x.com/0xleng1/status/1926197346011844724?s=46&t=IfeN_zvVH8-FJu5uLdOI6w"
+  authorUsername: "0xleng1"
+---
+
 # 普通人牛市致富指南：從 Alpha 策略到 A7 階段的資金滾雪球方法
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1972125481031160130) | [原文連結](https://x.com/0xleng1/status/1926197346011844724?s=46&t=IfeN_zvVH8-FJu5uLdOI6w)

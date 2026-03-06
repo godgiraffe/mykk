@@ -1,3 +1,23 @@
+---
+title: "鏈上內幕盤判斷實戰：以 Bertie 為例的選幣策略"
+date: "2024-10-13"
+tags: 
+  - "內幕地址監控"
+  - "鏈上選幣"
+  - "Memecoin 研究"
+summary: "通過監控長期積累下來的內幕地址，發現他內盤買入了 Bertie。這使得在外面旅遊的我看到監控訊息來了，就想去打開研究一下。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/angel_0x13/status/1845391226155172132"
+  externalUrl: null
+  authorUsername: "angel_0x13"
+---
+
 # 鏈上內幕盤判斷實戰：以 Bertie 為例的選幣策略
 
 > **來源**: [@angel_0x13](https://x.com/angel_0x13/status/1845391226155172132)

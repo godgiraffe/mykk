@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 套利策略：三個月 1400U 變 14000U 案例分析"
+date: ">"
+tags: 
+  - "Pendle"
+  - "YT 池"
+  - "收益套利"
+summary: "這是一個透過 Pendle YT (Yield Token) 池子實現高倍數收益的實戰案例，在三個月內將 1400U 增長至 14000U，投資報酬率約 10 倍。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/807743450Li/status/1928153381346103397"
+  externalUrl: "https://twitter.com/807743450Li/status/1928153381346103397/photo/1"
+  authorUsername: "807743450Li"
+---
+
 # Pendle YT 套利策略：三個月 1400U 變 14000U 案例分析
 
 > **來源**: [@807743450Li](https://x.com/807743450Li/status/1928153381346103397) | [原文連結](https://twitter.com/807743450Li/status/1928153381346103397/photo/1)

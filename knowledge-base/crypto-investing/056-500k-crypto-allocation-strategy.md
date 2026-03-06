@@ -1,3 +1,23 @@
+---
+title: "$500k 加密貨幣配置策略：生存優先、規模化成長"
+date: "2025-11-08"
+tags: 
+  - "資金配置"
+  - "風險管理"
+  - "DeFi 策略"
+summary: "配置項目 金額 用途 --------- ------ ------ Aave 儲備（生活開銷） $50k 覆蓋 1 年以上生活費用 megaETH 挖礦 $200k 主網上線時參與流動性挖礦 Pendle YT 交易 $50k 研究收益代幣，等待巨鯨推高 PT 價格時入場 Extended 對沖 $100k 使用 GTE 進行 Delta-neutral 策略 Aave 現金儲備 $100k 應對市場血洗時的抄底機會"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1987142227190042997"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # $500k 加密貨幣配置策略：生存優先、規模化成長
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1987142227190042997)

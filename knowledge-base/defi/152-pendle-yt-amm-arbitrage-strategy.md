@@ -1,3 +1,23 @@
+---
+title: "Pendle YT AMM 無風險套利策略：10天賺4000U"
+date: ">"
+tags: 
+  - "Pendle"
+  - "AMM機制"
+  - "無風險套利"
+summary: "我在去年12月份的時候利用 Pendle 的 AMM 機制無風險得到 3000u YT 收益和 1000 多個 USUAL 代幣（當時價值 1000 多 u）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 50
+priorityScore: 63
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/807743450Li/status/1927299765651263867"
+  externalUrl: "https://twitter.com/807743450Li/status/1927299765651263867/photo/1"
+  authorUsername: "807743450Li"
+---
+
 # Pendle YT AMM 無風險套利策略：10天賺4000U
 
 > **來源**: [@807743450Li](https://x.com/807743450Li/status/1927299765651263867) | [原文連結](https://twitter.com/807743450Li/status/1927299765651263867/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "有毒訂單流迴避策略與逆向選擇損失"
+date: "2025-11-17"
+tags: 
+  - "市場微觀結構"
+  - "高頻交易"
+  - "風險管理"
+summary: "在組合交易中，理論上對沖的倉位應該同時成交，但實際上常常是**逆勢的那個腿先被成交**，導致虧損。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/JeffLia12309881/status/1990442869375840403"
+  externalUrl: null
+  authorUsername: "JeffLia12309881"
+---
+
 # 有毒訂單流迴避策略與逆向選擇損失
 
 > **來源**: [@JeffLia12309881](https://x.com/JeffLia12309881/status/1990442869375840403)

@@ -1,3 +1,23 @@
+---
+title: "PointFi 積分空投——誰在設計遊戲、誰在下注未來？"
+date: ">"
+tags: 
+  - "積分系統"
+  - "空投機制"
+  - "用戶行為"
+summary: "長文預警！越來越多的專案開始採用積分制度（PointFI），當我們 Farming 在其中的時候，是不是應該停下來思考一下，**「積分（PointFI）到底什麼？而我們又在擼什麼？」**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/MengLayer/status/1912043111716634664"
+  externalUrl: "https://x.com/i/article/1911714924180500480"
+  authorUsername: "MengLayer"
+---
+
 # PointFi 積分空投——誰在設計遊戲、誰在下注未來？
 
 > **來源**: [@MengLayer](https://x.com/MengLayer/status/1912043111716634664) | [原文連結](https://x.com/i/article/1911714924180500480)

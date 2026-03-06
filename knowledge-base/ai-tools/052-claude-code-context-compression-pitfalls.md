@@ -1,3 +1,23 @@
+---
+title: "Claude Code 對話壓縮功能的陷阱與最佳實踐"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "上下文管理"
+  - "工作流程優化"
+summary: "Claude Code 的「對話壓縮」（compact）功能會導致非常嚴重的上下文腐爛，並且壓縮次數越多，上下文越臃腫，丟失的關鍵資訊越多，壓縮次數會更加頻繁，最終毀掉你的專案。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Pluvio9yte/status/1988901677651329495"
+  externalUrl: "https://github.com/Pluviobyte/Claude-No-Compact"
+  authorUsername: "Pluvio9yte"
+---
+
 # Claude Code 對話壓縮功能的陷阱與最佳實踐
 
 > **來源**: [@Pluvio9yte](https://x.com/Pluvio9yte/status/1988901677651329495) | [原文連結](https://github.com/Pluviobyte/Claude-No-Compact)

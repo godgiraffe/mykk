@@ -1,3 +1,23 @@
+---
+title: "Linus 哲學：好品味程式碼設計與核心架構原則"
+date: ">"
+tags: 
+  - "代碼品味"
+  - "系統設計"
+  - "軟體工程"
+summary: "我發現當前工作目錄的限制只允許在 x-bookmark-sync 目錄下操作。讓我將整理好的文章內容輸出給你，你可以手動保存："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/LotusDecoder/status/1955824129644618203"
+  externalUrl: "https://github.com/kingkongshot/Pensieve/blob/main/prompts/claude/CLAUDE.local.md"
+  authorUsername: "LotusDecoder"
+---
+
 # Linus 哲學：好品味程式碼設計與核心架構原則
 
 > **來源**: [@LotusDecoder](https://x.com/LotusDecoder/status/1955824129644618203) | [原文連結](https://github.com/kingkongshot/Pensieve/blob/main/prompts/claude/CLAUDE.local.md)

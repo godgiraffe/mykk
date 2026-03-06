@@ -1,3 +1,25 @@
+---
+title: "ClaudeCode 加入魔獸爭霸3音效，苦工聲音趣味提醒"
+date: ">"
+tags: 
+  - "ClaudeCode"
+  - "魔獸爭霸3"
+  - "音效"
+  - "AI"
+  - "趣味"
+summary: "本文介紹由 @vikingmute (Viking) 分享的一個有趣的項目，該項目將魔獸爭霸3 獸族苦工的音效加入 ClaudeCode 中，用以提醒程式運行狀態。 這些音效不僅充滿喜感，也讓使用者感到親切。"
+curationStatus: "inbox"
+usefulnessScore: 68
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/vikingmute/status/2021937960615358617"
+  externalUrl: null
+  authorUsername: "vikingmute"
+---
+
 # ClaudeCode 加入魔獸爭霸3音效，苦工聲音趣味提醒
 
 > **來源**: [@vikingmute](https://x.com/vikingmute/status/2021937960615358617)

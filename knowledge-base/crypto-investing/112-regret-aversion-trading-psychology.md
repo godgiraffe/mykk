@@ -1,3 +1,23 @@
+---
+title: "後悔厭惡心理與交易決策：走出「早知道」的陷阱"
+date: "2025-08-23"
+tags: 
+  - "交易心理學"
+  - "決策管理"
+  - "風險管理"
+summary: "「早知道 ETH 新高,就應該 3000 的時候全倉。」 「當時覺得 OKB 要拉盤,可惜買少了。」"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 43
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/xingpt/status/1959057185939628292"
+  externalUrl: null
+  authorUsername: "xingpt"
+---
+
 # 後悔厭惡心理與交易決策：走出「早知道」的陷阱
 
 > **來源**: [@xingpt](https://x.com/xingpt/status/1959057185939628292)

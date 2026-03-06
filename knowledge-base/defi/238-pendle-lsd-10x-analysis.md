@@ -1,3 +1,23 @@
+---
+title: "Pendle LSD 項目深度分析：半年 10 倍的天才模型"
+date: "2023-06-24"
+tags: 
+  - "Pendle"
+  - "LSD"
+  - "DeFi 策略"
+summary: "@pendle_fi 在半年內實現了 10 倍的幣價增長，TVL 快速突破 100M。該項目無論在基本面還是模型設計上都屬於頂級水平。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/althunter31/status/1672507783290454017"
+  externalUrl: "https://twitter.com/althunter31/status/1672507783290454017/photo/1"
+  authorUsername: "althunter31"
+---
+
 # Pendle LSD 項目深度分析：半年 10 倍的天才模型
 
 > **來源**: [@althunter31](https://x.com/althunter31/status/1672507783290454017) | [原文連結](https://twitter.com/althunter31/status/1672507783290454017/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "Claude 原生律師事務所：2026 年 AI 法律實踐指南"
+date: "2026-02-27"
+tags: 
+  - "Claude AI"
+  - "法律自動化"
+  - "AI 工作流程"
+summary: "幾個月前，在客戶的收購案預定完成交易的前一晚，買方律師發來一封信，要求重新調整幾個關鍵交易條款。新的託管條件、擴大的賠償豁免條款、修訂過的交割文件清單。隱含的威脅是：接受這些變更，否則我們退出。當時是晚上 7 點。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/zackbshapiro/status/2027389987444957625"
+  externalUrl: "https://x.com/i/article/2027387535412830208"
+  authorUsername: "zackbshapiro"
+---
+
 # Claude 原生律師事務所：2026 年 AI 法律實踐指南
 
 > **來源**: [@zackbshapiro](https://x.com/zackbshapiro/status/2027389987444957625) | [原文連結](https://x.com/i/article/2027387535412830208)

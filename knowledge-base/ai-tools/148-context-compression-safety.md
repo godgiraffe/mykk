@@ -1,3 +1,23 @@
+---
+title: "不依賴自動壓縮：手動管理 AI 上下文的風險與策略"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "上下文管理"
+  - "AI 工作流"
+summary: "Summer Yue 的 OpenClaw 清空了她的郵箱：上下文太長觸發自動壓縮，壓縮過程把「別動手」的指令丟了。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/AxtonLiu/status/2026148495347085472"
+  externalUrl: null
+  authorUsername: "AxtonLiu"
+---
+
 # 不依賴自動壓縮：手動管理 AI 上下文的風險與策略
 
 > **來源**: [@AxtonLiu](https://x.com/AxtonLiu/status/2026148495347085472)

@@ -1,3 +1,23 @@
+---
+title: "Claude Code Skills 設定與實踐指南"
+date: "2026-02-23"
+tags: 
+  - "Claude Code"
+  - "AI 開發工具"
+  - "工作流程優化"
+summary: "我寫了很多關於 Claude Code 的文章，很多人問我的 Claude Code 設定，所以讓我們來聊聊這個。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/froessell/status/2025833621299351613"
+  externalUrl: "https://x.com/i/article/2024457065083617280"
+  authorUsername: "froessell"
+---
+
 # Claude Code Skills 設定與實踐指南
 
 > **來源**: [@froessell](https://x.com/froessell/status/2025833621299351613) | [原文連結](https://x.com/i/article/2024457065083617280)

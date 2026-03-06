@@ -1,3 +1,23 @@
+---
+title: "投資決策的數學模型：效能與效率的區別"
+date: ">"
+tags: 
+  - "投資哲學"
+  - "數學模型"
+  - "心態管理"
+summary: "當然模型裡很多參數會錯，我要表達的是每個立志把投資做得很長遠的投資人都應該要用這樣的數學模型來做投資決策。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/WinForKakei/status/1993403727747883012"
+  externalUrl: null
+  authorUsername: "WinForKakei"
+---
+
 # 投資決策的數學模型：效能與效率的區別
 
 > **來源**: [@WinForKakei](https://x.com/WinForKakei/status/1993403727747883012)

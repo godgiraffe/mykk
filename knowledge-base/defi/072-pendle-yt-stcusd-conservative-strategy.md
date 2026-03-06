@@ -1,3 +1,23 @@
+---
+title: "Pendle YT-stcUSD 保守策略：5倍槓桿、本金回收與收益挂鉤"
+date: "2025-10-17"
+tags: 
+  - "Pendle"
+  - "YT策略"
+  - "本金保護"
+summary: "相較於激進的 YT-cUSD 玩法，保守型玩家可以考慮 **YT-stcUSD**："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 65
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/PendleIntern/status/1979218696498483239"
+  externalUrl: "https://twitter.com/PendleIntern/status/1979218696498483239/photo/1"
+  authorUsername: "PendleIntern"
+---
+
 # Pendle YT-stcUSD 保守策略：5倍槓桿、本金回收與收益挂鉤
 
 > **來源**: [@PendleIntern](https://x.com/PendleIntern/status/1979218696498483239) | [原文連結](https://twitter.com/PendleIntern/status/1979218696498483239/photo/1)

@@ -1,3 +1,23 @@
+---
+title: "永續合約交易所參與策略——成本與積分系統評估"
+date: "2025-11-21"
+tags: 
+  - "永續合約"
+  - "項目評估"
+  - "積分成本"
+summary: "作者表示不會參與大部分人都在討論的項目，除非是最早發現的。關注重點在於尋找別人沒有發現的機會和項目，雖然也會有踩坑的風險。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xleng1/status/1991687954893312087"
+  externalUrl: null
+  authorUsername: "0xleng1"
+---
+
 # 永續合約交易所參與策略——成本與積分系統評估
 
 > **來源**: [@0xleng1](https://x.com/0xleng1/status/1991687954893312087)

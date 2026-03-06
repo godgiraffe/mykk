@@ -1,3 +1,23 @@
+---
+title: "Chrome 多開配置指南與指令碼"
+date: ">"
+tags: 
+  - "Chrome多開"
+  - "自動化指令碼"
+  - "安全配置"
+summary: "年前 AdsPower 出了一波盜號事件，至今沒有更多新消息，當初那個名字叫「ads黑客」的現在已經改名字了。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/moshuishapaozi/status/1887434854570336594"
+  externalUrl: "https://x.com/i/article/1887427378152177664"
+  authorUsername: "moshuishapaozi"
+---
+
 # Chrome 多開配置指南與指令碼
 
 > **來源**: [@moshuishapaozi](https://x.com/moshuishapaozi/status/1887434854570336594) | [原文連結](https://x.com/i/article/1887427378152177664)

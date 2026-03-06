@@ -1,3 +1,23 @@
+---
+title: "Claude Code 五大進階技巧：自我進化到超深度思考"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "工作流程優化"
+  - "AI 開發工具"
+summary: "Luca (@DellAnnaLuca) 分享了他高強度使用 Claude Code 的 5 個進階技巧，非常硬核："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2024498235885433276"
+  externalUrl: null
+  authorUsername: "runes_leo"
+---
+
 # Claude Code 五大進階技巧：自我進化到超深度思考
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2024498235885433276)

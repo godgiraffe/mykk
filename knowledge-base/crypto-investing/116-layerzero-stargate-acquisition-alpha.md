@@ -1,3 +1,23 @@
+---
+title: "LayerZero 收購 Stargate 套利策略分析"
+date: "2025-08-11"
+tags: 
+  - "代幣套利"
+  - "governance"
+  - "兼併收購"
+summary: "看來這個文件尚未提交到版本庫。根據您提供的內容，這是一篇關於 LayerZero 收購 Stargate 的套利策略分析。讓我為您整理成知識庫文章的正文內容："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0x0_zero/status/1954788205624193141"
+  externalUrl: "https://stargate.discourse.group/t/layerzero-foundation-acquisition-of-stargate-stg/682"
+  authorUsername: "0x0_zero"
+---
+
 # LayerZero 收購 Stargate 套利策略分析
 
 > **來源**: [@0x0_zero](https://x.com/0x0_zero/status/1954788205624193141) | [原文連結](https://stargate.discourse.group/t/layerzero-foundation-acquisition-of-stargate-stg/682)

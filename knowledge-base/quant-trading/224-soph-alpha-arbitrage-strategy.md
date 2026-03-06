@@ -1,3 +1,23 @@
+---
+title: "Soph Alpha 空投搬磚套利機會分析"
+date: "2025-05-28"
+tags: 
+  - "套利"
+  - "空投"
+  - "多鏈交易"
+summary: "今晚 $SOPH 的搬磚套利出現了三波黃金機會，最終利潤可達 2 萬美元，搬得多的可以賺到 3 萬美元以上，是 Alpha 空投外的額外豬腳飯。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/canhua1023/status/1927727844467319271"
+  externalUrl: null
+  authorUsername: "canhua1023"
+---
+
 # Soph Alpha 空投搬磚套利機會分析
 
 > **來源**: [@canhua1023](https://x.com/canhua1023/status/1927727844467319271)

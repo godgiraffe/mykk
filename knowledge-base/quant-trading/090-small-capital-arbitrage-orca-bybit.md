@@ -1,3 +1,23 @@
+---
+title: "小資金套利策略：觀察費率溢價機會"
+date: "2025-04-12"
+tags: 
+  - "套利策略"
+  - "現貨期貨套利"
+  - "風險管理"
+summary: "可以看到 BYBIT 上個月的公告是 2H/一次的。那麼這裡就有明顯的套利機會，頂格費率，必然是去 bybit 做多邊 / 幣安做空邊。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/daidaibtc/status/1910941265711231270"
+  externalUrl: null
+  authorUsername: "daidaibtc"
+---
+
 # 小資金套利策略：觀察費率溢價機會
 
 > **來源**: [@daidaibtc](https://x.com/daidaibtc/status/1910941265711231270)

@@ -1,3 +1,23 @@
+---
+title: "Solana 鏈巨鯨交易分析：基於 Heurist MCP 工具的深度挖掘"
+date: ">"
+tags: 
+  - "Solana交易"
+  - "巨鯨持倉"
+  - "鏈上分析"
+summary: "使用 @QuantVela 大佬基於 @heurist_ai 的 MCP 開發的 Solana 鏈交易分析工具，針對 RFC 項目的幾個巨鯨地址進行交易記錄挖掘。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 54
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/gpt3_eth/status/1904425761911738405"
+  externalUrl: "https://twitter.com/gpt3_eth/status/1904425761911738405/photo/1"
+  authorUsername: "gpt3_eth"
+---
+
 # Solana 鏈巨鯨交易分析：基於 Heurist MCP 工具的深度挖掘
 
 > **來源**: [@gpt3_eth](https://x.com/gpt3_eth/status/1904425761911738405) | [原文連結](https://twitter.com/gpt3_eth/status/1904425761911738405/photo/1)

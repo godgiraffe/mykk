@@ -1,3 +1,23 @@
+---
+title: "AIOT 莊家地址籌碼分析：Meteora 流動性查看方法"
+date: ">"
+tags: 
+  - "莊家行為"
+  - "鏈上分析"
+  - "籌碼追蹤"
+summary: "該地址的操作策略顯示明確的價格區間規劃： **買入區間**：[$0.01204, $0.07285] **賣出區間**：[$0.3381, $0.8086]"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ai_9684xtpa/status/1917842062139089136"
+  externalUrl: null
+  authorUsername: "ai_9684xtpa"
+---
+
 # AIOT 莊家地址籌碼分析：Meteora 流動性查看方法
 
 > **來源**: [@ai_9684xtpa](https://x.com/ai_9684xtpa/status/1917842062139089136)

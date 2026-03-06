@@ -1,3 +1,23 @@
+---
+title: "DLMM 流動性挖礦的困境：強制止盈與被動止損"
+date: "2024-11-22"
+tags: 
+  - "流動性挖礦"
+  - "DLMM"
+  - "位置管理"
+summary: "鏈上 LP 屬於一種做市策略，不管你是在 Raydium 搞 CLMM，還是在 Meteora 搞 DLMM，其本質都沒有什麼不同，都是一種集中流動性的 V3 類做市策略。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1859799415311286489"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 流動性挖礦的困境：強制止盈與被動止損
 
 > **來源**: [@gm365](https://x.com/gm365/status/1859799415311286489)

@@ -1,3 +1,23 @@
+---
+title: "Davie 交易見解精選收藏"
+date: "2025-01-01"
+tags: 
+  - "交易策略"
+  - "市場心態"
+  - "學習資源"
+summary: "我明白了，工作目錄限制在 x-bookmark-sync。讓我提供完整的 markdown 內容給你，圖片檔案目前在 x-bookmark-sync/ 目錄下，你需要手動將它們移動到正確的位置："
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/btc_davie/status/1874435794741662124"
+  externalUrl: "https://twitter.com/btc_davie/status/1874435794741662124/photo/1"
+  authorUsername: "btc_davie"
+---
+
 # Davie 交易見解精選收藏
 
 > **來源**: [@btc_davie](https://x.com/btc_davie/status/1874435794741662124) | [原文連結](https://twitter.com/btc_davie/status/1874435794741662124/photo/1)

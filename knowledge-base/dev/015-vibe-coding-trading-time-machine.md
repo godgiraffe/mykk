@@ -1,3 +1,23 @@
+---
+title: "Vibe Coding 打造交易時光機：AI 工具實戰應用"
+date: ">"
+tags: 
+  - "AI工具"
+  - "Vibe Coding"
+  - "交易工具"
+summary: "★ Insight ───────────────────────────────────── • **知識庫整理模式**：當前任務是將 X 推文內容轉換為知識庫文章，需要遵守「忠於原文」原則 • **繁體轉換**：原文為簡體中文，需轉為繁體並保留完整細節 • **避免過度編輯**：不加入額外評論或互動文字，保持原汁原味 ─────────────────────────────────────────────────"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/coolish/status/1995742733324222738"
+  externalUrl: "https://x.com/0x0funky/status/1993320956912451804"
+  authorUsername: "coolish"
+---
+
 # Vibe Coding 打造交易時光機：AI 工具實戰應用
 
 > **來源**: [@coolish](https://x.com/coolish/status/1995742733324222738) | [原文連結](https://x.com/0x0funky/status/1993320956912451804)

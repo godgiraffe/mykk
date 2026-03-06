@@ -1,3 +1,23 @@
+---
+title: "AI 編程高效快捷短語與規範開發模式"
+date: "2025-12-24"
+tags: 
+  - "Claude Code"
+  - "提示詞工程"
+  - "工程化開發"
+summary: "短語 用途 ------ ------ 我們討論一下，不要改任何代碼 防止 AI 在理解階段直接動手改代碼 你明白我的需求吧？ 確認 AI 理解需求後再執行 畫個 ASCII 圖看下效果 先視覺化預覽設計，避免盲目實作 查看下 git 改動，有什麼地方改錯了導致這個 bug 利用 git diff 追溯錯誤來源 把上面討論的內容整理成文檔放在 docs/ 將討論結果文檔化 把上面的討論規範寫成規則放入 rules/ 將最佳實踐固化為專案"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/JermicX/status/2003833738107465755"
+  externalUrl: null
+  authorUsername: "JermicX"
+---
+
 # AI 編程高效快捷短語與規範開發模式
 
 > **來源**: [@JermicX](https://x.com/JermicX/status/2003833738107465755)

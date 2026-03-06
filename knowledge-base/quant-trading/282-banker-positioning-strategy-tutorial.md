@@ -1,3 +1,23 @@
+---
+title: "莊家建倉策略教程系列"
+date: "2025-03-30"
+tags: 
+  - "莊家策略"
+  - "小本金操盤"
+  - "新幣分析"
+summary: "昨天 X 佬宣布退圈，X 佬也是小本金打上億的半神，川沐系列更新完後如果大家想看 X 佬，評論區扣個 1⃣️"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 52
+priorityScore: 57
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xKevin00/status/1906254966857314491"
+  externalUrl: null
+  authorUsername: "0xKevin00"
+---
+
 # 莊家建倉策略教程系列
 
 > **來源**: [@0xKevin00](https://x.com/0xKevin00/status/1906254966857314491)

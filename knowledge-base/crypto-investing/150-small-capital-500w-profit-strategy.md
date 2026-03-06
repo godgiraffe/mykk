@@ -1,3 +1,23 @@
+---
+title: "小資金無杠杆複利策略：2萬美元1年賺500萬人民幣"
+date: "2025-04-11"
+tags: 
+  - "複利策略"
+  - "資金管理"
+  - "心態修養"
+summary: "在幣安 2 萬 U 小本金的實盤，盈利正式突破 500 萬+ 人民幣（71 × 7.2 = 518），用時 1.1 年。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/xtony1314/status/1910563265337581728"
+  externalUrl: "https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F7722844380%2FPlrSh6Hgj&domain=weibo.com&ua=Bun%2F1.2.18&_rand=1771395978636&sudaref="
+  authorUsername: "xtony1314"
+---
+
 # 小資金無杠杆複利策略：2萬美元1年賺500萬人民幣
 
 > **來源**: [@xtony1314](https://x.com/xtony1314/status/1910563265337581728) | [原文連結](https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F7722844380%2FPlrSh6Hgj&domain=weibo.com&ua=Bun%2F1.2.18&_rand=1771395978636&sudaref=)

@@ -1,3 +1,23 @@
+---
+title: "Variational 渦輪增壓：低磨損量化策略與永續套利指南"
+date: ">"
+tags: 
+  - "量化策略"
+  - "套利交易"
+  - "風險管理"
+summary: "Alpha Labs 推出 Variational 渦輪增壓版本，這是一個專為 Variational 平台設計的對沖策略，採用激進的函數擬合技術，在保持極低磨損的同時實現高交易效率。本策略適合早期積分獲取階段，後續可搭配團隊即將推出的 Perp DEX 套利產品。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Cryptonymk/status/1993259622648758358"
+  externalUrl: "https://www.youtube.com/watch?v=uxL5RWvqHVA"
+  authorUsername: "Cryptonymk"
+---
+
 # Variational 渦輪增壓：低磨損量化策略與永續套利指南
 
 > **來源**: [@Cryptonymk](https://x.com/Cryptonymk/status/1993259622648758358) | [原文連結](https://www.youtube.com/watch?v=uxL5RWvqHVA)

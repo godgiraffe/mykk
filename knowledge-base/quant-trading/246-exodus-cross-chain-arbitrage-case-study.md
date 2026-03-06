@@ -1,3 +1,23 @@
+---
+title: "Exodus 雙鏈套利獲利操作復盤"
+date: "2025-04-30"
+tags: 
+  - "跨鏈套利"
+  - "雙鏈發行"
+  - "代幣價差"
+summary: "27 號的時候，兩位朋友在討論 Exodus 代幣的異動情況，其中分享了一個 Solana 上的項目 Exodus。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/dami16z/status/1917390264311898449"
+  externalUrl: "https://x.com/0xSunNFT/status/1818666552461570284"
+  authorUsername: "dami16z"
+---
+
 # Exodus 雙鏈套利獲利操作復盤
 
 > **來源**: [@dami16z](https://x.com/dami16z/status/1917390264311898449) | [原文連結](https://x.com/0xSunNFT/status/1818666552461570284)

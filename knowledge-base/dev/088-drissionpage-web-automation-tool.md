@@ -1,3 +1,23 @@
+---
+title: "DrissionPage：Python 網頁自動化工具效能對比"
+date: ">"
+tags: 
+  - "網頁自動化"
+  - "Python 工具"
+  - "效能優化"
+summary: "偶然接觸到了 DrissionPage，實際用過之後： 寫腳本速度提高了 100% 執行效率提高了 50%"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 65
+priorityScore: 61
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/lumaoyangmao/status/1813960656808477179"
+  externalUrl: "https://twitter.com/lumaoyangmao/status/1813960656808477179/photo/1"
+  authorUsername: "lumaoyangmao"
+---
+
 # DrissionPage：Python 網頁自動化工具效能對比
 
 > **來源**: [@lumaoyangmao](https://x.com/lumaoyangmao/status/1813960656808477179) | [原文連結](https://twitter.com/lumaoyangmao/status/1813960656808477179/photo/1)

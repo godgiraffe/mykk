@@ -1,3 +1,23 @@
+---
+title: "zkSync 極致省 Gas 防女巫精品號交互教程"
+date: "2023-04-19"
+tags: 
+  - "zkSync"
+  - "空投"
+  - "Gas 優化"
+summary: "最近飛豬一直都沒有更新推文，被很多小夥伴在後台催了很多次，其實我真的沒有在偷懶，一直在琢磨著給大家放個大招💥"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 54
+priorityScore: 58
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/flying_piggy1/status/1648622823160844288"
+  externalUrl: "https://twitter.com/flying_piggy1/status/1648622823160844288/photo/1"
+  authorUsername: "flying_piggy1"
+---
+
 # zkSync 極致省 Gas 防女巫精品號交互教程
 
 > **來源**: [@flying_piggy1](https://x.com/flying_piggy1/status/1648622823160844288) | [原文連結](https://twitter.com/flying_piggy1/status/1648622823160844288/photo/1)

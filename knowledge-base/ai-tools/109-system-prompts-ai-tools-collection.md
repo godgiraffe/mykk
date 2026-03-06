@@ -1,3 +1,23 @@
+---
+title: "AI 工具系統提示詞完整合集：30000+ 行代碼代理內部機制解析"
+date: ">"
+tags: 
+  - "Prompt 工程"
+  - "系統提示詞"
+  - "AI 工具對比"
+summary: "直接推薦這個 GitHub 庫，把 v0, Cursor, Manus, Lovable, Devin, Replit, Windsurf 等工具洩漏的系統及 prompt 匯總在一起："
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xshawnpang/status/1914518588515365033"
+  externalUrl: "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  authorUsername: "0xshawnpang"
+---
+
 # AI 工具系統提示詞完整合集：30000+ 行代碼代理內部機制解析
 
 > **來源**: [@0xshawnpang](https://x.com/0xshawnpang/status/1914518588515365033) | [原文連結](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)

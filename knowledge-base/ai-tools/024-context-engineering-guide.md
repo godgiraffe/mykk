@@ -1,3 +1,23 @@
+---
+title: "實用的 Context 工程指南"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "Context 優化"
+  - "Prompt 工程"
+summary: "概念 說明 重要性 ------ ------ -------- Context 提供給 LLM 的所有資訊（提示詞、系統提示、對話歷史、工具呼叫等） ⭐⭐⭐⭐⭐ Context Window Claude Code 的上下文視窗限制為 200k tokens 實際可用僅約 120k 80/20 法則 基礎設定已完成 80% 效果，進階技巧只是錦上添花 避免過度工程化 價值密度優先 目標是「最小化高訊號 tokens 集合」 核心原則"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 52
+evergreenScore: 67
+priorityScore: 69
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/jarrodwatts/status/2008495347115630701"
+  externalUrl: "https://x.com/i/article/2001261223057485824"
+  authorUsername: "jarrodwatts"
+---
+
 # 實用的 Context 工程指南
 
 > **來源**: [@jarrodwatts](https://x.com/jarrodwatts/status/2008495347115630701) | [原文連結](https://x.com/i/article/2001261223057485824)

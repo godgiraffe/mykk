@@ -1,3 +1,23 @@
+---
+title: "Code Factory：如何設置倉庫讓 AI Agent 自動撰寫與審查程式碼"
+date: "2026-02-16"
+tags: 
+  - "AI 開發"
+  - "CI/CD 自動化"
+  - "代碼審查"
+summary: "1. 程式碼撰寫 agent 編寫程式碼 2. 倉庫在合併前執行風險感知檢查 3. 程式碼審查 agent 驗證 PR 4. 證據（測試 + 瀏覽器 + 審查）可由機器驗證 5. 發現的問題轉換為可重複的測試案例"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/ryancarson/status/2023452909883609111"
+  externalUrl: "https://x.com/i/article/2023001790258573312"
+  authorUsername: "ryancarson"
+---
+
 # Code Factory：如何設置倉庫讓 AI Agent 自動撰寫與審查程式碼
 
 > **來源**: [@ryancarson](https://x.com/ryancarson/status/2023452909883609111) | [原文連結](https://x.com/i/article/2023001790258573312)

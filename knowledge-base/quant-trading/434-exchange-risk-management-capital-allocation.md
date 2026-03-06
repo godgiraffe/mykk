@@ -1,3 +1,23 @@
+---
+title: "交易所風險評估與資金配置指南"
+date: "2024-05-29"
+tags: 
+  - "交易所安全"
+  - "資金管理"
+  - "風險控制"
+summary: "### OK (OKX) 可以放 100 萬 U 以下的資金 平台出入金黑錢比較多,不建議出入金 算是除了幣安以外中國人能用的最可靠的交易所了"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/richrichardoz/status/1795641299212931222"
+  externalUrl: null
+  authorUsername: "richrichardoz"
+---
+
 # 交易所風險評估與資金配置指南
 
 > **來源**: [@richrichardoz](https://x.com/richrichardoz/status/1795641299212931222)

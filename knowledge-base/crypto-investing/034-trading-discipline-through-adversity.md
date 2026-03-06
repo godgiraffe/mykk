@@ -1,3 +1,23 @@
+---
+title: "交易紀律：從逆境中鍛鍊真實的心理韌性"
+date: "2025-12-10"
+tags: 
+  - "心態管理"
+  - "心理韌性"
+  - "虧損恢復"
+summary: "交易紀律的本質不是「練習」出來的習慣，而是經歷多次毀滅性打擊後「被迫」重塑的心理韌性。真正的紀律來自破壞（destruction），而非決心（determination）。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xPickleCati/status/1998688722859016309"
+  externalUrl: null
+  authorUsername: "0xPickleCati"
+---
+
 # 交易紀律：從逆境中鍛鍊真實的心理韌性
 
 > **來源**: [@0xPickleCati](https://x.com/0xPickleCati/status/1998688722859016309)

@@ -1,3 +1,23 @@
+---
+title: "AI 寫前端帶點審美的最佳實踐"
+date: "2025-08-03"
+tags: 
+  - "前端設計"
+  - "AI 開發"
+  - "提示工程"
+summary: "1. **先放飛讓它寫 MVP** - 避免一開始就過度要求審美（求著它大多數情況下不管用） - 有時開口罵管用是因為會激活 critical think - 先讓它完成一版能運行的基礎版本"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Stv_Lynn/status/1951851084831678954"
+  externalUrl: null
+  authorUsername: "Stv_Lynn"
+---
+
 # AI 寫前端帶點審美的最佳實踐
 
 > **來源**: [@Stv_Lynn](https://x.com/Stv_Lynn/status/1951851084831678954)

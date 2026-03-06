@@ -1,3 +1,23 @@
+---
+title: "Claude Code 多模型代碼審查工作流"
+date: "2026-02-27"
+tags: 
+  - "Claude Code"
+  - "代碼審查"
+  - "AI 協作"
+summary: "日常開發全在 Claude Code 裡跑 Opus 4.6。寫完一個功能或改完一個 bug，不急著提交，先讓 Codex 審一遍。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/runes_leo/status/2027269214524903892"
+  externalUrl: null
+  authorUsername: "runes_leo"
+---
+
 # Claude Code 多模型代碼審查工作流
 
 > **來源**: [@runes_leo](https://x.com/runes_leo/status/2027269214524903892)

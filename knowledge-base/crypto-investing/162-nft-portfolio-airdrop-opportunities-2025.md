@@ -1,3 +1,23 @@
+---
+title: "NFT 組合持有與空投權益規劃"
+date: "2025-02-19"
+tags: 
+  - "NFT投資"
+  - "空投機會"
+  - "加密資產配置"
+summary: "NFT 項目 符號 項目 Twitter --------- ------ ------------- 樹懶 🦥 @CelestineSloths asc 😺 @asclubnft 猛獁象 🦣 @MammothOverlord megaETH 兔子 🐰 @megaeth Omies 🖥️ @OnchainOMies 科學家 🧪 @madscientists_x 浣熊 🦝 @RcoonsNFT"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 52
+evergreenScore: 57
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wangzhen67890/status/1892113150096572812"
+  externalUrl: null
+  authorUsername: "wangzhen67890"
+---
+
 # NFT 組合持有與空投權益規劃
 
 > **來源**: [@wangzhen67890](https://x.com/wangzhen67890/status/1892113150096572812)

@@ -1,3 +1,23 @@
+---
+title: "OKX 集合競價盤前永續套利實戰：$XPL 二段交易策略"
+date: "2025-08-30"
+tags: 
+  - "集合競價"
+  - "盤前永續"
+  - "套利狙擊"
+summary: "OKX 推出的盤前永續合約為 $XPL 提供了獨特的套利機會。由於 $XPL 在 Hyperliquid 上遭遇狙擊狙殺套保事件，導致 Hyperliquid 與 OKX 之間存在巨大價差，為二段交易創造了條件。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BTC_Alert_/status/1961634376166580502"
+  externalUrl: null
+  authorUsername: "BTC_Alert_"
+---
+
 # OKX 集合競價盤前永續套利實戰：$XPL 二段交易策略
 
 > **來源**: [@BTC_Alert_](https://x.com/BTC_Alert_/status/1961634376166580502)

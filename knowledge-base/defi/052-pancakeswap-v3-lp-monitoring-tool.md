@@ -1,3 +1,23 @@
+---
+title: "PancakeSwap V3 LP 狀態監控工具"
+date: "2025-10-31"
+tags: 
+  - "LP管理"
+  - "PancakeSwap"
+  - "監控工具"
+summary: "PancakeSwap V3 LP 狀態獲取與通知工具，用於監控流動性提供者(LP)的倉位狀態。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dxh430/status/1984264278267077037"
+  externalUrl: null
+  authorUsername: "dxh430"
+---
+
 # PancakeSwap V3 LP 狀態監控工具
 
 > **來源**: [@dxh430](https://x.com/dxh430/status/1984264278267077037)

@@ -1,3 +1,23 @@
+---
+title: "交易所插針風險規避策略"
+date: "2025-08-01"
+tags: 
+  - "套利"
+  - "風險管理"
+  - "現貨合約"
+summary: "**逐倉模式**：將風險限制在單一倉位 **全倉限額**：全倉只放 1 萬，即使爆倉也能接受"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 66
+priorityScore: 67
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xZhouXiaoQi/status/1951286538349977917"
+  externalUrl: "https://astro-btc.github.io/Astro-Perps/?coin=RHEA"
+  authorUsername: "0xZhouXiaoQi"
+---
+
 # 交易所插針風險規避策略
 
 > **來源**: [@0xZhouXiaoQi](https://x.com/0xZhouXiaoQi/status/1951286538349977917) | [原文連結](https://astro-btc.github.io/Astro-Perps/?coin=RHEA)

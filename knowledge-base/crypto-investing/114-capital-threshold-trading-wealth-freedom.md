@@ -1,3 +1,23 @@
+---
+title: "小資交易者的資本門檻：從打工到財務自由的分階段策略"
+date: ">"
+tags: 
+  - "資本積累"
+  - "交易閾值"
+  - "風險管理"
+summary: "有點震驚，對於小資金交易者（1萬U以下）來說，他們的整體收益是低於擼毛群體的..."
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 46
+evergreenScore: 57
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/CryptoPainter/status/1957729999232139559"
+  externalUrl: null
+  authorUsername: "CryptoPainter"
+---
+
 # 小資交易者的資本門檻：從打工到財務自由的分階段策略
 
 > **來源**: [@CryptoPainter](https://x.com/CryptoPainter/status/1957729999232139559)

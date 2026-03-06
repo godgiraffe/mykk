@@ -1,3 +1,23 @@
+---
+title: "配對交易：相對價值套利策略研究"
+date: "2025-08-01"
+tags: 
+  - "配對交易"
+  - "統計套利"
+  - "一價定律"
+summary: "配對交易（Pairs Trading）是一種市場中性套利策略，核心是選擇歷史價格走勢高度相似的兩隻股票，當價差擴大時做多落後者、做空領先者，待價差收斂後平倉以獲取套利利潤。這實質是對「價格一價定律」（Law of One Price）的套利執行，假設兩隻高度相關的股票價差最終會恢復歷史均衡水平。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 50
+evergreenScore: 53
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/wquguru/status/1951243101038846297"
+  externalUrl: null
+  authorUsername: "wquguru"
+---
+
 # 配對交易：相對價值套利策略研究
 
 > **來源**: [@wquguru](https://x.com/wquguru/status/1951243101038846297)

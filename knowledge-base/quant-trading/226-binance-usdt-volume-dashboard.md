@@ -1,3 +1,23 @@
+---
+title: "幣安 USDT 交易量查詢看板"
+date: "2025-05-19"
+tags: 
+  - "交易看板"
+  - "交易量分析"
+  - "幣安工具"
+summary: "**查詢交易量**：監控特定地址的 USDT 交易量 **添加地址**：可批量添加需要監控的地址 **交易數據標記**： - B: 購買 - S: 賣出 - F: 磨損 - N: 下一級差額 - Alpha: 雙倍積分"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/noosuture/status/1924540395771593181"
+  externalUrl: "https://bntrader.vercel.app/"
+  authorUsername: "noosuture"
+---
+
 # 幣安 USDT 交易量查詢看板
 
 > **來源**: [@noosuture](https://x.com/noosuture/status/1924540395771593181) | [原文連結](https://bntrader.vercel.app/)

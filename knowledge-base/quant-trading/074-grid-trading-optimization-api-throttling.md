@@ -1,3 +1,23 @@
+---
+title: "網格交易策略優化與 API 流量控制"
+date: "2025-11-17"
+tags: 
+  - "網格交易"
+  - "API 限制"
+  - "交易所適配"
+summary: "許多功能應該使用 Websocket 來實作，但由於網路連線不穩定，Websocket 連線經常出現異常，因此不得不優先支援 API 方式。這導致 API 調用次數過多，頻繁觸碰到交易所的流量限制。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 48
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/practice_y11/status/1990317089161351561"
+  externalUrl: null
+  authorUsername: "practice_y11"
+---
+
 # 網格交易策略優化與 API 流量控制
 
 > **來源**: [@practice_y11](https://x.com/practice_y11/status/1990317089161351561)

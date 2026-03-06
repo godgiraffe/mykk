@@ -1,3 +1,23 @@
+---
+title: "Claude Code 高效編碼：從上到下工作流程"
+date: ">"
+tags: 
+  - "Claude Code"
+  - "工作流程優化"
+  - "AI 開發效率"
+summary: "從高層 ROADMAP 到原子化 Tasks，再到 One-Shotting 執行——AI 編碼效率提升 20-30% 的實用藍圖。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/BadUncleX/status/1943325112641687768"
+  externalUrl: null
+  authorUsername: "BadUncleX"
+---
+
 # Claude Code 高效編碼：從上到下工作流程
 
 > **來源**: [@BadUncleX](https://x.com/BadUncleX/status/1943325112641687768)

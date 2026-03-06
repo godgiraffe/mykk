@@ -1,3 +1,23 @@
+---
+title: "永續合約價差收斂套利的選項希臘字母分析"
+date: "2025-11-21"
+tags: 
+  - "套利策略"
+  - "永續合約"
+  - "風險中性"
+summary: "**開倉**：兩所盤口價差很高，比如 BTC 達到 ±60～100 USD **倉位**：高價所做空 + 低價所做多（1:1） **平倉**：價差回歸 0 附近 或 反向更大極端 **資金費率**：看做時間貼息"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Boywus/status/1991784010956304681"
+  externalUrl: null
+  authorUsername: "Boywus"
+---
+
 # 永續合約價差收斂套利的選項希臘字母分析
 
 > **來源**: [@Boywus](https://x.com/Boywus/status/1991784010956304681)

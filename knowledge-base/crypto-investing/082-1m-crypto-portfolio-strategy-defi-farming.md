@@ -1,3 +1,23 @@
+---
+title: "100萬美元加密投資組合策略：DeFi 農場與風險管理"
+date: ">"
+tags: 
+  - "投資組合配置"
+  - "DeFi 耕作"
+  - "風險管理"
+summary: "配置 50 萬美元穩定幣在 DeFi 協議中 目標年化收益 5-7% 用於支付生活開支 **永遠不動用本金**"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Cbb0fe/status/1980576445438034287"
+  externalUrl: null
+  authorUsername: "Cbb0fe"
+---
+
 # 100萬美元加密投資組合策略：DeFi 農場與風險管理
 
 > **來源**: [@Cbb0fe](https://x.com/Cbb0fe/status/1980576445438034287)

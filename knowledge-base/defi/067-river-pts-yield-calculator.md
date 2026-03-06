@@ -1,3 +1,23 @@
+---
+title: "River Pts 動態轉換機制全攻略"
+date: "2025-10-18"
+tags: 
+  - "River Pts"
+  - "動態轉換"
+  - "DeFi 策略"
+summary: "這是一篇 @RiverdotInc 的 River Pts 動態轉換機制全攻略，如果不懂的兄弟們，看這篇就夠了！我會從最基本的 River Pts 開始介紹，也會談買賣 River Pts 的時機＆可能的機會，祝各位發財！🤑"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 53
+priorityScore: 58
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/trader_alvin/status/1979532945842135468"
+  externalUrl: null
+  authorUsername: "trader_alvin"
+---
+
 # River Pts 動態轉換機制全攻略
 
 > **來源**: [@trader_alvin](https://x.com/trader_alvin/status/1979532945842135468)

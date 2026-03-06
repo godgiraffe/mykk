@@ -1,3 +1,23 @@
+---
+title: "DLMM 池子篩選工具——實時數據抓取分析"
+date: "2024-11-06"
+tags: 
+  - "DLMM"
+  - "流動性挖礦"
+  - "數據分析"
+summary: "還有個偏穩妥，但不會拉下熱點太多的思路：抓取 DLMM 池子的全量數據，再進行數據處理、分析，根據你的需求，篩選對應的池子，組 LP。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 59
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/gm365/status/1854068964751757610"
+  externalUrl: null
+  authorUsername: "gm365"
+---
+
 # DLMM 池子篩選工具——實時數據抓取分析
 
 > **來源**: [@gm365](https://x.com/gm365/status/1854068964751757610)

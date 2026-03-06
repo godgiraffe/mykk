@@ -1,3 +1,23 @@
+---
+title: "Chain.fm 鏈上信號過濾工具 — 追蹤 KOL 錢包"
+date: "2025-01-19"
+tags: 
+  - "鏈上分析"
+  - "信號追蹤"
+  - "Solana"
+summary: "**頻道名稱**: Heathcliff tracked wallets **鏈**: Solana **平台**: Chain.fm **頻道連結**: https://chain.fm/heathcliff/solana"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 56
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/supezen/status/1880859693830254838"
+  externalUrl: "https://chain.fm/channel/1327987334263607299"
+  authorUsername: "supezen"
+---
+
 # Chain.fm 鏈上信號過濾工具 — 追蹤 KOL 錢包
 
 > **來源**: [@supezen](https://x.com/supezen/status/1880859693830254838) | [原文連結](https://chain.fm/channel/1327987334263607299)

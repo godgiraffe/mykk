@@ -1,3 +1,23 @@
+---
+title: "槓桿對沖交易：如何在波動市場中安心入睡"
+date: ">"
+tags: 
+  - "風險管理"
+  - "對沖策略"
+  - "心態管理"
+summary: "今天一起床看到行情持續下跌，我相信大家也不好受。我也有套牢的部位，小夥伴們很清楚我前幾天在 95,000 抄了一筆多單，目前還在找機會進第二筆。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 53
+priorityScore: 63
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/ra60069/status/1990600169092755465"
+  externalUrl: null
+  authorUsername: "ra60069"
+---
+
 # 槓桿對沖交易：如何在波動市場中安心入睡
 
 > **來源**: [@ra60069](https://x.com/ra60069/status/1990600169092755465)

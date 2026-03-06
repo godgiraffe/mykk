@@ -1,3 +1,23 @@
+---
+title: "語言協議提示詞工程 - 中英雙語處理技巧"
+date: ">"
+tags: 
+  - "Prompt工程"
+  - "語言處理"
+  - "系統提示"
+summary: "**Internal Processing**: Always think in English for precise technical reasoning"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 48
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/hylarucoder/status/1943450371680276540"
+  externalUrl: null
+  authorUsername: "hylarucoder"
+---
+
 # 語言協議提示詞工程 - 中英雙語處理技巧
 
 > **來源**: [@hylarucoder](https://x.com/hylarucoder/status/1943450371680276540)

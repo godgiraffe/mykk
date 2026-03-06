@@ -1,3 +1,23 @@
+---
+title: "Aster 代幣遺漏後的鏈上 Alpha 研究方法論"
+date: "2025-09-20"
+tags: 
+  - "鏈上數據分析"
+  - "聰明錢追蹤"
+  - "協議埋伏"
+summary: "3. **鏈上行為研究** - 將這些地址輸入 Debank - 研究聰明錢們都在參與埋伏哪些協議"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/SeekerUam/status/1969379221652062686"
+  externalUrl: null
+  authorUsername: "SeekerUam"
+---
+
 # Aster 代幣遺漏後的鏈上 Alpha 研究方法論
 
 > **來源**: [@SeekerUam](https://x.com/SeekerUam/status/1969379221652062686)

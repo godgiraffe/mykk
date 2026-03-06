@@ -1,3 +1,23 @@
+---
+title: "Pendle Plasma 鏈 YT 買入與挂單雙重收益策略"
+date: "2025-10-25"
+tags: 
+  - "Pendle"
+  - "YT 收益"
+  - "挂單套利"
+summary: "Plasma 鏈 Pendle YT 買入與掛單雙重收益策略，結合底層收益與掛單獎勵，三日年化可達 1200%，底層年化 70+%。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/dxh430/status/1982103415087149162"
+  externalUrl: null
+  authorUsername: "dxh430"
+---
+
 # Pendle Plasma 鏈 YT 買入與挂單雙重收益策略
 
 > **來源**: [@dxh430](https://x.com/dxh430/status/1982103415087149162)

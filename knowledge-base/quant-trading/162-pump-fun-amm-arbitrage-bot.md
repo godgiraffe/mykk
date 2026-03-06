@@ -1,3 +1,23 @@
+---
+title: "Pump Fun AMM 流動性狙擊套利機器人策略"
+date: "2025-07-26"
+tags: 
+  - "套利機器人"
+  - "Pump Fun"
+  - "流動性管理"
+summary: "流水莊的特點就是你買多了他就撤池子，並且用的是 Pump AMM 池而不是在 Pump 內盤發射，因為這樣手續費會奇高（買賣各 1%）。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/beiyue66/status/1948977371555791232"
+  externalUrl: null
+  authorUsername: "beiyue66"
+---
+
 # Pump Fun AMM 流動性狙擊套利機器人策略
 
 > **來源**: [@beiyue66](https://x.com/beiyue66/status/1948977371555791232)

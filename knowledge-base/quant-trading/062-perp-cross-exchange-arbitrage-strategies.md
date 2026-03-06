@@ -1,3 +1,23 @@
+---
+title: "永續合約跨所套利姿勢：OLP 國補、價差舔盤、費率理財與交易量收益"
+date: "2025-11-21"
+tags: 
+  - "套利"
+  - "永續合約"
+  - "正向現金流"
+summary: "我會幫你將這篇文章整理成知識庫格式。讓我先分析這是一篇關於永續合約跨所套利的實戰策略文章，屬於 quant-trading 分類。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/Metabape/status/1991944885021356513"
+  externalUrl: "https://omni.variational.io/?ref=OMNIMETABAPE"
+  authorUsername: "Metabape"
+---
+
 # 永續合約跨所套利姿勢：OLP 國補、價差舔盤、費率理財與交易量收益
 
 > **來源**: [@Metabape](https://x.com/Metabape/status/1991944885021356513) | [原文連結](https://omni.variational.io/?ref=OMNIMETABAPE)

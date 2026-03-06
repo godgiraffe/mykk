@@ -1,3 +1,23 @@
+---
+title: "Pendle YT 精算師 - 自動化積分獲取策略工具"
+date: "2025-08-31"
+tags: 
+  - "Pendle"
+  - "YT 積分"
+  - "策略工具"
+summary: "✅ 自動計算真實成本（扣除底層收益） ✅ 橫向對比同類 YT 市場 ✅ 預期 APY 實時排序 ✅ 積分效率一目了然"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 47
+evergreenScore: 64
+priorityScore: 61
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xKISS/status/1961967143089758704"
+  externalUrl: null
+  authorUsername: "0xKISS"
+---
+
 # Pendle YT 精算師 - 自動化積分獲取策略工具
 
 > **來源**: [@0xKISS](https://x.com/0xKISS/status/1961967143089758704)

@@ -1,3 +1,23 @@
+---
+title: "Maple Mono：完美對齊的編程字體"
+date: "2025-03-23"
+tags: 
+  - "編程字體"
+  - "設計工具"
+  - "開發環境"
+summary: "**中英文 2:1 完美對齊** - 中文字符寬度剛好是英文的兩倍,排版整齊美觀 **多種連字符** - 類似 Fira Code 的連字符支持,將多個字符組合成單一符號(如 => != >=) **斜體花體字** - 斜體字以 script font/花體字形式顯示,增加視覺層次 **柔和圓角設計** - 字體採用圓角處理,長時間閱讀更舒適"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 51
+evergreenScore: 56
+priorityScore: 59
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/nishuang/status/1903675225901772930"
+  externalUrl: "https://twitter.com/nishuang/status/1903675225901772930/photo/1"
+  authorUsername: "nishuang"
+---
+
 # Maple Mono：完美對齊的編程字體
 
 > **來源**: [@nishuang](https://x.com/nishuang/status/1903675225901772930) | [原文連結](https://twitter.com/nishuang/status/1903675225901772930/photo/1)

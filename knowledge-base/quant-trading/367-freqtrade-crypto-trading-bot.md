@@ -1,3 +1,23 @@
+---
+title: "Freqtrade：免費開源加密貨幣交易機器人"
+date: "2024-11-18"
+tags: 
+  - "交易機器人"
+  - "Python"
+  - "自動化交易"
+summary: "Freqtrade 是一個免費開源的加密貨幣交易機器人，使用 Python 編寫。它支援所有主流交易所，可透過 Telegram 或 Web UI 控制。包含回測、繪圖、資金管理工具，以及透過機器學習進行策略優化的功能。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 62
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/vikingmute/status/1858426188672455050"
+  externalUrl: "https://github.com/freqtrade/freqtrade"
+  authorUsername: "vikingmute"
+---
+
 # Freqtrade：免費開源加密貨幣交易機器人
 
 > **來源**: [@vikingmute](https://x.com/vikingmute/status/1858426188672455050) | [原文連結](https://github.com/freqtrade/freqtrade)

@@ -1,3 +1,23 @@
+---
+title: "訂單簿微觀結構：套利的基礎"
+date: ">"
+tags: 
+  - "訂單簿"
+  - "市場微觀結構"
+  - "高頻交易"
+summary: "你真的懂高頻交易和交易速度，為什麼那麼重要嗎？ 為什麼要量化？ 如果市場還存在無風險的機會，而且能搶到，那還需要量化嗎？"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 42
+priorityScore: 60
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/1942617561994256829"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # 訂單簿微觀結構：套利的基礎
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/1942617561994256829)

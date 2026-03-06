@@ -1,3 +1,23 @@
+---
+title: "BTC 飛輪策略：Sell Put + Covered Call 套利組合"
+date: ">"
+tags: 
+  - "期權策略"
+  - "輪動交易"
+  - "年化收益"
+summary: "項目 說明 ------ ------ **前提條件** 看漲 BTC 長期趨勢 **核心邏輯** 低價接貨 + 租金收益雙向獲利 **勝率** 90%+ **年化收益** 20%+ **適用標的** BTC、QQQ 或任何看好的標的"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 49
+evergreenScore: 67
+priorityScore: 68
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/MengLayer/status/2000744119682130039"
+  externalUrl: null
+  authorUsername: "MengLayer"
+---
+
 # BTC 飛輪策略：Sell Put + Covered Call 套利組合
 
 > **來源**: [@MengLayer](https://x.com/MengLayer/status/2000744119682130039)

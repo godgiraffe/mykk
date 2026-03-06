@@ -1,3 +1,26 @@
+---
+title: "DeFi Alpha 策略與生命週期判斷"
+date: "2026-02-13"
+tags: 
+  - "DeFi"
+  - "套利"
+  - "Alpha"
+  - "風險管理"
+  - "AI"
+  - "程式開發"
+summary: "本文探討了在 DeFi 領域中，僅擁有技術技能並不足以致富，更重要的是將這些技能應用於高槓桿的活動。文章介紹了鏈上金庫主理人（Curator）的概念，強調對 DeFi 機制、風險和套利的深刻理解。同時，AI 和程式碼工具的運用能加速驗證想法，使人們能專注於更高層次的策略選擇與賽道切換。文章也提及了項目生命週期的重要性，以及通過機制和行情分析來預防風險。"
+curationStatus: "inbox"
+usefulnessScore: 80
+noveltyScore: 51
+evergreenScore: 53
+priorityScore: 66
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/0xLogicLog/status/2022284514836492323"
+  externalUrl: null
+  authorUsername: "0xLogicLog"
+---
+
 # DeFi Alpha 策略與生命週期判斷
 
 > **來源**: [@0xLogicLog](https://x.com/0xLogicLog/status/2022284514836492323)

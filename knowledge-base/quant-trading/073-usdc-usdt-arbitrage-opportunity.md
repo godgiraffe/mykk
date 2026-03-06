@@ -1,3 +1,23 @@
+---
+title: "USDC/USDT 千分之一價差套利機會"
+date: "2025-11-17"
+tags: 
+  - "套利"
+  - "穩定幣"
+  - "交易機會"
+summary: "USDC/USDT 交易對出現千分之一（0.1%）的價差，這為持有 USDC 作為合約保證金的交易者提供了一個簡單的套利機會。"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 56
+priorityScore: 64
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/yourQuantGuy/status/1990511461932937440"
+  externalUrl: "https://twitter.com/yourQuantGuy/status/1990511461932937440/photo/1"
+  authorUsername: "yourQuantGuy"
+---
+
 # USDC/USDT 千分之一價差套利機會
 
 > **來源**: [@yourQuantGuy](https://x.com/yourQuantGuy/status/1990511461932937440) | [原文連結](https://twitter.com/yourQuantGuy/status/1990511461932937440/photo/1)

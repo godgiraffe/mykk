@@ -1,3 +1,23 @@
+---
+title: "空投賠率公式：判斷是否值得參與的核心指標"
+date: "2024-09-15"
+tags: 
+  - "空投評估"
+  - "預期價值"
+  - "風險管理"
+summary: "賠率必須大於 2 才有價值，數字越高，賠率越高 賠率 3 以上：隨便幹 賠率 5-10：大力幹"
+curationStatus: "inbox"
+usefulnessScore: 76
+noveltyScore: 47
+evergreenScore: 57
+priorityScore: 65
+curationNote: "先快速掃摘要與重點段落，再決定要精選或封存。"
+source:
+  tweetUrl: "https://x.com/Web3Feng/status/1835214849984623096"
+  externalUrl: null
+  authorUsername: "Web3Feng"
+---
+
 # 空投賠率公式：判斷是否值得參與的核心指標
 
 > **來源**: [@Web3Feng](https://x.com/Web3Feng/status/1835214849984623096)

@@ -1,3 +1,23 @@
+---
+title: "Solana DEX 流動性池區間識別教學"
+date: "2025-02-15"
+tags: 
+  - "流動性池"
+  - "單邊流動性"
+  - "代幣分析"
+summary: "今天阿根廷總統發幣 $LIBRA，Dev 利用投資者對於 LP 不敏感，組單邊流動性進行出貨。前段時間也有 ZachXBT 將手中的代幣組 LP，利用 LP 在上漲的過程中進行出貨。在捕捉金狗的過程中，知道 Dev 的 LP 範圍也是一個不可或缺的知識點。"
+curationStatus: "inbox"
+usefulnessScore: 64
+noveltyScore: 49
+evergreenScore: 43
+priorityScore: 55
+curationNote: "先檢查外部連結是否值得保留，再決定是否轉入精選。"
+source:
+  tweetUrl: "https://x.com/0xchangan/status/1890667575568482720"
+  externalUrl: "https://solscan.io/"
+  authorUsername: "0xchangan"
+---
+
 # Solana DEX 流動性池區間識別教學
 
 > **來源**: [@0xchangan](https://x.com/0xchangan/status/1890667575568482720) | [原文連結](https://solscan.io/)
