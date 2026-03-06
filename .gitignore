@@ -18,3 +18,5 @@ node_modules/
 # VitePress
 knowledge-base/.vitepress/dist/
 knowledge-base/.vitepress/cache/
+
+curation-export.json
