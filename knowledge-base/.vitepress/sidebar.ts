@@ -3,6 +3,7 @@ import path from "node:path";
 import { categoryNames } from "./data/category-meta";
 
 const KB_ROOT = path.resolve(__dirname, "..");
+const HIDDEN_SIDEBAR_DIRS = new Set(["uncategorized", "unknown"]);
 
 /** 從 markdown 檔案第一行取標題 */
 function getTitle(filePath: string): string {
@@ -22,7 +23,8 @@ export function generateSidebar() {
         d.isDirectory() &&
         !d.name.startsWith(".") &&
         d.name !== "assets" &&
-        d.name !== "node_modules"
+        d.name !== "node_modules" &&
+        !HIDDEN_SIDEBAR_DIRS.has(d.name),
     )
     .map((d) => d.name)
     .sort();

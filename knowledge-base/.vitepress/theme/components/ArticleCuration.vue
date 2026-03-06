@@ -1,7 +1,10 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref } from "vue";
 import { useData, withBase } from "vitepress";
-import { data as allArticles, type ArticleData } from "../../data/articles.data";
+import {
+  data as allArticles,
+  type ArticleData,
+} from "../../data/articles.data";
 import {
   clearCuration,
   getCurationMap,
@@ -29,7 +32,8 @@ const statusToneClass: Record<CurationStatus, string> = {
 const statusDeck: Record<CurationStatus, string> = {
   inbox: "留在 review pipeline，等你蒐集更多訊號後再決定是否精選或封存。",
   curated: "這篇會優先出現在首頁與分類列表前段，代表它值得被反覆看到。",
-  archive: "這篇會保留資料，但不再占據主要閱讀入口，適合低信號或時效已過的內容。",
+  archive:
+    "這篇會保留資料，但不再占據主要閱讀入口，適合低信號或時效已過的內容。",
 };
 
 const curationMap = ref<CurationMap>({});
@@ -45,10 +49,16 @@ const article = computed<ArticleData | undefined>(() =>
 
 const effectiveStatus = computed<CurationStatus | null>(() => {
   if (!article.value) return null;
-  return resolveCurationStatus(article.value.url, article.value.curationStatus, curationMap.value);
+  return resolveCurationStatus(
+    article.value.url,
+    article.value.curationStatus,
+    curationMap.value,
+  );
 });
 
-const hasLocalOverride = computed(() => Boolean(article.value && curationMap.value[article.value.url]));
+const hasLocalOverride = computed(() =>
+  Boolean(article.value && curationMap.value[article.value.url]),
+);
 
 const workspaceUrl = computed(() => {
   if (effectiveStatus.value === "curated") return withBase("/curated.html");
@@ -92,9 +102,9 @@ function restoreDefault() {
 }
 
 function priorityBand(score: number) {
-  if (score >= 82) return "High Signal";
-  if (score >= 68) return "Worth Reviewing";
-  return "Lower Signal";
+  if (score >= 82) return "優先處理";
+  if (score >= 68) return "值得先看";
+  return "可晚點看";
 }
 
 onMounted(() => {
@@ -111,13 +121,13 @@ onBeforeUnmount(() => {
   <div v-if="article && effectiveStatus" class="article-curation">
     <div class="panel-top">
       <div class="heading">
-        <p class="eyebrow">Curation Desk</p>
+        <p class="eyebrow">編修台</p>
         <h3>這篇文章要放去哪一層？</h3>
         <p class="deck">{{ statusDeck[effectiveStatus] }}</p>
       </div>
 
       <div class="priority-chip">
-        <span>AI Priority</span>
+        <span>AI 優先度</span>
         <strong>{{ article.priorityScore }}</strong>
         <em>{{ priorityBand(article.priorityScore) }}</em>
       </div>
@@ -141,7 +151,11 @@ onBeforeUnmount(() => {
       <button
         v-for="status in ['inbox', 'curated', 'archive']"
         :key="status"
-        :class="['status-button', status, { active: effectiveStatus === status }]"
+        :class="[
+          'status-button',
+          status,
+          { active: effectiveStatus === status },
+        ]"
         :aria-pressed="effectiveStatus === status"
         @click="updateStatus(status as CurationStatus)"
       >
@@ -151,14 +165,14 @@ onBeforeUnmount(() => {
 
     <div class="detail-grid">
       <section class="detail-card">
-        <p class="section-label">Summary</p>
+        <p class="section-label">摘要</p>
         <p class="summary">{{ article.summary || article.excerpt }}</p>
-        <p class="note-label">Curation Note</p>
+        <p class="note-label">編輯備註</p>
         <p class="note">{{ article.curationNote }}</p>
       </section>
 
       <section class="detail-card signal-card">
-        <p class="section-label">Signals</p>
+        <p class="section-label">訊號</p>
 
         <div class="signal-row">
           <div class="signal-label">
@@ -193,7 +207,11 @@ onBeforeUnmount(() => {
     </div>
 
     <div class="action-row">
-      <button v-if="hasLocalOverride" class="action-button reset" @click="restoreDefault">
+      <button
+        v-if="hasLocalOverride"
+        class="action-button reset"
+        @click="restoreDefault"
+      >
         還原預設
       </button>
       <a :href="workspaceUrl" class="action-button">回工作台</a>
@@ -226,7 +244,11 @@ onBeforeUnmount(() => {
   border: 1px solid color-mix(in srgb, var(--vp-c-divider) 72%, transparent);
   border-radius: 24px;
   background:
-    radial-gradient(circle at top left, rgba(62, 155, 255, 0.16), transparent 32%),
+    radial-gradient(
+      circle at top left,
+      rgba(62, 155, 255, 0.16),
+      transparent 32%
+    ),
     linear-gradient(140deg, rgba(255, 255, 255, 0.06), transparent 52%),
     var(--vp-c-bg-soft);
   box-shadow: 0 24px 60px -46px rgba(15, 23, 42, 0.42);
@@ -247,9 +269,9 @@ onBeforeUnmount(() => {
 .note-label {
   margin: 0;
   color: var(--vp-c-text-3);
-  font-size: 11px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
 }
 
 .heading h3 {
@@ -276,9 +298,8 @@ onBeforeUnmount(() => {
 .priority-chip span {
   display: block;
   color: var(--vp-c-text-3);
-  font-size: 11px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.04em;
 }
 
 .priority-chip strong {

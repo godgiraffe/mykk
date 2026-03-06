@@ -46,13 +46,34 @@ export function getCurationMap(): CurationMap {
   }
 }
 
+function emitCurationUpdate() {
+  window.dispatchEvent(new CustomEvent(CURATION_EVENT_NAME));
+}
+
+function writeCurationMap(map: CurationMap) {
+  localStorage.setItem(CURATION_STORAGE_KEY, JSON.stringify(map));
+  emitCurationUpdate();
+}
+
 export function setCuration(url: string, status: CurationStatus) {
   if (typeof localStorage === "undefined") return;
 
   const current = getCurationMap();
   current[url] = { status, updatedAt: new Date().toISOString() };
-  localStorage.setItem(CURATION_STORAGE_KEY, JSON.stringify(current));
-  window.dispatchEvent(new CustomEvent(CURATION_EVENT_NAME));
+  writeCurationMap(current);
+}
+
+export function setManyCuration(urls: string[], status: CurationStatus) {
+  if (typeof localStorage === "undefined" || urls.length === 0) return;
+
+  const current = getCurationMap();
+  const updatedAt = new Date().toISOString();
+
+  for (const url of urls) {
+    current[url] = { status, updatedAt };
+  }
+
+  writeCurationMap(current);
 }
 
 export function clearCuration(url: string) {
@@ -60,15 +81,26 @@ export function clearCuration(url: string) {
 
   const current = getCurationMap();
   delete current[url];
-  localStorage.setItem(CURATION_STORAGE_KEY, JSON.stringify(current));
-  window.dispatchEvent(new CustomEvent(CURATION_EVENT_NAME));
+  writeCurationMap(current);
+}
+
+export function clearManyCuration(urls: string[]) {
+  if (typeof localStorage === "undefined" || urls.length === 0) return;
+
+  const current = getCurationMap();
+
+  for (const url of urls) {
+    delete current[url];
+  }
+
+  writeCurationMap(current);
 }
 
 export function clearAllCuration() {
   if (typeof localStorage === "undefined") return;
 
   localStorage.removeItem(CURATION_STORAGE_KEY);
-  window.dispatchEvent(new CustomEvent(CURATION_EVENT_NAME));
+  emitCurationUpdate();
 }
 
 export function resolveCurationStatus(

@@ -1,14 +1,19 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref, watch } from "vue";
 import { withBase } from "vitepress";
-import { data as allArticles, type ArticleData } from "../../data/articles.data";
+import {
+  data as allArticles,
+  type ArticleData,
+} from "../../data/articles.data";
 import { categoryCatalog } from "../../data/category-meta";
 import {
   clearAllCuration,
   clearCuration,
+  clearManyCuration,
   getCurationMap,
   resolveCurationStatus,
   setCuration,
+  setManyCuration,
   subscribeCuration,
   type CurationMap,
   type CurationStatus,
@@ -25,6 +30,7 @@ type ResolvedArticle = ArticleData & {
 };
 
 const HIGH_PRIORITY_THRESHOLD = 74;
+const MOBILE_BREAKPOINT = 720;
 
 const props = withDefaults(
   defineProps<{
@@ -46,22 +52,19 @@ const modeCopy: Record<
   }
 > = {
   review: {
-    eyebrow: "Review Lane",
+    eyebrow: "待審工作台",
     title: "先處理最值得判斷的文章，把注意力花在高訊號內容。",
-    deck:
-      "待審區以 priority 為核心。你可以用搜尋、快速篩選和本地覆寫提示，把決策節奏拉快。",
+    deck: "待審區以優先度為核心。你可以用搜尋、快速篩選和本地覆寫提示，把決策節奏拉快。",
   },
   curated: {
-    eyebrow: "Curated Shelf",
+    eyebrow: "精選工作台",
     title: "把真正值得留在首頁的內容整理成穩定的精選層。",
-    deck:
-      "這裡適合檢查精選內容是否仍然夠強、分類是否平衡，以及哪些本地調整還沒回寫到 repo。",
+    deck: "這裡適合檢查精選內容是否仍然夠強、分類是否平衡，以及哪些本地調整還沒回寫到 repo。",
   },
   archive: {
-    eyebrow: "Archive Lane",
+    eyebrow: "封存工作台",
     title: "封存區不是垃圾桶，而是把低信號內容移出主要閱讀路徑。",
-    deck:
-      "在封存區你可以快速複查誤判內容，或集中清理那些僅存在於本地覆寫的決策。",
+    deck: "在封存區你可以快速複查誤判內容，或集中清理那些僅存在於本地覆寫的決策。",
   },
 };
 
@@ -87,7 +90,11 @@ const searchQuery = ref("");
 const quickFilter = ref<QuickFilter>("all");
 const visibleCount = ref(props.limit);
 const searchInput = ref<HTMLInputElement | null>(null);
+const stickySentinel = ref<HTMLDivElement | null>(null);
+const isControlPinned = ref(false);
+const selectedUrls = ref<string[]>([]);
 let unsubscribe = () => {};
+let stickyFrame = 0;
 
 function syncCuration() {
   curationMap.value = getCurationMap();
@@ -130,9 +137,9 @@ function formatUpdatedAt(value: string) {
 }
 
 function priorityBand(score: number) {
-  if (score >= 82) return "High Signal";
-  if (score >= 68) return "Worth Reviewing";
-  return "Lower Signal";
+  if (score >= 82) return "優先處理";
+  if (score >= 68) return "值得先看";
+  return "可晚點看";
 }
 
 function isTextInputTarget(target: EventTarget | null) {
@@ -156,6 +163,36 @@ function onGlobalKeydown(event: KeyboardEvent) {
 
   event.preventDefault();
   searchInput.value?.focus();
+}
+
+function getNavHeight() {
+  if (typeof window === "undefined") return 64;
+
+  const raw = getComputedStyle(document.documentElement)
+    .getPropertyValue("--vp-nav-height")
+    .trim();
+  const parsed = Number.parseFloat(raw);
+  return Number.isFinite(parsed) ? parsed : 64;
+}
+
+function syncPinnedState() {
+  if (typeof window === "undefined") return;
+  if (window.innerWidth <= MOBILE_BREAKPOINT || !stickySentinel.value) {
+    isControlPinned.value = false;
+    return;
+  }
+
+  isControlPinned.value =
+    stickySentinel.value.getBoundingClientRect().top <= getNavHeight() + 1;
+}
+
+function schedulePinnedStateSync() {
+  if (typeof window === "undefined" || stickyFrame) return;
+
+  stickyFrame = window.requestAnimationFrame(() => {
+    stickyFrame = 0;
+    syncPinnedState();
+  });
 }
 
 const targetStatus = computed<CurationStatus>(() =>
@@ -200,12 +237,21 @@ const stats = computed(() => {
       acc[article.effectiveStatus] += 1;
       return acc;
     },
-    { total: 0, currentLane: 0, overrides: 0, inbox: 0, curated: 0, archive: 0 },
+    {
+      total: 0,
+      currentLane: 0,
+      overrides: 0,
+      inbox: 0,
+      curated: 0,
+      archive: 0,
+    },
   );
 });
 
 const modeArticles = computed(() =>
-  resolvedArticles.value.filter((article) => article.effectiveStatus === targetStatus.value),
+  resolvedArticles.value.filter(
+    (article) => article.effectiveStatus === targetStatus.value,
+  ),
 );
 
 const categoryOptions = computed(() => {
@@ -239,25 +285,34 @@ const quickFilterOptions = computed(() => [
   { value: "all" as const, label: "全部", count: modeArticles.value.length },
   {
     value: "high-priority" as const,
-    label: "高 Priority",
-    count: modeArticles.value.filter((article) => article.priorityScore >= HIGH_PRIORITY_THRESHOLD)
-      .length,
+    label: "高優先度",
+    count: modeArticles.value.filter(
+      (article) => article.priorityScore >= HIGH_PRIORITY_THRESHOLD,
+    ).length,
   },
   {
     value: "overrides" as const,
     label: "本地覆寫",
-    count: modeArticles.value.filter((article) => article.hasLocalOverride).length,
+    count: modeArticles.value.filter((article) => article.hasLocalOverride)
+      .length,
   },
   {
     value: "source-linked" as const,
     label: "有延伸連結",
-    count: modeArticles.value.filter((article) => Boolean(article.sourceExternalUrl)).length,
+    count: modeArticles.value.filter((article) =>
+      Boolean(article.sourceExternalUrl),
+    ).length,
   },
 ]);
 
-function compareArticles(a: ResolvedArticle, b: ResolvedArticle, sort: SortMode) {
+function compareArticles(
+  a: ResolvedArticle,
+  b: ResolvedArticle,
+  sort: SortMode,
+) {
   if (sort === "updated") {
-    const delta = parseTime(b.decisionUpdatedAt) - parseTime(a.decisionUpdatedAt);
+    const delta =
+      parseTime(b.decisionUpdatedAt) - parseTime(a.decisionUpdatedAt);
     if (delta !== 0) return delta;
   }
 
@@ -270,7 +325,8 @@ function compareArticles(a: ResolvedArticle, b: ResolvedArticle, sort: SortMode)
     if (delta !== 0) return delta;
   }
 
-  if (b.priorityScore !== a.priorityScore) return b.priorityScore - a.priorityScore;
+  if (b.priorityScore !== a.priorityScore)
+    return b.priorityScore - a.priorityScore;
   if (b.number !== a.number) return b.number - a.number;
   return a.category.localeCompare(b.category, "zh-Hant");
 }
@@ -297,13 +353,55 @@ function matchesSearch(article: ResolvedArticle) {
 
 const filteredArticles = computed(() =>
   modeArticles.value
-    .filter((article) => selectedCategory.value === "all" || article.category === selectedCategory.value)
+    .filter(
+      (article) =>
+        selectedCategory.value === "all" ||
+        article.category === selectedCategory.value,
+    )
     .filter(matchesQuickFilter)
     .filter(matchesSearch)
     .sort((a, b) => compareArticles(a, b, sortMode.value)),
 );
 
-const visibleArticles = computed(() => filteredArticles.value.slice(0, visibleCount.value));
+const visibleArticles = computed(() =>
+  filteredArticles.value.slice(0, visibleCount.value),
+);
+
+const filteredArticleUrls = computed(() =>
+  filteredArticles.value.map((article) => article.url),
+);
+const visibleArticleUrls = computed(() =>
+  visibleArticles.value.map((article) => article.url),
+);
+const selectedUrlSet = computed(() => new Set(selectedUrls.value));
+
+const selectedCount = computed(() => selectedUrls.value.length);
+const selectedFilteredArticles = computed(() =>
+  filteredArticles.value.filter((article) =>
+    selectedUrlSet.value.has(article.url),
+  ),
+);
+const selectedOverrideCount = computed(
+  () =>
+    selectedFilteredArticles.value.filter((article) => article.hasLocalOverride)
+      .length,
+);
+const selectedHighPriorityCount = computed(
+  () =>
+    selectedFilteredArticles.value.filter(
+      (article) => article.priorityScore >= HIGH_PRIORITY_THRESHOLD,
+    ).length,
+);
+const allFilteredSelected = computed(
+  () =>
+    filteredArticleUrls.value.length > 0 &&
+    filteredArticleUrls.value.every((url) => selectedUrlSet.value.has(url)),
+);
+const allVisibleSelected = computed(
+  () =>
+    visibleArticleUrls.value.length > 0 &&
+    visibleArticleUrls.value.every((url) => selectedUrlSet.value.has(url)),
+);
 
 const filtersActive = computed(
   () =>
@@ -314,7 +412,8 @@ const filtersActive = computed(
 );
 
 const stagedCount = computed(
-  () => filteredArticles.value.filter((article) => article.hasLocalOverride).length,
+  () =>
+    filteredArticles.value.filter((article) => article.hasLocalOverride).length,
 );
 
 const resultSummary = computed(() => {
@@ -325,16 +424,102 @@ const resultSummary = computed(() => {
   return `篩出 ${filteredArticles.value.length} / ${modeArticles.value.length} 篇`;
 });
 
-watch([selectedCategory, sortMode, searchQuery, quickFilter, () => props.mode], () => {
+const batchSummary = computed(() => {
+  if (selectedCount.value === 0) return "尚未選取文章";
+
+  const parts = [`已選 ${selectedCount.value} 篇`];
+  if (selectedHighPriorityCount.value > 0) {
+    parts.push(`${selectedHighPriorityCount.value} 篇高優先度`);
+  }
+  if (selectedOverrideCount.value > 0) {
+    parts.push(`${selectedOverrideCount.value} 篇含本地覆寫`);
+  }
+  return parts.join(" · ");
+});
+
+watch([selectedCategory, searchQuery, quickFilter, () => props.mode], () => {
+  visibleCount.value = props.limit;
+  schedulePinnedStateSync();
+});
+
+watch(sortMode, () => {
   visibleCount.value = props.limit;
 });
+
+watch(filteredArticleUrls, (urls) => {
+  const allowed = new Set(urls);
+  if (selectedUrls.value.some((url) => !allowed.has(url))) {
+    selectedUrls.value = selectedUrls.value.filter((url) => allowed.has(url));
+  }
+});
+
+function isSelected(url: string) {
+  return selectedUrlSet.value.has(url);
+}
+
+function addSelection(urls: string[]) {
+  selectedUrls.value = [...new Set([...selectedUrls.value, ...urls])];
+}
+
+function removeSelection(urls: string[]) {
+  const blocked = new Set(urls);
+  selectedUrls.value = selectedUrls.value.filter((url) => !blocked.has(url));
+}
+
+function toggleSelection(url: string) {
+  if (isSelected(url)) {
+    removeSelection([url]);
+    return;
+  }
+
+  addSelection([url]);
+}
+
+function toggleVisibleSelection() {
+  if (allVisibleSelected.value) {
+    removeSelection(visibleArticleUrls.value);
+    return;
+  }
+
+  addSelection(visibleArticleUrls.value);
+}
+
+function toggleFilteredSelection() {
+  if (allFilteredSelected.value) {
+    removeSelection(filteredArticleUrls.value);
+    return;
+  }
+
+  addSelection(filteredArticleUrls.value);
+}
+
+function clearSelection() {
+  selectedUrls.value = [];
+}
 
 function updateStatus(url: string, status: CurationStatus) {
   setCuration(url, status);
 }
 
+function applyBatchStatus(status: CurationStatus) {
+  if (selectedUrls.value.length === 0) return;
+  setManyCuration(selectedUrls.value, status);
+  clearSelection();
+}
+
 function restoreDefault(url: string) {
   clearCuration(url);
+}
+
+function restoreSelectedDefaults() {
+  const overrideUrls = selectedFilteredArticles.value
+    .filter((article) => article.hasLocalOverride)
+    .map((article) => article.url);
+
+  if (overrideUrls.length === 0) return;
+
+  clearManyCuration(overrideUrls);
+  clearSelection();
 }
 
 function resetFilters() {
@@ -372,17 +557,26 @@ function resetLocalDecisions() {
   if (typeof window === "undefined") return;
   if (!window.confirm("確定要清空目前瀏覽器裡的 curation 覆寫嗎？")) return;
   clearAllCuration();
+  clearSelection();
 }
 
 onMounted(() => {
   syncCuration();
   unsubscribe = subscribeCuration(syncCuration);
   window.addEventListener("keydown", onGlobalKeydown);
+  window.addEventListener("scroll", schedulePinnedStateSync, { passive: true });
+  window.addEventListener("resize", schedulePinnedStateSync);
+  schedulePinnedStateSync();
 });
 
 onBeforeUnmount(() => {
   unsubscribe();
   window.removeEventListener("keydown", onGlobalKeydown);
+  window.removeEventListener("scroll", schedulePinnedStateSync);
+  window.removeEventListener("resize", schedulePinnedStateSync);
+  if (stickyFrame) {
+    window.cancelAnimationFrame(stickyFrame);
+  }
 });
 </script>
 
@@ -399,8 +593,12 @@ onBeforeUnmount(() => {
         <div class="dashboard-actions">
           <p class="shortcut-tip">按 `/` 可直接聚焦搜尋</p>
           <div class="actions">
-            <button class="secondary" @click="exportLocalDecisions">匯出本地決策</button>
-            <button class="secondary danger" @click="resetLocalDecisions">清空本地覆寫</button>
+            <button class="secondary" @click="exportLocalDecisions">
+              匯出本地決策
+            </button>
+            <button class="secondary danger" @click="resetLocalDecisions">
+              清空本地覆寫
+            </button>
           </div>
         </div>
       </div>
@@ -429,7 +627,14 @@ onBeforeUnmount(() => {
       </div>
     </section>
 
-    <section class="control-shell">
+    <div ref="stickySentinel" class="control-sentinel" aria-hidden="true" />
+
+    <section
+      :class="[
+        'control-shell',
+        { pinned: isControlPinned, 'has-selection': selectedCount > 0 },
+      ]"
+    >
       <div class="control-grid">
         <label class="field field-search">
           <span class="field-label">搜尋</span>
@@ -441,7 +646,13 @@ onBeforeUnmount(() => {
               type="search"
               placeholder="標題、摘要、標籤、來源"
             />
-            <button v-if="searchQuery" class="ghost-inline" @click="searchQuery = ''">清除</button>
+            <button
+              v-if="searchQuery"
+              class="ghost-inline"
+              @click="searchQuery = ''"
+            >
+              清除
+            </button>
           </div>
         </label>
 
@@ -462,14 +673,20 @@ onBeforeUnmount(() => {
         <label class="field">
           <span class="field-label">排序</span>
           <select v-model="sortMode">
-            <option value="priority">Priority</option>
+            <option value="priority">優先度</option>
             <option value="updated">最近調整</option>
             <option value="date">日期</option>
             <option value="title">標題</option>
           </select>
         </label>
 
-        <button v-if="filtersActive" class="secondary subtle" @click="resetFilters">重設篩選</button>
+        <button
+          v-if="filtersActive"
+          class="secondary subtle"
+          @click="resetFilters"
+        >
+          重設篩選
+        </button>
       </div>
 
       <div class="filter-row">
@@ -487,7 +704,92 @@ onBeforeUnmount(() => {
 
         <div class="result-meta">
           <span>{{ resultSummary }}</span>
-          <span v-if="stagedCount > 0">其中 {{ stagedCount }} 篇含本地覆寫</span>
+          <span v-if="stagedCount > 0"
+            >其中 {{ stagedCount }} 篇含本地覆寫</span
+          >
+        </div>
+      </div>
+
+      <div
+        :class="[
+          'selection-row',
+          { active: selectedCount > 0, dormant: selectedCount === 0 },
+        ]"
+      >
+        <div v-if="selectedCount > 0" class="selection-meta">
+          <p class="selection-kicker">批次工具</p>
+          <strong>{{ batchSummary }}</strong>
+          <span class="selection-hint">直接用右側工具列批次處理</span>
+        </div>
+
+        <div class="selection-toolbar">
+          <span v-if="selectedCount === 0" class="selection-idle"
+            >先勾選卡片，再批次調整狀態</span
+          >
+
+          <div class="selection-actions">
+            <button
+              class="secondary subtle"
+              :disabled="visibleArticles.length === 0"
+              @click="toggleVisibleSelection"
+            >
+              {{
+                allVisibleSelected
+                  ? "取消已載入"
+                  : `全選已載入 ${visibleArticles.length}`
+              }}
+            </button>
+            <button
+              class="secondary subtle"
+              :disabled="filteredArticles.length === 0"
+              @click="toggleFilteredSelection"
+            >
+              {{
+                allFilteredSelected
+                  ? "取消目前結果"
+                  : `全選目前結果 ${filteredArticles.length}`
+              }}
+            </button>
+            <button
+              v-if="selectedCount > 0"
+              class="secondary subtle"
+              :disabled="selectedCount === 0"
+              @click="clearSelection"
+            >
+              清空選取
+            </button>
+          </div>
+
+          <div v-if="selectedCount > 0" class="batch-actions">
+            <button
+              class="batch-button curated"
+              :disabled="selectedCount === 0"
+              @click="applyBatchStatus('curated')"
+            >
+              批次精選
+            </button>
+            <button
+              class="batch-button inbox"
+              :disabled="selectedCount === 0"
+              @click="applyBatchStatus('inbox')"
+            >
+              批次待審
+            </button>
+            <button
+              class="batch-button archive"
+              :disabled="selectedCount === 0"
+              @click="applyBatchStatus('archive')"
+            >
+              批次封存
+            </button>
+            <button
+              class="batch-button ghost"
+              :disabled="selectedOverrideCount === 0"
+              @click="restoreSelectedDefaults"
+            >
+              還原覆寫
+            </button>
+          </div>
         </div>
       </div>
     </section>
@@ -501,18 +803,41 @@ onBeforeUnmount(() => {
       <article
         v-for="article in visibleArticles"
         :key="article.url"
-        :class="['curation-card', { 'has-override': article.hasLocalOverride }]"
+        :class="[
+          'curation-card',
+          {
+            'has-override': article.hasLocalOverride,
+            selected: isSelected(article.url),
+          },
+        ]"
       >
         <div class="card-head">
           <div class="headline-stack">
             <div class="card-topline">
-              <span :class="['status-pill', statusToneClass[article.effectiveStatus]]">
+              <label
+                :class="['select-toggle', { active: isSelected(article.url) }]"
+              >
+                <input
+                  type="checkbox"
+                  :checked="isSelected(article.url)"
+                  @change="toggleSelection(article.url)"
+                />
+                <span>{{ isSelected(article.url) ? "已選取" : "選取" }}</span>
+              </label>
+
+              <span
+                :class="[
+                  'status-pill',
+                  statusToneClass[article.effectiveStatus],
+                ]"
+              >
                 {{ statusLabels[article.effectiveStatus] }}
               </span>
               <span class="meta-chip">{{ article.categoryName }}</span>
               <span class="meta-chip">#{{ article.number }}</span>
-              <span class="meta-chip">P{{ article.priorityScore }}</span>
-              <span v-if="article.date" class="meta-chip">{{ formatDisplayDate(article.date) }}</span>
+              <span v-if="article.date" class="meta-chip">{{
+                formatDisplayDate(article.date)
+              }}</span>
             </div>
 
             <a :href="withBase(article.url)" class="title-link">
@@ -521,7 +846,7 @@ onBeforeUnmount(() => {
           </div>
 
           <div class="priority-block">
-            <span>Priority</span>
+            <span>優先度</span>
             <strong>{{ article.priorityScore }}</strong>
             <em>{{ priorityBand(article.priorityScore) }}</em>
           </div>
@@ -529,8 +854,8 @@ onBeforeUnmount(() => {
 
         <p class="summary">{{ article.summary || article.excerpt }}</p>
 
-        <div class="score-grid">
-          <div class="score-card">
+        <div class="signal-list">
+          <div class="signal-item">
             <div class="score-label">
               <span>實用</span>
               <strong>{{ article.usefulnessScore }}</strong>
@@ -540,7 +865,7 @@ onBeforeUnmount(() => {
             </div>
           </div>
 
-          <div class="score-card">
+          <div class="signal-item">
             <div class="score-label">
               <span>新穎</span>
               <strong>{{ article.noveltyScore }}</strong>
@@ -550,7 +875,7 @@ onBeforeUnmount(() => {
             </div>
           </div>
 
-          <div class="score-card">
+          <div class="signal-item">
             <div class="score-label">
               <span>常青</span>
               <strong>{{ article.evergreenScore }}</strong>
@@ -584,7 +909,8 @@ onBeforeUnmount(() => {
 
             <span class="state-copy">
               <template v-if="article.hasLocalOverride">
-                最後更新 {{ formatUpdatedAt(article.decisionUpdatedAt) }}，尚未回寫 repo
+                最後更新
+                {{ formatUpdatedAt(article.decisionUpdatedAt) }}，尚未回寫 repo
               </template>
               <template v-else>
                 預設狀態：{{ statusLabels[article.curationStatus] }}
@@ -592,12 +918,16 @@ onBeforeUnmount(() => {
             </span>
           </div>
 
-          <p class="note-label">Curation Note</p>
+          <p class="note-label">編輯備註</p>
           <p class="note">{{ article.curationNote }}</p>
         </div>
 
         <div v-if="article.tags.length > 0" class="tag-row">
-          <span v-for="tag in article.tags.slice(0, 5)" :key="tag" class="tag-chip">
+          <span
+            v-for="tag in article.tags.slice(0, 3)"
+            :key="tag"
+            class="tag-chip"
+          >
             {{ tag }}
           </span>
         </div>
@@ -628,21 +958,33 @@ onBeforeUnmount(() => {
 
           <div class="decision-buttons">
             <button
-              :class="['mini-button', 'curated', { active: article.effectiveStatus === 'curated' }]"
+              :class="[
+                'mini-button',
+                'curated',
+                { active: article.effectiveStatus === 'curated' },
+              ]"
               :aria-pressed="article.effectiveStatus === 'curated'"
               @click="updateStatus(article.url, 'curated')"
             >
               精選
             </button>
             <button
-              :class="['mini-button', 'inbox', { active: article.effectiveStatus === 'inbox' }]"
+              :class="[
+                'mini-button',
+                'inbox',
+                { active: article.effectiveStatus === 'inbox' },
+              ]"
               :aria-pressed="article.effectiveStatus === 'inbox'"
               @click="updateStatus(article.url, 'inbox')"
             >
               待審
             </button>
             <button
-              :class="['mini-button', 'archive', { active: article.effectiveStatus === 'archive' }]"
+              :class="[
+                'mini-button',
+                'archive',
+                { active: article.effectiveStatus === 'archive' },
+              ]"
               :aria-pressed="article.effectiveStatus === 'archive'"
               @click="updateStatus(article.url, 'archive')"
             >
@@ -660,9 +1002,16 @@ onBeforeUnmount(() => {
       </article>
     </section>
 
-    <div v-if="visibleArticles.length < filteredArticles.length" class="load-more">
+    <div
+      v-if="visibleArticles.length < filteredArticles.length"
+      class="load-more"
+    >
       <button class="secondary" @click="loadMore">
-        再載入 {{ Math.min(limit, filteredArticles.length - visibleArticles.length) }} 篇
+        再載入
+        {{
+          Math.min(limit, filteredArticles.length - visibleArticles.length)
+        }}
+        篇
       </button>
     </div>
   </div>
@@ -688,8 +1037,16 @@ onBeforeUnmount(() => {
   padding: 28px;
   border-radius: 28px;
   background:
-    radial-gradient(circle at top left, rgba(15, 157, 116, 0.18), transparent 32%),
-    radial-gradient(circle at bottom right, rgba(62, 123, 255, 0.2), transparent 28%),
+    radial-gradient(
+      circle at top left,
+      rgba(15, 157, 116, 0.18),
+      transparent 32%
+    ),
+    radial-gradient(
+      circle at bottom right,
+      rgba(62, 123, 255, 0.2),
+      transparent 28%
+    ),
     linear-gradient(140deg, rgba(255, 255, 255, 0.12), rgba(15, 23, 42, 0.02)),
     var(--vp-c-bg-soft);
 }
@@ -712,12 +1069,13 @@ onBeforeUnmount(() => {
 
 .eyebrow,
 .field-label,
-.note-label {
+.note-label,
+.selection-kicker {
   margin: 0;
   color: var(--vp-c-text-3);
-  font-size: 11px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
 }
 
 .deck {
@@ -737,10 +1095,10 @@ onBeforeUnmount(() => {
 
 .shortcut-tip {
   margin: 0;
-  padding: 7px 10px;
+  padding: 8px 12px;
   border-radius: 999px;
-  background: rgba(15, 23, 42, 0.06);
-  color: var(--vp-c-text-2);
+  background: rgba(15, 23, 42, 0.08);
+  color: var(--vp-c-text-1);
   font-size: 12px;
 }
 
@@ -768,9 +1126,8 @@ onBeforeUnmount(() => {
 .stat-card span {
   display: block;
   color: var(--vp-c-text-3);
-  font-size: 11px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.04em;
 }
 
 .stat-card strong {
@@ -805,14 +1162,41 @@ onBeforeUnmount(() => {
   color: #475569;
 }
 
+.control-sentinel {
+  height: 1px;
+  margin-top: -1px;
+}
+
 .control-shell {
   position: sticky;
   top: var(--vp-nav-height, 64px);
   z-index: 8;
-  padding: 18px;
-  border-radius: 24px;
-  background: color-mix(in srgb, var(--vp-c-bg-soft) 88%, transparent);
+  padding: 15px 16px;
+  border-radius: 22px;
+  background: color-mix(in srgb, var(--vp-c-bg) 94%, transparent);
   backdrop-filter: blur(18px);
+  transition:
+    padding 0.18s ease,
+    border-color 0.18s ease,
+    background 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.control-shell.pinned {
+  padding-block: 12px;
+  border-color: color-mix(
+    in srgb,
+    var(--vp-c-brand-1) 20%,
+    var(--vp-c-divider)
+  );
+  background: color-mix(in srgb, var(--vp-c-bg) 96%, transparent);
+  box-shadow:
+    0 16px 38px -30px rgba(15, 23, 42, 0.36),
+    0 8px 18px -16px rgba(62, 123, 255, 0.28);
+}
+
+.control-shell.has-selection {
+  border-color: rgba(62, 123, 255, 0.22);
 }
 
 .control-grid {
@@ -837,7 +1221,7 @@ onBeforeUnmount(() => {
   min-height: 48px;
   border: 1px solid color-mix(in srgb, var(--vp-c-divider) 88%, transparent);
   border-radius: 14px;
-  background: var(--vp-c-bg);
+  background: color-mix(in srgb, var(--vp-c-bg) 92%, var(--vp-c-bg-soft));
   color: var(--vp-c-text-1);
 }
 
@@ -880,7 +1264,8 @@ onBeforeUnmount(() => {
 .ghost-inline,
 .mini-button,
 .secondary,
-.ghost-button {
+.ghost-button,
+.batch-button {
   padding: 8px 12px;
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
@@ -891,7 +1276,8 @@ onBeforeUnmount(() => {
     border-color 0.16s ease,
     background 0.16s ease,
     color 0.16s ease,
-    transform 0.16s ease;
+    transform 0.16s ease,
+    opacity 0.16s ease;
 }
 
 .ghost-inline {
@@ -904,6 +1290,8 @@ onBeforeUnmount(() => {
 
 .filter-row,
 .chip-group,
+.selection-actions,
+.batch-actions,
 .card-topline,
 .tag-row,
 .footer,
@@ -957,6 +1345,90 @@ onBeforeUnmount(() => {
   font-size: 13px;
 }
 
+.selection-row {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) minmax(0, 1.1fr);
+  gap: 12px 16px;
+  align-items: center;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid color-mix(in srgb, var(--vp-c-divider) 72%, transparent);
+}
+
+.selection-row.dormant {
+  grid-template-columns: 1fr;
+}
+
+.control-shell.pinned .selection-row {
+  margin-top: 8px;
+  padding-top: 8px;
+}
+
+.selection-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 10px;
+}
+
+.selection-meta strong {
+  color: var(--vp-c-text-1);
+  font-size: 15px;
+}
+
+.selection-hint {
+  color: var(--vp-c-text-3);
+  font-size: 13px;
+}
+
+.selection-idle {
+  color: var(--vp-c-text-3);
+  font-size: 13px;
+}
+
+.selection-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px 12px;
+  align-items: center;
+}
+
+.selection-row.dormant .selection-toolbar {
+  justify-content: space-between;
+}
+
+.selection-actions,
+.batch-actions {
+  justify-content: flex-end;
+}
+
+.batch-button {
+  font-weight: 700;
+}
+
+.batch-button.curated {
+  border-color: rgba(15, 157, 116, 0.2);
+  background: rgba(15, 157, 116, 0.1);
+  color: #0d7758;
+}
+
+.batch-button.inbox {
+  border-color: rgba(62, 123, 255, 0.2);
+  background: rgba(62, 123, 255, 0.08);
+  color: #244ec7;
+}
+
+.batch-button.archive {
+  border-color: rgba(185, 99, 47, 0.2);
+  background: rgba(185, 99, 47, 0.1);
+  color: #9f4f1d;
+}
+
+.batch-button.ghost {
+  background: transparent;
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -966,18 +1438,27 @@ onBeforeUnmount(() => {
 .curation-card {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 14px;
   min-height: 100%;
   padding: 20px;
   border-radius: 24px;
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.08), transparent 32%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.06), transparent 28%),
     var(--vp-c-bg-soft);
+  transition:
+    border-color 0.16s ease,
+    box-shadow 0.16s ease,
+    transform 0.16s ease;
 }
 
 .curation-card.has-override {
   border-color: rgba(15, 157, 116, 0.24);
   box-shadow: 0 28px 72px -56px rgba(15, 157, 116, 0.45);
+}
+
+.curation-card.selected {
+  border-color: rgba(62, 123, 255, 0.28);
+  box-shadow: 0 28px 72px -52px rgba(62, 123, 255, 0.34);
 }
 
 .card-head {
@@ -990,14 +1471,42 @@ onBeforeUnmount(() => {
   min-width: 0;
 }
 
+.select-toggle,
+.status-pill,
+.meta-chip,
+.tag-chip,
+.state-pill {
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.select-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 5px 10px;
+  border: 1px solid color-mix(in srgb, var(--vp-c-divider) 86%, transparent);
+  background: rgba(15, 23, 42, 0.03);
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+}
+
+.select-toggle input {
+  margin: 0;
+}
+
+.select-toggle.active {
+  border-color: rgba(62, 123, 255, 0.28);
+  background: rgba(62, 123, 255, 0.1);
+  color: #244ec7;
+}
+
 .status-pill,
 .meta-chip,
 .tag-chip,
 .state-pill {
   padding: 4px 10px;
-  border-radius: 999px;
-  font-size: 12px;
-  font-weight: 700;
 }
 
 .meta-chip {
@@ -1011,7 +1520,7 @@ onBeforeUnmount(() => {
   color: var(--vp-c-text-1);
   font-size: 22px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.25;
   text-decoration: none;
 }
 
@@ -1023,18 +1532,17 @@ onBeforeUnmount(() => {
 .priority-block {
   flex: none;
   min-width: 104px;
-  padding: 11px 12px;
+  padding: 10px 12px;
   border-radius: 16px;
-  background: rgba(15, 23, 42, 0.05);
+  background: rgba(15, 23, 42, 0.06);
   text-align: right;
 }
 
 .priority-block span {
   display: block;
   color: var(--vp-c-text-3);
-  font-size: 11px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.04em;
 }
 
 .priority-block strong {
@@ -1056,18 +1564,22 @@ onBeforeUnmount(() => {
   margin: 0;
   color: var(--vp-c-text-2);
   line-height: 1.75;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
 }
 
-.score-grid {
+.signal-list {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
 }
 
-.score-card {
-  padding: 12px;
-  border-radius: 16px;
-  background: rgba(15, 23, 42, 0.04);
+.signal-item {
+  padding: 10px 12px;
+  border-radius: 14px;
+  background: rgba(15, 23, 42, 0.045);
 }
 
 .score-label {
@@ -1100,7 +1612,7 @@ onBeforeUnmount(() => {
 .note-box {
   padding: 14px;
   border-radius: 18px;
-  background: color-mix(in srgb, var(--vp-c-bg) 74%, transparent);
+  background: color-mix(in srgb, var(--vp-c-bg) 86%, transparent);
 }
 
 .state-copy {
@@ -1128,6 +1640,10 @@ onBeforeUnmount(() => {
   color: var(--vp-c-text-2);
   font-size: 14px;
   line-height: 1.7;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
 }
 
 .tag-chip {
@@ -1157,6 +1673,28 @@ onBeforeUnmount(() => {
 
 .decision-buttons {
   justify-content: flex-end;
+}
+
+.mini-button {
+  font-weight: 600;
+}
+
+.mini-button.curated {
+  border-color: rgba(15, 157, 116, 0.16);
+  background: rgba(15, 157, 116, 0.07);
+  color: #0d7758;
+}
+
+.mini-button.inbox {
+  border-color: rgba(62, 123, 255, 0.16);
+  background: rgba(62, 123, 255, 0.06);
+  color: #244ec7;
+}
+
+.mini-button.archive {
+  border-color: rgba(185, 99, 47, 0.18);
+  background: rgba(185, 99, 47, 0.08);
+  color: #9f4f1d;
 }
 
 .mini-button.active {
@@ -1189,14 +1727,39 @@ onBeforeUnmount(() => {
 .mini-button:hover,
 .ghost-button:hover,
 .ghost-inline:hover,
-.chip-filter:hover {
+.chip-filter:hover,
+.batch-button:hover {
   border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
+}
+
+.batch-button.curated:hover,
+.mini-button.curated:hover {
+  border-color: #0f9d74;
+  color: #0d7758;
+}
+
+.batch-button.inbox:hover,
+.mini-button.inbox:hover {
+  border-color: #3e7bff;
+  color: #244ec7;
+}
+
+.batch-button.archive:hover,
+.mini-button.archive:hover {
+  border-color: #b9632f;
+  color: #9f4f1d;
 }
 
 .danger:hover {
   border-color: var(--vp-c-danger-1);
   color: var(--vp-c-danger-1);
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
 }
 
 .load-more {
@@ -1228,6 +1791,9 @@ onBeforeUnmount(() => {
 
   .dashboard-actions,
   .actions,
+  .selection-toolbar,
+  .selection-actions,
+  .batch-actions,
   .decision-buttons {
     align-items: flex-start;
     justify-content: flex-start;
@@ -1239,7 +1805,11 @@ onBeforeUnmount(() => {
 }
 
 @media (max-width: 820px) {
-  .score-grid {
+  .signal-list {
+    grid-template-columns: 1fr;
+  }
+
+  .selection-row {
     grid-template-columns: 1fr;
   }
 }
@@ -1249,7 +1819,8 @@ onBeforeUnmount(() => {
     position: static;
   }
 
-  .control-grid {
+  .control-grid,
+  .selection-row {
     grid-template-columns: 1fr;
   }
 
@@ -1264,15 +1835,99 @@ onBeforeUnmount(() => {
 }
 
 @media (max-width: 640px) {
+  .workspace {
+    gap: 14px;
+  }
+
   .dashboard,
   .control-shell,
   .curation-card,
   .empty-state {
-    padding: 18px;
+    padding: 16px;
+  }
+
+  .stats {
+    gap: 10px;
+    margin-top: 18px;
+  }
+
+  .stat-card {
+    padding: 13px 14px;
+  }
+
+  .stat-card strong {
+    font-size: 24px;
+  }
+
+  .filter-row,
+  .selection-row {
+    margin-top: 12px;
+    padding-top: 12px;
+  }
+
+  .search-input-shell,
+  .field select {
+    min-height: 44px;
+  }
+
+  .chip-group,
+  .selection-actions,
+  .batch-actions {
+    gap: 6px;
+  }
+
+  .chip-filter,
+  .select-toggle,
+  .status-pill,
+  .meta-chip,
+  .tag-chip,
+  .state-pill {
+    font-size: 11px;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .curation-card {
+    gap: 13px;
   }
 
   .title-link {
     font-size: 20px;
+  }
+
+  .priority-block strong {
+    font-size: 24px;
+  }
+
+  .note-box,
+  .signal-item {
+    padding: 12px;
+  }
+
+  .footer-links {
+    gap: 6px 10px;
+  }
+
+  .decision-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+  }
+
+  .decision-buttons .mini-button,
+  .decision-buttons .ghost-button,
+  .selection-actions .secondary,
+  .batch-actions .batch-button {
+    width: 100%;
+  }
+
+  .selection-actions,
+  .batch-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 </style>
